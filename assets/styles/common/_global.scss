@@ -1,0 +1,437 @@
+@import url("https://fonts.googleapis.com/css?family=Gentium+Basic");
+@import url('https://fonts.googleapis.com/css?family=Roboto:400');
+
+@font-face {
+  font-family: 'S';
+  src: url("../fonts/SourceHanSerifTW-Regular.woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'SM';
+  src: url("../fonts/SourceHanSerifTW-Medium.woff");
+  font-weight: 400;
+}
+
+// @font-face {
+//   font-family: 'T';
+//   src: url('../fonts/t.eot');
+//   src: url('../fonts/t.woff2') format('woff2'),
+//        url('../fonts/t.woff') format('woff'),
+//        url('../fonts/t.ttf') format('truetype'),
+//        url('../fonts/t.svg#tT') format('svg'),
+//        url('../fonts/t.eot?#iefix') format('embedded-opentype');
+//   font-weight: normal;
+//   font-style: normal;
+// }
+
+@font-face {
+  font-family: 'T';
+  src: url('../fonts/trajanpro-regular-webfont-pali.eot');
+  src: url('../fonts/trajanpro-regular-webfont-pali.woff') format('woff'),
+       url('../fonts/trajanpro-regular-webfont-pali.ttf') format('truetype'),
+       url('../fonts/trajanpro-regular-webfont-pali.svg#T') format('svg'),
+       url('../fonts/trajanpro-regular-webfont-pali.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TB';
+  src: url('../fonts/trajanpro-bold-webfont.eot');
+  src: url('../fonts/trajanpro-bold-webfont.woff') format('woff'),
+       url('../fonts/trajanpro-bold-webfont.ttf') format('truetype'),
+       url('../fonts/trajanpro-bold-webfont.svg#TB') format('svg'),
+       url('../fonts/trajanpro-bold-webfont.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* latin-ext */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cinzel Regular'), local('Cinzel-Regular'), url(https://fonts.gstatic.com/s/cinzel/v7/8vIJ7ww63mVu7gt7-GT7PkRXM8Xx.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cinzel Regular'), local('Cinzel-Regular'), url(https://fonts.gstatic.com/s/cinzel/v7/8vIJ7ww63mVu7gt79mT7PkRXMw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 10px;
+  color: #3a342c;
+  font-family: 'Gentium Basic', serif;
+  -webkit-font-smoothing: antialiased;
+
+  background-image: linear-gradient(#ffe6e6, #ffe6e6);
+  background-size: calc(100% - 20px) 8px;
+  background-repeat: no-repeat;
+  background-position: 10px 57px;
+  background-attachment: fixed;
+}
+
+a {
+  color: #3a342c;
+  border-bottom: 1px dotted #d6d6d6;
+  transition: border-color 0.25s cubic-bezier(0, 0.5, 0.5, 1), color 0.25s cubic-bezier(0, 0.5, 0.5, 1);
+
+  &:hover {
+    text-decoration: none;
+    color: #FF0A0A;
+    border-bottom: 1px dotted #FF0A0A;
+  }
+}
+
+h1,
+p,
+a {
+  white-space: pre-wrap;
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+
+  &::-moz-selection {
+    color: #bd0000;
+    background-color: #ffe6e6;
+  }
+  &::selection {
+    color: #bd0000;
+    background-color: #ffe6e6;
+  }
+}
+
+p {
+  margin-bottom: 1.5rem;
+  line-height: 1.5rem;
+}
+
+header {
+  position: fixed;
+  width: calc(100% - 20px);
+  left: 10px;
+  top: 0;
+  z-index: 1;
+  background-color: #fff;
+  border-bottom: 1px solid #ff9999;
+  // box-shadow: 0 8px 0 0 #FFE6E6;
+  // transition: box-shadow 0.3s ease-in-out;
+
+  &:hover {
+    // box-shadow: 0 10px 0 0 #FFE6E6;
+  }
+
+  .logo {
+    margin: 1rem 0;
+    font-family: 'T', serif;
+    font-size: 1.25rem;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.4em;
+    text-indent: 0.4em;
+
+    a {
+      position: relative;
+      color: #ff4a4a;
+      text-decoration: none;
+      border-bottom: none;
+
+      .dot {
+        opacity: 0;
+      }
+
+      &::after {
+        content: '';
+        position: absolute;
+        display: block;
+        left: 6.3em;
+        transform: translateX(-50%);
+        top: 13px;
+        width: 5px;
+        height: 1px;
+        background-color: #ff4a4a;
+        transition: width 0.5s cubic-bezier(0, 1, 0, 1);
+      }
+      &:hover::after {
+        width: 20px;
+      }
+    }
+  }
+
+  &:hover .logo a::after{
+    width: 20px;
+  }
+}
+
+.favicon {
+  // for copying favicon from assets to
+  backgroun-image: url('../images/favicon.png');
+}
+
+
+main {
+  margin-top: 57px;
+}
+
+.content {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin-top: 20px;
+}
+
+.row {
+  // margin-bottom: 1.5rem;
+
+  .box {
+    border-left: 1px solid rgba(167, 162, 139, 0.2);
+    padding: 0 30px;
+
+    @include media-breakpoint-down(sm) {
+      border-left: none;
+    }
+  }
+
+  .box:last-of-type {
+    border-right: 1px solid rgba(167, 162, 139, 0.2);
+
+    @include media-breakpoint-down(sm) {
+      border-right: none;
+    }
+
+    h1, p {
+      @include media-breakpoint-down(sm) {
+        padding-bottom: 16px;
+        margin-bottom: 16px;
+        box-sizing: initial;
+        border-bottom: 1px solid #CCC9BC;
+      }
+    }
+  }
+
+  &:hover:not(.no-hover) > .box {
+    border-left: 1px solid #a3a3a3;
+    background-image: linear-gradient(hsla(0, 0%, 7%, 0.03), hsla(0, 0%, 7%, 0.03)), linear-gradient(#ffd6d6,#ffd6d6);
+    background-size: 100% 100%, 100% 10px;
+    background-position: 0 65px, 0 55px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    @include media-breakpoint-down(sm) {
+      border-left: none;
+    }
+  }
+
+  &:hover:not(.no-hover) > .box:last-child {
+    border-right: 1px solid #a3a3a3; 
+
+    @include media-breakpoint-down(sm) {
+      border-right: none;
+    }
+  }
+
+  p:last-child {
+    margin-bottom: 16px;
+  }
+}
+
+.sutta-number {
+  font-family: 'TB', serif;
+  font-size: 11px;
+  line-height: 20px;
+  height: 20px;
+  margin-top: 20px;
+
+  @include media-breakpoint-down(sm) {
+    margin-top: 0;
+  }
+
+  &.pali,
+  &.eng,
+  &.chi,
+  &.chi-lit {
+    &::before {
+      @include media-breakpoint-down(sm) {
+        content: none;
+      }
+    }
+  }
+
+  &.chi, 
+  &.chi-lit {
+    font-family: 'SM', serif;
+    font-size: 11px;
+  }
+
+  .row &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.sutta-translator {
+  .row &:last-child {
+    @include media-breakpoint-down(sm) {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.pali,
+.eng,
+.chi, 
+.chi-lit {
+  &::before {
+    @include media-breakpoint-down(sm) {
+      content: ' ';
+      position: relative;
+      display: inline-block;
+      bottom: 2px;
+      height: 14px;
+      font-family: 'Roboto', sans-serif;
+      padding: 3px 3px;
+      margin-right: 10px;
+      font-size: 10px;
+      line-height: 7px;
+      color: #b0ab96;
+      background-color: #f2f1ee;
+    }
+  }
+}
+
+.pali,
+.eng {
+  &.single-quote {
+    @include media-breakpoint-up(md) {
+      text-indent: -0.2em;
+    }
+  }
+
+  &.double-quote {
+    @include media-breakpoint-up(md) {
+      text-indent: -0.45em;
+    }
+  }
+
+  &.double-single-quote {
+    @include media-breakpoint-up(md) {
+      text-indent: -0.65em;
+    }
+  }
+}
+
+.chi, 
+.chi-lit {
+  font-family: 'Gentium Basic', 'S', serif;
+  font-size: 0.89em;
+  line-height: 1.5rem;
+
+  &.single-quote {
+    @include media-breakpoint-up(md) {
+      text-indent: -1em;
+    }
+  }
+
+  &.double-quote {
+    @include media-breakpoint-up(md) {
+      text-indent: -1em;
+    }
+  }
+
+  &.double-single-quote {
+    @include media-breakpoint-up(md) {
+      text-indent: -2em;
+    }
+  }
+}
+
+.pali::before {
+  @include media-breakpoint-down(sm) {
+    content: 'P';
+  }
+}
+
+.eng::before {
+  @include media-breakpoint-down(sm) {
+    content: 'E';
+  }
+}
+
+.chi::before {
+  @include media-breakpoint-down(sm) {
+    content: '白';
+  }
+}
+
+.chi-lit::before {
+  @include media-breakpoint-down(sm) {
+    content: '文';
+  }
+}
+
+.number {
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 1.5rem;
+
+  &.pali,
+  &.eng,
+  &.chi,
+  &.chi-lit {
+    &::before {
+      @include media-breakpoint-down(sm) {
+        content: none;
+      }
+    }
+  }
+
+  .row &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.sutta-name {
+  font-family: 'T', serif;
+  font-size: 19px;
+  text-transform: lowercase;
+  hyphens: none;
+
+  &.pali,
+  &.eng,
+  &.chi,
+  &.chi-lit {
+    &::before {
+      @include media-breakpoint-down(sm) {
+        content: none;
+      }
+    }
+  }
+
+  &.chi, 
+  &.chi-lit {
+    font-family: 'S', serif;
+    font-size: 17px;
+  }
+
+  .row &:last-child {
+    margin-bottom: 0;
+  }
+}

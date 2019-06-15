@@ -1,0 +1,2329 @@
+{
+  "DN": {
+    "key": "DN",
+    "pali": "Dīgha Nikāya",
+    "eng": "Long Discourses",
+    "chi": "長部",
+    "DN1": {
+      "key": "DN.DN1",
+      "pali": "DN1 Brahmajāla Sutta",
+      "eng": "DN1 The All-embracing Net of Views",
+      "chi": "長部一 梵網經"
+    },
+    "DN2": {
+      "key": "DN.DN2",
+      "pali": "DN2 Sāmaññaphala Sutta",
+      "eng": "DN2 The Fruits of the Contemplative Life",
+      "chi": "長部二 沙門果經"
+    },
+    "DN3": {
+      "key": "DN.DN3",
+      "pali": "DN3 Ambaṭṭha Sutta",
+      "eng": "DN3 To Ambaṭṭha – A Young Brahman’s Rudeness And An Old One’s Faith",
+      "chi": "長部三 阿摩晝經"
+    },
+    "DN4": {
+      "key": "DN.DN4",
+      "pali": "DN4 Soṇadaṇḍanta Sutta",
+      "eng": "DN4 To Soṇadaṇḍa – Characteristics Of The True Brahman",
+      "chi": "長部四 種德經本經"
+    },
+    "DN5": {
+      "key": "DN.DN5",
+      "pali": "DN5 Kūṭadanta Sutta",
+      "eng": "DN5 To Kūṭadanta – The Wrong Sacrifice And The Right",
+      "chi": "長部五 究羅檀頭經"
+    },
+    "DN6": {
+      "key": "DN.DN6",
+      "pali": "DN6 Mahāli Sutta",
+      "eng": "DN6 To Mahāli – The Aim Of The Brethren",
+      "chi": "長部六 摩訶梨經"
+    },
+    "DN7": {
+      "key": "DN.DN7",
+      "pali": "DN7 Jāliya Sutta",
+      "eng": "DN7 To Jāliya – Is The Soul Distinct From The Body",
+      "chi": "長部七 闍利經"
+    },
+    "DN8": {
+      "key": "DN.DN8",
+      "pali": "DN8 Kassapa Sīhanāda Sutta",
+      "eng": "DN8 The Lion’s Roar to Kassapa – The Naked Ascetic",
+      "chi": "長部八 迦葉師子吼經"
+    },
+    "DN9": {
+      "key": "DN.DN9",
+      "pali": "DN9 Poṭṭhapāda Sutta",
+      "eng": "DN9 To Poṭṭhapada",
+      "chi": "長部九 布吒婆樓經"
+    },
+    "DN10": {
+      "key": "DN.DN10",
+      "pali": "DN10 Subha Sutta",
+      "eng": "DN10 To Subha – Conduct, Concentration, And Intellect",
+      "chi": "長部十 須婆經"
+    },
+    "DN11": {
+      "key": "DN.DN11",
+      "pali": "DN11 Kevaṭṭa Sutta",
+      "eng": "DN11 To Kevaṭṭa",
+      "chi": "長部十一 堅固經"
+    },
+    "DN12": {
+      "key": "DN.DN12",
+      "pali": "DN12 Lohicca Sutta",
+      "eng": "DN12 To Lohicca",
+      "chi": "長部十二 露遮經"
+    },
+    "DN13": {
+      "key": "DN.DN13",
+      "pali": "DN13 Tevijja Sutta",
+      "eng": "DN13 The Three Knowledges",
+      "chi": "長部十三 三明經"
+    },
+    "DN14": {
+      "key": "DN.DN14",
+      "pali": "DN14 Mahāpadāna Sutta",
+      "eng": "DN14 The Sublime Story",
+      "chi": "長部十四 大本經"
+    },
+    "DN15": {
+      "key": "DN.DN15",
+      "pali": "DN15 Mahanidāna Sutta",
+      "eng": "DN15 The Great Discourse on Causation",
+      "chi": "長部十五 大緣經"
+    },
+    "DN16": {
+      "key": "DN.DN16",
+      "pali": "DN16 Mahaparinibbāna Sutta",
+      "eng": "DN16 The Discourse about the Great Emancipation",
+      "chi": "長部十六 大般涅槃經"
+    },
+    "DN17": {
+      "key": "DN.DN17",
+      "pali": "DN17 Mahasudassana Sutta",
+      "eng": "DN17 The Great King Of Glory",
+      "chi": "長部十六 大善見王經"
+    },
+    "DN18": {
+      "key": "DN.DN18",
+      "pali": "DN18 Janavasabha Sutta",
+      "eng": "DN18 With Jana­vasabha",
+      "chi": "長部十七 闍尼沙經"
+    },
+    "DN19": {
+      "key": "DN.DN19",
+      "pali": "DN19 Maha-Govinda Sutta",
+      "eng": "DN19 The Lord High Steward",
+      "chi": "長部十八 大典尊經"
+    },
+    "DN20": {
+      "key": "DN.DN20",
+      "pali": "DN20 Mahasamaya Sutta",
+      "eng": "DN20 The Discourse on the Great Convention",
+      "chi": "長部十九 大會經"
+    },
+    "DN21": {
+      "key": "DN.DN21",
+      "pali": "DN21 Sakkapañha Sutta",
+      "eng": "DN21 The Questions of Sakka",
+      "chi": "長部二十 帝釋所聞經"
+    },
+    "DN22": {
+      "key": "DN.DN22",
+      "pali": "DN22 Mahasatipaṭṭhāna Sutta",
+      "eng": "DN22 The Long Discourse about the Ways of Attending to Mindfulness",
+      "chi": "長部二一 大念處經"
+    },
+    "DN23": {
+      "key": "DN.DN23",
+      "pali": "DN23 Pāyāsi Sutta",
+      "eng": "DN23 To Pāyāsi – Rebirth and Karma",
+      "chi": "長部二二 弊宿經"
+    },
+    "DN24": {
+      "key": "DN.DN24",
+      "pali": "DN24 Pāṭika Sutta",
+      "eng": "DN24 Mystic Wonders and the Origin of Things",
+      "chi": "長部二三 波梨經"
+    },
+    "DN25": {
+      "key": "DN.DN25",
+      "pali": "DN25 Udumbarika Sihanada Sutta",
+      "eng": "DN25 The Lion’s Roar to the Udumbarikāns – On Asceticism",
+      "chi": "長部二四 優曇婆邏師子吼經"
+    },
+    "DN26": {
+      "key": "DN.DN26",
+      "pali": "DN26 Cakkavatti Sihanada Sutta",
+      "eng": "DN26 The Lion-roar on the Turning of the Wheel – War, Wickedness, and Wealth",
+      "chi": "長部二五 轉輪聖王師子吼經"
+    },
+    "DN27": {
+      "key": "DN.DN27",
+      "pali": "DN27 Aggañña Sutta",
+      "eng": "DN27 A Book of Genesis",
+      "chi": "長部二六 起世因本經"
+    },
+    "DN28": {
+      "key": "DN.DN28",
+      "pali": "DN28 Sampasādaniya Sutta",
+      "eng": "DN28 The Faith That Satisfied",
+      "chi": "長部二七 自歡喜經"
+    },
+    "DN29": {
+      "key": "DN.DN29",
+      "pali": "DN29 Pāsādika Sutta",
+      "eng": "DN29 The Delectable Discourse",
+      "chi": "長部二八 清凈經"
+    },
+    "DN30": {
+      "key": "DN.DN30",
+      "pali": "DN30 Lakkhaṇa Sutta",
+      "eng": "DN30 The Marks of the Superman",
+      "chi": "長部二九 三十二相經"
+    },
+    "DN31": {
+      "key": "DN.DN31",
+      "pali": "DN31 Sigalovada Sutta",
+      "eng": "DN31 The Buddha’s Advice to Sigālaka",
+      "chi": "長部三十 教授屍迦羅越經"
+    },
+    "DN32": {
+      "key": "DN.DN32",
+      "pali": "DN32 Āṭānāṭiya Sutta",
+      "eng": "DN32 The Āṭānāṭiya Discourse",
+      "chi": "長部三一 阿吒曩胝經"
+    },
+    "DN33": {
+      "key": "DN.DN33",
+      "pali": "DN33 Saṅgāti Sutta",
+      "eng": "DN33 The Recital",
+      "chi": "長部三二 等誦經"
+    },
+    "DN34": {
+      "key": "DN.DN34",
+      "pali": "DN34 Dasuttara Sutta",
+      "eng": "DN34 The Tenfold Series",
+      "chi": "長部三三 十上經"
+    }
+  },
+  "MN": {
+    "key": "MN",
+    "pali": "Majjhima Nikāya",
+    "eng": "Middle Length Discourse",
+    "chi": "中部",
+    "MN1": {
+      "key": "MN.MN1",
+      "pali": "MN1 Mulapariyaya Sutta",
+      "eng": "MN1 The Root Sequence",
+      "chi": "中部一 根本法門經"
+    },
+    "MN2": {
+      "key": "MN.MN2",
+      "pali": "MN2 Sabbasava Sutta",
+      "eng": "MN2 All the Fermentations",
+      "chi": "中部二 一切漏經"
+    },
+    "MN3": {
+      "key": "MN.MN3",
+      "pali": "MN3 Dhammadayada Sutta",
+      "eng": "MN3 Heirs in Dhamma",
+      "chi": "中部三 法嗣經"
+    },
+    "MN4": {
+      "key": "MN.MN4",
+      "pali": "MN4 Bhaya-bherava Sutta",
+      "eng": "MN4 Fear and Terror",
+      "chi": "中部四 怖駭經"
+    },
+    "MN5": {
+      "key": "MN.MN5",
+      "pali": "MN5 Anangana Sutta",
+      "eng": "MN5 Without Blemishes",
+      "chi": "中部五 無穢經"
+    },
+    "MN6": {
+      "key": "MN.MN6",
+      "pali": "MN6 Akankheyya Sutta",
+      "eng": "MN6 If a Bhikkhu Should Wish",
+      "chi": "中部六 願經"
+    },
+    "MN7": {
+      "key": "MN.MN7",
+      "pali": "MN7 Vatthupama Sutta",
+      "eng": "MN7 The Simile of the Cloth",
+      "chi": "中部七 布喻經"
+    },
+    "MN8": {
+      "key": "MN.MN8",
+      "pali": "MN8 Sallekha Sutta",
+      "eng": "MN8 The Discourse on Effacement",
+      "chi": "中部八 削減經"
+    },
+    "MN9": {
+      "key": "MN.MN9",
+      "pali": "MN9 Sammaditthi Sutta",
+      "eng": "MN9 Right View",
+      "chi": "中部九 正見經"
+    },
+    "MN10": {
+      "key": "MN.MN10",
+      "pali": "MN10 Satipatthana Sutta",
+      "eng": "MN10 Frames of Reference/Foundations of Mindfulness",
+      "chi": "中部十 念處經"
+    },
+    "MN11": {
+      "key": "MN.MN11",
+      "pali": "MN11 Cula-sihanada Sutta",
+      "eng": "MN11 The Shorter Discourse on the Lion's Roar",
+      "chi": "中部一一 獅子吼小經"
+    },
+    "MN12": {
+      "key": "MN.MN12",
+      "pali": "MN12 Maha-sihanada Sutta",
+      "eng": "MN12 The Great Discourse on the Lion's Roar",
+      "chi": "中部一二 師子吼大經"
+    },
+    "MN13": {
+      "key": "MN.MN13",
+      "pali": "MN13 Maha-dukkhakkhandha Sutta",
+      "eng": "MN13 The Greater Discourse on the Mass of Suffering",
+      "chi": "中部一三 苦蘊大"
+    },
+    "MN14": {
+      "key": "MN.MN14",
+      "pali": "MN14 Cula-dukkhakkhandha Sutta",
+      "eng": "MN14 The Shorter Discourse on the Mass of Suffering",
+      "chi": "中部一四 苦蘊小經"
+    },
+    "MN15": {
+      "key": "MN.MN15",
+      "pali": "MN15 Anumana Sutta",
+      "eng": "MN15 Inference",
+      "chi": "中部一五 思量經"
+    },
+    "MN16": {
+      "key": "MN.MN16",
+      "pali": "MN16 Cetokhila Sutta",
+      "eng": "MN16 The Wilderness in the Heart",
+      "chi": "中部一六 心荒蕪經"
+    },
+    "MN17": {
+      "key": "MN.MN17",
+      "pali": "MN17 Vanapattha Sutta",
+      "eng": "MN17 Jungle Thickets",
+      "chi": "中部一七 林藪經"
+    },
+    "MN18": {
+      "key": "MN.MN18",
+      "pali": "MN18 Madhupindika Sutta",
+      "eng": "MN18 The Ball of Honey",
+      "chi": "中部一八 蜜丸經"
+    },
+    "MN19": {
+      "key": "MN.MN19",
+      "pali": "MN19 Dvedhavitakka Sutta",
+      "eng": "MN19 Two Sorts of Thinking",
+      "chi": "中部一九 雙想經"
+    },
+    "MN20": {
+      "key": "MN.MN20",
+      "pali": "MN20 Vitakkasanthana Sutta",
+      "eng": "MN20 The Removal of Distracting Thoughts",
+      "chi": "中部二十 想念止息經"
+    },
+    "MN21": {
+      "key": "MN.MN21",
+      "pali": "MN21 Kakacupama Sutta",
+      "eng": "MN21 The Simile of the Saw",
+      "chi": "中部二一 鋸喻經"
+    },
+    "MN22": {
+      "key": "MN.MN22",
+      "pali": "MN22 Alagaddupama Sutta",
+      "eng": "MN22 The Water-Snake Simile",
+      "chi": "中部二二 蛇喻經"
+    },
+    "MN23": {
+      "key": "MN.MN23",
+      "pali": "MN23 Vammika Sutta",
+      "eng": "MN23 The Ant",
+      "chi": "中部二三 蟻垤經"
+    },
+    "MN24": {
+      "key": "MN.MN24",
+      "pali": "MN24 Ratha-vinita Sutta",
+      "eng": "MN24 Relay Chariots",
+      "chi": "中部二四 傳車經"
+    },
+    "MN25": {
+      "key": "MN.MN25",
+      "pali": "MN25 Nivapa Sutta",
+      "eng": "MN25 The Bait",
+      "chi": "中部二五 撒餌經"
+    },
+    "MN26": {
+      "key": "MN.MN26",
+      "pali": "MN26 Ariyapariyesana Sutta",
+      "eng": "MN26 The Noble Search",
+      "chi": "中部二六 聖求經"
+    },
+    "MN27": {
+      "key": "MN.MN27",
+      "pali": "MN27 Cula-hatthipadopama Sutta",
+      "eng": "MN27 The Shorter Elephant Footprint Simile",
+      "chi": "中部二七 象跡喻小經"
+    },
+    "MN28": {
+      "key": "MN.MN28",
+      "pali": "MN28 Maha-hatthipadopama Sutta",
+      "eng": "MN28 The Great Elephant Footprint Simile",
+      "chi": "中部二八 象跡喻大經"
+    },
+    "MN29": {
+      "key": "MN.MN29",
+      "pali": "MN29 Maha-saropama Sutta",
+      "eng": "MN29 The Greater Discourse on the Simile of the Heartwood",
+      "chi": "中部二九 心材喻大經"
+    },
+    "MN30": {
+      "key": "MN.MN30",
+      "pali": "MN30 Cula-saropama Sutta",
+      "eng": "MN30 The Shorter Discourse on the Simile of the Heartwood",
+      "chi": "中部三十 心材喻小經"
+    },
+    "MN31": {
+      "key": "MN.MN31",
+      "pali": "MN31 Cula-gosinga Sutta",
+      "eng": "MN31 The Shorter Discourse in Gosinga",
+      "chi": "中部三一 牛角林小經"
+    },
+    "MN32": {
+      "key": "MN.MN32",
+      "pali": "MN32 Maha-gosinga Sutta",
+      "eng": "MN32 The Greater Discourse in Gosinga",
+      "chi": "中部三二 牛角林大經"
+    },
+    "MN33": {
+      "key": "MN.MN33",
+      "pali": "MN33 Maha-gopalaka Sutta",
+      "eng": "MN33 The Greater Cowherd Discourse",
+      "chi": "中部三三 牧牛者大經"
+    },
+    "MN34": {
+      "key": "MN.MN34",
+      "pali": "MN34 Cula-gopalaka Sutta",
+      "eng": "MN34 The Shorter Discourse on the Cowherd",
+      "chi": "中部三四 牧牛者小經"
+    },
+    "MN35": {
+      "key": "MN.MN35",
+      "pali": "MN35 Cula-saccaka Sutta",
+      "eng": "MN35 The Shorter Discourse on the Saccaka",
+      "chi": "中部三五 薩遮迦小經"
+    },
+    "MN36": {
+      "key": "MN.MN36",
+      "pali": "MN36 Maha-Saccaka Sutta",
+      "eng": "MN36 The Greater Discourse on the Saccaka",
+      "chi": "中部三六 薩遮迦大經"
+    },
+    "MN37": {
+      "key": "MN.MN37",
+      "pali": "MN37 Cula-tanhasankhaya Sutta",
+      "eng": "MN37 The Shorter Discourse on the Destruction of Craving",
+      "chi": "中部三七 愛盡小經"
+    },
+    "MN38": {
+      "key": "MN.MN38",
+      "pali": "MN38 Maha-tanhasankhaya Sutta",
+      "eng": "MN38 The Greater Discourse on the Destruction of Craving",
+      "chi": "中部三八 愛盡大經"
+    },
+    "MN39": {
+      "key": "MN.MN39",
+      "pali": "MN39 Maha-Assapura Sutta",
+      "eng": "MN39 The Greater Discourse at Assapura",
+      "chi": "中部三九 馬邑大經"
+    },
+    "MN40": {
+      "key": "MN.MN40",
+      "pali": "MN40 Cula-assapura Sutta",
+      "eng": "MN40 The Shorter Discourse at Assapura",
+      "chi": "中部四十 馬邑小經"
+    },
+    "MN41": {
+      "key": "MN.MN41",
+      "pali": "MN41 Saleyyaka Sutta",
+      "eng": "MN41 The Brahmans of Sala",
+      "chi": "中部四一 薩羅村婆羅門經"
+    },
+    "MN42": {
+      "key": "MN.MN42",
+      "pali": "MN42 Veranjaka Sutta",
+      "eng": "MN42 The Brahmins of Veranjaka",
+      "chi": "中部四二 鞞蘭若村婆羅門經"
+    },
+    "MN43": {
+      "key": "MN.MN43",
+      "pali": "MN43 Maha-vedalla Sutta",
+      "eng": "MN43 The Greater Set of Questions-and-Answers",
+      "chi": "中部四三 有明大經"
+    },
+    "MN44": {
+      "key": "MN.MN44",
+      "pali": "MN44 Cula-vedalla Sutta",
+      "eng": "MN44 The Shorter Set of Questions-and-Answers",
+      "chi": "中部四四 有明小經"
+    },
+    "MN45": {
+      "key": "MN.MN45",
+      "pali": "MN45 Cula-dhammasamadana Sutta",
+      "eng": "MN45 The Shorter Discourse on Taking on Practices",
+      "chi": "中部四五 得法小經"
+    },
+    "MN46": {
+      "key": "MN.MN46",
+      "pali": "MN46 Maha-dhammasamadana Sutta",
+      "eng": "MN46 The Greater Discourse on Taking on Practices",
+      "chi": "中部四六 得法大經"
+    },
+    "MN47": {
+      "key": "MN.MN47",
+      "pali": "MN47 Vīmaṃsaka Sutta",
+      "eng": "MN47 The Inquirer",
+      "chi": "中部四七 思察經"
+    },
+    "MN48": {
+      "key": "MN.MN48",
+      "pali": "MN48 Kosambiya Sutta",
+      "eng": "MN48 The Kosambians",
+      "chi": "中部四八 憍賞彌經"
+    },
+    "MN49": {
+      "key": "MN.MN49",
+      "pali": "MN49 Brahmanimantanika Sutta",
+      "eng": "MN49 The Invitation Of A Brahma",
+      "chi": "中部四九 梵天請經"
+    },
+    "MN50": {
+      "key": "MN.MN50",
+      "pali": "MN50 Maratajjaniya Sutta",
+      "eng": "MN50 The Rebuke to Mara",
+      "chi": "中部五十 魔訶責經"
+    },
+    "MN51": {
+      "key": "MN.MN51",
+      "pali": "MN51 Kandaka Sutta",
+      "eng": "MN51 To Kandaka",
+      "chi": "中部五一 干達羅迦經"
+    },
+    "MN52": {
+      "key": "MN.MN52",
+      "pali": "MN52 Atthakanagara Sutta",
+      "eng": "MN52 To the Man from Atthakanagara",
+      "chi": "中部五二 八城經"
+    },
+    "MN53": {
+      "key": "MN.MN53",
+      "pali": "MN53 Sekha-patipada Sutta",
+      "eng": "MN53 The Practice for One in Training",
+      "chi": "中部五三 有學經"
+    },
+    "MN54": {
+      "key": "MN.MN54",
+      "pali": "MN54 Potaliya Sutta",
+      "eng": "MN54 To Potaliya",
+      "chi": "中部五四 哺多利經"
+    },
+    "MN55": {
+      "key": "MN.MN55",
+      "pali": "MN55 Jivaka Sutta",
+      "eng": "MN55 Discourse given to Jivaka the medicine man",
+      "chi": "中部五五 耆婆迦經"
+    },
+    "MN56": {
+      "key": "MN.MN56",
+      "pali": "MN56 Upali Sutta",
+      "eng": "MN56 Discourse given to Upali the householder",
+      "chi": "中部五六 優波離經"
+    },
+    "MN57": {
+      "key": "MN.MN57",
+      "pali": "MN57 Kukkuravatika Sutta",
+      "eng": "MN57 The Dog-duty Ascetic",
+      "chi": "中部五七 狗行者經"
+    },
+    "MN58": {
+      "key": "MN.MN58",
+      "pali": "MN58 Abhaya Sutta",
+      "eng": "MN58 To Prince Abhaya (On Right Speech)",
+      "chi": "中部五八 無畏王子經"
+    },
+    "MN59": {
+      "key": "MN.MN59",
+      "pali": "MN59 Bahuvedaniya Sutta",
+      "eng": "MN59 The Many Kinds of Feeling",
+      "chi": "中部五九 多受經"
+    },
+    "MN60": {
+      "key": "MN.MN60",
+      "pali": "MN60 Apannaka Sutta",
+      "eng": "MN60 The Incontrovertible Teaching",
+      "chi": "中部六十 無戲論經"
+    },
+    "MN61": {
+      "key": "MN.MN61",
+      "pali": "MN61 Ambalatthikarahulovada Sutta",
+      "eng": "MN61 Advice to Rahula at Mango Stone",
+      "chi": "中部六一 庵婆檗林教誡羅喉羅經"
+    },
+    "MN62": {
+      "key": "MN.MN62",
+      "pali": "MN62 Maha-Rahulovada Sutta",
+      "eng": "MN62 The Greater Discourse of Advice to Rahula",
+      "chi": "中部六二 教誡羅喉羅大經"
+    },
+    "MN63": {
+      "key": "MN.MN63",
+      "pali": "MN63 Cula-Malunkyovada Sutta",
+      "eng": "MN63 The Shorter Instructions to Malunkya",
+      "chi": "中部六三 摩羅迦小經"
+    },
+    "MN64": {
+      "key": "MN.MN64",
+      "pali": "MN64 Maha-Malunkyaputta Sutta",
+      "eng": "MN64 The Greater Instructions to Malunkya",
+      "chi": "中部六四 摩羅迦大經"
+    },
+    "MN65": {
+      "key": "MN.MN65",
+      "pali": "MN65 Bhaddali Sutta",
+      "eng": "MN65 To Bhaddali",
+      "chi": "中部六五 跋陀利經"
+    },
+    "MN66": {
+      "key": "MN.MN66",
+      "pali": "MN66 Latukikopama Sutta",
+      "eng": "MN66 The Quail Simile",
+      "chi": "中部六六 鶉喻經"
+    },
+    "MN67": {
+      "key": "MN.MN67",
+      "pali": "MN67 Catuma Sutta",
+      "eng": "MN67 At Catuma",
+      "chi": "中部六七 車頭聚落經"
+    },
+    "MN68": {
+      "key": "MN.MN68",
+      "pali": "MN68 Nalakapana Sutta",
+      "eng": "MN68 At Nalakapana",
+      "chi": "中部六八 那羅伽波寧村經"
+    },
+    "MN69": {
+      "key": "MN.MN69",
+      "pali": "MN69 Gulissani Sutta",
+      "eng": "MN69 Gulissani",
+      "chi": "中部六九 瞿尼師經"
+    },
+    "MN70": {
+      "key": "MN.MN70",
+      "pali": "MN70 Kitagiri Sutta",
+      "eng": "MN70 At Kitagiri",
+      "chi": "中部七十 枳吒山邑經"
+    },
+    "MN71": {
+      "key": "MN.MN71",
+      "pali": "MN71 Tevijja Vacchagotta Sutta",
+      "eng": "MN71 To Vacchagotta on the Threefold True Knowledge",
+      "chi": "中部七一 婆蹉衢多三明經"
+    },
+    "MN72": {
+      "key": "MN.MN72",
+      "pali": "MN72 Aggi-Vacchagotta Sutta",
+      "eng": "MN72 To Vacchagotta on Fire",
+      "chi": "中部七二 婆蹉衢多火喻經"
+    },
+    "MN73": {
+      "key": "MN.MN73",
+      "pali": "MN73 Maha-Vacchagotta Sutta",
+      "eng": "MN73 The Greater Discourse to Vacchagotta",
+      "chi": "中部七三 婆蹉衢多大經"
+    },
+    "MN74": {
+      "key": "MN.MN74",
+      "pali": "MN74 Dighanahka Sutta",
+      "eng": "MN74 To Dighanakha",
+      "chi": "中部七四 長爪經"
+    },
+    "MN75": {
+      "key": "MN.MN75",
+      "pali": "MN75 Magandiya Sutta",
+      "eng": "MN75 To Magandiya",
+      "chi": "中部七五 摩犍提徑"
+    },
+    "MN76": {
+      "key": "MN.MN76",
+      "pali": "MN76 Sandaka Sutta",
+      "eng": "MN76 To Sandaka",
+      "chi": "中部七六 刪陀迦經"
+    },
+    "MN77": {
+      "key": "MN.MN77",
+      "pali": "MN77 Maha-sakuludayi Sutta",
+      "eng": "MN77 The Greater Discourse to Sakuludayin",
+      "chi": "中部七七 善生優陀夷大經"
+    },
+    "MN78": {
+      "key": "MN.MN78",
+      "pali": "MN78 Samana-Mundika Sutta",
+      "eng": "MN78 Mundika the Contemplative",
+      "chi": "中部七八 沙門文祁子經"
+    },
+    "MN79": {
+      "key": "MN.MN79",
+      "pali": "MN79 Cula-sakuludayi Sutta",
+      "eng": "MN79 The Shorter Discourse to Sakuludayin",
+      "chi": "中部七九 善生優陀夷小經"
+    },
+    "MN80": {
+      "key": "MN.MN80",
+      "pali": "MN80 Vekhanassa Sutta",
+      "eng": "MN80 To Vekhanassa",
+      "chi": "中部八十 鞞摩那修經"
+    },
+    "MN81": {
+      "key": "MN.MN81",
+      "pali": "MN81 Ghatikara Sutta",
+      "eng": "MN81 Ghatikara the Potter",
+      "chi": "中部八一 陶師經"
+    },
+    "MN82": {
+      "key": "MN.MN82",
+      "pali": "MN82 Ratthapala Sutta",
+      "eng": "MN82 About Ratthapala",
+      "chi": "中部八二 賴吒恕羅經"
+    },
+    "MN83": {
+      "key": "MN.MN83",
+      "pali": "MN83 Makhadeva Sutta",
+      "eng": "MN83 About King Makhadeva",
+      "chi": "中部八三 大天捺林經"
+    },
+    "MN84": {
+      "key": "MN.MN84",
+      "pali": "MN84 Madhura Sutta",
+      "eng": "MN84 At Madhura",
+      "chi": "中部八四 摩偷羅經"
+    },
+    "MN85": {
+      "key": "MN.MN85",
+      "pali": "MN85 Bodhirajakumara Sutta",
+      "eng": "MN85 To Prince Bodhi",
+      "chi": "中部八五 菩提王子經"
+    },
+    "MN86": {
+      "key": "MN.MN86",
+      "pali": "MN86 Angulimala Sutta",
+      "eng": "MN86 About Angulimala",
+      "chi": "中部八六 鴦掘摩經"
+    },
+    "MN87": {
+      "key": "MN.MN87",
+      "pali": "MN87 Piyajatika Sutta",
+      "eng": "MN87 From One Who Is Dear",
+      "chi": "中部八七 三大愛生經"
+    },
+    "MN88": {
+      "key": "MN.MN88",
+      "pali": "MN88 Bahitika Sutta",
+      "eng": "MN88 The Cloak",
+      "chi": "中部八八 鞞訶提經"
+    },
+    "MN89": {
+      "key": "MN.MN89",
+      "pali": "MN89 Dhammacetiya Sutta",
+      "eng": "MN89 Monuments to the Dhamma",
+      "chi": "中部八九 法莊嚴經"
+    },
+    "MN90": {
+      "key": "MN.MN90",
+      "pali": "MN90 Kannakatthala Sutta",
+      "eng": "MN90 At Kannakatthala",
+      "chi": "中部九十 普棘刺林經"
+    },
+    "MN91": {
+      "key": "MN.MN91",
+      "pali": "MN91 Brahmayu Sutta",
+      "eng": "MN91 Brahmayu",
+      "chi": "中部九一 梵摩經"
+    },
+    "MN92": {
+      "key": "MN.MN92",
+      "pali": "MN92 Sela Sutta",
+      "eng": "MN92 To Sela",
+      "chi": "中部九二 施羅經"
+    },
+    "MN93": {
+      "key": "MN.MN93",
+      "pali": "MN93 Assalayana Sutta",
+      "eng": "MN93 To Assalayana",
+      "chi": "中部九三 阿攝恕經[阿攝羅耶那]"
+    },
+    "MN94": {
+      "key": "MN.MN94",
+      "pali": "MN94 Ghotamukha Sutta",
+      "eng": "MN94 To Ghotamukha",
+      "chi": "中部九四 瞿哆牟伽經"
+    },
+    "MN95": {
+      "key": "MN.MN95",
+      "pali": "MN95 Canki Sutta",
+      "eng": "MN95 With Canki",
+      "chi": "中部九五 商伽經"
+    },
+    "MN96": {
+      "key": "MN.MN96",
+      "pali": "MN96 Phasukari Sutta",
+      "eng": "MN96 To Phasukari",
+      "chi": "中部九六 郁瘦歌邏經"
+    },
+    "MN97": {
+      "key": "MN.MN97",
+      "pali": "MN97 Dhananjani Sutta",
+      "eng": "MN97 To Dhananjani",
+      "chi": "中部九七 陀然經"
+    },
+    "MN98": {
+      "key": "MN.MN98",
+      "pali": "MN98 Vasettha Sutta",
+      "eng": "MN98 To Vasettha",
+      "chi": "中部九八 婆私吒經"
+    },
+    "MN99": {
+      "key": "MN.MN99",
+      "pali": "MN99 Subha Sutta",
+      "eng": "MN99 To Subha",
+      "chi": "中部九九 須婆經"
+    },
+    "MN100": {
+      "key": "MN.MN100",
+      "pali": "MN100 Sangarava Sutta",
+      "eng": "MN100 To Sangarava",
+      "chi": "中部一百 傷歌邏經"
+    },
+    "MN101": {
+      "key": "MN.MN101",
+      "pali": "MN101 Devadaha Sutta",
+      "eng": "MN101 To Devadaha",
+      "chi": "中部一〇一 天臂經"
+    },
+    "MN102": {
+      "key": "MN.MN102",
+      "pali": "MN102 Pancattaya Sutta",
+      "eng": "MN102 The Five and Three",
+      "chi": "中部一〇二 五三經"
+    },
+    "MN103": {
+      "key": "MN.MN103",
+      "pali": "MN103 Kinti Sutta",
+      "eng": "MN103 What Do You Think About Me?",
+      "chi": "中部一〇三 如何經"
+    },
+    "MN104": {
+      "key": "MN.MN104",
+      "pali": "MN104 Samagama Sutta",
+      "eng": "MN104 At Samagama",
+      "chi": "中部一〇四 舍彌村經"
+    },
+    "MN105": {
+      "key": "MN.MN105",
+      "pali": "MN105 Sunakkhatta Sutta",
+      "eng": "MN105 To Sunakkhatta",
+      "chi": "中部一〇五 善星經"
+    },
+    "MN106": {
+      "key": "MN.MN106",
+      "pali": "MN106 Aneñja-sappaya Sutta",
+      "eng": "MN106 Conducive to the Imperturbable",
+      "chi": "中部一〇六 不動利益經"
+    },
+    "MN107": {
+      "key": "MN.MN107",
+      "pali": "MN107 Ganaka-Moggallana Sutta",
+      "eng": "MN107 The Discourse to Ganaka-Moggallana",
+      "chi": "中部一〇七 算數家目犍連經"
+    },
+    "MN108": {
+      "key": "MN.MN108",
+      "pali": "MN108 Gopaka-Moggallana Sutta",
+      "eng": "MN108 Moggallana the Guardsman",
+      "chi": "中部一〇八 瞿默目犍連經"
+    },
+    "MN109": {
+      "key": "MN.MN109",
+      "pali": "MN109 Maha-punnama Sutta",
+      "eng": "MN109 The Great Full-moon Night Discourse",
+      "chi": "中部一〇九 滿月大經"
+    },
+    "MN110": {
+      "key": "MN.MN110",
+      "pali": "MN110 Cula-punnama Sutta",
+      "eng": "MN110 The Shorter Discourse on the Full-moon Night",
+      "chi": "中部一一〇 滿月小經"
+    },
+    "MN111": {
+      "key": "MN.MN111",
+      "pali": "MN111 Anupada Sutta",
+      "eng": "MN111 One by One as they Occurred",
+      "chi": "中部一一一 不斷經"
+    },
+    "MN112": {
+      "key": "MN.MN112",
+      "pali": "MN112 Chabbisodhana Sutta",
+      "eng": "MN112 The Sixfold Purity",
+      "chi": "中部一一二 六凈經"
+    },
+    "MN113": {
+      "key": "MN.MN113",
+      "pali": "MN113 Sappurisa Sutta",
+      "eng": "MN113 The True Man",
+      "chi": "中部一一三 善士經"
+    },
+    "MN114": {
+      "key": "MN.MN114",
+      "pali": "MN114 Sevitabba Asevitabba Sutta",
+      "eng": "MN114 To Be Cultivated and Not to Be Cultivated",
+      "chi": "中部一一四 應習不應習經"
+    },
+    "MN115": {
+      "key": "MN.MN115",
+      "pali": "MN115 Bahudhatuka Sutta",
+      "eng": "MN115 The Many Kinds of Elements",
+      "chi": "中部一一五 多界經"
+    },
+    "MN116": {
+      "key": "MN.MN116",
+      "pali": "MN116 Isigili Sutta",
+      "eng": "MN116 The Discourse at Isigili",
+      "chi": "中部一一六 仙吞經"
+    },
+    "MN117": {
+      "key": "MN.MN117",
+      "pali": "MN117 Maha-cattarisaka Sutta",
+      "eng": "MN117 The Great Forty",
+      "chi": "中部一一七 大四十經"
+    },
+    "MN118": {
+      "key": "MN.MN118",
+      "pali": "MN118 Anapanasati Sutta",
+      "eng": "MN118 Mindfulness of Breathing",
+      "chi": "中部一一八 入出息念經"
+    },
+    "MN119": {
+      "key": "MN.MN119",
+      "pali": "MN119 Kayagatasati Sutta",
+      "eng": "MN119 Mindfulness Immersed in the Body",
+      "chi": "中部一一九 身行念經"
+    },
+    "MN120": {
+      "key": "MN.MN120",
+      "pali": "MN120 Sankharuppatti Sutta",
+      "eng": "MN120 Reappearance by Aspiration",
+      "chi": "中部一二〇 行生經"
+    },
+    "MN121": {
+      "key": "MN.MN121",
+      "pali": "MN121 Cula-suññata Sutta",
+      "eng": "MN121 The Lesser Discourse on Emptiness",
+      "chi": "中部一二一 空小經"
+    },
+    "MN122": {
+      "key": "MN.MN122",
+      "pali": "MN122 Maha-suññata Sutta",
+      "eng": "MN122 The Greater Discourse on Emptiness",
+      "chi": "中部一二二 空大經"
+    },
+    "MN123": {
+      "key": "MN.MN123",
+      "pali": "MN123 Acchariyabbhutta Sutta",
+      "eng": "MN123 Wonderful and Marvelous",
+      "chi": "中部一二三 希有未曾有法經"
+    },
+    "MN124": {
+      "key": "MN.MN124",
+      "pali": "MN124 Bakkula Sutta",
+      "eng": "MN124 About Venerable Bakkula",
+      "chi": "中部一二四 薄拘羅經"
+    },
+    "MN125": {
+      "key": "MN.MN125",
+      "pali": "MN125 Dantabhumi Sutta",
+      "eng": "MN125 The Discourse on the \"Tamed Stage\"",
+      "chi": "中部一二五 調御地經"
+    },
+    "MN126": {
+      "key": "MN.MN126",
+      "pali": "MN126 Bhumija Sutta",
+      "eng": "MN126 To Bhumija",
+      "chi": "中部一二六 浮彌經"
+    },
+    "MN127": {
+      "key": "MN.MN127",
+      "pali": "MN127 Anuruddha Sutta",
+      "eng": "MN127 To Anuruddha",
+      "chi": "中部一二七 阿那律經"
+    },
+    "MN128": {
+      "key": "MN.MN128",
+      "pali": "MN128 Upakkilesa Sutta",
+      "eng": "MN128 Imperfections",
+      "chi": "中部一二八 隨煩惱經"
+    },
+    "MN129": {
+      "key": "MN.MN129",
+      "pali": "MN129 Balapandita Sutta",
+      "eng": "MN129 Fools and Wise Men",
+      "chi": "中部一二九 賢愚經"
+    },
+    "MN130": {
+      "key": "MN.MN130",
+      "pali": "MN130 Devaduta Sutta",
+      "eng": "MN130 The Divine Messengers",
+      "chi": "中部一三〇 天使經"
+    },
+    "MN131": {
+      "key": "MN.MN131",
+      "pali": "MN131 Bhaddekaratta Sutta",
+      "eng": "MN131 An Auspicious Day",
+      "chi": "中部一三一 一夜賢者經"
+    },
+    "MN132": {
+      "key": "MN.MN132",
+      "pali": "MN132 Ananda Bhaddekaratta Sutta",
+      "eng": "MN132 Ananda and a Single Excellent Night",
+      "chi": "中部一三二 阿難一夜賢者經"
+    },
+    "MN133": {
+      "key": "MN.MN133",
+      "pali": "MN133 Maha-kaccana Bhaddekaratta Sutta",
+      "eng": "MN133 Maha-kaccana and a Single Excellent Night",
+      "chi": "中部一三三 大迦旃延一夜賢者經"
+    },
+    "MN134": {
+      "key": "MN.MN134",
+      "pali": "MN134 Lomasakangiya Bhaddekaratta",
+      "eng": "MN134 Lomasakangiya Bhaddekaratta",
+      "chi": "中部一三四 盧夷強耆一夜賢者經",
+      "__EMPTY_1": "Lomasakangiya and a Single Excellent Night"
+    },
+    "MN135": {
+      "key": "MN.MN135",
+      "pali": "MN135 Cula-kammavibhanga Sutta",
+      "eng": "MN135 The Shorter Exposition of Kamma",
+      "chi": "中部一三五 小業分別經"
+    },
+    "MN136": {
+      "key": "MN.MN136",
+      "pali": "MN136 Maha-kammavibhanga Sutta",
+      "eng": "MN136 The Greater Exposition of Kamma",
+      "chi": "中部一三六 大業分別經"
+    },
+    "MN137": {
+      "key": "MN.MN137",
+      "pali": "MN137 Salayatana-vibhanga Sutta",
+      "eng": "MN137 An Analysis of the Six Sense-media",
+      "chi": "中部一三七 六處分別經"
+    },
+    "MN138": {
+      "key": "MN.MN138",
+      "pali": "MN138 Uddesa-vibhanga Sutta",
+      "eng": "MN138 An Analysis of the Statement",
+      "chi": "中部一三八 總說分別經"
+    },
+    "MN139": {
+      "key": "MN.MN139",
+      "pali": "MN139 Aranavibhanga Sutta",
+      "eng": "MN139 An Analysis of Non-Conflict",
+      "chi": "中部一三九 無諍分別經"
+    },
+    "MN140": {
+      "key": "MN.MN140",
+      "pali": "MN140 Dhatu-vibhanga Sutta",
+      "eng": "MN140 An Analysis of the Properties",
+      "chi": "中部一四〇 界分別經"
+    },
+    "MN141": {
+      "key": "MN.MN141",
+      "pali": "MN141 Saccavibhanga Sutta",
+      "eng": "MN141 An Analysis of the Truths",
+      "chi": "中部一四一 諦分別經"
+    },
+    "MN142": {
+      "key": "MN.MN142",
+      "pali": "MN142 Dakkhinavibhanga Sutta",
+      "eng": "MN142 The Exposition of Offerings",
+      "chi": "中部一四二 施分別經"
+    },
+    "MN143": {
+      "key": "MN.MN143",
+      "pali": "MN143 Anathapindikovada Sutta",
+      "eng": "MN143 Instructions to Anathapindika",
+      "chi": "中部一四三 教給孤獨經"
+    },
+    "MN144": {
+      "key": "MN.MN144",
+      "pali": "MN144 Channovada Sutta",
+      "eng": "MN144 Instructions to Channa",
+      "chi": "中部一四四 教闡陀經"
+    },
+    "MN145": {
+      "key": "MN.MN145",
+      "pali": "MN145 Punnovada Sutta",
+      "eng": "MN145 Instructions to Punna",
+      "chi": "中部一四五 教富樓那經"
+    },
+    "MN146": {
+      "key": "MN.MN146",
+      "pali": "MN146 Nandakovada Sutta",
+      "eng": "MN146 Nandaka's Exhortation",
+      "chi": "中部一四六 教難陀迦經"
+    },
+    "MN147": {
+      "key": "MN.MN147",
+      "pali": "MN147 Cula-rahulovada Sutta",
+      "eng": "MN147 The Shorter Discourse of Advice to Rāhula",
+      "chi": "中部一四七 教羅喉羅小經"
+    },
+    "MN148": {
+      "key": "MN.MN148",
+      "pali": "MN148 Chachakka Sutta",
+      "eng": "MN148 The Six Sextets",
+      "chi": "中部一四八 六六經"
+    },
+    "MN149": {
+      "key": "MN.MN149",
+      "pali": "MN149 Maha-salayatanika Sutta",
+      "eng": "MN149 The Great Six Sense-media Discourse",
+      "chi": "中部一四九 大六處經"
+    },
+    "MN150": {
+      "key": "MN.MN150",
+      "pali": "MN150 Nagaravindeyya Sutta",
+      "eng": "MN150 To the Nagaravindans",
+      "chi": "中部一五〇 頻頭城經"
+    },
+    "MN151": {
+      "key": "MN.MN151",
+      "pali": "MN151 Pindapataparisuddhi Sutta",
+      "eng": "MN151 The Purification of Almsfood",
+      "chi": "中部一五一 乞食清凈經"
+    },
+    "MN152": {
+      "key": "MN.MN152",
+      "pali": "MN152 Indriya-bhavana Sutta",
+      "eng": "MN152 The Development of the Faculties",
+      "chi": "中部一五二 根修習經"
+    }
+  },
+  "SN": {
+    "key": "SN",
+    "pali": "Saṃyutta Nikāya",
+    "eng": "Connected Discourse",
+    "chi": "相應部",
+    "SN1": {
+      "key": "SN.SN1",
+      "pali": "SN1 Devatā Saṃyutta",
+      "eng": "SN1 Connected Discourses with Devatas",
+      "chi": "相應部一 諸天相應",
+      "link": "1 - 81"
+    },
+    "SN2": {
+      "key": "SN.SN2",
+      "pali": "SN2 Devaputta Saṃyutta",
+      "eng": "SN2 Connected Discourses with Young Devas",
+      "chi": "相應部二 天子相應",
+      "link": "1 - 30"
+    },
+    "SN3": {
+      "key": "SN.SN3",
+      "pali": "SN3 Kosala Saṃyutta",
+      "eng": "SN3 Connected Discourses with the Kosalan",
+      "chi": "相應部三 憍薩羅相應",
+      "link": "1 - 25"
+    },
+    "SN4": {
+      "key": "SN.SN4",
+      "pali": "SN4 Māra Saṃyutta",
+      "eng": "SN4 Connected Discourses with Mara",
+      "chi": "相應部四 魔相應",
+      "link": "1 - 25"
+    },
+    "SN5": {
+      "key": "SN.SN5",
+      "pali": "SN5 Bhikkhuṇī Saṃyutta",
+      "eng": "SN5 Connected Discourses with Bhikkhurus",
+      "chi": "相應部五 比丘尼相應",
+      "link": "1 - 10"
+    },
+    "SN6": {
+      "key": "SN.SN6",
+      "pali": "SN6 Brahmā Saṃyutta",
+      "eng": "SN6 Connected Discourses with Brahmās",
+      "chi": "相應部六 梵天相應",
+      "link": "1 - 15"
+    },
+    "SN7": {
+      "key": "SN.SN7",
+      "pali": "SN7 Brāhmaṇa Saṃyutta",
+      "eng": "SN7 Connected Discourses with Brahmins",
+      "chi": "相應部七 婆羅門相應",
+      "link": "1 - 22"
+    },
+    "SN8": {
+      "key": "SN.SN8",
+      "pali": "SN8 Vangīsa Thera Saṃyutta",
+      "eng": "SN8 Connected Discourses with Vaṅgīsa",
+      "chi": "相應部八 婆耆沙長老相應",
+      "link": "1 - 12"
+    },
+    "SN9": {
+      "key": "SN.SN9",
+      "pali": "SN9 Vana Saṃyutta",
+      "eng": "SN9 Connected Discourses in the Woods",
+      "chi": "相應部九 林相應",
+      "link": "1 - 14"
+    },
+    "SN10": {
+      "key": "SN.SN10",
+      "pali": "SN10 Yakkha Saṃyutta",
+      "eng": "SN10 Connected Discourses with Yakkhas",
+      "chi": "相應部十 夜叉相應",
+      "link": "1 - 12"
+    },
+    "SN11": {
+      "key": "SN.SN11",
+      "pali": "SN11 Sakka Saṃyutta",
+      "eng": "SN11 Connected Discourses with Sakka",
+      "chi": "相應部一一 帝釋相應"
+    },
+    "SN12": {
+      "key": "SN.SN12",
+      "pali": "SN12 Nidāna Saṃyutta",
+      "eng": "SN12 Connected Discourses on Causation",
+      "chi": "相應部一二 因緣相應"
+    },
+    "SN13": {
+      "key": "SN.SN13",
+      "pali": "SN13 Abhisamaya Saṃyutta",
+      "eng": "SN13 Connected Discourses on the Breakthrough",
+      "chi": "相應部一三 現觀相應"
+    },
+    "SN14": {
+      "key": "SN.SN14",
+      "pali": "SN14 Dhātu Saṃyutta",
+      "eng": "SN14 Connected Discourses on Elements",
+      "chi": "相應部一四 界相應"
+    },
+    "SN15": {
+      "key": "SN.SN15",
+      "pali": "SN15 Anamatagga Saṃyutta",
+      "eng": "SN15 Connected Discourses on Without Discoverable Beginning",
+      "chi": "相應部一五 無始相應"
+    },
+    "SN16": {
+      "key": "SN.SN16",
+      "pali": "SN16 Kassapa Saṃyutta",
+      "eng": "SN16 Connected Discourses with Kassapa",
+      "chi": "相應部一六 迦葉相應"
+    },
+    "SN17": {
+      "key": "SN.SN17",
+      "pali": "SN17 Lābhasakkāra Saṃyutta",
+      "eng": "SN17 Connected Discourses on Gains and Honour",
+      "chi": "相應部一七 利得與供養相應"
+    },
+    "SN18": {
+      "key": "SN.SN18",
+      "pali": "SN18 Rāhula Saṃyutta",
+      "eng": "SN18 Connected Discourses with Rāhula",
+      "chi": "相應部一八 羅喉羅相應"
+    },
+    "SN19": {
+      "key": "SN.SN19",
+      "pali": "SN19 Lakkhaṇa Saṃyutta",
+      "eng": "SN19 Connected Discourses with Lakkhaṇa",
+      "chi": "相應部一九 勒叉那相應"
+    },
+    "SN20": {
+      "key": "SN.SN20",
+      "pali": "SN20 Opamma Saṃyutta",
+      "eng": "SN20 Connected Discourses with Similes",
+      "chi": "相應部二十 譬喻相應"
+    },
+    "SN21": {
+      "key": "SN.SN21",
+      "pali": "SN21 Bhikkhu Saṃyutta",
+      "eng": "SN21 Connected Discourses with Bhikkhus",
+      "chi": "相應部二一 比丘相應"
+    },
+    "SN22": {
+      "key": "SN.SN22",
+      "pali": "SN22 Khandha Saṃyutta",
+      "eng": "SN22 Connected Discourses on the Aggregates",
+      "chi": "相應部二二 蘊相應"
+    },
+    "SN23": {
+      "key": "SN.SN23",
+      "pali": "SN23 Rādha Saṃyutta",
+      "eng": "SN23 Connected Discourses with Rādha",
+      "chi": "相應部二三 羅陀相應"
+    },
+    "SN24": {
+      "key": "SN.SN24",
+      "pali": "SN24 Diṭṭhi Saṃyutta",
+      "eng": "SN24 Connected Discourses on Views",
+      "chi": "相應部二四 見相應"
+    },
+    "SN25": {
+      "key": "SN.SN25",
+      "pali": "SN25 Okkantika Saṃyutta",
+      "eng": "SN25 Connected Discourses on Entering",
+      "chi": "相應部二五 入相應"
+    },
+    "SN26": {
+      "key": "SN.SN26",
+      "pali": "SN26 Uppāda Saṃyutta",
+      "eng": "SN26 Connected Discourses on Arising",
+      "chi": "相應部二六 生相應"
+    },
+    "SN27": {
+      "key": "SN.SN27",
+      "pali": "SN27 Kilesa Saṃyutta",
+      "eng": "SN27 Connected Discourses on Defilements",
+      "chi": "相應部二七 煩惱相應"
+    },
+    "SN28": {
+      "key": "SN.SN28",
+      "pali": "SN28 Sāriputta Saṃyutta",
+      "eng": "SN28 Connected Discourses with Sāriputta",
+      "chi": "相應部二八 舍利弗相應"
+    },
+    "SN29": {
+      "key": "SN.SN29",
+      "pali": "SN29 Nāga Saṃyutta",
+      "eng": "SN29 Connected Discourses on Nāgas",
+      "chi": "相應部二九 龍相應"
+    },
+    "SN30": {
+      "key": "SN.SN30",
+      "pali": "SN30 Supaṇṇa Saṃyutta",
+      "eng": "SN30 Connected Discourses on Supaṇṇas",
+      "chi": "相應部三十 金翅鳥相應"
+    },
+    "SN31": {
+      "key": "SN.SN31",
+      "pali": "SN31 Gandhabbakāya Saṃyutta",
+      "eng": "SN31 Connected Discourses on Gandhabbas",
+      "chi": "相應部三一 乾達婆眾相應"
+    },
+    "SN32": {
+      "key": "SN.SN32",
+      "pali": "SN32 Valāhaka Saṃyutta",
+      "eng": "SN32 Connected Discourses on Cloud Deva",
+      "chi": "相應部三二 雲相應"
+    },
+    "SN33": {
+      "key": "SN.SN33",
+      "pali": "SN33 Vacchagotta Saṃyutta",
+      "eng": "SN33 Connected Discourses with Vacchagotta",
+      "chi": "相應部三三 婆磋種相應"
+    },
+    "SN34": {
+      "key": "SN.SN34",
+      "pali": "SN34 Samādhi Saṃyutta",
+      "eng": "SN34 Connected Discourses on Meditation",
+      "chi": "相應部三四 禪定相應"
+    },
+    "SN35": {
+      "key": "SN.SN35",
+      "pali": "SN35 Saḷāyatana Saṃyutta",
+      "eng": "SN35 Connected Discourses on the Six Sense Bases",
+      "chi": "相應部三五 六處相應"
+    },
+    "SN36": {
+      "key": "SN.SN36",
+      "pali": "SN36 Vedanā Saṃyutta",
+      "eng": "SN36 Connected Discourses on Feeling",
+      "chi": "相應部三六 受相應"
+    },
+    "SN37": {
+      "key": "SN.SN37",
+      "pali": "SN37 Mātugāma Saṃyutta",
+      "eng": "SN37 Connected Discourses on Women",
+      "chi": "相應部三七 女人相應"
+    },
+    "SN38": {
+      "key": "SN.SN38",
+      "pali": "SN38 Jambukhādaka Saṃyutta",
+      "eng": "SN38 Connected Discourses with Jambukhādaka",
+      "chi": "相應部三八 閻浮車相應"
+    },
+    "SN39": {
+      "key": "SN.SN39",
+      "pali": "SN39 Sāmaṇḍaka Saṃyutta",
+      "eng": "SN39 Connected Discourses with Sāmaṇḍaka",
+      "chi": "相應部三九 沙門出家相應"
+    },
+    "SN40": {
+      "key": "SN.SN40",
+      "pali": "SN40 Moggallāna Saṃyutta",
+      "eng": "SN40 Connected Discourses with Moggallāna",
+      "chi": "相應部四十 目犍連相應"
+    },
+    "SN41": {
+      "key": "SN.SN41",
+      "pali": "SN41 Citta Saṃyutta",
+      "eng": "SN41 Connected Discourses with Citta",
+      "chi": "相應部四一 質多相應"
+    },
+    "SN42": {
+      "key": "SN.SN42",
+      "pali": "SN42 Gāmani Saṃyutta",
+      "eng": "SN42 Connected Discourses to Headmen",
+      "chi": "相應部四二 聚落主相應"
+    },
+    "SN43": {
+      "key": "SN.SN43",
+      "pali": "SN43 Asaṅkhata Saṃyutta",
+      "eng": "SN43 Connected Discourses on the Unconditioned",
+      "chi": "相應部四三 無為相應"
+    },
+    "SN44": {
+      "key": "SN.SN44",
+      "pali": "SN44 Avyākata Saṃyutta",
+      "eng": "SN44 Connected Discourses on the Undeclared",
+      "chi": "相應部四四 無記說相應"
+    },
+    "SN45": {
+      "key": "SN.SN45",
+      "pali": "SN45 Magga Saṃyutta",
+      "eng": "SN45 Connected Discourses on the Path",
+      "chi": "相應部四五 道相應"
+    },
+    "SN46": {
+      "key": "SN.SN46",
+      "pali": "SN46 Bojjhaṅga Saṃyutta",
+      "eng": "SN46 Connected Discourses on the Factors of Enlightenment",
+      "chi": "相應部四六 覺支相應"
+    },
+    "SN47": {
+      "key": "SN.SN47",
+      "pali": "SN47 Satipaṭṭhāna Saṃyutta",
+      "eng": "SN47 Connected Discourses on the Establishments of Mindfulness",
+      "chi": "相應部四七 念處相應"
+    },
+    "SN48": {
+      "key": "SN.SN48",
+      "pali": "SN48 Indriya Saṃyutta",
+      "eng": "SN48 Connected Discourses on the Faculties",
+      "chi": "相應部四八 根相應"
+    },
+    "SN49": {
+      "key": "SN.SN49",
+      "pali": "SN49 Sammappadhāna Saṃyutta",
+      "eng": "SN49 Connected Discourses on the Right Strivings",
+      "chi": "相應部四九 正勤相應"
+    },
+    "SN50": {
+      "key": "SN.SN50",
+      "pali": "SN50 Bala Saṃyutta",
+      "eng": "SN50 Connected Discourses on the Powers",
+      "chi": "相應部五十 力相應"
+    },
+    "SN51": {
+      "key": "SN.SN51",
+      "pali": "SN51 Iddhipāda Saṃyutta",
+      "eng": "SN51 Connected Discourses on the Bases for Spiritual Power",
+      "chi": "相應部五一 神足相應"
+    },
+    "SN52": {
+      "key": "SN.SN52",
+      "pali": "SN52 Anuruddha Saṃyutta",
+      "eng": "SN52 Connected Discourses with Anuruddha",
+      "chi": "相應部五二 阿那律相應"
+    },
+    "SN53": {
+      "key": "SN.SN53",
+      "pali": "SN53 Jhāna Saṃyutta",
+      "eng": "SN53 Connected Discourses on the Jhānas",
+      "chi": "相應部五三 靜慮相應"
+    },
+    "SN54": {
+      "key": "SN.SN54",
+      "pali": "SN54 Ānāpāna Saṃyutta",
+      "eng": "SN54 Connected Discourses on Breathing",
+      "chi": "相應部五四 入出息相應"
+    },
+    "SN55": {
+      "1": {
+        "key": "SN.SN55.1",
+        "pali": "SN55.1 cakkavattirājasuttaṃ",
+        "eng": "SN55.1 Wheel-Turning Monarch",
+        "chi": "相應部五五・一 轉輪王經"
+      },
+      "2": {
+        "key": "SN.SN55.2",
+        "pali": "SN55.2 brahmacariyogadhasuttaṃ",
+        "eng": "SN55.2 Grounded",
+        "chi": "相應部五五・二 梵行立足處經"
+      },
+      "3": {
+        "key": "SN.SN55.3",
+        "pali": "SN55.3 dīghāvūpāsakasuttaṃ",
+        "eng": "SN55.3 Dīghāvu",
+        "chi": "相應部五五・三 長壽優婆塞經"
+      },
+      "4": {
+        "key": "SN.SN55.4",
+        "pali": "SN55.4 paṭhamasāriputtasuttaṃ",
+        "eng": "SN55.4 Sāriputta (1)",
+        "chi": "相應部五五・四 舍利弗經第一"
+      },
+      "5": {
+        "key": "SN.SN55.5",
+        "pali": "SN55.5 dutiyasāriputtasuttaṃ",
+        "eng": "SN55.5 Sāriputta (2)",
+        "chi": "相應部五五・五 舍利弗經第二"
+      },
+      "6": {
+        "key": "SN.SN55.6",
+        "pali": "SN55.6 thapatisuttaṃ",
+        "eng": "SN55.6 The Chamberlains",
+        "chi": "相應部五五・六 侍從官經"
+      },
+      "7": {
+        "key": "SN.SN55.7",
+        "pali": "SN55.7 veḷudvāreyyasuttaṃ",
+        "eng": "SN55.7 The People of Bamboo Gate",
+        "chi": "相應部五五・七 竹門人經"
+      },
+      "8": {
+        "key": "SN.SN55.8",
+        "pali": "SN55.8 paṭhamagiñjakāvasathasuttaṃ",
+        "eng": "SN55.8 The Brick Hall (1)",
+        "chi": "相應部五五・八 磚屋經第一"
+      },
+      "9": {
+        "key": "SN.SN55.9",
+        "pali": "SN55.9 dutiyagiñjakāvasathasuttaṃ",
+        "eng": "SN55.9 The Brick Hall (2)",
+        "chi": "相應部五五・九 磚屋經第二"
+      },
+      "10": {
+        "key": "SN.SN55.10",
+        "pali": "SN55.10 tatiyagiñjakāvasathasuttaṃ",
+        "eng": "SN55.10 The Brick Hall (3)",
+        "chi": "相應部五五・十 磚屋經第三"
+      },
+      "11": {
+        "key": "SN.SN55.11",
+        "pali": "SN55.11 sahassabhikkhunisaṅghasuttaṃ",
+        "eng": "SN55.11 The Thousand",
+        "chi": "相應部五五・一一 千位比丘尼的僧團經"
+      },
+      "12": {
+        "key": "SN.SN55.12",
+        "pali": "SN55.12 brāhmaṇasuttaṃ",
+        "eng": "SN55.12 The Brahmins",
+        "chi": "相應部五五・一二 婆羅門經"
+      },
+      "13": {
+        "key": "SN.SN55.13",
+        "pali": "SN55.13 ānandattherasuttaṃ",
+        "eng": "SN55.13 Ānanda",
+        "chi": "相應部五五・一三 上座阿難經"
+      },
+      "14": {
+        "key": "SN.SN55.14",
+        "pali": "SN55.14 duggatibhayasuttaṃ",
+        "eng": "SN55.14 Bad Destination (1)",
+        "chi": "相應部五五・一四 害怕惡趣經"
+      },
+      "15": {
+        "key": "SN.SN55.15",
+        "pali": "SN55.15 duggativinipātabhayasuttaṃ",
+        "eng": "SN55.15 Bad Destination (2)",
+        "chi": "相應部五五・一五 害怕惡趣下界經"
+      },
+      "16": {
+        "key": "SN.SN55.16",
+        "pali": "SN55.16 paṭhamamittāmaccasuttaṃ",
+        "eng": "SN55.16 Friends and Colleagues (1)",
+        "chi": "相應部五五・一六 朋友與同事經第一"
+      },
+      "17": {
+        "key": "SN.SN55.17",
+        "pali": "SN55.17 dutiyamittāmaccasuttaṃ",
+        "eng": "SN55.17 Friends and Colleagues (2)",
+        "chi": "相應部五五・一七 朋友與同事經第二"
+      },
+      "18": {
+        "key": "SN.SN55.18",
+        "pali": "SN55.18 paṭhamadevacārikasuttaṃ",
+        "eng": "SN55.18 Visiting the Devas (1)",
+        "chi": "相應部五五・一八 天之行者經第一"
+      },
+      "19": {
+        "key": "SN.SN55.19",
+        "pali": "SN55.19 dutiyadevacārikasuttaṃ",
+        "eng": "SN55.19 Visiting the Devas (2)",
+        "chi": "相應部五五・一九 天之行者經第二"
+      },
+      "20": {
+        "key": "SN.SN55.20",
+        "pali": "SN55.20 tatiyadevacārikasuttaṃ",
+        "eng": "SN55.20 Visiting the Devas (3)",
+        "chi": "相應部五五・二十 天之行者經第三"
+      },
+      "key": "SN.SN55",
+      "pali": "SN55 Sotāpatti Saṃyutta",
+      "eng": "SN55 Connected Discourses on Stream-Entry",
+      "chi": "相應部五五 預流相應"
+    },
+    "SN56": {
+      "1": {
+        "key": "SN.SN56.1",
+        "pali": "SN56.1 samādhisuttaṃ",
+        "eng": "SN56.1 Concentration",
+        "chi": "相應部五六・一 定經"
+      },
+      "2": {
+        "key": "SN.SN56.2",
+        "pali": "SN56.2 paṭisallānasuttaṃ",
+        "eng": "SN56.2 Seclusion",
+        "chi": "相應部五六・二 獨坐經"
+      },
+      "3": {
+        "key": "SN.SN56.3",
+        "pali": "SN56.3 paṭhamakulaputtasuttaṃ",
+        "eng": "SN56.3 Clansmen (1)",
+        "chi": "相應部五六・三 善男子經第一"
+      },
+      "4": {
+        "key": "SN.SN56.4",
+        "pali": "SN56.4 dutiyakulaputtasuttaṃ",
+        "eng": "SN56.4 Clansmen (2)",
+        "chi": "相應部五六・四 善男子經第二"
+      },
+      "5": {
+        "key": "SN.SN56.5",
+        "pali": "SN56.5 paṭhamasamaṇabrāhmaṇasuttaṃ",
+        "eng": "SN56.5 Ascetics and Brahmins (1)",
+        "chi": "相應部五六・五 沙門婆羅門經第一"
+      },
+      "6": {
+        "key": "SN.SN56.6",
+        "pali": "SN56.6 dutiyasamaṇabrāhmaṇasuttaṃ",
+        "eng": "SN56.6 Ascetics and Brahmins (2)",
+        "chi": "相應部五六・六 沙門婆羅門經第二"
+      },
+      "7": {
+        "key": "SN.SN56.7",
+        "pali": "SN56.7 vitakkasuttaṃ",
+        "eng": "SN56.7 Thoughts",
+        "chi": "相應部五六・七 尋經"
+      },
+      "8": {
+        "key": "SN.SN56.8",
+        "pali": "SN56.8 cintasuttaṃ",
+        "eng": "SN56.8 Reflection",
+        "chi": "相應部五六・八 思惟經"
+      },
+      "9": {
+        "key": "SN.SN56.9",
+        "pali": "SN56.9 viggāhikakathāsuttaṃ",
+        "eng": "SN56.9 Disputatious Talk",
+        "chi": "相應部五六・九 諍論經"
+      },
+      "10": {
+        "key": "SN.SN56.10",
+        "pali": "SN56.10 tiracchānakathāsuttaṃ",
+        "eng": "SN56.10 Pointless Talk",
+        "chi": "相應部五六・十 畜生論經"
+      },
+      "11": {
+        "key": "SN.SN56.11",
+        "pali": "SN56.11 dhammacakkappavattanasuttaṃ",
+        "eng": "SN56.11 Setting in Motion the Wheel of the Dhamma",
+        "chi": "相應部五六・一一 法輪轉起經"
+      },
+      "12": {
+        "key": "SN.SN56.12",
+        "pali": "SN56.12 tathāgatasuttaṃ",
+        "eng": "SN56.12 Tathāgatas",
+        "chi": "相應部五六・一二 如來經"
+      },
+      "13": {
+        "key": "SN.SN56.13",
+        "pali": "SN56.13 khandhasuttaṃ",
+        "eng": "SN56.13 Aggregates",
+        "chi": "相應部五六・一三 蘊經"
+      },
+      "14": {
+        "key": "SN.SN56.14",
+        "pali": "SN56.14 ajjhattikāyatanasuttaṃ",
+        "eng": "SN56.14 Internal Sense Bases",
+        "chi": "相應部五六・一四 內處經"
+      },
+      "15": {
+        "key": "SN.SN56.15",
+        "pali": "SN56.15 paṭhamadhāraṇasuttaṃ",
+        "eng": "SN56.15 Remembrance (1)",
+        "chi": "相應部五六・一五 憶持經第一"
+      },
+      "16": {
+        "key": "SN.SN56.16",
+        "pali": "SN56.16 dutiyadhāraṇasuttaṃ",
+        "eng": "SN56.16 Remembrance (2)",
+        "chi": "相應部五六・一六 憶持經第二"
+      },
+      "17": {
+        "key": "SN.SN56.17",
+        "pali": "SN56.17 avijjāsuttaṃ",
+        "eng": "SN56.17 Ignorance",
+        "chi": "相應部五六・一七 無明經"
+      },
+      "18": {
+        "key": "SN.SN56.18",
+        "pali": "SN56.18 vijjāsuttaṃ",
+        "eng": "SN56.18 True Knowledge",
+        "chi": "相應部五六・一八 明經"
+      },
+      "19": {
+        "key": "SN.SN56.19",
+        "pali": "SN56.19 saṅkāsanasuttaṃ",
+        "eng": "SN56.19 Implications",
+        "chi": "相應部五六・一九 說明經"
+      },
+      "20": {
+        "key": "SN.SN56.20",
+        "pali": "SN56.20 tathasuttaṃ",
+        "eng": "SN56.20 Actual",
+        "chi": "相應部五六・二十 真實經"
+      },
+      "21": {
+        "key": "SN.SN56.21",
+        "pali": "SN56.21 paṭhamakoṭigāmasuttaṃ",
+        "eng": "SN56.21 Koṭigāma (1)",
+        "chi": "相應部五六・二一 拘利村經第一"
+      },
+      "22": {
+        "key": "SN.SN56.22",
+        "pali": "SN56.22 dutiyakoṭigāmasuttaṃ",
+        "eng": "SN56.22 Koṭigāma (2)",
+        "chi": "相應部五六・二二 拘利村經第二"
+      },
+      "23": {
+        "key": "SN.SN56.23",
+        "pali": "SN56.23 sammāsambuddhasuttaṃ",
+        "eng": "SN56.23 The Perfectly Enlightened One",
+        "chi": "相應部五六・二三 遍正覺者經"
+      },
+      "24": {
+        "key": "SN.SN56.24",
+        "pali": "SN56.24 arahantasuttaṃ",
+        "eng": "SN56.24 Arahants",
+        "chi": "相應部五六・二四 阿羅漢經"
+      },
+      "25": {
+        "key": "SN.SN56.25",
+        "pali": "SN56.25 āsavakkhayasuttaṃ",
+        "eng": "SN56.25 The Destruction of the Taints",
+        "chi": "相應部五六・二五 煩惱的滅盡經"
+      },
+      "26": {
+        "key": "SN.SN56.26",
+        "pali": "SN56.26 mittasuttaṃ",
+        "eng": "SN56.26 Friends",
+        "chi": "相應部五六・二六 朋友經"
+      },
+      "27": {
+        "key": "SN.SN56.27",
+        "pali": "SN56.27 tathasuttaṃ",
+        "eng": "SN56.27 Actual",
+        "chi": "相應部五六・二七 真實經"
+      },
+      "28": {
+        "key": "SN.SN56.28",
+        "pali": "SN56.28 lokasuttaṃ",
+        "eng": "SN56.28 The World",
+        "chi": "相應部五六・二八 世間經"
+      },
+      "29": {
+        "key": "SN.SN56.29",
+        "pali": "SN56.29 pariññeyyasuttaṃ",
+        "eng": "SN56.29 To Be Fully Understood",
+        "chi": "相應部五六・二九 應該被遍知經"
+      },
+      "30": {
+        "key": "SN.SN56.30",
+        "pali": "SN56.30 gavampatisuttaṃ",
+        "eng": "SN56.30 Gavampati",
+        "chi": "相應部五六・三十 牛主經"
+      },
+      "31": {
+        "key": "SN.SN56.31",
+        "pali": "SN56.31 sīsapāvanasuttaṃ",
+        "eng": "SN56.31 The Siṁsapā Grove",
+        "chi": "相應部五六・三一 申恕林經"
+      },
+      "32": {
+        "key": "SN.SN56.32",
+        "pali": "SN56.32 khadirapattasuttaṃ",
+        "eng": "SN56.32 Acacia",
+        "chi": "相應部五六・三二 金合歡樹樹葉經"
+      },
+      "33": {
+        "key": "SN.SN56.33",
+        "pali": "SN56.33 daṇḍasuttaṃ",
+        "eng": "SN56.33 Stick",
+        "chi": "相應部五六・三三 棍子經"
+      },
+      "34": {
+        "key": "SN.SN56.34",
+        "pali": "SN56.34 celasuttaṃ",
+        "eng": "SN56.34 Clothes",
+        "chi": "相應部五六・三四 衣服經"
+      },
+      "35": {
+        "key": "SN.SN56.35",
+        "pali": "SN56.35 sattisatasuttaṃ",
+        "eng": "SN56.35 A Hundred Spears",
+        "chi": "相應部五六・三五 百槍經"
+      },
+      "36": {
+        "key": "SN.SN56.36",
+        "pali": "SN56.36 pāṇasuttaṃ",
+        "eng": "SN56.36 Creatures",
+        "chi": "相應部五六・三六 生物經"
+      },
+      "37": {
+        "key": "SN.SN56.37",
+        "pali": "SN56.37 paṭhamasūriyasuttaṃ",
+        "eng": "SN56.37 The Sun (1)",
+        "chi": "相應部五六・三七 太陽經第一"
+      },
+      "38": {
+        "key": "SN.SN56.38",
+        "pali": "SN56.38 dutiyasūriyasuttaṃ",
+        "eng": "SN56.38 The Sun (2)",
+        "chi": "相應部五六・三八 太陽經第二"
+      },
+      "39": {
+        "key": "SN.SN56.39",
+        "pali": "SN56.39 indakhīlasuttaṃ",
+        "eng": "SN56.39 Indra’s Pillar",
+        "chi": "相應部五六・三九 因陀羅柱經"
+      },
+      "40": {
+        "key": "SN.SN56.40",
+        "pali": "SN56.40 vādatthikasuttaṃ",
+        "eng": "SN56.40 Seeking an Argument",
+        "chi": "相應部五六・四十 追求辯論經"
+      },
+      "41": {
+        "key": "SN.SN56.41",
+        "pali": "SN56.41 lokacintāsuttaṃ",
+        "eng": "SN56.41 Reflection about the World",
+        "chi": "相應部五六・四一 世間之思惟經"
+      },
+      "42": {
+        "key": "SN.SN56.42",
+        "pali": "SN56.42 papātasuttaṃ",
+        "eng": "SN56.42 The Precipice",
+        "chi": "相應部五六・四二 斷崖經"
+      },
+      "43": {
+        "key": "SN.SN56.43",
+        "pali": "SN56.43 mahāpariḷāhasuttaṃ",
+        "eng": "SN56.43 The Great Conflagration",
+        "chi": "相應部五六・四三 大熱惱經"
+      },
+      "44": {
+        "key": "SN.SN56.44",
+        "pali": "SN56.44 kūṭāgārasuttaṃ",
+        "eng": "SN56.44 Peaked House",
+        "chi": "相應部五六・四四 重閣經"
+      },
+      "45": {
+        "key": "SN.SN56.45",
+        "pali": "SN56.45 vālasuttaṃ",
+        "eng": "SN56.45 The Hair",
+        "chi": "相應部五六・四五 毛經"
+      },
+      "46": {
+        "key": "SN.SN56.46",
+        "pali": "SN56.46 andhakārasuttaṃ",
+        "eng": "SN56.46 Darkness",
+        "chi": "相應部五六・四六 黑暗經"
+      },
+      "47": {
+        "key": "SN.SN56.47",
+        "pali": "SN56.47 paṭhamachiggaḷayugasuttaṃ",
+        "eng": "SN56.47 Yoke with a Hole (1)",
+        "chi": "相應部五六・四七 有孔之軛經第一"
+      },
+      "48": {
+        "key": "SN.SN56.48",
+        "pali": "SN56.48 dutiyachiggaḷayugasuttaṃ",
+        "eng": "SN56.48 Yoke with a Hole (2)",
+        "chi": "相應部五六・四八 有孔之軛經第二"
+      },
+      "49": {
+        "key": "SN.SN56.49",
+        "pali": "SN56.49 paṭhamasinerupabbatarājasuttaṃ",
+        "eng": "SN56.49 Sineru (1)",
+        "chi": "相應部五六・四九 須彌山山王經第一"
+      },
+      "50": {
+        "key": "SN.SN56.50",
+        "pali": "SN56.50 dutiyasinerupabbatarājasuttaṃ",
+        "eng": "SN56.50 Sineru (2)",
+        "chi": "相應部五六・五十 須彌山山王經第二"
+      },
+      "51": {
+        "key": "SN.SN56.51",
+        "pali": "SN56.51 nakhasikhasuttaṃ",
+        "eng": "SN56.51 The Fingernail",
+        "chi": "相應部五六・五一 指甲尖經"
+      },
+      "52": {
+        "key": "SN.SN56.52",
+        "pali": "SN56.52 pokkharaṇīsuttaṃ",
+        "eng": "SN56.52 The Pond",
+        "chi": "相應部五六・五二 蓮花池經"
+      },
+      "53": {
+        "key": "SN.SN56.53",
+        "pali": "SN56.53 paṭhamasaṃbhejjasuttaṃ",
+        "eng": "SN56.53 Water at the Confluence (1)",
+        "chi": "相應部五六・五三 合流經第一"
+      },
+      "54": {
+        "key": "SN.SN56.54",
+        "pali": "SN56.54 dutiyasaṃbhejjasuttaṃ",
+        "eng": "SN56.54 Water at the Confluence (2)",
+        "chi": "相應部五六・五四 合流經第二"
+      },
+      "55": {
+        "key": "SN.SN56.55",
+        "pali": "SN56.55 paṭhamamahāpathavīsuttaṃ",
+        "eng": "SN56.55 The Earth (1)",
+        "chi": "相應部五六・五五 大地經第一"
+      },
+      "56": {
+        "key": "SN.SN56.56",
+        "pali": "SN56.56 dutiyamahāpathavīsuttaṃ",
+        "eng": "SN56.56 The Earth (2)",
+        "chi": "相應部五六・五六 大地經第二"
+      },
+      "57": {
+        "key": "SN.SN56.57",
+        "pali": "SN56.57 paṭhamamahāsamuddasuttaṃ",
+        "eng": "SN56.57 The Ocean (1)",
+        "chi": "相應部五六・五七 大海經第一"
+      },
+      "58": {
+        "key": "SN.SN56.58",
+        "pali": "SN56.58 dutiyamahāsamuddasuttaṃ",
+        "eng": "SN56.58 The Ocean (2)",
+        "chi": "相應部五六・五八 大海經第二"
+      },
+      "59": {
+        "key": "SN.SN56.59",
+        "pali": "SN56.59 paṭhamapabbatūpamasuttaṃ",
+        "eng": "SN56.59 The Mountain (1)",
+        "chi": "相應部五六・五九 像山一樣經第一"
+      },
+      "60": {
+        "key": "SN.SN56.60",
+        "pali": "SN56.60 dutiyapabbatūpamasuttaṃ",
+        "eng": "SN56.60 The Mountain (2)",
+        "chi": "相應部五六・六十 像山一樣經第二"
+      },
+      "61": {
+        "key": "SN.SN56.61",
+        "pali": "SN56.61 aññatrasuttaṃ",
+        "eng": "SN56.61 Elsewhere",
+        "chi": "相應部五六・六一 他處經"
+      },
+      "62": {
+        "key": "SN.SN56.62",
+        "pali": "SN56.62 paccantasuttaṃ",
+        "eng": "SN56.62 Outlying Countries",
+        "chi": "相應部五六・六二 邊地經"
+      },
+      "63": {
+        "key": "SN.SN56.63",
+        "pali": "SN56.63 paññāsuttaṃ",
+        "eng": "SN56.63 Wisdom",
+        "chi": "相應部五六・六三 慧經"
+      },
+      "64": {
+        "key": "SN.SN56.64",
+        "pali": "SN56.64 surāmerayasuttaṃ",
+        "eng": "SN56.64 Wines and Liquors",
+        "chi": "相應部五六・六四 榖酒果酒經"
+      },
+      "65": {
+        "key": "SN.SN56.65",
+        "pali": "SN56.65 odakasuttaṃ",
+        "eng": "SN56.65 Water–Born",
+        "chi": "相應部五六・六五 水經"
+      },
+      "66": {
+        "key": "SN.SN56.66",
+        "pali": "SN56.66 matteyyasuttaṃ",
+        "eng": "SN56.66 Who Honour Mother",
+        "chi": "相應部五六・六六 尊敬母親經"
+      },
+      "67": {
+        "key": "SN.SN56.67",
+        "pali": "SN56.67 petteyyasuttaṃ",
+        "eng": "SN56.67 Who Honour Father",
+        "chi": "相應部五六・六七 尊敬父親經"
+      },
+      "68": {
+        "key": "SN.SN56.68",
+        "pali": "SN56.68 sāmaññasuttaṃ",
+        "eng": "SN56.68 Who Honour Ascetics",
+        "chi": "相應部五六・六八 尊敬沙門經"
+      },
+      "69": {
+        "key": "SN.SN56.69",
+        "pali": "SN56.69 brahmaññasuttaṃ",
+        "eng": "SN56.69 Who Honour Brahmins",
+        "chi": "相應部五六・六九 尊敬婆羅門經"
+      },
+      "70": {
+        "key": "SN.SN56.70",
+        "pali": "SN56.70 pacāyikasuttaṃ",
+        "eng": "SN56.70 Who Respect Elders",
+        "chi": "相應部五六・七十 尊敬經"
+      },
+      "71": {
+        "key": "SN.SN56.71",
+        "pali": "SN56.71 pāṇātipātasuttaṃ",
+        "eng": "SN56.71 Killing Living Beings",
+        "chi": "相應部五六・七一 殺生經"
+      },
+      "72": {
+        "key": "SN.SN56.72",
+        "pali": "SN56.72 adinnādānasuttaṃ",
+        "eng": "SN56.72 Taking What Is Not Given",
+        "chi": "相應部五六・七二 未給予而取經"
+      },
+      "73": {
+        "key": "SN.SN56.73",
+        "pali": "SN56.73 kāmesumicchācārasuttaṃ",
+        "eng": "SN56.73 Sexual Misconduct",
+        "chi": "相應部五六・七三 邪淫經"
+      },
+      "74": {
+        "key": "SN.SN56.74",
+        "pali": "SN56.74 musāvādasuttaṃ",
+        "eng": "SN56.74 False Speech",
+        "chi": "相應部五六・七四 妄語經"
+      },
+      "75": {
+        "key": "SN.SN56.75",
+        "pali": "SN56.75 pesuññasuttaṃ",
+        "eng": "SN56.75 Divisive Speech",
+        "chi": "相應部五六・七五 離間語經"
+      },
+      "76": {
+        "key": "SN.SN56.76",
+        "pali": "SN56.76 pharusavācāsuttaṃ",
+        "eng": "SN56.76 Harsh Speech",
+        "chi": "相應部五六・七六 粗惡語經"
+      },
+      "77": {
+        "key": "SN.SN56.77",
+        "pali": "SN56.77 samphappalāpasuttaṃ",
+        "eng": "SN56.77 Idle Chatter",
+        "chi": "相應部五六・七七 雜穢語經"
+      },
+      "78": {
+        "key": "SN.SN56.78",
+        "pali": "SN56.78 bījagāmasuttaṃ",
+        "eng": "SN56.78 Seed Life",
+        "chi": "相應部五六・七八 種子類經"
+      },
+      "79": {
+        "key": "SN.SN56.79",
+        "pali": "SN56.79 vikālabhojanasuttaṃ",
+        "eng": "SN56.79 Improper Times",
+        "chi": "相應部五六・七九 非時食經"
+      },
+      "80": {
+        "key": "SN.SN56.80",
+        "pali": "SN56.80 gandhavilepanasuttaṃ",
+        "eng": "SN56.80 Scents and Unguents",
+        "chi": "相應部五六・八十 香料香膏經"
+      },
+      "81": {
+        "key": "SN.SN56.81",
+        "pali": "SN56.81 naccagītasuttaṃ",
+        "eng": "SN56.81 Dancing and Singing",
+        "chi": "相應部五六・八一 跳舞歌曲經"
+      },
+      "82": {
+        "key": "SN.SN56.82",
+        "pali": "SN56.82 uccāsayanasuttaṃ",
+        "eng": "SN56.82 High Beds",
+        "chi": "相應部五六・八二 高床經"
+      },
+      "83": {
+        "key": "SN.SN56.83",
+        "pali": "SN56.83 jātarūparajatasuttaṃ",
+        "eng": "SN56.83 Gold and Silver",
+        "chi": "相應部五六・八三 金銀經"
+      },
+      "84": {
+        "key": "SN.SN56.84",
+        "pali": "SN56.84 āmakadhaññasuttaṃ",
+        "eng": "SN56.84 Raw Grain",
+        "chi": "相應部五六・八四 生穀經"
+      },
+      "85": {
+        "key": "SN.SN56.85",
+        "pali": "SN56.85 āmakamaṃsasuttaṃ",
+        "eng": "SN56.85 Raw Meat",
+        "chi": "相應部五六・八五 生肉經"
+      },
+      "86": {
+        "key": "SN.SN56.86",
+        "pali": "SN56.86 kumārikasuttaṃ",
+        "eng": "SN56.86 Girls",
+        "chi": "相應部五六・八六 少女經"
+      },
+      "87": {
+        "key": "SN.SN56.87",
+        "pali": "SN56.87 dāsidāsasuttaṃ",
+        "eng": "SN56.87 Slaves",
+        "chi": "相應部五六・八七 男奴僕女奴經"
+      },
+      "88": {
+        "key": "SN.SN56.88",
+        "pali": "SN56.88 ajeḷakasuttaṃ",
+        "eng": "SN56.88 Goats and Sheep",
+        "chi": "相應部五六・八八 山羊與羊經"
+      },
+      "89": {
+        "key": "SN.SN56.89",
+        "pali": "SN56.89 kukkuṭasūkarasuttaṃ",
+        "eng": "SN56.89 Fowl and Swine",
+        "chi": "相應部五六・八九 雞與豬經"
+      },
+      "90": {
+        "key": "SN.SN56.90",
+        "pali": "SN56.90 hatthigavassasuttaṃ",
+        "eng": "SN56.90 Elephants",
+        "chi": "相應部五六・九十 象與牛經"
+      },
+      "91": {
+        "key": "SN.SN56.91",
+        "pali": "SN56.91 khettavatthusuttaṃ",
+        "eng": "SN56.91 Fields",
+        "chi": "相應部五六・九一 田與地經"
+      },
+      "92": {
+        "key": "SN.SN56.92",
+        "pali": "SN56.92 kayavikkayasuttaṃ",
+        "eng": "SN56.92 Buying and Selling",
+        "chi": "相應部五六・九二 買賣經"
+      },
+      "93": {
+        "key": "SN.SN56.93",
+        "pali": "SN56.93 dūteyyasuttaṃ",
+        "eng": "SN56.93 Messages",
+        "chi": "相應部五六・九三 差使經"
+      },
+      "94": {
+        "key": "SN.SN56.94",
+        "pali": "SN56.94 tulākūṭasuttaṃ",
+        "eng": "SN56.94 False Weights",
+        "chi": "相應部五六・九四 在秤重上欺瞞經"
+      },
+      "95": {
+        "key": "SN.SN56.95",
+        "pali": "SN56.95 ukkoṭanasuttaṃ",
+        "eng": "SN56.95 Bribery",
+        "chi": "相應部五六・九五 賄賂經"
+      },
+      "102": {
+        "key": "SN.SN56.102",
+        "pali": "SN56.102 manussacutinirayasuttaṃ",
+        "eng": "SN56.102 Passing Away as Humans (1)",
+        "chi": "相應部五六・一〇二 人死地獄經"
+      },
+      "103": {
+        "key": "SN.SN56.103",
+        "pali": "SN56.103 manussacutitiracchānasuttaṃ",
+        "eng": "SN56.103 Passing Away as Humans (2)",
+        "chi": "相應部五六・一〇三 人死畜生經"
+      },
+      "104": {
+        "key": "SN.SN56.104",
+        "pali": "SN56.104 manussacutipettivisayasuttaṃ",
+        "eng": "SN56.104 Passing Away as Humans (3)",
+        "chi": "相應部五六・一〇四 人死餓鬼界經"
+      },
+      "131": {
+        "key": "SN.SN56.131",
+        "pali": "SN56.131 pettidevapettivisayasuttaṃ",
+        "eng": "SN56.131 Passing Away from the Domain of Ghosts (6)",
+        "chi": "相應部五六・一三一 餓鬼天餓鬼界經"
+      },
+      "key": "SN.SN56",
+      "pali": "SN56 Sacca Saṃyutta",
+      "eng": "SN56 Connected Discourses on the Truths",
+      "chi": "相應部五六 諦相應",
+      "96–101": {
+        "key": "SN.SN56.96–101",
+        "pali": "SN56.96–101 chedanādisuttaṃ",
+        "eng": "SN56.96–101 Mutilating, Etc.",
+        "chi": "相應部五六・九六至一〇一 割截等經"
+      },
+      "105–107": {
+        "key": "SN.SN56.105–107",
+        "pali": "SN56.105–107 manussacutidevanirayādisuttaṃ",
+        "eng": "SN56.105–107 Passing Away as Humans (4–6)",
+        "chi": "相應部五六・一〇五至一〇七 人死天地獄等經"
+      },
+      "108–110": {
+        "key": "SN.SN56.108–110",
+        "pali": "SN56.108–110 devacutinirayādisuttaṃ",
+        "eng": "SN56.108–110 Passing Away as Devas (1–3)",
+        "chi": "相應部五六・一〇八至一一〇 天死地獄等經"
+      },
+      "111–113": {
+        "key": "SN.SN56.111–113",
+        "pali": "SN56.111–113 devamanussanirayādisuttaṃ",
+        "eng": "SN56.111–113 Passing Away as Devas (4–6)",
+        "chi": "相應部五六・一一一至一一三 天人地獄等經"
+      },
+      "114–116": {
+        "key": "SN.SN56.114–116",
+        "pali": "SN56.114–116 nirayamanussanirayādisuttaṃ",
+        "eng": "SN56.114–116 Passing Away from Hell (1–3)",
+        "chi": "相應部五六・一一四至一一六 地獄人地獄等經"
+      },
+      "117–119": {
+        "key": "SN.SN56.117–119",
+        "pali": "SN56.117–119 nirayadevanirayādisuttaṃ",
+        "eng": "SN56.117–119 Passing Away from Hell (4–6)",
+        "chi": "相應部五六・一一七至一一九 地獄天地獄等經"
+      },
+      "120–122": {
+        "key": "SN.SN56.120–122",
+        "pali": "SN56.120–122 tiracchānamanussanirayādisuttaṃ",
+        "eng": "SN56.120–122 Passing Away from the Animal Realm (1–3)",
+        "chi": "相應部五六・一二〇至一二二 畜生人地獄等經"
+      },
+      "123–125": {
+        "key": "SN.SN56.123–125",
+        "pali": "SN56.123–125 tiracchānadevanirayādisuttaṃ",
+        "eng": "SN56.123–125 Passing Away from the Animal Realm (4–6)",
+        "chi": "相應部五六・一二三至一二五 畜生天地獄等經"
+      },
+      "126–128": {
+        "key": "SN.SN56.126–128",
+        "pali": "SN56.126–128 pettimanussanirayādisuttaṃ",
+        "eng": "SN56.126–128 Passing Away from the Domain of Ghosts (1–3)",
+        "chi": "相應部五六・一二六至一二八 餓鬼人地獄等經"
+      },
+      "129–130": {
+        "key": "SN.SN56.129–130",
+        "pali": "SN56.129–130 pettidevanirayādisuttaṃ",
+        "eng": "SN56.129–130 Passing Away from the Domain of Ghosts (4)",
+        "chi": "相應部五六・一二九至一三〇 餓鬼天地獄等經"
+      }
+    }
+  },
+  "AN": {
+    "key": "AN",
+    "pali": "Aṅguttara Nikāya ",
+    "eng": "The Numerical Discourses",
+    "chi": "增支部",
+    "AN1": {
+      "key": "AN.AN1",
+      "pali": "AN1 Ekaka Nipāta",
+      "eng": "The Book of the Ones",
+      "chi": "增支部一 第一集"
+    },
+    "AN2": {
+      "key": "AN.AN2",
+      "pali": "AN2 Duka Nipāta",
+      "eng": "The Book of the Twos",
+      "chi": "增支部二 第二集"
+    },
+    "AN3": {
+      "key": "AN.AN3",
+      "pali": "AN3 Tika Nipāta",
+      "eng": "The Book of the Threes",
+      "chi": "增支部三 第三集"
+    },
+    "AN4": {
+      "key": "AN.AN4",
+      "pali": "AN4 Catukka Nipāta",
+      "eng": "The Book of the Fours",
+      "chi": "增支部四 第四集"
+    },
+    "AN5": {
+      "key": "AN.AN5",
+      "pali": "AN5 Pañcaka Nipāta",
+      "eng": "The Book of the Fives",
+      "chi": "增支部五 第五集"
+    },
+    "AN6": {
+      "key": "AN.AN6",
+      "pali": "AN6 Chakka Nipāta",
+      "eng": "The Book of the Sixes",
+      "chi": "增支部六 第六集"
+    },
+    "AN7": {
+      "key": "AN.AN7",
+      "pali": "AN7 Sattaka Nipāta",
+      "eng": "The Book of the Sevens",
+      "chi": "增支部七 第七集"
+    },
+    "AN8": {
+      "key": "AN.AN8",
+      "pali": "AN8 Aṭṭhaka Nipāta",
+      "eng": "The Book of the Eights",
+      "chi": "增支部八 第八集"
+    },
+    "AN9": {
+      "key": "AN.AN9",
+      "pali": "AN9 Navaka Nipāta",
+      "eng": "The Book of the Nines",
+      "chi": "增支部九 第九集"
+    },
+    "AN10": {
+      "key": "AN.AN10",
+      "pali": "AN10 Dasaka Nipāta",
+      "eng": "The Book of the Tens",
+      "chi": "增支部十 第十集"
+    },
+    "AN11": {
+      "key": "AN.AN11",
+      "pali": "AN11 Ekādasaka Nipāta",
+      "eng": "The Book of the Elevens",
+      "chi": "增支部十一 第十一集"
+    }
+  }
+}
