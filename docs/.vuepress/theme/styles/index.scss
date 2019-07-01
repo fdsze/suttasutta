@@ -1,16 +1,20 @@
 @import './config.scss';
-@import './code.scss';
-@import './custom-blocks.scss';
 @import './arrow.scss';
+@import './code.scss';
 @import './wrapper.scss';
 @import './toc.scss';
+@import './custom-blocks.scss';
+@import './page.scss';
+@import './sidebar-link.scss';
+@import './navbar.scss';
 
-
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bellefair&display=swap');
 
 html, body {
   padding: 0;
   margin: 0;
-  background-color: #fff;
+  background-color: #f9f7f0;
 }
 
 body {
@@ -34,7 +38,8 @@ body {
   height: $navbarHeight;
   background-color: #fff;
   box-sizing: border-box;
-  border-bottom: 1px solid $borderColor;
+  border-bottom: 1px solid $darkborderColor;
+  box-shadow: 0 4px 0 0 rgba($textColor, 0.03);
 }
 
 .sidebar-mask {
@@ -49,7 +54,7 @@ body {
 
 .sidebar {
   font-size: 16px;
-  background-color: #fff;
+  background-color: #f9f7f0;
   width: $sidebarWidth;
   position: fixed;
   z-index: 10;
@@ -69,7 +74,7 @@ body {
   }
 
   a:hover {
-    text-decoration: underline;
+    // text-decoration: underline;
   }
 
   p.demo {
@@ -233,7 +238,6 @@ th, td {
     }
   }
 }
-
 
 @media (min-width: $MQMobile + 1px) {
   .theme-container.no-sidebar {

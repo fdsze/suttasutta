@@ -116,6 +116,8 @@ export default {
 </script>
 
 <style lang="stylus">
+$accentColor = #ff7300
+
 .nav-links
   display inline-block
   a
@@ -126,7 +128,7 @@ export default {
   .nav-item
     position relative
     display inline-block
-    margin-left 1.5rem
+    margin-left 1rem
     line-height 2rem
     &:first-child
       margin-left 0

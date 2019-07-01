@@ -1,0 +1,82 @@
+$navbar-vertical-padding: 0.7rem;
+$navbar-horizontal-padding: 1.5rem;
+
+#nprogress .bar {
+  height: 3px;
+  background-color: rgba($accentColor, 0.9);
+
+  .peg {
+    box-shadow: none;
+  }
+}
+
+.navbar {
+  border-top: 3px solid rgba($accentColor, 0.9); 
+  padding: $navbar-vertical-padding $navbar-horizontal-padding;
+  line-height: $navbarHeight - 1.4rem;
+
+  .nprogress-busy & {
+    border-top-color: transparent;  
+  }
+
+  a, span, img {
+    display: inline-block;
+  }
+
+  .logo {
+    height: $navbarHeight - 1.4rem;
+    min-width: $navbarHeight - 1.4rem;
+    margin-right: 0.8rem;
+    vertical-align: top;
+  }
+
+  .site-name {
+    font-family: 'Bellefair', serif;
+    font-size: 21px;
+    font-weight: 400;
+    color: $accentColor;
+    position: relative;
+    letter-spacing: 0.4em;
+  }
+
+  .home-link {
+    position: absolute;
+    left: 50%;
+    transform: translateX(calc(-50% + 25px));
+  }
+
+  .links {
+    padding-left: 1.5rem;
+    box-sizing: border-box;
+    background-color: white;
+    white-space: nowrap;
+    font-size: 0.9rem;
+    position: absolute;
+    right: $navbar-horizontal-padding;
+    top: $navbar-vertical-padding;
+    display: flex;
+
+    .search-box {
+      flex: 0 0 auto;
+      vertical-align: top;
+
+      .suggestions {
+        right: 0;
+      }
+    }
+  }
+}
+
+@media (max-width: $MQMobile) {
+  .navbar {
+    padding-left: 4rem;
+
+    .can-hide {
+      display: none;
+    }
+
+    .links {
+      padding-left: 1.5rem;
+    }
+  }
+}
