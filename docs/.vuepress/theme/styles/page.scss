@@ -12,6 +12,15 @@
     text-indent: -50px;
     letter-spacing: 0.05em;
     clear: both;
+
+    @media (max-width: $MQNarrow) {
+      text-indent: unset;
+    }
+
+    @media (max-width: $MQMobile) {
+      margin-left: 25px;
+      margin-right: 25px;
+    }
   }
 
   h3 {
@@ -39,6 +48,11 @@
     max-width: $contentWidth;
     margin-left: auto;
     margin-right: auto;
+
+    @media (max-width: $MQMobile) {
+      margin-left: 25px;
+      margin-right: 25px;
+    }
   }
 
   // hr + h3 {
@@ -58,13 +72,21 @@
       margin-right: 10px;
 
       @media (max-width: $MQMobile) {
-        width: 100%;
+        float: none;
+        width: auto;
+        margin-left: 25px;
+        margin-right: 25px;
       }
     }
   }
 
   h5 {
     margin-left: 10px; 
+
+    @media (max-width: $MQMobile) {
+      margin-left: 25px;
+      margin-right: 25px;
+    }
   }
 
   hr {
@@ -120,12 +142,16 @@
 .page-nav {
   // @extend .wrapper;
   
-  width: 100%;
+  width: calc(100% + 20px);
   margin-left: -10px;
   margin-right: -10px;
   padding-top: 1rem;
   padding-bottom: 0;
   clear: both;
+
+  @media (max-width: $MQMobile) {
+    width: calc(100% + 20px);
+  }
 
   .inner {
     max-width: none;

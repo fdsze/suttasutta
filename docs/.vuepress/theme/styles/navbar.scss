@@ -37,12 +37,21 @@ $navbar-horizontal-padding: 1.5rem;
     color: $accentColor;
     position: relative;
     letter-spacing: 0.4em;
+    margin-right: -0.6em;
+
+    @media (max-width: $MQMobile) {
+      font-size: 18px;
+    }
   }
 
   .home-link {
     position: absolute;
     left: 50%;
     transform: translateX(calc(-50% + 25px));
+
+    @media (max-width: $MQMobile) {
+      transform: translateX(calc(-50%));
+    }
   }
 
   .links {
@@ -60,8 +69,23 @@ $navbar-horizontal-padding: 1.5rem;
       flex: 0 0 auto;
       vertical-align: top;
 
+      input:focus {
+        cursor: auto;
+        border-color: $accentColor;
+      }
+
       .suggestions {
         right: 0;
+      }
+
+      .suggestion {
+        a {
+          color: $textColor;
+        }
+
+        &.focused a {
+          color: $accentColor;
+        }
       }
     }
   }
