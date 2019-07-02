@@ -76,24 +76,173 @@ The Buddha said this:
 
 ---
 
-“Dvemāni, bhikkhave, vajjāni. Katamāni dve? Diṭṭhadhammikañca vajjaṃ samparāyikañca vajjaṃ. Katamañca, bhikkhave, diṭṭhadhammikaṃ vajjaṃ? Idha, bhikkhave, ekacco passati coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā kārente; kasāhipi tāḷente, vettehipi tāḷente, addhadaṇḍakehipi tāḷente, hatthampi chindante, pādampi chindante, hatthapādampi chindante, kaṇṇampi chindante, nāsampi chindante, kaṇṇanāsampi chindante, bilaṅgathālikampi karonte, saṅkhamuṇḍikampi karonte, rāhumukhampi karonte, jotimālikampi karonte, hatthapajjotikampi karonte, erakavattikampi karonte, cīrakavāsikampi karonte, eṇeyyakampi karonte, baḷisamaṃsikampi karonte, kahāpaṇikampi karonte, khārāpatacchikampi karonte, palighaparivattikampi karonte, palālapīṭhakampi karonte, tattenapi telena osiñcante, sunakhehipi khādāpente, jīvantampi sūle uttāsente, asināpi sīsaṃ chindante.
+“Dvemāni, bhikkhave, vajjāni. Katamāni dve? 
 
-“There are, mendicants, these two faults. What two? The fault apparent in the present life, and the fault to do with lives to come. What is the fault apparent in the present life? It’s when someone sees that kings have arrested a bandit, a criminal, and subjected them to various punishments—whipping, caning, and clubbing; cutting off hands or feet, or both; cutting off ears or nose, or both; the ‘porridge pot’, the ‘shell-shave’, the ‘demon’s mouth’, the ‘garland of fire’, the ‘burning hand’, the ‘grass blades’, the ‘bark dress’, the ‘antelope’, the ‘meat hook’, the ‘coins’, the ‘acid pickle’, the ‘twisting bar’, the ‘straw mat’; being splashed with hot oil, being fed to the dogs, being impaled alive, and being beheaded.
+“There are, mendicants, these two faults. What two?
 
-「比丘們！有這二種罪過，哪二種呢？當生的罪過與來世的罪過。 
-比丘們！什麼是當生的罪過呢？比丘們！這裡，某人看見國王捕捉盜賊、罪犯後，會處以種種刑罰：會以鞭打、以棒打、以手杖打，會切斷手、腳、手與腳、耳、鼻、耳與鼻，會處以酸粥鍋刑、貝禿刑、羅侯口刑、火鬘刑、燭手刑、驅行刑、樹皮衣刑、羚羊刑、鉤肉刑、錢刑、鹼浴刑、扭轉門閂刑、稻草足踏台刑，會淋熱油，會令狗咬，會活著令刺入，會以刀劍砍頭。 
+「比丘們！有這二種罪過，哪二種呢？
 
-「諸比丘！此等是二種罪。云何為二？現世之罪與後世之罪。又，諸比丘！云何為現世之罪？諸比丘！世上一類之人，曾見王者捕犯罪之賊，而科以種種之刑罰。施以鞭撻，施以杖撻，施以棍棒撻，或截手、截足、截手足、割刵、割劓、截耳鼻。或造粥鍋之狀、或造如貝〔有滑澤〕禿頭之狀、或造成羅睺鬼之口狀、造成火鬘之狀、造成手燈之 [P.48] 狀、造成草衣之狀、造成樹皮衣之狀、造成羚羊之狀、造成鉤肉之狀、造成銅錢之狀，再以鹽分使之糜爛，用橫木貫通而令迴轉之、造成稻草座狀，用極熱之油澆浴，再予〔餓〕狗咬食，而活生生串而貫通，以刀斷首。
+「諸比丘！此等是二種罪。云何為二？
 
 ---
 
-Tassa evaṃ hoti: ‘yathārūpānaṃ kho pāpakānaṃ kammānaṃ hetu coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā kārenti; kasāhipi tāḷenti, vettehipi tāḷenti, addhadaṇḍakehipi tāḷenti, hatthampi chindanti, pādampi chindanti, hatthapādampi chindanti, kaṇṇampi chindanti, nāsampi chindanti, kaṇṇanāsampi chindanti, bilaṅgathālikampi karonti, saṅkhamuṇḍikampi karonti, rāhumukhampi karonti, jotimālikampi karonti, hatthapajjotikampi karonti, erakavattikampi karonti, cīrakavāsikampi karonti, eṇeyyakampi karonti, baḷisamaṃsikampi karonti, kahāpaṇikampi karonti, khārāpatacchikampi karonti, palighaparivattikampi karonti, palālapīṭhakampi karonti, tattenapi telena osiñcanti, sunakhehipi khādāpenti, jīvantampi sūle uttāsenti, asināpi sīsaṃ chindanti. Ahañceva kho pana evarūpaṃ pāpakammaṃ kareyyaṃ, mampi rājāno gahetvā evarūpā vividhā kammakāraṇā kāreyyuṃ; kasāhipi tāḷeyyuṃ … pe … asināpi sīsaṃ chindeyyun’ti. So diṭṭhadhammikassa vajjassa bhīto na paresaṃ pābhataṃ vilumpanto carati. Idaṃ vuccati, bhikkhave, diṭṭhadhammikaṃ vajjaṃ.
+Diṭṭhadhammikañca vajjaṃ samparāyikañca vajjaṃ. 
 
-It occurs to them: ‘If I were to commit the kinds of bad deeds for which the kings arrested that bandit, that criminal, the rulers would arrest me and subject me to the same punishments. Afraid of the fault apparent in the present life, they do not steal the belongings of others. This is called the fault apparent in the present life.
+The fault apparent in the present life, and the fault to do with lives to come.
 
-他這麼想：『因為像那樣惡的行為，國王捕捉盜賊、罪犯後，處以種種刑罰：以鞭打、以棒打、以手杖打，切斷手、腳、手與腳、耳、鼻、耳與鼻，處以酸粥鍋刑、貝禿刑、羅侯口刑、火鬘刑、燭手刑、驅行刑、樹皮衣刑、羚羊刑、鉤肉刑、錢刑、鹼浴刑、扭轉門閂刑、稻草足踏台刑，淋熱油，令狗咬，活著令刺入，以刀劍砍頭，如果我作像那樣惡的行為，國王捕捉我後，也會處以種種刑罰：也會以鞭打、……（中略）也會以刀劍砍頭。』當害怕當生的罪過時，他對他人的資財不行掠奪，比丘們！這被稱為當生的罪過。 
+當生的罪過與來世的罪過。 
 
-彼〔見而〕謂——依照惡業種類之所在，因而王者捕犯罪之賊，科以種種之刑罰。施以鞭撻……乃至……以刀斷首。若我亦如是作惡業，則彼王亦捕我，如是科我種種刑罰，施以鞭撻……乃至……以刀斷首。彼畏現世之罪，而不奪取屬他人之物而生活。諸比丘！此即名為現世之罪。
+現世之罪與後世之罪。
+
+---
+
+Katamañca, bhikkhave, diṭṭhadhammikaṃ vajjaṃ? 
+
+What is the fault apparent in the present life? 
+
+比丘們！什麼是當生的罪過呢？
+
+又，諸比丘！云何為現世之罪？
+
+---
+
+Idha, bhikkhave, ekacco passati coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā kārente; 
+
+It’s when someone sees that kings have arrested a bandit, a criminal, and subjected them to various punishments—whipping, 
+
+比丘們！這裡，某人看見國王捕捉盜賊、罪犯後，會處以種種刑罰：
+
+諸比丘！世上一類之人，曾見王者捕犯罪之賊，而科以種種之刑罰。
+
+---
+
+kasāhipi tāḷente, vettehipi tāḷente, addhadaṇḍakehipi tāḷente, hatthampi chindante, pādampi chindante, hatthapādampi chindante, 
+
+caning, and clubbing; cutting off hands or feet, or both; 
+
+會以鞭打、以棒打、以手杖打，會切斷手、腳、手與腳、
+
+施以鞭撻，施以杖撻，施以棍棒撻，或截手、截足、截手足、
+
+---
+
+kaṇṇampi chindante, nāsampi chindante, kaṇṇanāsampi chindante, 
+
+cutting off ears or nose, or both; 
+
+耳、鼻、耳與鼻，
+
+割刵、割劓、截耳鼻。
+
+---
+
+bilaṅgathālikampi karonte, saṅkhamuṇḍikampi karonte, rāhumukhampi karonte, jotimālikampi karonte, hatthapajjotikampi karonte, erakavattikampi karonte, cīrakavāsikampi karonte, eṇeyyakampi karonte, baḷisamaṃsikampi karonte, kahāpaṇikampi karonte, khārāpatacchikampi karonte, palighaparivattikampi karonte, palālapīṭhakampi karonte, 
+
+the ‘porridge pot’, the ‘shell-shave’, the ‘demon’s mouth’, the ‘garland of fire’, the ‘burning hand’, the ‘grass blades’, the ‘bark dress’, the ‘antelope’, the ‘meat hook’, the ‘coins’, the ‘acid pickle’, the ‘twisting bar’, the ‘straw mat’; 
+
+會處以酸粥鍋刑、貝禿刑、羅侯口刑、火鬘刑、燭手刑、驅行刑、樹皮衣刑、羚羊刑、鉤肉刑、錢刑、鹼浴刑、扭轉門閂刑、稻草足踏台刑，
+
+或造粥鍋之狀、或造如貝〔有滑澤〕禿頭之狀、或造成羅睺鬼之口狀、造成火鬘之狀、造成手燈之狀、造成草衣之狀、造成樹皮衣之狀、造成羚羊之狀、造成鉤肉之狀、造成銅錢之狀，再以鹽分使之糜爛，用橫木貫通而令迴轉之、造成稻草座狀，
+
+---
+
+tattenapi telena osiñcante, sunakhehipi khādāpente, jīvantampi sūle uttāsente, asināpi sīsaṃ chindante.
+
+being splashed with hot oil, being fed to the dogs, being impaled alive, and being beheaded.
+
+會淋熱油，會令狗咬，會活著令刺入，會以刀劍砍頭。 
+
+用極熱之油澆浴，再予〔餓〕狗咬食，而活生生串而貫通，以刀斷首。
+
+---
+
+Tassa evaṃ hoti: ‘yathārūpānaṃ kho pāpakānaṃ kammānaṃ hetu coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā kārenti;
+
+It occurs to them: ‘If I were to commit the kinds of bad deeds for which the kings arrested that bandit, that criminal, the rulers would arrest me and subject me to the same punishments. 
+
+他這麼想：『因為像那樣惡的行為，國王捕捉盜賊、罪犯後，處以種種刑罰：
+
+彼〔見而〕謂——依照惡業種類之所在，因而王者捕犯罪之賊，科以種種之刑罰。
+
+---
+
+kasāhipi tāḷenti, vettehipi tāḷenti, addhadaṇḍakehipi tāḷenti, hatthampi chindanti, pādampi chindanti, hatthapādampi chindanti, 
+
+/
+
+以鞭打、以棒打、以手杖打，切斷手、腳、手與腳、
+
+施以鞭撻……乃至……
+
+---
+
+kaṇṇampi chindanti, nāsampi chindanti, kaṇṇanāsampi chindanti, 
+
+/
+
+耳、鼻、耳與鼻，
+
+……
+
+---
+
+bilaṅgathālikampi karonti, saṅkhamuṇḍikampi karonti, rāhumukhampi karonti, jotimālikampi karonti, hatthapajjotikampi karonti, erakavattikampi karonti, cīrakavāsikampi karonti, eṇeyyakampi karonti, baḷisamaṃsikampi karonti, kahāpaṇikampi karonti, khārāpatacchikampi karonti, palighaparivattikampi karonti, palālapīṭhakampi karonti, tattenapi telena osiñcanti, sunakhehipi khādāpenti, jīvantampi sūle uttāsenti, asināpi sīsaṃ chindanti. 
+
+/
+
+處以酸粥鍋刑、貝禿刑、羅侯口刑、火鬘刑、燭手刑、驅行刑、樹皮衣刑、羚羊刑、鉤肉刑、錢刑、鹼浴刑、扭轉門閂刑、稻草足踏台刑，淋熱油，令狗咬，活著令刺入，以刀劍砍頭，
+
+……以刀斷首。
+
+---
+
+Ahañceva kho pana evarūpaṃ pāpakammaṃ kareyyaṃ, mampi rājāno gahetvā evarūpā vividhā kammakāraṇā kāreyyuṃ; 
+
+/
+
+如果我作像那樣惡的行為，國王捕捉我後，也會處以種種刑罰：
+
+若我亦如是作惡業，則彼王亦捕我，如是科我種種刑罰，
+
+---
+
+kasāhipi tāḷeyyuṃ … pe … 
+
+/
+
+也會以鞭打、……（中略）…… 
+
+施以鞭撻……乃至……
+
+---
+
+…asināpi sīsaṃ chindeyyun’ti. 
+
+/
+
+……也會以刀劍砍頭。』
+
+……以刀斷首。
+
+---
+
+So diṭṭhadhammikassa vajjassa bhīto na paresaṃ pābhataṃ vilumpanto carati. 
+
+Afraid of the fault apparent in the present life, they do not steal the belongings of others. 
+
+當害怕當生的罪過時，他對他人的資財不行掠奪，
+
+彼畏現世之罪，而不奪取屬他人之物而生活。
+
+---
+
+Idaṃ vuccati, bhikkhave, diṭṭhadhammikaṃ vajjaṃ.
+
+This is called the fault apparent in the present life.
+
+比丘們！這被稱為當生的罪過。 
+
+諸比丘！此即名為現世之罪。
 
 ---
 

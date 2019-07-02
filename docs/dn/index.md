@@ -1,4 +1,4 @@
-# DN Content
+# Dīgha Nikāya Content / 長部目錄
 
 ### [DN1 Brahmajāla Sutta / The All-embracing Net of Views / 長部一 梵網經](/dn1/)
 
