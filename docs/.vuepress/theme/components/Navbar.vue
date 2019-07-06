@@ -1,5 +1,5 @@
 <template>
-  <header class="navbar">
+  <header class="navbar" :style="{ transform: 'translateY(' + navbarPos + 'px)' }">
     <SidebarButton @toggle-sidebar="$emit('toggle-sidebar')"/>
     <NavLinks class="can-hide"/>
 
@@ -48,11 +48,14 @@ export default {
 
   data () {
     return {
-      linksWrapMaxWidth: null
+      linksWrapMaxWidth: null,
+      scrollPos: 0,
+      navbarPos: 0
     }
   },
 
   mounted () {
+    // const vm = this;
     const MOBILE_DESKTOP_BREAKPOINT = 719 // refer to config.styl
     const NAVBAR_VERTICAL_PADDING = parseInt(css(this.$el, 'paddingLeft')) + parseInt(css(this.$el, 'paddingRight'))
     const handleLinksWrapWidth = () => {
@@ -63,8 +66,11 @@ export default {
           - (this.$refs.siteName && this.$refs.siteName.offsetWidth || 0)
       }
     }
-    handleLinksWrapWidth()
-    window.addEventListener('resize', handleLinksWrapWidth, false)
+
+    this.scrollPos = window.scrollY;
+    handleLinksWrapWidth();
+    window.addEventListener('resize', handleLinksWrapWidth, false);
+    window.addEventListener('scroll', this.onScroll);
   },
 
   computed: {
@@ -74,6 +80,18 @@ export default {
 
     isAlgoliaSearch () {
       return this.algolia && this.algolia.apiKey && this.algolia.indexName
+    }
+  },
+
+  methods: {
+    onScroll() {
+      if (window.scrollY > this.scrollPos) {
+        this.navbarPos = Math.max(this.navbarPos + (this.scrollPos - window.scrollY), -60);
+      } else {
+        this.navbarPos = Math.min(this.navbarPos + (this.scrollPos - window.scrollY), 0);
+      }
+
+      this.scrollPos = window.scrollY;
     }
   }
 }

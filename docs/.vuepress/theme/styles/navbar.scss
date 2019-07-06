@@ -10,14 +10,28 @@ $navbar-horizontal-padding: 1.5rem;
   }
 }
 
+.theme-container {
+  &::before {
+    content: '';
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-top: 3px solid rgba($accentColor, 0.9); 
+    z-index: 21;
+
+    .nprogress-busy & {
+      border-top-color: transparent;  
+    }
+  }
+}
+
 .navbar {
-  border-top: 3px solid rgba($accentColor, 0.9); 
   padding: $navbar-vertical-padding $navbar-horizontal-padding;
   line-height: $navbarHeight - 1.4rem;
 
-  .nprogress-busy & {
-    border-top-color: transparent;  
-  }
+  
 
   a, span, img {
     display: inline-block;
