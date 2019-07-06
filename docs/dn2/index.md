@@ -2099,13 +2099,103 @@ I don‘t think so. I don‘t think in that way. I don‘t think otherwise. I do
 
 ##### 33.
 
-Itthaṃ kho me, bhante, sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākāsi. Seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; evameva kho me, bhante, sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākāsi. Tassa mayhaṃ, bhante, etadahosi: ‘ayañca imesaṃ samaṇab­rāhma­ṇā­naṃ sabbabālo sabbamūḷho. Kathañhi nāma sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākarissatī’ti. Tassa mayhaṃ, bhante, etadahosi: ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. So kho ahaṃ, bhante, sañcayassa ­belaṭ­ṭha­puttassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. Anabhinanditvā appaṭikkositvā anattamano anatta­mana­vācaṃ anicchāretvā tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ.
+Itthaṃ kho me, bhante, sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākāsi. 
 
-“Thus, when asked about a fruit of the contemplative life, visible here and now, Sañjaya Belatthaputta answered with evasion. Just as if a person, when asked about a mango, were to answer with a breadfruit; or, when asked about a breadfruit, were to answer with a mango: In the same way, when asked about a fruit of the contemplative life, visible here and now, Sañjaya Belatthaputta answered with evasion. The thought occurred to me: ‘This — among these brahmans and contemplatives — is the most foolish and confused of all. How can he, when asked about a fruit of the contemplative life, visible here and now, answer with evasion?’ Still the thought occurred to me: ‘How can anyone like me think of disparaging a brahman or contemplative living in his realm?’ Yet I neither delighted in Sañjaya Belatthaputta‘s words nor did I protest against them. Neither delighting nor protesting, I was dissatisfied. Without expressing dissatisfaction, without accepting his teaching, without adopting it, I got up from my seat and left.
+“Thus, when asked about a fruit of the contemplative life, visible here and now, Sañjaya Belatthaputta answered with evasion. 
 
-大德！像這樣，當散惹耶毘羅梨子被詢問直接可見的沙門果時，他回答我混亂。大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果，同樣的，大德！當散惹耶毘羅梨子被詢問直接可見的沙門果時，他回答我混亂。大德！我這麼想：『這位是屬於這些沙門、婆羅門[中]最愚癡、最愚昧的，當他被詢問直接可見的沙門果時，怎麼會回答我混亂呢？』大德！我這麼想：『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』大德！我對那散惹耶毘羅梨子所說既不歡喜，也沒苛責。不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。
+大德！像這樣，當散惹耶毘羅梨子被詢問直接可見的沙門果時，他回答我混亂。
 
-大德！如是實問沙門〔修行〕現世之果報，散若夷毘羅利弗，答以矯亂〔如鰻〕論。大德！猶如問菴羅樹之果實，而答以羅孛闍果。然，大德！我生起如次之想念：『實如余者，對住我領內之沙門、婆羅門，應如何想與不愉快焉？』大德！是故我對彼之言說，不稱讚亦不呵責。不稱讚亦不呵責，而我內心甚抱不滿，不發任何不滿之言，平靜聽彼所說，不敬重此，起座而出。
+大德！如是實問沙門〔修行〕現世之果報，散若夷毘羅利弗，答以矯亂〔如鰻〕論。
+
+---
+
+Seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; 
+
+Just as if a person, when asked about a mango, were to answer with a breadfruit; or, when asked about a breadfruit, were to answer with a mango: 
+
+大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果，
+
+大德！猶如問菴羅樹之果實，而答以羅孛闍果。
+
+---
+
+evameva kho me, bhante, sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākāsi. 
+
+In the same way, when asked about a fruit of the contemplative life, visible here and now, Sañjaya Belatthaputta answered with evasion. 
+
+同樣的，大德！當散惹耶毘羅梨子被詢問直接可見的沙門果時，他回答我混亂。
+
+/
+
+---
+
+Tassa mayhaṃ, bhante, etadahosi:
+
+The thought occurred to me:
+
+大德！我這麼想：
+
+/
+
+---
+
+‘ayañca imesaṃ samaṇab­rāhma­ṇā­naṃ sabbabālo sabbamūḷho. 
+
+‘This — among these brahmans and contemplatives — is the most foolish and confused of all.
+
+『這位是屬於這些沙門、婆羅門[中]最愚癡、最愚昧的，
+
+/
+
+---
+
+Kathañhi nāma sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākarissatī’ti. 
+
+How can he, when asked about a fruit of the contemplative life, visible here and now, answer with evasion?’
+
+當他被詢問直接可見的沙門果時，怎麼會回答我混亂呢？』
+
+/
+
+---
+
+Tassa mayhaṃ, bhante, etadahosi:
+
+Still the thought occurred to me:
+
+大德！我這麼想：
+
+然，大德！我生起如次之想念：
+
+---
+
+‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. 
+
+‘How can anyone like me think of disparaging a brahman or contemplative living in his realm?’
+
+『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』
+
+『實如余者，對住我領內之沙門、婆羅門，應如何想與不愉快焉？』
+
+---
+
+So kho ahaṃ, bhante, sañcayassa ­belaṭ­ṭha­puttassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. 
+
+Yet I neither delighted in Sañjaya Belatthaputta‘s words nor did I protest against them.
+
+大德！我對那散惹耶毘羅梨子所說既不歡喜，也沒苛責。
+
+大德！是故我對彼之言說，不稱讚亦不呵責。
+
+---
+
+Anabhinanditvā appaṭikkositvā anattamano anatta­mana­vācaṃ anicchāretvā tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ.
+
+Neither delighting nor protesting, I was dissatisfied. Without expressing dissatisfaction, without accepting his teaching, without adopting it, I got up from my seat and left.
+
+不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。
+
+不稱讚亦不呵責，而我內心甚抱不滿，不發任何不滿之言，平靜聽彼所說，不敬重此，起座而出。
 
 ---
 
@@ -2143,16 +2233,35 @@ Suppose there were a man of yours: your slave, your workman, rising in the morni
 
 ---
 
-Tassa evamassa: ‘acchariyaṃ, vata bho, abbhutaṃ, vata bho, puññānaṃ gati, puññānaṃ vipāko. Ayañhi rājā māgadho ajātasattu vedehiputto manusso; ahampi manusso. Ayañhi rājā māgadho ajātasattu vedehiputto pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti, devo maññe.
+Tassa evamassa: ‘acchariyaṃ, vata bho, abbhutaṃ, vata bho, puññānaṃ gati, puññānaṃ vipāko. 
 
-The thought would occur to him: ‘Isn‘t it amazing? Isn‘t it astounding? — the destination, the results, of meritorious deeds. For this King Ajatasattu is a human being, and I, too, am a human being, yet King Ajatasattu enjoys himself supplied and replete with the five strings of sensuality — like a deva, as it were —
+The thought would occur to him: ‘Isn‘t it amazing? Isn‘t it astounding? — the destination, the results, of meritorious deeds. 
 
-他這麼想：『實在不可思議啊，先生！實在未曾有啊，先生！[真是]福德命、福德果報，這位摩揭陀國阿闍世王韋提希子是人，我也是人，這位摩揭陀國阿闍世王韋提希子具備、具有五種欲自娛，我想就像天神一樣，
+他這麼想：『實在不可思議啊，先生！實在未曾有啊，先生！[真是]福德命、福德果報，
 
-彼如是思惟：『成熟其功德之果報，實希有哉！未曾有哉！此摩揭陀國王韋提希子阿闍世是人，我亦是人。然，此摩揭陀國王韋提希子阿闍世以具足持受五欲樂，想彼戲樂如神，
+彼如是思惟：『成熟其功德之果報，實希有哉！未曾有哉！
 
 ---
 
+Ayañhi rājā māgadho ajātasattu vedehiputto manusso; ahampi manusso. 
+
+For this King Ajatasattu is a human being, and I, too, am a human being, 
+
+這位摩揭陀國阿闍世王韋提希子是人，我也是人，
+
+此摩揭陀國王韋提希子阿闍世是人，我亦是人。
+
+---
+
+Ayañhi rājā māgadho ajātasattu vedehiputto pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti, devo maññe.
+
+yet King Ajatasattu enjoys himself supplied and replete with the five strings of sensuality — like a deva, as it were —
+
+這位摩揭陀國阿闍世王韋提希子具備、具有五種欲自娛，我想就像天神一樣，
+
+然，此摩揭陀國王韋提希子阿闍世以具足持受五欲樂，想彼戲樂如神，
+
+---
 Ahaṃ panamhissa dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṃkā­rapaṭis­sāvī manāpacārī piyavādī mukhullokako. So vatassāhaṃ puññāni kareyyaṃ. Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.
 
 while I am his slave, his workman... always watching for the look on his face. I, too, should do meritorious deeds. What if I were to shave off my hair and beard, put on the ochre robes, and go forth from the household life into homelessness?’ 
@@ -2373,25 +2482,95 @@ content with the simplest food and shelter, delighting in solitude.’ Would you
 
 ##### 40.
 
-Bhagavā etadavoca: “idha, mahārāja, tathāgato loke uppajjati arahaṃ sammāsambuddho vij­jācara­ṇa­sam­panno sugato lokavidū anuttaro purisa­damma­sāra­thi satthā devamanussānaṃ buddho bhagavā. So imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ ­sassama­ṇab­rāhma­ṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. So dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pari­yosāna­kal­yāṇaṃ sātthaṃ sabyañjanaṃ, kevala­pari­puṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.
+Bhagavā etadavoca: “idha, mahārāja, tathāgato loke uppajjati arahaṃ sammāsambuddho vij­jācara­ṇa­sam­panno sugato lokavidū anuttaro purisa­damma­sāra­thi satthā devamanussānaṃ buddho bhagavā.
 
-“There is the case, great king, where a Tathagata appears in the world, worthy and rightly self-awakened. He teaches the Dhamma admirable in its beginning, admirable in its middle, admirable in its end. He proclaims the holy life both in its particulars and in its essence, entirely perfect, surpassingly pure.
+“There is the case, great king, where a Tathagata appears in the world, worthy and rightly self-awakened.
 
-世尊這麼說：「大王！這裡，如來、阿羅漢、遍正覺者、明與行具足者、善逝、世間知者、應該被調御人的無上調御者、人天之師、佛陀、世尊出現於世間，他以證智自作證後，為這包括天、魔、梵的世界；包括沙門、婆羅門的世代；包括諸天、人宣說，他教導開頭是善、中間是善、終結是善；意義正確、辭句正確的法，他說明唯獨圓滿、遍清淨的梵行。
+世尊這麼說：「大王！這裡，如來、阿羅漢、遍正覺者、明與行具足者、善逝、世間知者、應該被調御人的無上調御者、人天之師、佛陀、世尊出現於世間，
 
-世尊如次曰：「大王！如來出現於世，是應供、等正覺、明行足、善逝、世間解、無上士、調御丈夫，天人師、佛、世尊。如來是含括天界、魔界、梵天界、此世界、沙門、婆羅門、天、人之眾〔生〕，開示自己之證悟。如來宣說初善、中善、後亦善，具足文義之教法及無比圓滿清淨之梵行。
+世尊如次曰：「大王！如來出現於世，是應供、等正覺、明行足、善逝、世間解、無上士、調御丈夫，天人師、佛、世尊。
+
+---
+
+So imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ ­sassama­ṇab­rāhma­ṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. 
+
+He teaches the Dhamma admirable in its beginning, admirable in its middle, admirable in its end.
+
+他以證智自作證後，為這包括天、魔、梵的世界；包括沙門、婆羅門的世代；包括諸天、人宣說，
+
+如來是含括天界、魔界、梵天界、此世界、沙門、婆羅門、天、人之眾〔生〕，開示自己之證悟。
+
+---
+
+So dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pari­yosāna­kal­yāṇaṃ sātthaṃ sabyañjanaṃ, kevala­pari­puṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.
+
+He proclaims the holy life both in its particulars and in its essence, entirely perfect, surpassingly pure.
+
+他教導開頭是善、中間是善、終結是善；意義正確、辭句正確的法，他說明唯獨圓滿、遍清淨的梵行。
+
+如來宣說初善、中善、後亦善，具足文義之教法及無比圓滿清淨之梵行。
 
 ---
 
 ##### 41.
 
-Taṃ dhammaṃ suṇāti gahapati vā gahapatiputto vā aññatarasmiṃ vā kule paccājāto. So taṃ dhammaṃ sutvā tathāgate saddhaṃ paṭilabhati. So tena saddhā­paṭi­lā­bhena samannāgato iti paṭi­sañcik­khati: ‘sambādho gharāvāso rajopatho, abbhokāso pabbajjā. Nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekanta­pari­puṇṇaṃ ekanta­pari­suddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ. Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.
+Taṃ dhammaṃ suṇāti gahapati vā gahapatiputto vā aññatarasmiṃ vā kule paccājāto.
 
-“A householder or householder‘s son, hearing the Dhamma, gains conviction in the Tathagata and reflects: ‘Household life is confining, a dusty path. The life gone forth is like the open air. It is not easy living at home to practice the holy life totally perfect, totally pure, like a polished shell. What if I were to shave off my hair and beard, put on the ochre robes, and go forth from the household life into homelessness?’
+“A householder or householder‘s son, 
 
-屋主、屋主之子或在其它族姓中出生者聽聞那個法；聽聞那個法後，於如來處獲得信；由於具備那獲得的信，他像這樣深慮：『居家生活是障礙，是塵垢之路；出家是露地。住在家中，這是不容易行一向圓滿、一向清淨的磨亮海螺之梵行，讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』 
+屋主、屋主之子或在其它族姓中出生者聽聞那個法；
 
-居士或居士子，或其他族姓子，聽聞如來之教法；聽聞此法已，對如來得信仰，而彼如是熟慮：『在家多障礙、塵道，出家之生活是自由自在。住在家者，不容易一向修圓滿清淨如螺細光耀之梵行。然，即令我剃除鬚髮，著袈裟衣，出家而為無家者。』
+居士或居士子，或其他族姓子，聽聞如來之教法；
+
+---
+
+So taṃ dhammaṃ sutvā tathāgate saddhaṃ paṭilabhati.
+
+hearing the Dhamma, gains conviction in the Tathagata
+
+聽聞那個法後，於如來處獲得信；
+
+聽聞此法已，對如來得信仰，
+
+---
+
+So tena saddhā­paṭi­lā­bhena samannāgato iti paṭi­sañcik­khati: 
+
+and reflects:
+
+由於具備那獲得的信，他像這樣深慮：
+
+而彼如是熟慮：
+
+---
+
+‘sambādho gharāvāso rajopatho, abbhokāso pabbajjā. 
+
+‘Household life is confining, a dusty path. The life gone forth is like the open air.
+
+『居家生活是障礙，是塵垢之路；出家是露地。
+
+『在家多障礙、塵道，出家之生活是自由自在。
+
+---
+
+Nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekanta­pari­puṇṇaṃ ekanta­pari­suddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ. 
+
+It is not easy living at home to practice the holy life totally perfect, totally pure, like a polished shell.
+
+住在家中，這是不容易行一向圓滿、一向清淨的磨亮海螺之梵行，
+
+住在家者，不容易一向修圓滿清淨如螺細光耀之梵行。
+
+---
+
+Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.
+
+What if I were to shave off my hair and beard, put on the ochre robes, and go forth from the household life into homelessness?’
+
+讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』
+
+然，即令我剃除鬚髮，著袈裟衣，出家而為無家者。』
 
 ---
 
@@ -2419,13 +2598,43 @@ So evaṃ pabbajito samāno pāti­mokkha­saṃ­vara­saṃ­vuto viharati āc
 
 ##### 43.
 
-Kathañca, mahārāja, bhikkhu sīlasampanno hoti? Idha, mahārāja, bhikkhu pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti. Nihitadaṇḍo nihitasattho lajjī dayāpanno sabba­pāṇa­bhūta­hi­tānukampī viharati. Idampissa hoti sīlasmiṃ.
+Kathañca, mahārāja, bhikkhu sīlasampanno hoti? 
 
-“And how is a monk consummate in virtue? Abandoning the taking of life, he abstains from the taking of life. He dwells with his rod laid down, his knife laid down, scrupulous, merciful, compassionate for the welfare of all living beings. This is part of his virtue.
+“And how is a monk consummate in virtue? 
 
-大王！比丘如何是戒具足者呢？大王！這裡，比丘捨斷殺生後，他是離殺生者，他住於已捨離棍棒、已捨離刀劍、有羞恥的、同情的、對一切活的生物憐愍的，這是關於戒。
+大王！比丘如何是戒具足者呢？
 
-大王！如何為比丘戒具足耶？大王！於此有比丘，捨殺生，離殺生，不用刃、杖，有羞恥之念，充足慈悲心，憐愍利益一切生物、友善而住。此為比丘戒之一份。
+大王！如何為比丘戒具足耶？
+
+---
+
+Idha, mahārāja, bhikkhu pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti. 
+
+Abandoning the taking of life, he abstains from the taking of life.
+
+大王！這裡，比丘捨斷殺生後，他是離殺生者，
+
+大王！於此有比丘，捨殺生，離殺生，
+
+---
+
+Nihitadaṇḍo nihitasattho lajjī dayāpanno sabba­pāṇa­bhūta­hi­tānukampī viharati. 
+
+He dwells with his rod laid down, his knife laid down, scrupulous, merciful, compassionate for the welfare of all living beings. 
+
+他住於已捨離棍棒、已捨離刀劍、有羞恥的、同情的、對一切活的生物憐愍的，
+
+不用刃、杖，有羞恥之念，充足慈悲心，憐愍利益一切生物、友善而住。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This is part of his virtue.
+
+這是關於戒。
+
+此為比丘戒之一份。
 
 ---
 
@@ -2439,35 +2648,95 @@ Adinnādānaṃ pahāya adinnādānā paṭivirato hoti dinnādāyī dinna­pā�
 
 ---
 
-Abrahmacariyaṃ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā. Idampissa hoti sīlasmiṃ.
+Abrahmacariyaṃ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā. 
 
-“Abandoning uncelibacy, he lives a celibate life, aloof, refraining from the sexual act that is the villager‘s way. This, too, is part of his virtue.
+“Abandoning uncelibacy, he lives a celibate life, aloof, refraining from the sexual act that is the villager‘s way.
 
-捨斷非梵行後，他是梵行者，遠離俗法而住，已離婬欲，這也是關於戒。
+捨斷非梵行後，他是梵行者，遠離俗法而住，已離婬欲，
 
-捨非梵行而修梵行，離染污濁，離淫欲法。此為比丘戒之一份。
+捨非梵行而修梵行，離染污濁，離淫欲法。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此為比丘戒之一份。
 
 ---
 
 ##### 44.
 
-Musāvādaṃ pahāya musāvādā paṭivirato hoti saccavādī saccasandho theto paccayiko avisaṃvādako lokassa. Idampissa hoti sīlasmiṃ.
+Musāvādaṃ pahāya musāvādā paṭivirato hoti saccavādī saccasandho theto paccayiko avisaṃvādako lokassa. 
 
-“Abandoning false speech, he abstains from false speech. He speaks the truth, holds to the truth, is firm, reliable, no deceiver of the world. This, too, is part of his virtue.
+“Abandoning false speech, he abstains from false speech. He speaks the truth, holds to the truth, is firm, reliable, no deceiver of the world. 
 
-捨斷妄語後，他是離妄語者、真實語者、緊隨真實者、能信賴者、應該信賴者、對世間無詐欺者，這也是關於戒。
+捨斷妄語後，他是離妄語者、真實語者、緊隨真實者、能信賴者、應該信賴者、對世間無詐欺者，
 
-捨妄語、離妄語，語真實、不外真實，誠實可信賴，不欺世間，此為比丘戒之一份。
+捨妄語、離妄語，語真實、不外真實，誠實可信賴，不欺世間，
 
 ---
 
-Pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato hoti; ito sutvā na amutra akkhātā imesaṃ bhedāya; amutra vā sutvā na imesaṃ akkhātā, amūsaṃ bhedāya. Iti bhinnānaṃ vā sandhātā, sahitānaṃ vā anuppadātā, samaggārāmo samaggarato samagganandī samaggakaraṇiṃ vācaṃ bhāsitā hoti. Idampissa hoti sīlasmiṃ.
+Idampissa hoti sīlasmiṃ.
 
-“Abandoning divisive speech he abstains from divisive speech. What he has heard here he does not tell there to break those people apart from these people here. What he has heard there he does not tell here to break these people apart from those people there. Thus reconciling those who have broken apart or cementing those who are united, he loves concord, delights in concord, enjoys concord, speaks things that create concord. This, too, is part of his virtue.
+This, too, is part of his virtue.
 
-捨斷離間語後，他是離離間語者：他從這裡聽到後，不為了對這些人離間而在那裡說，或者，他從那裡聽到後，不為了對那些人離間而在這裡說，像這樣，他是分裂的調解者、和諧的散播者、樂於和合者、愛好和合者、喜歡和合者、作和合之言說者，這也是關於戒。
+這也是關於戒。
 
-捨兩舌，離兩舌，不此處聞往彼處告以離間此等諸人，亦不彼處聞來此處告以離間此等之諸人。如是和合離間者，親密者更令親密，愛和合、好和合、喜和合、持和合。此為比丘戒之一份。
+此為比丘戒之一份。
+
+---
+
+Pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato hoti; 
+
+“Abandoning divisive speech he abstains from divisive speech. 
+
+捨斷離間語後，他是離離間語者：
+
+捨兩舌，離兩舌，
+
+---
+
+ito sutvā na amutra akkhātā imesaṃ bhedāya; 
+
+What he has heard here he does not tell there to break those people apart from these people here.
+
+他從這裡聽到後，不為了對這些人離間而在那裡說，
+
+不此處聞往彼處告以離間此等諸人，
+
+---
+
+amutra vā sutvā na imesaṃ akkhātā, amūsaṃ bhedāya. 
+
+What he has heard there he does not tell here to break these people apart from those people there.
+
+或者，他從那裡聽到後，不為了對那些人離間而在這裡說，
+
+亦不彼處聞來此處告以離間此等之諸人。
+
+---
+
+Iti bhinnānaṃ vā sandhātā, sahitānaṃ vā anuppadātā, samaggārāmo samaggarato samagganandī samaggakaraṇiṃ vācaṃ bhāsitā hoti.
+
+Thus reconciling those who have broken apart or cementing those who are united, he loves concord, delights in concord, enjoys concord, speaks things that create concord.
+
+像這樣，他是分裂的調解者、和諧的散播者、樂於和合者、愛好和合者、喜歡和合者、作和合之言說者，
+
+如是和合離間者，親密者更令親密，愛和合、好和合、喜和合、持和合。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此為比丘戒之一份。
 
 ---
 
@@ -2553,23 +2822,123 @@ Jāta­rūpa­rajata­paṭig­gahaṇā paṭivirato hoti.
 
 ---
 
-Āmaka­dhañña­paṭig­gahaṇā paṭivirato hoti. Āmaka­maṃsa­paṭig­gahaṇā paṭivirato hoti. Itthi­kumāri­ka­paṭig­gahaṇā paṭivirato hoti. Dāsi­dāsa­paṭig­gahaṇā paṭivirato hoti. Ajeḷa­ka­paṭig­gahaṇā paṭivirato hoti. Kukku­ṭa­sūkara­paṭig­gahaṇā paṭivirato hoti. Hatthi­ga­vassava­ḷava­paṭig­gahaṇā paṭivirato hoti. Khetta­vatthu­paṭig­gahaṇā paṭivirato hoti.
+Āmaka­dhañña­paṭig­gahaṇā paṭivirato hoti.
 
-“He abstains from accepting uncooked grain... raw meat... women and girls... male and female slaves... goats and sheep... fowl and pigs... elephants, cattle, steeds, and mares... fields and property.
+“He abstains from accepting uncooked grain... 
 
-是離領受生穀者，是離領受生肉者，是離領受女子、少女者，是離領受男奴僕、女奴僕者，是離領受山羊與羊者，是離領受雞與豬者，是離領受象、牛、馬、騾馬者，是離領受田與地者，
+是離領受生穀者，
 
-遠離受生穀物；遠離受生肉；遠離受婦人、少女；遠離受男、女之奴僕；遠離受牝牡之山羊；遠離受雞、豬；遠離受象、牛牝牡之馬；遠離受耕田荒地；
+遠離受生穀物；
 
 ---
 
-Dūteyya­pahiṇa­gamanā­nuyogā paṭivirato hoti. Kayavikkayā paṭivirato hoti. Tulā­kūṭa­kaṃsa­kūṭa­māna­kūṭā paṭivirato hoti. Ukko­ṭana­vañ­cana­nikati­sāci­yogā paṭivirato hoti.
+Āmaka­maṃsa­paṭig­gahaṇā paṭivirato hoti.
 
-“He abstains from running messages... from buying and selling... from dealing with false scales, false metals, and false measures... from bribery, deception, and fraud.
+...raw meat... 
 
-是離從事差使、遣使者，是離買賣者，是離在秤重上欺瞞、偽造貨幣、度量欺詐者，是離賄賂、欺瞞、詐欺、不實者，
+是離領受生肉者，
 
-遠離差使、仲介所為之事；遠離買賣；遠離欺瞞秤、升、尺〔之計量；〕遠離賄賂、詐欺、虛偽之邪行；
+遠離受生肉；
+
+---
+
+Itthi­kumāri­ka­paṭig­gahaṇā paṭivirato hoti.
+
+...women and girls... 
+
+是離領受女子、少女者，
+
+遠離受婦人、少女；
+
+---
+
+Dāsi­dāsa­paṭig­gahaṇā paṭivirato hoti.
+
+...male and female slaves... 
+
+是離領受男奴僕、女奴僕者，
+
+遠離受男、女之奴僕；
+
+---
+
+Ajeḷa­ka­paṭig­gahaṇā paṭivirato hoti.
+
+...goats and sheep... 
+
+是離領受山羊與羊者，
+
+遠離受牝牡之山羊；
+
+---
+
+Kukku­ṭa­sūkara­paṭig­gahaṇā paṭivirato hoti.
+
+...fowl and pigs... 
+
+是離領受雞與豬者，
+
+遠離受雞、豬；
+
+---
+
+Hatthi­ga­vassava­ḷava­paṭig­gahaṇā paṭivirato hoti.
+
+...elephants, cattle, steeds, and mares... 
+
+是離領受象、牛、馬、騾馬者，
+
+遠離受象、牛牝牡之馬；
+
+---
+
+Khetta­vatthu­paṭig­gahaṇā paṭivirato hoti.
+
+...fields and property.
+
+是離領受田與地者，
+
+遠離受耕田荒地；
+
+---
+
+Dūteyya­pahiṇa­gamanā­nuyogā paṭivirato hoti.
+
+“He abstains from running messages... 
+
+是離從事差使、遣使者，
+
+遠離差使、仲介所為之事；
+
+---
+
+Kayavikkayā paṭivirato hoti. 
+
+...from buying and selling... 
+
+是離買賣者，
+
+遠離買賣；
+
+---
+
+Tulā­kūṭa­kaṃsa­kūṭa­māna­kūṭā paṭivirato hoti.
+
+...from dealing with false scales, false metals, and false measures... 
+
+是離在秤重上欺瞞、偽造貨幣、度量欺詐者，
+
+遠離欺瞞秤、升、尺〔之計量；〕
+
+---
+
+Ukko­ṭana­vañ­cana­nikati­sāci­yogā paṭivirato hoti.
+
+...from bribery, deception, and fraud.
+
+是離賄賂、欺瞞、詐欺、不實者，
+
+遠離賄賂、詐欺、虛偽之邪行；
 
 ---
 
@@ -2595,49 +2964,159 @@ Idampissa hoti sīlasmiṃ.
 
 ##### 46.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ bīja­gāma­bhūta­gāma­samāram­bhaṃ anuyuttā viharanti. Seyyathidaṃ— mūlabījaṃ khandhabījaṃ phaḷubījaṃ aggabījaṃ bījabījameva pañcamaṃ, iti evarūpā bīja­gāma­bhūta­gāma­samāram­bhā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ bīja­gāma­bhūta­gāma­samāram­bhaṃ anuyuttā viharanti.
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to damaging seed and plant life such as these — plants propagated from roots, stems, joints, buddings, and seeds — he abstains from damaging seed and plant life such as these. This, too, is part of his virtue.
+“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to damaging seed and plant life such as these — 
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事破壞種子類、草木類，即：根種子、莖種子、節種子、自落種子、種子種子[為]第五，這樣，他是離破壞種子類、草木類者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事破壞種子類、草木類，
 
-有某沙門、婆羅門，受食信施而生活。專心住於採伐諸種植、樹木，例如從根生、從幹生、從節生、從芽生、第五為從種子生者。遠離如是諸種植、樹木之採伐。此為比丘戒之一份。
+有某沙門、婆羅門，受食信施而生活。專心住於採伐諸種植、樹木，
+
+---
+
+Seyyathidaṃ— mūlabījaṃ khandhabījaṃ phaḷubījaṃ aggabījaṃ bījabījameva pañcamaṃ, iti evarūpā bīja­gāma­bhūta­gāma­samāram­bhā paṭivirato hoti. 
+
+plants propagated from roots, stems, joints, buddings, and seeds — he abstains from damaging seed and plant life such as these. 
+
+即：根種子、莖種子、節種子、自落種子、種子種子[為]第五，這樣，他是離破壞種子類、草木類者，
+
+例如從根生、從幹生、從節生、從芽生、第五為從種子生者。遠離如是諸種植、樹木之採伐。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此為比丘戒之一份。
 
 ---
 
 ##### 47.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ sanni­dhi­kāra­pari­bhogaṃ anuyuttā viharanti. Seyyathidaṃ—annasannidhiṃ pānasannidhiṃ vattha­sanni­dhiṃ yānasannidhiṃ sayana­sanni­dhiṃ gandha­sanni­dhiṃ āmisasannidhiṃ, iti vā iti evarūpā sanni­dhi­kāra­pari­bhogā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ sanni­dhi­kāra­pari­bhogaṃ anuyuttā viharanti. 
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to consuming stored-up goods such as these — stored-up food, stored-up drinks, stored-up clothing, stored-up vehicles, stored-up bedding, stored-up scents, and stored-up meat — he abstains from consuming stored-up goods such as these. This, too, is part of his virtue.
+“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to consuming stored-up goods 
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事受用物的貯藏，即：食物的貯藏、飲料的貯藏、衣物的貯藏、交通工具的貯藏、臥床的貯藏、香料的貯藏、肉的貯藏，這樣，他是離這樣或那樣受用物的貯藏者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事受用物的貯藏，
 
-有某沙門、婆羅門，受食信施而生活。專心住於享樂積蓄物，例如食物之積蓄、飲物之積蓄、乘具之積蓄、衣服之積蓄、臥具之積蓄、香類之積蓄、財物之積蓄等。遠離如是享樂積蓄物。此為比丘戒之一分。
+有某沙門、婆羅門，受食信施而生活。專心住於享樂積蓄物，
+
+---
+
+Seyyathidaṃ—annasannidhiṃ pānasannidhiṃ vattha­sanni­dhiṃ yānasannidhiṃ sayana­sanni­dhiṃ gandha­sanni­dhiṃ āmisasannidhiṃ, iti vā iti evarūpā sanni­dhi­kāra­pari­bhogā paṭivirato hoti. 
+
+such as these — stored-up food, stored-up drinks, stored-up clothing, stored-up vehicles, stored-up bedding, stored-up scents, and stored-up meat — he abstains from consuming stored-up goods such as these. 
+
+即：食物的貯藏、飲料的貯藏、衣物的貯藏、交通工具的貯藏、臥床的貯藏、香料的貯藏、肉的貯藏，這樣，他是離這樣或那樣受用物的貯藏者，
+
+例如食物之積蓄、飲物之積蓄、乘具之積蓄、衣服之積蓄、臥具之積蓄、香類之積蓄、財物之積蓄等。遠離如是享樂積蓄物。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此為比丘戒之一分。
 
 ---
 
 ##### 48.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ visūkadassanaṃ anuyuttā viharanti. Seyyathidaṃ—naccaṃ gītaṃ vāditaṃ pekkhaṃ akkhānaṃ pāṇissaraṃ vetāḷaṃ kumbhathūṇaṃ sobhanakaṃ caṇḍālaṃ vaṃsaṃ dhovanaṃ hatthiyuddhaṃ assayuddhaṃ mahiṃsayuddhaṃ usabhayuddhaṃ ajayuddhaṃ meṇḍayuddhaṃ kukkuṭayuddhaṃ vaṭṭakayuddhaṃ daṇḍayuddhaṃ muṭṭhiyuddhaṃ nibbuddhaṃ uyyodhikaṃ balaggaṃ senābyūhaṃ anīkadassanaṃ iti vā iti evarūpā visūkadassanā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ visūkadassanaṃ anuyuttā viharanti. 
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to watching shows such as these — dancing, singing, instrumental music, plays, ballad recitations, hand-clapping, cymbals and drums, magic lantern scenes, acrobatic and conjuring tricks, elephant fights, horse fights, buffalo fights, bull fights, goat fights, ram fights, cock fights, quail fights; fighting with staves, boxing, wrestling, war-games, roll calls, battle arrays, and regimental reviews — he abstains from watching shows such as these. This, too, is part of his virtue.
+“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to watching shows
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事看表演，即：舞蹈、歌唱、音樂、戲劇、講古、掌聲、鐃鈸、大鼓、魔術、鐵球戲、竹棒戲、特技、象打鬥、馬打鬥、水牛打鬥、公牛打鬥、山羊打鬥、公羊打鬥、公雞打鬥、鵪鶉打鬥、 棒杖打鬥、拳頭打鬥、摔角、演習、兵列、軍陣、閱兵，這樣，他是離看這樣或那樣表演者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事看表演，
 
-有某沙門、婆羅門，受食信施而生活。專心住於觀〔聽〕娛樂。例如觀劇、歌謠、舞樂、表演、古譚、手鈴、鳴鉢、銅鑼、摩術奇境、賤人之竹棒戲、象、馬、水牛、牡牛、山牛、山羊、牡羊、雞鶉之鬥技、棒擊、拳鬥、角力、模擬戰、列兵、配兵、閱兵等之娛樂。遠離如是等巡迴演藝之娛樂物。此亦為比丘戒之一份。
+有某沙門、婆羅門，受食信施而生活。
+
+---
+
+Seyyathidaṃ—naccaṃ gītaṃ vāditaṃ pekkhaṃ akkhānaṃ pāṇissaraṃ vetāḷaṃ kumbhathūṇaṃ sobhanakaṃ caṇḍālaṃ vaṃsaṃ dhovanaṃ 
+
+such as these — dancing, singing, instrumental music, plays, ballad recitations, hand-clapping, cymbals and drums, magic lantern scenes, acrobatic and conjuring tricks,
+
+即：舞蹈、歌唱、音樂、戲劇、講古、掌聲、鐃鈸、大鼓、魔術、鐵球戲、竹棒戲、特技、
+
+專心住於觀〔聽〕娛樂。例如觀劇、歌謠、舞樂、表演、古譚、手鈴、鳴鉢、銅鑼、摩術奇境、賤人之竹棒戲、
+
+---
+
+hatthiyuddhaṃ assayuddhaṃ mahiṃsayuddhaṃ usabhayuddhaṃ ajayuddhaṃ meṇḍayuddhaṃ kukkuṭayuddhaṃ vaṭṭakayuddhaṃ daṇḍayuddhaṃ muṭṭhiyuddhaṃ
+
+elephant fights, horse fights, buffalo fights, bull fights, goat fights, ram fights, cock fights, quail fights;
+
+象打鬥、馬打鬥、水牛打鬥、公牛打鬥、山羊打鬥、公羊打鬥、公雞打鬥、鵪鶉打鬥、棒杖打鬥、拳頭打鬥、
+
+象、馬、水牛、牡牛、山牛、山羊、牡羊、雞鶉之鬥技、
+
+---
+
+nibbuddhaṃ uyyodhikaṃ balaggaṃ senābyūhaṃ anīkadassanaṃ iti vā iti evarūpā visūkadassanā paṭivirato hoti. 
+
+fighting with staves, boxing, wrestling, war-games, roll calls, battle arrays, and regimental reviews — he abstains from watching shows such as these. 
+
+摔角、演習、兵列、軍陣、閱兵，這樣，他是離看這樣或那樣表演者，
+
+棒擊、拳鬥、角力、模擬戰、列兵、配兵、閱兵等之娛樂。遠離如是等巡迴演藝之娛樂物。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
 ##### 49.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ jūtappa­mādaṭ­ṭhā­nānu­yogaṃ anuyuttā viharanti. Seyyathidaṃ—aṭṭhapadaṃ dasapadaṃ ākāsaṃ parihārapathaṃ santikaṃ khalikaṃ ghaṭikaṃ salākahatthaṃ akkhaṃ paṅgacīraṃ vaṅkakaṃ mokkhacikaṃ ciṅgulikaṃ pattāḷhakaṃ rathakaṃ dhanukaṃ akkharikaṃ manesikaṃ yathāvajjaṃ iti vā iti evarūpā jūtappa­mādaṭ­ṭhānā­nuyogā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ jūtappa­mādaṭ­ṭhā­nānu­yogaṃ anuyuttā viharanti.
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to heedless and idle games such as these — eight-row chess, ten-row chess, chess in the air, hopscotch, spillikins, dice, stick games, hand-pictures, ball-games, blowing through toy pipes, playing with toy plows, turning somersaults, playing with toy windmills, toy measures, toy chariots, toy bows, guessing letters drawn in the air, guessing thoughts, mimicking deformities — he abstains from heedless and idle games such as these. This, too, is part of his virtue.
+“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to heedless and idle games
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事賭博放逸處，即：八目棋、十目棋、空中棋、跳房子遊戲、石積遊戲、骰子板、打木棒遊戲、手型遊戲、骰子、吹葉笛、玩具鋤遊戲、翻筋斗遊戲、玩具風車遊戲、玩具量器遊戲、車遊戲遊戲、玩具弓箭遊戲、猜字遊戲、猜想法遊戲、模仿瑕疵遊戲，這樣，他是離這樣或那樣賭博放逸處者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事賭博放逸處，
 
-有某沙門、婆羅門，受食信施而生活。專心耽住於賭博之放逸處。例如八目碁、十目碁、無盤碁、踢石、擲骰、棒打、占手痕、拋球、葉笛、鋤戲、倒立、風車戲、升戲、車戲、弓戲、字戲、測意戲、模擬殘傷戲等。遠離如是等之賭博放逸處。此亦為比丘戒之一份。
+有某沙門、婆羅門，受食信施而生活。
+
+---
+
+Seyyathidaṃ—aṭṭhapadaṃ dasapadaṃ ākāsaṃ parihārapathaṃ santikaṃ khalikaṃ ghaṭikaṃ salākahatthaṃ akkhaṃ paṅgacīraṃ vaṅkakaṃ mokkhacikaṃ
+
+such as these — eight-row chess, ten-row chess, chess in the air, hopscotch, spillikins, dice, stick games, hand-pictures, ball-games, blowing through toy pipes, playing with toy plows, turning somersaults,
+
+即：八目棋、十目棋、空中棋、跳房子遊戲、石積遊戲、骰子板、打木棒遊戲、手型遊戲、骰子、吹葉笛、玩具鋤遊戲、翻筋斗遊戲、
+
+專心耽住於賭博之放逸處。例如八目碁、十目碁、無盤碁、踢石、擲骰、棒打、占手痕、拋球、葉笛、鋤戲、倒立、
+
+---
+
+ciṅgulikaṃ pattāḷhakaṃ rathakaṃ dhanukaṃ akkharikaṃ manesikaṃ yathāvajjaṃ iti vā iti evarūpā jūtappa­mādaṭ­ṭhānā­nuyogā paṭivirato hoti.
+
+playing with toy windmills, toy measures, toy chariots, toy bows, guessing letters drawn in the air, guessing thoughts, mimicking deformities — he abstains from heedless and idle games such as these.
+
+玩具風車遊戲、玩具量器遊戲、車遊戲遊戲、玩具弓箭遊戲、猜字遊戲、猜想法遊戲、模仿瑕疵遊戲，這樣，他是離這樣或那樣賭博放逸處者，
+
+風車戲、升戲、車戲、弓戲、字戲、測意戲、模擬殘傷戲等。遠離如是等之賭博放逸處。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
