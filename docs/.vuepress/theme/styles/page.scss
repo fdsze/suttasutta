@@ -79,7 +79,7 @@
         @media (max-width: $MQMobile) {
           display: table;
           margin-bottom: 5px;
-          color: lighten(desaturate($accentColor, 30%), 30%);
+          color: lighten(desaturate($accentColor, 30%), 20%);
           border: 1px solid $borderColor;
           font-size: 12px;
           font-weight: 700;
