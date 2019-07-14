@@ -85,7 +85,9 @@ export default {
 
   methods: {
     onScroll() {
-      if (window.scrollY > this.scrollPos && window.scrollY >= 0) {
+      if (window.scrollY <= 0) {
+        this.navbarPos = 0;
+      } else if (window.scrollY > this.scrollPos) {
         this.navbarPos = Math.max(this.navbarPos + (this.scrollPos - window.scrollY), -60);
       } else {
         this.navbarPos = Math.min(this.navbarPos + (this.scrollPos - window.scrollY), 0);
