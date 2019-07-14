@@ -20,8 +20,6 @@ I have heard that on one occasion the Blessed One was staying at Rajagaha, in Ji
 
 我聽到這樣：有一次，世尊與一千二百五十位比丘的大比丘僧團一起住在王舍城養子耆婆的芒果園中。
 
-
-
 如是我聞。爾時，世尊與千二百五十人之大比丘眾俱，住王舍城小兒醫師耆婆之菴羅園。
 
 ---
@@ -1475,7 +1473,7 @@ Generosity is taught by idiots.
 
 布施即是愚者的教說，
 
-布施之說，
+布施之說，唯對愚者之所設；
 
 ---
 
@@ -1485,7 +1483,7 @@ The words of those who speak of existence after death are false, empty chatter.
 
 凡任何說[布施之類]虛無論者，全是虛偽的、虛妄戲論，
 
-唯對愚者之所設；若說人〔死後〕之存在，此為無根之妄言而已。
+若說人〔死後〕之存在，此為無根之妄言而已。
 
 ---
 
@@ -2201,13 +2199,73 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 ##### 34.
 
-Sohaṃ, bhante, bhagavantampi pucchāmi: ‘yathā nu kho imāni, bhante, puthu­sip­pāyata­nāni seyyathidaṃ—hatthārohā assārohā rathikā dhanuggahā celakā calakā piṇḍadāyakā uggā rājaputtā pakkhandino mahānāgā sūrā cammayodhino dāsikaputtā āḷārikā kappakā nhāpakā sūdā mālakārā rajakā pesakārā naḷakārā kumbhakārā gaṇakā muddikā, yāni vā panaññānipi evaṅgatāni puthu­sip­pāyata­nāni, te diṭṭheva dhamme sandiṭṭhikaṃ sippaphalaṃ upajīvanti, te tena attānaṃ sukhenti pīṇenti, mātāpitaro sukhenti pīṇenti, puttadāraṃ sukhenti pīṇenti, mittāmacce sukhenti pīṇenti, samaṇab­rāhma­ṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhapenti sovaggikaṃ sukhavipākaṃ sagga­saṃ­vatta­ni­kaṃ. Sakkā nu kho, bhante, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’”ti?
+Sohaṃ, bhante, bhagavantampi pucchāmi: 
 
-“So, lord, I ask the Blessed One as well: There are these common craftsmen: elephant-trainers, horse-trainers, charioteers, archers, standard bearers, camp marshals, supply corps officers, high royal officers, commandos, military heroes, armor-clad warriors, leather-clad warriors, domestic slaves, confectioners, barbers, bath attendants, cooks, garland-makers, laundrymen, weavers, basket-makers, potters, calculators, accountants, and any other common craftsmen of a similar sort. They live off the fruits of their crafts, visible in the here and now. They give pleasure and refreshment to themselves, to their parents, wives, and children, to their friends and colleagues. They put in place an excellent presentation of offerings to brahmans and contemplatives, leading to heaven, resulting in happiness, conducive to a heavenly rebirth. Is it possible, lord, to point out a similar fruit of the contemplative life, visible in the here and now?”
+“So, lord, I ask the Blessed One as well: 
 
-大德！我問世尊：『大德！如這些種種技能之處，即：騎象兵、騎馬兵、戰車兵、弓箭兵、軍旗兵、參謀、伙食兵、尊貴王族戰士、突擊兵、大龍戰士、勇士、穿皮革的戰士、死忠奴隸兵、廚師、理髮師、澡堂師傅、作甜食者、作花環者、洗染匠、編織匠、蘆葦匠、製陶器者、會計師、查驗員，或凡其它像這樣有關種種技能之處，他們在當生中依技能果生活，他們依此使自己快樂、滿足；使父母快樂、滿足；使妻兒快樂、滿足；使朋友與同僚快樂、滿足，對沙門、婆羅門建立目標崇高的、天的、安樂果報的、導向天界的供養，同樣的，大德！你能告知當生直接可見的沙門果嗎？』」
+大德！我問世尊：
 
-大德！予對世尊問：『〔此世間〕有種種技能職業〔者〕，如：調象師、調馬師、車術師、弓術師、軍旗手、元帥、戰士、高級武官、象力士、裝甲兵、奴隸出身者、廚師、理髮師、助浴者、製菓者、編髮者、漂白業、織師、製籠者、陶師、計算師、印相師。如是世間所知之種種技能職業者——彼等於現世，享受彼等技能職業之成果，以令自己安樂幸福，令父母安樂幸福，令妻子安樂幸福，令朋友安樂幸福。以此，向沙門、婆羅門行布施，得尊勝天界安隱之福報。大德！如是，得見沙門〔修行〕現世之果報耶？』」
+大德！予對世尊問：
+
+---
+
+‘yathā nu kho imāni, bhante, puthu­sip­pāyata­nāni seyyathidaṃ—hatthārohā assārohā rathikā dhanuggahā celakā calakā piṇḍadāyakā uggā rājaputtā pakkhandino mahānāgā sūrā cammayodhino dāsikaputtā 
+
+There are these common craftsmen: elephant-trainers, horse-trainers, charioteers, archers, standard bearers, camp marshals, supply corps officers, high royal officers, commandos, military heroes, armor-clad warriors, leather-clad warriors, domestic slaves,
+
+『大德！如這些種種技能之處，即：騎象兵、騎馬兵、戰車兵、弓箭兵、軍旗兵、參謀、伙食兵、尊貴王族戰士、突擊兵、大龍戰士、勇士、穿皮革的戰士、死忠奴隸兵、
+
+『〔此世間〕有種種技能職業〔者〕，如：調象師、調馬師、車術師、弓術師、軍旗手、元帥、戰士、高級武官、象力士、裝甲兵、奴隸出身者、
+
+---
+
+āḷārikā kappakā nhāpakā sūdā mālakārā rajakā pesakārā naḷakārā kumbhakārā gaṇakā muddikā, yāni vā panaññānipi evaṅgatāni puthu­sip­pāyata­nāni, 
+
+confectioners, barbers, bath attendants, cooks, garland-makers, laundrymen, weavers, basket-makers, potters, calculators, accountants, and any other common craftsmen of a similar sort.
+
+廚師、理髮師、澡堂師傅、作甜食者、作花環者、洗染匠、編織匠、蘆葦匠、製陶器者、會計師、查驗員，或凡其它像這樣有關種種技能之處，
+
+廚師、理髮師、助浴者、製菓者、編髮者、漂白業、織師、製籠者、陶師、計算師、印相師。如是世間所知之種種技能職業者——
+
+---
+
+te diṭṭheva dhamme sandiṭṭhikaṃ sippaphalaṃ upajīvanti, 
+
+They live off the fruits of their crafts, visible in the here and now.
+
+他們在當生中依技能果生活，他們依此使自己快樂、滿足；
+
+彼等於現世，享受彼等技能職業之成果，以令自己安樂幸福，
+
+---
+
+te tena attānaṃ sukhenti pīṇenti, mātāpitaro sukhenti pīṇenti, puttadāraṃ sukhenti pīṇenti, mittāmacce sukhenti pīṇenti, 
+
+They give pleasure and refreshment to themselves, to their parents, wives, and children, to their friends and colleagues.
+
+使父母快樂、滿足；使妻兒快樂、滿足；使朋友與同僚快樂、滿足，
+
+令父母安樂幸福，令妻子安樂幸福，令朋友安樂幸福。
+
+---
+
+samaṇab­rāhma­ṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhapenti sovaggikaṃ sukhavipākaṃ sagga­saṃ­vatta­ni­kaṃ. 
+
+They put in place an excellent presentation of offerings to brahmans and contemplatives, leading to heaven, resulting in happiness, conducive to a heavenly rebirth.
+
+對沙門、婆羅門建立目標崇高的、天的、安樂果報的、導向天界的供養，
+
+以此，向沙門、婆羅門行布施，得尊勝天界安隱之福報。
+
+---
+
+Sakkā nu kho, bhante, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’”ti?
+
+Is it possible, lord, to point out a similar fruit of the contemplative life, visible in the here and now?”
+
+同樣的，大德！你能告知當生直接可見的沙門果嗎？』」
+
+大德！如是，得見沙門〔修行〕現世之果報耶？』」
 
 ---
 
@@ -2262,55 +2320,136 @@ yet King Ajatasattu enjoys himself supplied and replete with the five strings of
 然，此摩揭陀國王韋提希子阿闍世以具足持受五欲樂，想彼戲樂如神，
 
 ---
-Ahaṃ panamhissa dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṃkā­rapaṭis­sāvī manāpacārī piyavādī mukhullokako. So vatassāhaṃ puññāni kareyyaṃ. Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.
 
-while I am his slave, his workman... always watching for the look on his face. I, too, should do meritorious deeds. What if I were to shave off my hair and beard, put on the ochre robes, and go forth from the household life into homelessness?’ 
+Ahaṃ panamhissa dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṃkā­rapaṭis­sāvī manāpacārī piyavādī mukhullokako.
 
-而我是奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者，我確實應該做那福德，讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』 
+while I am his slave, his workman... always watching for the look on his face. 
 
-我於此乃彼之奴僕，而奉事彼：晚睡早起，聽〔順王〕之任何雜務，和顏悅色、言愛語、恭順可意之行為。實彼我〔得為如此，〕乃彼我之福德。然，令我剃除鬚髮，著袈裟衣，出家而為無家者。』
+而我是奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者，
 
----
-
-So aparena samayena kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyya. So evaṃ pabbajito samāno kāyena saṃvuto vihareyya, vācāya saṃvuto vihareyya, manasā saṃvuto vihareyya, ghā­sacchā­dana­parama­tāya santuṭṭho, abhirato paviveke. Tañce te purisā evamāroceyyuṃ:
-
-“So after some time he shaves off his hair and beard, puts on the ochre robes, and goes forth from the household life into homelessness. Having thus gone forth he lives restrained in body, speech, and mind, content with the simplest food and shelter, delighting in solitude. Then suppose one of your men were to inform you:
-
-過些時候，他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。當這樣出家時，他能住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜，如果他們這麼告知你那位男子：
-
-於彼而後，即剃除鬚髮，著袈裟衣，出家而為無家者。如是出家，彼防護身、口、意而住，以滿足最低限度之衣、食，樂於離世靜居。對彼，卿之諸臣奏言：
+我於此乃彼之奴僕，而奉事彼：晚睡早起，聽〔順王〕之任何雜務，和顏悅色、言愛語、恭順可意之行為。
 
 ---
 
-‘yagghe, deva, jāneyyāsi, yo te so puriso dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṃkā­rapaṭis­sāvī manāpacārī piyavādī mukhullokako; so, deva, kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajito.
+So vatassāhaṃ puññāni kareyyaṃ. 
 
-‘You should know, your majesty, that that man of yours — your slave, your workman... always watching for the look on your face... has gone forth from the household life into homelessness...
+I, too, should do meritorious deeds. 
 
-『真的，陛下！你應該知道，那位男子是你的奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者，陛下！他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。
+我確實應該做那福德，
 
-『願大王有知，彼人乃大王之奴僕，以奉事〔大王〕：晚睡早起、聽順〔王〕之任何雜務、和顏悅色、言愛語、恭順可意之行為。大王！而後，彼剃除鬚髮，著袈裟衣，出家而為無家者。
+實彼我〔得為如此，〕乃彼我之福德。
 
 ---
 
-So evaṃ pabbajito samāno kāyena saṃvuto viharati, vācāya saṃvuto viharati, manasā saṃvuto viharati, ghā­sacchā­dana­parama­tāya santuṭṭho, abhirato paviveke’ti. Api nu tvaṃ evaṃ vadeyyāsi: ‘etu me, bho, so puriso, punadeva hotu dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṃkā­rapaṭis­sāvī manāpacārī piyavādī mukhullokako’”ti?
+Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.
 
-... content with the simplest food and shelter, delighting in solitude.’ Would you, thus informed, say, ‘Bring that man back to me. Make him again be my slave, my workman... always watching for the look on my face!’?” 
+What if I were to shave off my hair and beard, put on the ochre robes, and go forth from the household life into homelessness?’ 
 
-當這樣出家時，他住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜。』你是否會這麼說：『令那位男子再回來成為我的奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者。』嗎？」
+讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』 
 
-如是出家，彼防護身、口、意而住，以滿足最低限度之衣、食，樂於離世靜居。』彼時，卿能言：『令彼人還歸我處，再為奴僕，為我奉事，晚睡早起、聽順雜務、和顏悅色、言愛語、恭順可意之行為』耶？」
+然，令我剃除鬚髮，著袈裟衣，出家而為無家者。』
+
+---
+
+So aparena samayena kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyya.
+
+“So after some time he shaves off his hair and beard, puts on the ochre robes, and goes forth from the household life into homelessness.
+
+過些時候，他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。
+
+於彼而後，即剃除鬚髮，著袈裟衣，出家而為無家者。
+
+---
+
+So evaṃ pabbajito samāno kāyena saṃvuto vihareyya, vācāya saṃvuto vihareyya, manasā saṃvuto vihareyya, ghā­sacchā­dana­parama­tāya santuṭṭho, abhirato paviveke.
+
+Having thus gone forth he lives restrained in body, speech, and mind, content with the simplest food and shelter, delighting in solitude.
+
+當這樣出家時，他能住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜，
+
+如是出家，彼防護身、口、意而住，以滿足最低限度之衣、食，樂於離世靜居。
+
+---
+
+Tañce te purisā evamāroceyyuṃ:
+
+Then suppose one of your men were to inform you:
+
+如果他們這麼告知你那位男子：
+
+對彼，卿之諸臣奏言：
+
+---
+
+‘yagghe, deva, jāneyyāsi, yo te so puriso dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṃkā­rapaṭis­sāvī manāpacārī piyavādī mukhullokako; 
+
+‘You should know, your majesty, that that man of yours — your slave, your workman... always watching for the look on your face... 
+
+『真的，陛下！你應該知道，那位男子是你的奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者，
+
+『願大王有知，彼人乃大王之奴僕，以奉事〔大王〕：晚睡早起、聽順〔王〕之任何雜務、和顏悅色、言愛語、恭順可意之行為。
+
+---
+
+so, deva, kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajito.
+
+...has gone forth from the household life into homelessness...
+
+陛下！他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。
+
+大王！而後，彼剃除鬚髮，著袈裟衣，出家而為無家者。
+
+---
+
+So evaṃ pabbajito samāno kāyena saṃvuto viharati, vācāya saṃvuto viharati, manasā saṃvuto viharati, ghā­sacchā­dana­parama­tāya santuṭṭho, abhirato paviveke’ti.
+
+... content with the simplest food and shelter, delighting in solitude.’
+
+當這樣出家時，他住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜。』
+
+如是出家，彼防護身、口、意而住，以滿足最低限度之衣、食，樂於離世靜居。』
+
+---
+
+Api nu tvaṃ evaṃ vadeyyāsi: ‘etu me, bho, so puriso, punadeva hotu dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṃkā­rapaṭis­sāvī manāpacārī piyavādī mukhullokako’”ti?
+
+Would you, thus informed, say, ‘Bring that man back to me. Make him again be my slave, my workman... always watching for the look on my face!’?” 
+
+你是否會這麼說：『令那位男子再回來成為我的奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者。』嗎？」
+
+彼時，卿能言：『令彼人還歸我處，再為奴僕，為我奉事，晚睡早起、聽順雜務、和顏悅色、言愛語、恭順可意之行為』耶？」
 
 ---
 
 ##### 36.
 
-“No hetaṃ, bhante. Atha kho naṃ mayameva abhi­vādeyyā­mapi, paccuṭ­ṭheyyā­mapi, āsanenapi nimanteyyāma, abhini­man­tey­yāmapi naṃ cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rehi, dhammikampissa ­rak­khā­varaṇa­guttiṃ saṃvidaheyyāmā”ti.
+“No hetaṃ, bhante.
 
-“Not at all, lord. Rather, I am the one who should bow down to him, rise up out of respect for him, invite him to a seat, invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisites for the sick. And I would provide him with righteous safety, defense, and protection.”
+“Not at all, lord.
 
-「不，大德！那時，我們只會問訊，或會起立以座位迎接，或會邀請，或會招待他衣服、施食、住處、病人的需要物、醫藥必需品，或會如法地安排守護、防護、保護。」
+「不，大德！
 
-〔王曰：〕「大德！不然，我等可向彼問訊、起迎，與座請坐。供彼衣、食、住宿及病之醫藥、用具，并如法保護、蓋護、守護彼。」
+〔王曰：〕「大德！不然，
+
+---
+
+Atha kho naṃ mayameva abhi­vādeyyā­mapi, paccuṭ­ṭheyyā­mapi, āsanenapi nimanteyyāma, 
+
+Rather, I am the one who should bow down to him, rise up out of respect for him, invite him to a seat,
+
+那時，我們只會問訊，或會起立以座位迎接，
+
+我等可向彼問訊、起迎，與座請坐。
+
+---
+
+abhini­man­tey­yāmapi naṃ cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rehi, dhammikampissa ­rak­khā­varaṇa­guttiṃ saṃvidaheyyāmā”ti.
+
+invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisites for the sick. And I would provide him with righteous safety, defense, and protection.”
+
+或會邀請，或會招待他衣服、施食、住處、病人的需要物、醫藥必需品，或會如法地安排守護、防護、保護。」
+
+供彼衣、食、住宿及病之醫藥、用具，并如法保護、蓋護、守護彼。」
 
 ---
 
@@ -2366,13 +2505,73 @@ So evaṃ pabbajito samāno kāyena saṃvuto viharati, vācāya saṃvuto vihar
 
 ---
 
-Taṃ kiṃ maññasi, mahārāja, idha te assa puriso kassako gahapatiko karakārako rāsivaḍḍhako. Tassa evamassa: ‘acchariyaṃ vata bho, abbhutaṃ vata bho, puññānaṃ gati, puññānaṃ vipāko. Ayañhi rājā māgadho ajātasattu vedehiputto manusso, ahampi manusso. Ayañhi rājā māgadho ajātasattu vedehiputto pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti, devo maññe. Ahaṃ panamhissa kassako gahapatiko karakārako rāsivaḍḍhako. So vatassāhaṃ puññāni kareyyaṃ. Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.
+Taṃ kiṃ maññasi, mahārāja, idha te assa puriso kassako gahapatiko karakārako rāsivaḍḍhako.
 
-Suppose there were a man of yours: a farmer, a householder, a taxpayer swelling the royal treasury. The thought would occur to him: ‘Isn‘t it amazing? Isn‘t it astounding? — the destination, the results, of meritorious deeds! For this King Ajatasattu is a human being, and I, too, am a human being, yet King Ajatasattu enjoys himself supplied and replete with the five strings of sensuality — like a deva, as it were — while I am a farmer, a householder, a taxpayer swelling the royal treasury. I, too, should do meritorious deeds. What if I were to shave off my hair and beard, put on the ochre robes, and go forth from the household life into homelessness?’
+Suppose there were a man of yours: a farmer, a householder, a taxpayer swelling the royal treasury.
 
-大王！你怎麼想：這裡，如果男子是你的農夫、屋主、工作者、司財者，他這麼想：『實在不可思議啊，先生！實在未曾有啊，先生！[真是]福德命、福德果報，這位摩揭陀國阿闍世王韋提希子是人，我也是人，這位摩揭陀國阿闍世王韋提希子具備、具有五種欲自娛，我想就像天神一樣，而我是農夫、屋主、工作者、司財者，我確實應該做那福德，讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』 
+大王！你怎麼想：這裡，如果男子是你的農夫、屋主、工作者、司財者，
 
-大王！對此如何思惟？於此，卿有一農夫，彼從事家業，納〔王〕租稅，增益卿之財寶。一日，彼如是思惟：『希有哉！未曾有哉！此摩揭陀國王韋提希子阿闍世是人，我亦是人。然，此摩揭陀國王韋提希子阿闍世，持受具足五欲樂，想彼戲樂如神，我於此，乃彼之農夫，從事家業，納〔王〕租稅，增益彼之財寶。實彼我〔得為如此，〕乃彼我之福德。然，令我剃除鬚髮，著袈裟衣，出家而為無家者。』
+大王！對此如何思惟？於此，卿有一農夫，彼從事家業，納〔王〕租稅，增益卿之財寶。
+
+---
+
+Tassa evamassa: ‘acchariyaṃ vata bho, abbhutaṃ vata bho, puññānaṃ gati, puññānaṃ vipāko. 
+
+The thought would occur to him: ‘Isn‘t it amazing? Isn‘t it astounding? — the destination, the results, of meritorious deeds!
+
+他這麼想：『實在不可思議啊，先生！實在未曾有啊，先生！[真是]福德命、福德果報，
+
+一日，彼如是思惟：『希有哉！未曾有哉！
+
+---
+
+Ayañhi rājā māgadho ajātasattu vedehiputto manusso, ahampi manusso. 
+
+For this King Ajatasattu is a human being, and I, too, am a human being,
+
+這位摩揭陀國阿闍世王韋提希子是人，我也是人，
+
+此摩揭陀國王韋提希子阿闍世是人，我亦是人。
+
+---
+
+Ayañhi rājā māgadho ajātasattu vedehiputto pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti, devo maññe.
+
+yet King Ajatasattu enjoys himself supplied and replete with the five strings of sensuality — like a deva, as it were — 
+
+這位摩揭陀國阿闍世王韋提希子具備、具有五種欲自娛，我想就像天神一樣，
+
+然，此摩揭陀國王韋提希子阿闍世，持受具足五欲樂，想彼戲樂如神，
+
+---
+
+Ahaṃ panamhissa kassako gahapatiko karakārako rāsivaḍḍhako.
+
+while I am a farmer, a householder, a taxpayer swelling the royal treasury.
+
+而我是農夫、屋主、工作者、司財者，
+
+我於此，乃彼之農夫，從事家業，納〔王〕租稅，增益彼之財寶。
+
+---
+
+So vatassāhaṃ puññāni kareyyaṃ.
+
+I, too, should do meritorious deeds. 
+
+我確實應該做那福德，
+
+實彼我〔得為如此，〕乃彼我之福德。
+
+---
+
+Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.
+
+What if I were to shave off my hair and beard, put on the ochre robes, and go forth from the household life into homelessness?’
+
+讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』 
+
+然，令我剃除鬚髮，著袈裟衣，出家而為無家者。』
 
 ---
 
@@ -2386,35 +2585,75 @@ So aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkh
 
 ---
 
-So evaṃ pabbajito samāno kāyena saṃvuto vihareyya, vācāya saṃvuto vihareyya, manasā saṃvuto vihareyya, ghā­sacchā­dana­parama­tāya santuṭṭho, abhirato paviveke. Tañce te purisā evamāroceyyuṃ: ‘yagghe, deva, jāneyyāsi, yo te so puriso kassako gahapatiko karakārako rāsivaḍḍhako; so deva kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajito.
+So evaṃ pabbajito samāno kāyena saṃvuto vihareyya, vācāya saṃvuto vihareyya, manasā saṃvuto vihareyya, ghā­sacchā­dana­parama­tāya santuṭṭho, abhirato paviveke.
 
-Having thus gone forth he lives restrained in body, speech, and mind, content with the simplest food and shelter, delighting in solitude. Then suppose one of your men were to inform you: ‘You should know, your majesty, that that man of yours — the farmer, the householder, the taxpayer swelling the royal treasury... has gone forth from the household life into homelessness...
+Having thus gone forth he lives restrained in body, speech, and mind, content with the simplest food and shelter, delighting in solitude.
 
-當這樣出家時，他能住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜，如果他們這麼告知你那位男子：『真的，陛下！你應該知道，那位男子是你的農夫、屋主、工作者、司財者，陛下！他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。
+當這樣出家時，他能住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜，
 
-如是出家，彼防護身、口、意而住，滿足最低限度之衣、食，樂於離世靜居。對彼，卿之諸臣奏言：『願大王有知，彼人乃大王之農夫，從事家業，納〔王〕租稅，增益大王之財寶。大王！而後彼剃除鬚髮，著袈裟衣，出家而為無家者。
+如是出家，彼防護身、口、意而住，滿足最低限度之衣、食，樂於離世靜居。
 
 ---
 
-So evaṃ pabbajito samāno kāyena saṃvuto viharati, vācāya saṃvuto viharati, manasā saṃvuto viharati, ghā­sacchā­dana­parama­tāya santuṭṭho, abhirato paviveke’ti. Api nu tvaṃ evaṃ vadeyyāsi: ‘etu me, bho, so puriso, punadeva hotu kassako gahapatiko karakārako rāsivaḍḍhako’”ti?
+Tañce te purisā evamāroceyyuṃ: ‘yagghe, deva, jāneyyāsi, yo te so puriso kassako gahapatiko karakārako rāsivaḍḍhako;
 
-content with the simplest food and shelter, delighting in solitude.’ Would you, thus informed, say, ‘Bring that man back to me. Make him again be a farmer, a householder, a taxpayer swelling the royal treasury!’?”
+Then suppose one of your men were to inform you: ‘You should know, your majesty, that that man of yours — the farmer, the householder, the taxpayer swelling the royal treasury... 
 
-當這樣出家時，他住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜。』你是否會這麼說：『令那位男子再回來成為我的農夫、屋主、工作者、司財者。』嗎？」
+如果他們這麼告知你那位男子：『真的，陛下！你應該知道，那位男子是你的農夫、屋主、工作者、司財者，
 
-如是出家，彼防護身、口、意而住，滿足最低限度之衣、食，樂於離世靜居。』其時，卿能言：『令彼還歸我處，再為農夫，從事家業，以納租稅，增益我之財寶』耶？」
+對彼，卿之諸臣奏言：『願大王有知，彼人乃大王之農夫，從事家業，納〔王〕租稅，增益大王之財寶。
+
+---
+
+so deva kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajito.
+
+...has gone forth from the household life into homelessness...
+
+陛下！他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。
+
+大王！而後彼剃除鬚髮，著袈裟衣，出家而為無家者。
+
+---
+
+So evaṃ pabbajito samāno kāyena saṃvuto viharati, vācāya saṃvuto viharati, manasā saṃvuto viharati, ghā­sacchā­dana­parama­tāya santuṭṭho, abhirato paviveke’ti. 
+
+content with the simplest food and shelter, delighting in solitude.’
+
+當這樣出家時，他住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜。』
+
+如是出家，彼防護身、口、意而住，滿足最低限度之衣、食，樂於離世靜居。』
+
+---
+
+Api nu tvaṃ evaṃ vadeyyāsi: ‘etu me, bho, so puriso, punadeva hotu kassako gahapatiko karakārako rāsivaḍḍhako’”ti?
+
+Would you, thus informed, say, ‘Bring that man back to me. Make him again be a farmer, a householder, a taxpayer swelling the royal treasury!’?”
+
+你是否會這麼說：『令那位男子再回來成為我的農夫、屋主、工作者、司財者。』嗎？」
+
+其時，卿能言：『令彼還歸我處，再為農夫，從事家業，以納租稅，增益我之財寶』耶？」
 
 ---
 
 ##### 38.
 
-“No hetaṃ, bhante. Atha kho naṃ mayameva abhi­vādeyyā­mapi, paccuṭ­ṭheyyā­mapi, āsanenapi nimanteyyāma, abhini­man­tey­yāmapi naṃ cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rehi, dhammikampissa ­rak­khā­varaṇa­guttiṃ saṃvidaheyyāmā”ti.
+“No hetaṃ, bhante. Atha kho naṃ mayameva abhi­vādeyyā­mapi, paccuṭ­ṭheyyā­mapi, āsanenapi nimanteyyāma,
 
-“Not at all, lord. Rather, I am the one who should bow down to him, rise up out of respect for him, invite him to a seat, invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisites for the sick. And I would provide him with righteous safety, defense, and protection.”
+“Not at all, lord. Rather, I am the one who should bow down to him, rise up out of respect for him, invite him to a seat,
 
-「不，大德！那時，我們只會問訊，或會起立以座位迎接，或會邀請，或會招待他衣服、施食、住處、病人的需要物、醫藥必需品，或會如法地安排守護、防護、保護。」
+「不，大德！那時，我們只會問訊，或會起立以座位迎接，
 
-〔王曰：〕「大德！不然。我等可向彼問訊，起迎，與座請坐，供彼衣、食、住宿及病之醫藥、用具，并如法保護、蓋護、守護彼。」
+〔王曰：〕「大德！不然。我等可向彼問訊，起迎，與座請坐，
+
+---
+
+abhini­man­tey­yāmapi naṃ cīvara­piṇḍa­pāta­se­nāsa­na­gilā­nappac­caya­bhesaj­ja­parik­khā­rehi, dhammikampissa ­rak­khā­varaṇa­guttiṃ saṃvidaheyyāmā”ti.
+
+invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisites for the sick. And I would provide him with righteous safety, defense, and protection.”
+
+或會邀請，或會招待他衣服、施食、住處、病人的需要物、醫藥必需品，或會如法地安排守護、防護、保護。」
+
+供彼衣、食、住宿及病之醫藥、用具，并如法保護、蓋護、守護彼。」
 
 ---
 
@@ -2740,23 +2979,63 @@ This, too, is part of his virtue.
 
 ---
 
-Pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti; yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti. Idampissa hoti sīlasmiṃ.
+Pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti; 
 
-“Abandoning abusive speech, he abstains from abusive speech. He speaks words that are soothing to the ear, that are affectionate, that go to the heart, that are polite, appealing and pleasing to people at large. This, too, is part of his virtue.
+“Abandoning abusive speech, he abstains from abusive speech. 
 
-捨斷粗惡語後，他是離粗惡語者，他以柔和的言語：悅耳的、可愛的、動心的、優雅的、眾人所愛的、眾人可意的，像那樣的言語與人說話，這也是關於戒。
+捨斷粗惡語後，他是離粗惡語者，
 
-捨惡口，離惡口，凡語無過失、樂耳、悅意、感銘、眾人所愛。此為比丘戒之一份。
+捨惡口，離惡口，
 
 ---
 
-Samphappalāpaṃ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, nidhānavatiṃ vācaṃ bhāsitā hoti kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ. Idampissa hoti sīlasmiṃ.
+yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti. 
 
-“Abandoning idle chatter, he abstains from idle chatter. He speaks in season, speaks what is factual, what is in accordance with the goal, the Dhamma, and the Vinaya. He speaks words worth treasuring, seasonable, reasonable, circumscribed, connected with the goal. This, too, is part of his virtue.
+He speaks words that are soothing to the ear, that are affectionate, that go to the heart, that are polite, appealing and pleasing to people at large. 
 
-捨斷雜穢語後，他是離雜穢語者：他是適當時機之說者、事實之說者、有益處之說者，如法之說者、如律之說者；他以適當時機說有價值、有理由、有節制、具有利益的話，這也是關於戒。
+他以柔和的言語：悅耳的、可愛的、動心的、優雅的、眾人所愛的、眾人可意的，像那樣的言語與人說話，
 
-捨綺語，離綺語，語適時，語真實，語法，語義，語律儀，語應明確、有段落、適義、可銘記於心。此為比丘戒之一份。
+凡語無過失、樂耳、悅意、感銘、眾人所愛。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此為比丘戒之一份。
+
+---
+
+Samphappalāpaṃ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, 
+
+“Abandoning idle chatter, he abstains from idle chatter. He speaks in season, speaks what is factual, what is in accordance with the goal, the Dhamma, and the Vinaya. 
+
+捨斷雜穢語後，他是離雜穢語者：他是適當時機之說者、事實之說者、有益處之說者，如法之說者、如律之說者；
+
+捨綺語，離綺語，語適時，語真實，語法，語義，語律儀，
+
+---
+
+nidhānavatiṃ vācaṃ bhāsitā hoti kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ.
+
+He speaks words worth treasuring, seasonable, reasonable, circumscribed, connected with the goal.
+
+他以適當時機說有價值、有理由、有節制、具有利益的話，
+
+語應明確、有段落、適義、可銘記於心。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此為比丘戒之一份。
 
 ---
 
@@ -3122,9 +3401,23 @@ This, too, is part of his virtue.
 
 ##### 50.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ uccāsaya­na­mahā­sayanaṃ anuyuttā viharanti. Seyyathidaṃ—āsandiṃ pallaṅkaṃ gonakaṃ cittakaṃ paṭikaṃ paṭalikaṃ tūlikaṃ vikatikaṃ uddalomiṃ ekantalomiṃ kaṭṭissaṃ koseyyaṃ kuttakaṃ hatthattharaṃ assattharaṃ rathattharaṃ ajinappaveṇiṃ kadali­miga­pavara­pac­cattha­ra­ṇaṃ saut­tarac­cha­daṃ ubhato­lohita­kūpa­dhā­naṃ iti vā iti evarūpā uccāsaya­na­ma­hāsayanā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ uccāsaya­na­mahā­sayanaṃ anuyuttā viharanti.
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to high and luxurious furnishings such as these — over-sized couches, couches adorned with carved animals, long-haired coverlets, multi-colored patchwork coverlets, white woolen coverlets, woolen coverlets embroidered with flowers or animal figures, stuffed quilts, coverlets with fringe, silk coverlets embroidered with gems; large woolen carpets; elephant, horse, and chariot rugs, antelope-hide rugs, deer-hide rugs; couches with awnings, couches with red cushions for the head and feet — he abstains from using high and luxurious furnishings such as these. This, too, is part of his virtue.
+Seyyathidaṃ—āsandiṃ pallaṅkaṃ gonakaṃ cittakaṃ paṭikaṃ paṭalikaṃ tūlikaṃ vikatikaṃ uddalomiṃ ekantalomiṃ kaṭṭissaṃ koseyyaṃ 
+
+kuttakaṃ hatthattharaṃ assattharaṃ rathattharaṃ ajinappaveṇiṃ kadali­miga­pavara­pac­cattha­ra­ṇaṃ saut­tarac­cha­daṃ ubhato­lohita­kūpa­dhā­naṃ iti vā iti evarūpā uccāsaya­na­ma­hāsayanā paṭivirato hoti. 
+
+Idampissa hoti sīlasmiṃ.
+
+---
+
+“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to high and luxurious furnishings such as these — 
+
+over-sized couches, couches adorned with carved animals, long-haired coverlets, multi-colored patchwork coverlets, white woolen coverlets, woolen coverlets embroidered with flowers or animal figures, 
+
+stuffed quilts, coverlets with fringe, silk coverlets embroidered with gems; 
+
+large woolen carpets; elephant, horse, and chariot rugs, antelope-hide rugs, deer-hide rugs; couches with awnings, couches with red cushions for the head and feet — he abstains from using high and luxurious furnishings such as these. This, too, is part of his virtue.
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事高床、大床，即：高椅、長椅、長羊毛覆蓋物、彩色覆蓋物、長羊毛覆蓋物、白羊毛覆蓋物、厚布墊、毛織墊、邊緣有毛繸的墊子、一邊緣有毛繸的墊子、珠寶刺繡的絹織覆蓋物、絹布、毛織覆蓋物、象背氈墊、馬背氈墊、車上氈墊、羊皮的編織物、頂級羚鹿皮覆蓋物、有頂篷的、兩端有紅色枕墊 ，這樣，他是離這樣或那樣高床、大床者，這也是關於戒。
 
