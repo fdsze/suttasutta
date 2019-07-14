@@ -13,6 +13,7 @@ a.sidebar-link {
   line-height: 1.4;
   width: 100%;
   box-sizing: border-box;
+  transition: color 0.15s ease-in-out;
 
   &:hover {
     color: $accentColor;

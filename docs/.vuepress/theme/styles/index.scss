@@ -25,6 +25,14 @@ body {
   color: $textColor;
 }
 
+::selection {
+  background: lighten($accentColor, 42%); /* WebKit/Blink Browsers */
+}
+
+::-moz-selection {
+  background: lighten($accentColor, 42%); /* Gecko Browsers */
+}
+
 .page {
   padding-left: $sidebarWidth;
 }

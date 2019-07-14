@@ -1,5 +1,5 @@
 <template>
-  <header class="navbar" :style="{ transform: 'translateY(' + navbarPos + 'px)' }">
+  <header class="navbar" :style="{ transform: 'translate3d(0, ' + navbarPos + 'px, 0)' }">
     <SidebarButton @toggle-sidebar="$emit('toggle-sidebar')"/>
     <NavLinks class="can-hide"/>
 

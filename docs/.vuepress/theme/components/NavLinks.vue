@@ -142,11 +142,11 @@ $accentColor = #ff7300
 
 @media (min-width: $MQMobile)
   .nav-links a
+    transition: color 0.15s ease-in-out, border-bottom-color 0.2s ease-in-out
     &:hover, &.router-link-active
-      color $textColor
+      color $accentColor
   .nav-item > a:not(.external)
-    border-bottom 2px solid transparent
-    transition: border-bottom-color 0.2s ease-in-out
+    border-bottom 2px solid transparent 
     &:hover, &.router-link-active
       margin-bottom -2px
       border-bottom 2px solid lighten($accentColor, 8%)
