@@ -13,7 +13,8 @@
 html, body {
   padding: 0;
   margin: 0;
-  background-color: #f9f7f0;
+  // background-color: #f9f7f0;
+  background-color: lighten($accentColor, 47%);
 }
 
 body {
@@ -53,7 +54,7 @@ body {
 
 .sidebar {
   font-size: 16px;
-  background-color: #f9f7f0;
+  background-color: lighten($accentColor, 47%);
   width: $sidebarWidth;
   position: fixed;
   z-index: 10;

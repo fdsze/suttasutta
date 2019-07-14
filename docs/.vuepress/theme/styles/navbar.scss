@@ -2,7 +2,7 @@ $navbar-vertical-padding: 0.7rem;
 $navbar-horizontal-padding: 1.5rem;
 
 #nprogress .bar {
-  height: 3px;
+  height: 2px;
   background-color: rgba($accentColor, 0.9);
 
   .peg {
@@ -18,7 +18,7 @@ $navbar-horizontal-padding: 1.5rem;
     top: 0;
     left: 0;
     width: 100%;
-    border-top: 3px solid rgba($accentColor, 0.9); 
+    border-top: 2px solid $accentColor; 
     z-index: 21;
 
     .nprogress-busy & {
@@ -61,11 +61,7 @@ $navbar-horizontal-padding: 1.5rem;
   .home-link {
     position: absolute;
     left: 50%;
-    transform: translateX(calc(-50% + 25px));
-
-    @media (max-width: $MQMobile) {
-      transform: translateX(calc(-50%));
-    }
+    transform: translateX(-50%);
   }
 
   .links {
@@ -82,6 +78,13 @@ $navbar-horizontal-padding: 1.5rem;
     .search-box {
       flex: 0 0 auto;
       vertical-align: top;
+      margin-right: 0;
+
+      input {
+        border: none;
+        border-radius: 0;
+        background: desaturate( lighten($textColor, 65%), 20%) url(../assets/images/search.svg) 0.6rem 0.6rem no-repeat
+      }
 
       input:focus {
         cursor: auto;
@@ -89,7 +92,9 @@ $navbar-horizontal-padding: 1.5rem;
       }
 
       .suggestions {
+        border-color: $darkborderColor;
         right: 0;
+        border-radius: 0;
       }
 
       .suggestion {

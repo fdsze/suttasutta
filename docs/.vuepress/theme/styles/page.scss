@@ -9,13 +9,8 @@
     font-weight: 400;
     text-align: center;
     text-transform: uppercase;
-    text-indent: -50px;
     letter-spacing: 0.05em;
     clear: both;
-
-    @media (max-width: $MQNarrow) {
-      text-indent: unset;
-    }
 
     @media (max-width: $MQMobile) {
       margin-left: 25px;
@@ -37,6 +32,7 @@
     color: $textColor;
     font-weight: 400;
     border-bottom: 1px solid $darkborderColor;
+    transition: border-bottom-color 0.15s ease-in-out;
 
     &:hover {
       border-bottom: 1px solid $accentColor;      
@@ -101,9 +97,17 @@
   #{$contentClass} {
     max-width: none;
     margin-left: -10px;
-    margin-right: -10px;
+    margin-right: $sidebarWidth - 20px;
     padding-left: 0;
     padding-right: 0;
+
+    @media (max-width: $MQMobile) {
+      margin-right: -10px; 
+    }
+  }
+
+  .icon.outbound {
+    color: $accentColor;
   }
 }
 
