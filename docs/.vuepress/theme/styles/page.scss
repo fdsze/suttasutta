@@ -74,6 +74,43 @@
         margin-left: 25px;
         margin-right: 25px;
       }
+
+      &::before {
+        @media (max-width: $MQMobile) {
+          display: table;
+          margin-bottom: 5px;
+          color: lighten(desaturate($accentColor, 30%), 30%);
+          border: 1px solid $borderColor;
+          font-size: 12px;
+          font-weight: 700;
+          text-transform: uppercase;
+          padding: 0px 4px;
+        }
+      }
+    }
+
+    & + p::before {
+      @media (max-width: $MQMobile) {
+        content: 'Pāli';
+      }
+    }
+
+    & + p + p::before {
+      @media (max-width: $MQMobile) {
+        content: 'Eng';
+      }
+    }
+
+    & + p + p + p::before {
+      @media (max-width: $MQMobile) {
+        content: '白';
+      }
+    }
+
+    & + p + p + p + p::before {
+      @media (max-width: $MQMobile) {
+        content: '文';
+      }
     }
   }
 
