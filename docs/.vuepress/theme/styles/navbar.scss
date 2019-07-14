@@ -31,8 +31,6 @@ $navbar-horizontal-padding: 1.5rem;
   padding: $navbar-vertical-padding $navbar-horizontal-padding;
   line-height: $navbarHeight - 1.4rem;
 
-  
-
   a, span, img {
     display: inline-block;
   }
@@ -51,7 +49,7 @@ $navbar-horizontal-padding: 1.5rem;
     color: $accentColor;
     position: relative;
     letter-spacing: 0.4em;
-    margin-right: -0.6em;
+    margin-right: -0.2em;
 
     @media (max-width: $MQMobile) {
       font-size: 18px;
@@ -83,7 +81,7 @@ $navbar-horizontal-padding: 1.5rem;
       input {
         border: none;
         border-radius: 0;
-        background: desaturate( lighten($textColor, 65%), 20%) url(../assets/images/search.svg) 0.6rem 0.6rem no-repeat
+        background: desaturate( lighten($textColor, 65%), 20%) url(../assets/images/search.svg) 0.6rem 0.6rem no-repeat;
       }
 
       input:focus {

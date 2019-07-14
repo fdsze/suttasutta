@@ -39,7 +39,7 @@ body {
   background-color: #fff;
   box-sizing: border-box;
   border-bottom: 1px solid $darkborderColor;
-  box-shadow: 0 4px 0 0 rgba($textColor, 0.03);
+  box-shadow: 0 4px 0 0 rgba(darken($accentColor, 20%), 0.03);
 }
 
 .sidebar-mask {

@@ -1,8 +1,8 @@
 // colors
 $accentColor: #ff7300;
 $textColor: #404961;
-$borderColor: #f0ede5;
-$darkborderColor: #e0dbca;
+$borderColor: lighten(desaturate($accentColor, 30%), 42%);
+$darkborderColor: lighten(desaturate($accentColor, 30%), 38%);
 $codeBgColor: #282c34;
 $arrowBgColor: #ccc;
 
