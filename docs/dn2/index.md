@@ -3403,61 +3403,187 @@ This, too, is part of his virtue.
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ uccāsaya­na­mahā­sayanaṃ anuyuttā viharanti.
 
-Seyyathidaṃ—āsandiṃ pallaṅkaṃ gonakaṃ cittakaṃ paṭikaṃ paṭalikaṃ tūlikaṃ vikatikaṃ uddalomiṃ ekantalomiṃ kaṭṭissaṃ koseyyaṃ 
+“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to high and luxurious furnishings 
 
-kuttakaṃ hatthattharaṃ assattharaṃ rathattharaṃ ajinappaveṇiṃ kadali­miga­pavara­pac­cattha­ra­ṇaṃ saut­tarac­cha­daṃ ubhato­lohita­kūpa­dhā­naṃ iti vā iti evarūpā uccāsaya­na­ma­hāsayanā paṭivirato hoti. 
+如某些沙門、婆羅門吃了以信應該施與的食物後，
 
-Idampissa hoti sīlasmiṃ.
+有某沙門、婆羅門，受食信施而生活。專心住於享用高牀大牀等。
 
 ---
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to high and luxurious furnishings such as these — 
+Seyyathidaṃ—āsandiṃ pallaṅkaṃ gonakaṃ cittakaṃ paṭikaṃ paṭalikaṃ 
 
-over-sized couches, couches adorned with carved animals, long-haired coverlets, multi-colored patchwork coverlets, white woolen coverlets, woolen coverlets embroidered with flowers or animal figures, 
+such as these — over-sized couches, couches adorned with carved animals, long-haired coverlets, multi-colored patchwork coverlets, white woolen coverlets, woolen coverlets embroidered with flowers or animal figures, 
+
+這樣，他們住於從事高床、大床，即：高椅、長椅、長羊毛覆蓋物、彩色覆蓋物、長羊毛覆蓋物、白羊毛覆蓋物、
+
+例如過大之牀座、獸形之脚臺、覆以長羊毛之織物、有文彩之白氈、繡花圖繪之牀墊、
+
+---
+
+tūlikaṃ vikatikaṃ uddalomiṃ ekantalomiṃ kaṭṭissaṃ koseyyaṃ
 
 stuffed quilts, coverlets with fringe, silk coverlets embroidered with gems; 
 
-large woolen carpets; elephant, horse, and chariot rugs, antelope-hide rugs, deer-hide rugs; couches with awnings, couches with red cushions for the head and feet — he abstains from using high and luxurious furnishings such as these. This, too, is part of his virtue.
+厚布墊、毛織墊、邊緣有毛繸的墊子、一邊緣有毛繸的墊子、珠寶刺繡的絹織覆蓋物、絹布、
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事高床、大床，即：高椅、長椅、長羊毛覆蓋物、彩色覆蓋物、長羊毛覆蓋物、白羊毛覆蓋物、厚布墊、毛織墊、邊緣有毛繸的墊子、一邊緣有毛繸的墊子、珠寶刺繡的絹織覆蓋物、絹布、毛織覆蓋物、象背氈墊、馬背氈墊、車上氈墊、羊皮的編織物、頂級羚鹿皮覆蓋物、有頂篷的、兩端有紅色枕墊 ，這樣，他是離這樣或那樣高床、大床者，這也是關於戒。
+於兩邊有垂緣、單側有垂緣、鏤綴寶石、絹布之被蓋、
 
-有某沙門、婆羅門，受食信施而生活。專心住於享用高牀大牀等。例如過大之牀座、獸形之脚臺、覆以長羊毛之織物、有文彩之白氈、繡花圖繪之牀墊、於兩邊有垂緣、單側有垂緣、鏤綴寶石、絹布之被蓋、大毛氈、象覆、馬褂、車衣、羚羊皮、迦達利鹿皮之殊勝敷物、寶蓋、上下之紅枕等。遠離享用如是等之高牀大牀。此亦為比丘戒之一份。
+---
+
+kuttakaṃ hatthattharaṃ assattharaṃ rathattharaṃ ajinappaveṇiṃ kadali­miga­pavara­pac­cattha­ra­ṇaṃ saut­tarac­cha­daṃ ubhato­lohita­kūpa­dhā­naṃ iti vā iti evarūpā uccāsaya­na­ma­hāsayanā paṭivirato hoti. 
+
+large woolen carpets; elephant, horse, and chariot rugs, antelope-hide rugs, deer-hide rugs; couches with awnings, couches with red cushions for the head and feet — he abstains from using high and luxurious furnishings such as these.
+
+毛織覆蓋物、象背氈墊、馬背氈墊、車上氈墊、羊皮的編織物、頂級羚鹿皮覆蓋物、有頂篷的、兩端有紅色枕墊 ，這樣，他是離這樣或那樣高床、大床者，
+
+大毛氈、象覆、馬褂、車衣、羚羊皮、迦達利鹿皮之殊勝敷物、寶蓋、上下之紅枕等。遠離享用如是等之高牀大牀。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
 ##### 51.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ maṇḍa­na­vi­bhū­sa­naṭ­ṭhā­nānu­yogaṃ anuyuttā viharanti. Seyyathidaṃ— ucchādanaṃ parimaddanaṃ nhāpanaṃ sambāhanaṃ ādāsaṃ añjanaṃ mālā­gandha­vi­lepa­naṃ mukhacuṇṇaṃ mukhalepanaṃ hatthabandhaṃ sikhābandhaṃ daṇḍaṃ nāḷikaṃ asiṃ chattaṃ citrupāhanaṃ uṇhīsaṃ maṇiṃ vālabījaniṃ odātāni vatthāni dīghadasāni iti vā iti evarūpā maṇḍa­na­vi­bhū­sa­naṭ­ṭhānā­nuyogā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ maṇḍa­na­vi­bhū­sa­naṭ­ṭhā­nānu­yogaṃ anuyuttā viharanti.
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to scents, cosmetics, and means of beautification such as these — rubbing powders into the body, massaging with oils, bathing in perfumed water, kneading the limbs, using mirrors, ointments, garlands, scents, creams, face-powders, mascara, bracelets, head-bands, decorated walking sticks, ornamented water-bottles, swords, fancy sunshades, decorated sandals, turbans, gems, yak-tail whisks, long-fringed white robes — he abstains from using scents, cosmetics, and means of beautification such as these. This, too, is part of his virtue.
+“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to scents, cosmetics, and means of beautification
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事塗抹物之打扮狀態，即：[芳香]塗身、按摩、[芳香]沐浴、揉擦[四肢]、[使用]鏡子、眼膏、花環、香料、塗油、塗臉粉、塗臉油、手環、髮飾、[裝飾用]手杖、[裝飾用]水瓶、劍、[裝飾用]傘、彩繪鞋、頭巾、寶石、拂塵、白色衣服、長繸 ，這樣，他是離這樣或那樣塗抹物之打扮狀態者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事塗抹物之打扮狀態，
 
-有某沙門、婆羅門，受食信施而生活，專心住於裝飾之放逸處。例如塗身、按摩、沐浴、鏡、眼塗〔色〕料、華蔓、塗香、臉粉、面油、手環、髮飾、手杖、藥袋、刀劍、蓋傘、彩履、頭巾、寶珠、拂塵、白衣、長袖等。遠離如是等任何裝飾之放逸處。此亦為比丘戒之一份。
+有某沙門、婆羅門，受食信施而生活，專心住於裝飾之放逸處。
+
+---
+
+Seyyathidaṃ— ucchādanaṃ parimaddanaṃ nhāpanaṃ sambāhanaṃ ādāsaṃ añjanaṃ mālā­gandha­vi­lepa­naṃ mukhacuṇṇaṃ mukhalepanaṃ
+
+such as these — rubbing powders into the body, massaging with oils, bathing in perfumed water, kneading the limbs, using mirrors, ointments, garlands, scents, creams, face-powders, mascara, 
+
+即：[芳香]塗身、按摩、[芳香]沐浴、揉擦[四肢]、[使用]鏡子、眼膏、花環、香料、塗油、塗臉粉、塗臉油、
+
+例如塗身、按摩、沐浴、鏡、眼塗〔色〕料、華蔓、塗香、臉粉、面油、
+
+---
+
+hatthabandhaṃ sikhābandhaṃ daṇḍaṃ nāḷikaṃ asiṃ chattaṃ citrupāhanaṃ uṇhīsaṃ maṇiṃ vālabījaniṃ odātāni vatthāni dīghadasāni iti vā iti 
+
+bracelets, head-bands, decorated walking sticks, ornamented water-bottles, swords, fancy sunshades, decorated sandals, turbans, gems, yak-tail whisks, long-fringed white robes — 
+
+手環、髮飾、[裝飾用]手杖、[裝飾用]水瓶、劍、[裝飾用]傘、彩繪鞋、頭巾、寶石、拂塵、白色衣服、長繸 ，
+
+手環、髮飾、手杖、藥袋、刀劍、蓋傘、彩履、頭巾、寶珠、拂塵、白衣、長袖等。
+
+---
+
+evarūpā maṇḍa­na­vi­bhū­sa­naṭ­ṭhānā­nuyogā paṭivirato hoti. 
+
+he abstains from using scents, cosmetics, and means of beautification such as these. 
+
+這樣，他是離這樣或那樣塗抹物之打扮狀態者，
+
+遠離如是等任何裝飾之放逸處。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
 ##### 52.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ tiracchā­na­kathaṃ anuyuttā viharanti. Seyyathidaṃ– rājakathaṃ corakathaṃ ­mahā­matta­kathaṃ senākathaṃ bhayakathaṃ yuddhakathaṃ annakathaṃ pānakathaṃ vatthakathaṃ sayanakathaṃ mālākathaṃ gandhakathaṃ ñātikathaṃ yānakathaṃ gāmakathaṃ nigamakathaṃ nagarakathaṃ janapadakathaṃ itthikathaṃ sūrakathaṃ visikhākathaṃ kum­bhaṭ­ṭhā­na­kathaṃ pubba­peta­kathaṃ nānattakathaṃ lokakkhāyikaṃ samud­dak­khā­yi­kaṃ iti­bhavā­bhava­kathaṃ iti vā iti evarūpāya tiracchā­na­kathāya paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ tiracchā­na­kathaṃ anuyuttā viharanti. 
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to talking about lowly topics such as these — talking about kings, robbers, ministers of state; armies, alarms, and battles; food and drink; clothing, furniture, garlands, and scents; relatives; vehicles; villages, towns, cities, the countryside; women and heroes; the gossip of the street and the well; tales of the dead; tales of diversity [philosophical discussions of the past and future], the creation of the world and of the sea, and talk of whether things exist or not — he abstains from talking about lowly topics such as these. This, too, is part of his virtue.
+“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to talking about lowly topics 
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事畜生論，即：國王論、盜賊論、大臣論、軍隊論、怖畏論、戰爭論、食物論、飲料論、衣服論、臥具論、花環論、氣味論、親里論、車乘論、村落論、城鎮論、城市論、國土論、女人論、英雄論、街道論、水井論、祖靈論、種種論、世界起源論、海洋起源論、如是有無論 ，這樣，他是離這樣或那樣畜生論者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事畜生論，
 
-有某沙門、婆羅門、受食信施而生活。專心住於無益徒勞之論。例如王論、盜賊論、大臣論、軍兵論、恐怖論、戰爭論、食物論、飲料論、衣服論、臥具論、華鬘論、香料論、親族論、乘具論、村里論、鄉鎮論、都市論、國土論、婦女論、英雄論、路邊論、井邊風傳論、祖先論、種性論，世界起源論、海洋起源論、如是有無之論等。遠離如是等無益徒勞之論。此亦為比丘戒之一份。
+有某沙門、婆羅門、受食信施而生活。專心住於無益徒勞之論。
+
+---
+
+Seyyathidaṃ– rājakathaṃ corakathaṃ ­mahā­matta­kathaṃ senākathaṃ bhayakathaṃ yuddhakathaṃ annakathaṃ pānakathaṃ vatthakathaṃ sayanakathaṃ mālākathaṃ gandhakathaṃ ñātikathaṃ yānakathaṃ gāmakathaṃ nigamakathaṃ nagarakathaṃ janapadakathaṃ 
+
+such as these — talking about kings, robbers, ministers of state; armies, alarms, and battles; food and drink; clothing, furniture, garlands, and scents; relatives; vehicles; villages, towns, cities, the countryside; 
+
+即：國王論、盜賊論、大臣論、軍隊論、怖畏論、戰爭論、食物論、飲料論、衣服論、臥具論、花環論、氣味論、親里論、車乘論、村落論、城鎮論、城市論、國土論、
+
+例如王論、盜賊論、大臣論、軍兵論、恐怖論、戰爭論、食物論、飲料論、衣服論、臥具論、華鬘論、香料論、親族論、乘具論、村里論、鄉鎮論、都市論、國土論、
+
+---
+
+itthikathaṃ sūrakathaṃ visikhākathaṃ kum­bhaṭ­ṭhā­na­kathaṃ pubba­peta­kathaṃ nānattakathaṃ lokakkhāyikaṃ samud­dak­khā­yi­kaṃ iti­bhavā­bhava­kathaṃ iti vā iti evarūpāya tiracchā­na­kathāya paṭivirato hoti. 
+
+women and heroes; the gossip of the street and the well; tales of the dead; tales of diversity [philosophical discussions of the past and future], the creation of the world and of the sea, and talk of whether things exist or not — he abstains from talking about lowly topics such as these. 
+
+女人論、英雄論、街道論、水井論、祖靈論、種種論、世界起源論、海洋起源論、如是有無論 ，這樣，他是離這樣或那樣畜生論者，
+
+婦女論、英雄論、路邊論、井邊風傳論、祖先論、種性論，世界起源論、海洋起源論、如是有無之論等。遠離如是等無益徒勞之論。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
 ##### 53.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ vig­gāhi­kaka­thaṃ anuyuttā viharanti. Seyyathidaṃ—na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi, kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi, micchā paṭipanno tvamasi, ahamasmi sammā paṭipanno, sahitaṃ me, asahitaṃ te, pure vacanīyaṃ pacchā avaca, pacchā vacanīyaṃ pure avaca, adhiciṇṇaṃ te viparāvattaṃ, āropito te vādo, niggahito tvamasi, cara vādap­pamok­khāya, nibbeṭhehi vā sace pahosīti iti vā iti evarūpāya vig­gāhi­kaka­thāya paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ vig­gāhi­kaka­thaṃ anuyuttā viharanti.
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to debates such as these — ‘You understand this doctrine and discipline? I‘m the one who understands this doctrine and discipline. How could you understand this doctrine and discipline? You‘re practicing wrongly. I‘m practicing rightly. I‘m being consistent. You‘re not. What should be said first you said last. What should be said last you said first. What you took so long to think out has been refuted. Your doctrine has been overthrown. You‘re defeated. Go and try to salvage your doctrine; extricate yourself if you can!’ — he abstains from debates such as these. This, too, is part of his virtue.
+“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to debates such as these — 
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事諍論，即：『你不了知這法、律，我了知這法、律；你了知這法、律什麼！你是邪行者，我是正行者；我的是一致的，你的是不一致的：應該先說的而後說，應該後說的而先說；一直以來你所熟練的是顛倒的；你的理論已被論破，去救[你的]理論；你已被折伏，請你拆解，如果你能。』 這樣，他是離這樣或那樣諍論者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事諍論，
 
-又有某沙門、婆羅門，受食信施而生活。專心住於諍論。例如『汝不知此法、律、我知此法、律，汝如何知此法、律耶？』『汝是邪行者，我是正行者。』『我言〔前後〕相應，汝言不相應。』『汝應言於前者而言於後，應言於後者而言於前。』『汝無細慮而〔自〕言返復。』『汝之立論，墮於負處。』『為解汝負說而尋思，若能者即自解！』遠離如是等任何諍論。此亦為比丘戒之一份。
+又有某沙門、婆羅門，受食信施而生活。專心住於諍論。
+
+---
+
+Seyyathidaṃ—na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi, kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi, micchā paṭipanno tvamasi, ahamasmi sammā paṭipanno, sahitaṃ me, asahitaṃ te, 
+
+‘You understand this doctrine and discipline? I‘m the one who understands this doctrine and discipline. How could you understand this doctrine and discipline? You‘re practicing wrongly. I‘m practicing rightly. I‘m being consistent. You‘re not. 
+
+即：『你不了知這法、律，我了知這法、律；你了知這法、律什麼！你是邪行者，我是正行者；我的是一致的，你的是不一致的：
+
+例如『汝不知此法、律、我知此法、律，汝如何知此法、律耶？』『汝是邪行者，我是正行者。』『我言〔前後〕相應，汝言不相應。』
+
+---
+
+pure vacanīyaṃ pacchā avaca, pacchā vacanīyaṃ pure avaca, adhiciṇṇaṃ te viparāvattaṃ, āropito te vādo, niggahito tvamasi, cara vādap­pamok­khāya, nibbeṭhehi vā sace pahosīti iti vā iti evarūpāya vig­gāhi­kaka­thāya paṭivirato hoti. 
+
+What should be said first you said last. What should be said last you said first. What you took so long to think out has been refuted. Your doctrine has been overthrown. You‘re defeated. Go and try to salvage your doctrine; extricate yourself if you can!’ — he abstains from debates such as these.
+
+應該先說的而後說，應該後說的而先說；一直以來你所熟練的是顛倒的；你的理論已被論破，去救[你的]理論；你已被折伏，請你拆解，如果你能。』 這樣，他是離這樣或那樣諍論者，
+
+『汝應言於前者而言於後，應言於後者而言於前。』『汝無細慮而〔自〕言返復。』『汝之立論，墮於負處。』『為解汝負說而尋思，若能者即自解！』遠離如是等任何諍論。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
