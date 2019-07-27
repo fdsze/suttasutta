@@ -2813,25 +2813,55 @@ What if I were to shave off my hair and beard, put on the ochre robes, and go fo
 
 ---
 
-So aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkhandhaṃ pahāya appaṃ vā ñātiparivaṭṭaṃ pahāya mahantaṃ vā ñātiparivaṭṭaṃ pahāya kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajati.
+So aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkhandhaṃ pahāya appaṃ vā 
 
-“So after some time he abandons his mass of wealth, large or small; leaves his circle of relatives, large or small; shaves off his hair and beard, puts on the ochre robes, and goes forth from the household life into homelessness.
+“So after some time he abandons his mass of wealth, large or small; leaves his circle of relatives, large or small; 
 
-過些時候，他捨斷少量的財富聚集或捨斷大量的財富聚集後；捨斷少量的親屬圈或捨斷大量的親屬圈後，剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。
+過些時候，他捨斷少量的財富聚集或捨斷大量的財富聚集後；捨斷少量的親屬圈或捨斷大量的親屬圈後，
 
-而後，彼捨棄財產及親族，剃除鬚髮，著袈裟衣，出家而為無家者。
+而後，彼捨棄財產及親族，
+
+---
+
+ñātiparivaṭṭaṃ pahāya mahantaṃ vā ñātiparivaṭṭaṃ pahāya kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajati.
+
+shaves off his hair and beard, puts on the ochre robes, and goes forth from the household life into homelessness.
+
+剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。
+
+剃除鬚髮，著袈裟衣，出家而為無家者。
 
 ---
 
 ##### 42.
 
-So evaṃ pabbajito samāno pāti­mokkha­saṃ­vara­saṃ­vuto viharati ācāra­gocara­sam­panno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāya­kamma­vacī­kam­mena samannāgato kusalena, parisuddhājīvo sīlasampanno, indriyesu guttadvāro, sati­sam­pajañ­ñena samannāgato, santuṭṭho.
+So evaṃ pabbajito samāno pāti­mokkha­saṃ­vara­saṃ­vuto viharati ācāra­gocara­sam­panno, 
 
-“When he has thus gone forth, he lives restrained by the rules of the monastic code, seeing danger in the slightest faults. Consummate in his virtue, he guards the doors of his senses, is possessed of mindfulness and alertness, and is content.
+“When he has thus gone forth, he lives restrained by the rules of the monastic code,
 
-當這樣出家時，他住於被波羅提木叉的自制所防護，具足正行和行境，在微罪中看見可怕，在學處上受持後學習，他具備善的身業、語業，清淨的生活維持，戒具足，守護根門，具備正念與正知，已知足。
+當這樣出家時，他住於被波羅提木叉的自制所防護，具足正行和行境，
 
-如是出家，依波羅提木叉之禁戒，持戒而住，精勤於正行，見小罪亦恐怖，受學處而修學。具足清淨之身業語業，過清淨生活，戒具足，守護諸根門，圓滿具足正念正智。
+如是出家，依波羅提木叉之禁戒，持戒而住，精勤於正行，
+
+---
+
+aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāya­kamma­vacī­kam­mena samannāgato kusalena, parisuddhājīvo sīlasampanno, 
+
+seeing danger in the slightest faults. Consummate in his virtue, 
+
+在微罪中看見可怕，在學處上受持後學習，他具備善的身業、語業，清淨的生活維持，
+
+見小罪亦恐怖，受學處而修學。具足清淨之身業語業，過清淨生活，戒具足，
+
+---
+
+indriyesu guttadvāro, sati­sam­pajañ­ñena samannāgato, santuṭṭho.
+
+he guards the doors of his senses, is possessed of mindfulness and alertness, and is content.
+
+戒具足，守護根門，具備正念與正知，已知足。
+
+守護諸根門，圓滿具足正念正智。
 
 ---
 
@@ -3589,61 +3619,221 @@ This, too, is part of his virtue.
 
 ##### 54.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ dūteyya­pahiṇa­gamanā­nu­yogaṃ anuyuttā viharanti. Seyyathidaṃ— raññaṃ, rāja­mahā­mattā­naṃ, khattiyānaṃ, brāhmaṇānaṃ, gahapatikānaṃ, kumārānaṃ— idha gaccha, amutrāgaccha, idaṃ hara, amutra idaṃ āharā’ti iti vā iti evarūpā dūteyya­pahiṇa­gamanā­nuyogā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ dūteyya­pahiṇa­gamanā­nu­yogaṃ anuyuttā viharanti. 
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to running messages and errands for people such as these — kings, ministers of state, noble warriors, brahmans, householders, or youths [who say], ‘Go here, go there, take this there, fetch that here’ — he abstains from running messages and errands for people such as these. This, too, is part of his virtue.
+“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to running messages and errands for people
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事當信差來往，即：屬於國王、國王的大臣、剎帝利、婆羅門、屋主、青年的[，他們說]：『你去這裡，你去那裡；取這個[去]，在那裡，拿這個來。』這樣，他是離這樣或那樣當信差來往者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事當信差來往，
 
-有某沙門、婆羅門，受食信施而生活。專心住於差使者、傳信之行作。例如國王、大臣、剎帝利、婆羅門、居士、童子〔令〕：『汝來此處、往彼處，汝來持此、持此往彼。』遠離如是任何使者、傳信之行為。此亦比丘戒之一份。
+有某沙門、婆羅門，受食信施而生活。專心住於差使者、傳信之行作。
+
+---
+
+Seyyathidaṃ— raññaṃ, rāja­mahā­mattā­naṃ, khattiyānaṃ, brāhmaṇānaṃ, gahapatikānaṃ, kumārānaṃ— idha gaccha, amutrāgaccha, idaṃ hara, amutra idaṃ āharā’ti iti vā iti 
+
+such as these — kings, ministers of state, noble warriors, brahmans, householders, or youths [who say], ‘Go here, go there, take this there, fetch that here’ — 
+
+即：屬於國王、國王的大臣、剎帝利、婆羅門、屋主、青年的[，他們說]：『你去這裡，你去那裡；取這個[去]，在那裡，拿這個來。』
+
+例如國王、大臣、剎帝利、婆羅門、居士、童子〔令〕：『汝來此處、往彼處，汝來持此、持此往彼。』
+
+---
+
+evarūpā dūteyya­pahiṇa­gamanā­nuyogā paṭivirato hoti. 
+
+he abstains from running messages and errands for people such as these. 
+
+這樣，他是離這樣或那樣當信差來往者，
+
+遠離如是任何使者、傳信之行為。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦比丘戒之一份。
 
 ---
 
 ##### 55.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te kuhakā ca honti lapakā ca nemittikā ca nippesikā ca lābhena lābhaṃ nijigīsitāro ca. Iti evarūpā kuhanalapanā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te kuhakā ca honti lapakā ca nemittikā ca nippesikā ca lābhena lābhaṃ nijigīsitāro ca. 
 
-“Whereas some brahmans and contemplatives, living off food given in faith, engage in scheming, persuading, hinting, belittling, and pursuing gain with gain, he abstains from forms of scheming and persuading [improper ways of trying to gain material support from donors] such as these. This, too, is part of his virtue.
+“Whereas some brahmans and contemplatives, living off food given in faith, engage in scheming, persuading, hinting, belittling, and pursuing gain with gain, 
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們是設計、攀談、暗示、譏諷、以利養換取其他利養者，這樣，他是離詭詐說話者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們是設計、攀談、暗示、譏諷、以利養換取其他利養者，
 
-又有某沙門、婆羅門，受食信施而生活。而於欺瞞、饒諛騙詐。遠離如是饒諛騙詐。此亦為比丘戒之一份。
+又有某沙門、婆羅門，受食信施而生活。而於欺瞞、饒諛騙詐。
+
+---
+
+Iti evarūpā kuhanalapanā paṭivirato hoti. 
+
+he abstains from forms of scheming and persuading [improper ways of trying to gain material support from donors] such as these. 
+
+這樣，他是離詭詐說話者，
+
+遠離如是饒諛騙詐。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
 ##### 56.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti. Seyyathidaṃ—aṅgaṃ nimittaṃ uppātaṃ supinaṃ lakkhaṇaṃ mūsikacchinnaṃ aggihomaṃ dabbihomaṃ thusahomaṃ kaṇahomaṃ taṇḍulahomaṃ sappihomaṃ telahomaṃ mukhahomaṃ lohitahomaṃ aṅgavijjā vatthuvijjā khattavijjā sivavijjā bhūtavijjā bhūrivijjā ahivijjā visavijjā vicchikavijjā mūsikavijjā sakuṇavijjā vāyasavijjā pakkajjhānaṃ saraparittāṇaṃ migacakkaṃ iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti.
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as: reading marks on the limbs [e.g., palmistry]; reading omens and signs; interpreting celestial events [falling stars, comets]; interpreting dreams; reading features of the body [e.g., phrenology]; reading marks on cloth gnawed by mice; offering fire oblations, oblations from a ladle, oblations of husks, rice powder, rice grains, ghee, and oil; offering oblations from the mouth; offering blood-sacrifices; making predictions based on the fingertips; geomancy; making predictions for state officials; laying demons in a cemetery; placing spells on spirits; earth-skills [divining water and gems?]; snake-skills, poison-skills, scorpion-skills, rat-skills, bird-skills, crow-skills; predicting life spans; giving protective charms; casting horoscopes — he abstains from wrong livelihood, from “animal” arts such as these.
+“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，即：肢體相、天變地異的占相、夢的占相、男女相的占相、被老鼠咬破的占相、火的獻供(護摩)、杓子的獻供、稻殼的獻供、米糠的獻供、米粒的獻供、熟酥的獻供、油的獻供、口的獻供、血的獻供、手足明、宅地明、政治明、福咒明、鬼神明、土地明、蛇明、毒藥明、蠍子明、老鼠明、鳥明、烏鴉明、算命、箭除之法、獸的領域， 這樣，他是離這樣或那樣以畜生明邪命謀生者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，
 
-又有某沙門、婆羅門，受食信施而生活。彼等依無益徒勞之橫明（畜生）而過邪命生活。例如占卜手足之相、占前兆〔吉凶〕、占夢、占體〔全身〕相、占鼠所咬、火護摩、杓子護摩、穀皮護摩、糠護摩、米護摩、熟酥護摩、油護摩、口護摩、血護摩、肢節明、宅地明、剎帝利明、濕婆明、鬼神明、地明、蛇明、毒藥明、蝎明、鼠明、鳥明、鴉明、命數豫言、防箭咒、解獸聲法等。遠離如是等任何無益徒勞之橫明。此亦為比丘戒之一份。
+又有某沙門、婆羅門，受食信施而生活。彼等依無益徒勞之橫明（畜生）而過邪命生活。
+
+---
+
+Seyyathidaṃ—aṅgaṃ nimittaṃ uppātaṃ supinaṃ lakkhaṇaṃ mūsikacchinnaṃ aggihomaṃ dabbihomaṃ thusahomaṃ kaṇahomaṃ taṇḍulahomaṃ sappihomaṃ telahomaṃ mukhahomaṃ lohitahomaṃ
+
+by such “animal” arts as: reading marks on the limbs [e.g., palmistry]; reading omens and signs; interpreting celestial events [falling stars, comets]; interpreting dreams; reading features of the body [e.g., phrenology]; reading marks on cloth gnawed by mice; offering fire oblations, oblations from a ladle, oblations of husks, rice powder, rice grains, ghee, and oil; offering oblations from the mouth; offering blood-sacrifices;
+
+即：肢體相、天變地異的占相、夢的占相、男女相的占相、被老鼠咬破的占相、火的獻供(護摩)、杓子的獻供、稻殼的獻供、米糠的獻供、米粒的獻供、熟酥的獻供、油的獻供、口的獻供、血的獻供、
+
+例如占卜手足之相、占前兆〔吉凶〕、占夢、占體〔全身〕相、占鼠所咬、火護摩、杓子護摩、穀皮護摩、糠護摩、米護摩、熟酥護摩、油護摩、口護摩、血護摩、
+
+---
+
+aṅgavijjā vatthuvijjā khattavijjā sivavijjā bhūtavijjā bhūrivijjā ahivijjā visavijjā vicchikavijjā mūsikavijjā sakuṇavijjā vāyasavijjā pakkajjhānaṃ saraparittāṇaṃ migacakkaṃ iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. 
+
+making predictions based on the fingertips; geomancy; making predictions for state officials; laying demons in a cemetery; placing spells on spirits; earth-skills [divining water and gems?]; snake-skills, poison-skills, scorpion-skills, rat-skills, bird-skills, crow-skills; predicting life spans; giving protective charms; casting horoscopes — he abstains from wrong livelihood, from “animal” arts such as these
+
+手足明、宅地明、政治明、福咒明、鬼神明、土地明、蛇明、毒藥明、蠍子明、老鼠明、鳥明、烏鴉明、算命、箭除之法、獸的領域， 這樣，他是離這樣或那樣以畜生明邪命謀生者，
+
+肢節明、宅地明、剎帝利明、濕婆明、鬼神明、地明、蛇明、毒藥明、蝎明、鼠明、鳥明、鴉明、命數豫言、防箭咒、解獸聲法等。遠離如是等任何無益徒勞之橫明。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
 ##### 57.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti. Seyyathidaṃ— maṇilakkhaṇaṃ vattha­lak­kha­ṇaṃ daṇḍalakkhaṇaṃ sattha­lak­kha­ṇaṃ asilakkhaṇaṃ usulakkhaṇaṃ dhanulakkhaṇaṃ āvudha­lak­kha­ṇaṃ itthilakkhaṇaṃ puri­sa­lak­kha­ṇaṃ kumāra­lak­kha­ṇaṃ kumāri­lak­kha­ṇaṃ dāsalakkhaṇaṃ dāsilakkhaṇaṃ hatthi­lak­kha­ṇaṃ assalakkhaṇaṃ mahiṃ­sa­lak­kha­ṇaṃ usabha­lak­kha­ṇaṃ golakkhaṇaṃ ajalakkhaṇaṃ meṇḍalakkhaṇaṃ kukku­ṭa­lak­kha­ṇaṃ vaṭṭa­ka­lak­kha­ṇaṃ godhālakkhaṇaṃ kaṇ­ṇika­lak­kha­ṇaṃ kaccha­pa­lak­kha­ṇaṃ migalakkhaṇaṃ iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti. 
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as: determining lucky and unlucky gems, staffs, garments, swords, arrows, bows, and other weapons; women, men, boys, girls, male slaves, female slaves; elephants, horses, buffaloes, bulls, cows, goats, rams, fowl, quails, lizards, rabbits, tortoises, and other animals — he abstains from wrong livelihood, from “animal” arts such as these.
+“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as: 
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，即：寶石占相、衣服占相、棒杖占相、刀占相、劍占相、箭占相、弓占相、武器占相、女子占相、男子占相、童男占相、童女占相、奴僕占相、象占相、馬占相、水牛占相、公牛占相、牛占相、山羊占相、公羊占相、雞占相、鵪鶉占相、蜥蜴占相、耳環占相、龜占相、鹿占相， 這樣，他是離這樣或那樣以畜生明邪命謀生者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，
 
-又有某沙門、婆羅門，受食信施而生活。〔彼等依無益徒勞之橫明而過邪命生活。〕例如占珠相、杖相、衣服相、劍相、矢相、弓相、武器相、婦人相、丈夫相、童子相、童女相、象相、馬相、水牛相、牡牛相、山羊相、羊相、雞相、鶉相、蜥蜴相、耳環相、龜甲相、獸相等。遠離如是無益徒勞之橫明。此亦為比丘戒之一份。
+又有某沙門、婆羅門，受食信施而生活。〔彼等依無益徒勞之橫明而過邪命生活。〕
+
+---
+
+Seyyathidaṃ— maṇilakkhaṇaṃ vattha­lak­kha­ṇaṃ daṇḍalakkhaṇaṃ sattha­lak­kha­ṇaṃ asilakkhaṇaṃ usulakkhaṇaṃ dhanulakkhaṇaṃ āvudha­lak­kha­ṇaṃ itthilakkhaṇaṃ puri­sa­lak­kha­ṇaṃ kumāra­lak­kha­ṇaṃ kumāri­lak­kha­ṇaṃ dāsalakkhaṇaṃ dāsilakkhaṇaṃ 
+
+determining lucky and unlucky gems, staffs, garments, swords, arrows, bows, and other weapons; women, men, boys, girls, male slaves, female slaves; 
+
+即：寶石占相、衣服占相、棒杖占相、刀占相、劍占相、箭占相、弓占相、武器占相、女子占相、男子占相、童男占相、童女占相、奴僕占相、
+
+例如占珠相、杖相、衣服相、劍相、矢相、弓相、武器相、婦人相、丈夫相、童子相、童女相、
+
+---
+
+hatthi­lak­kha­ṇaṃ assalakkhaṇaṃ mahiṃ­sa­lak­kha­ṇaṃ usabha­lak­kha­ṇaṃ golakkhaṇaṃ ajalakkhaṇaṃ meṇḍalakkhaṇaṃ kukku­ṭa­lak­kha­ṇaṃ vaṭṭa­ka­lak­kha­ṇaṃ godhālakkhaṇaṃ kaṇ­ṇika­lak­kha­ṇaṃ kaccha­pa­lak­kha­ṇaṃ migalakkhaṇaṃ iti vā iti 
+
+elephants, horses, buffaloes, bulls, cows, goats, rams, fowl, quails, lizards, rabbits, tortoises, and other animals — 
+
+象占相、馬占相、水牛占相、公牛占相、牛占相、山羊占相、公羊占相、雞占相、鵪鶉占相、蜥蜴占相、耳環占相、龜占相、鹿占相， 
+
+象相、馬相、水牛相、牡牛相、山羊相、羊相、雞相、鶉相、蜥蜴相、耳環相、龜甲相、獸相等。
+
+---
+
+evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. 
+
+he abstains from wrong livelihood, from “animal” arts such as these.
+
+這樣，他是離這樣或那樣以畜生明邪命謀生者，
+
+遠離如是無益徒勞之橫明。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
 ##### 58.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti. Seyyathidaṃ—raññaṃ niyyānaṃ bhavissati, raññaṃ aniyyānaṃ bhavissati, abbhantarānaṃ raññaṃ upayānaṃ bhavissati, bāhirānaṃ raññaṃ apayānaṃ bhavissati, bāhirānaṃ raññaṃ upayānaṃ bhavissati, abbhantarānaṃ raññaṃ apayānaṃ bhavissati, abbhantarānaṃ raññaṃ jayo bhavissati, bāhirānaṃ raññaṃ parājayo bhavissati, bāhirānaṃ raññaṃ jayo bhavissati, abbhantarānaṃ raññaṃ parājayo bhavissati, iti imassa jayo bhavissati, imassa parājayo bhavissati iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti.
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as [forecasting]: the rulers will march forth; the rulers will not march forth; our rulers will attack, and their rulers will retreat; their rulers will attack, and our rulers will retreat; there will be triumph for our rulers and defeat for their rulers; there will be triumph for their rulers and defeat for our rulers; thus there will be triumph this one, defeat for that one — he abstains from wrong livelihood, from “animal” arts such as these.
+“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as [forecasting]: 
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，即：諸王將出發；諸王將不出發、內部諸王將到來；外部諸王將退卻、外部諸王將到來；內部諸王將退卻、內部諸王將勝利；外部諸王將敗北、外部諸王將勝利；內部諸王將敗北， 這樣，他是離這樣或那樣以畜生明邪命謀生者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，
 
-又有某沙門、婆羅門，受食信施而生活。彼等以占無益徒勞之橫明以過邪命生活。例如占『王應進軍、王不應進軍。』『內部諸王當迫進、外部諸王當退卻。』『外部諸王當迫進、內部諸王將退卻。』『內部諸王當勝利、外部諸王將敗退。』『外部諸王當勝利、內部諸王將敗退。』『此人當勝利、此人將敗退。』遠離如是等無益徒勞之橫明。此亦為比丘戒之一份。
+又有某沙門、婆羅門，受食信施而生活。彼等以占無益徒勞之橫明以過邪命生活。
+
+---
+
+Seyyathidaṃ—raññaṃ niyyānaṃ bhavissati, raññaṃ aniyyānaṃ bhavissati, abbhantarānaṃ raññaṃ upayānaṃ bhavissati, bāhirānaṃ raññaṃ apayānaṃ bhavissati, bāhirānaṃ raññaṃ upayānaṃ bhavissati, abbhantarānaṃ raññaṃ apayānaṃ bhavissati,
+
+the rulers will march forth; the rulers will not march forth; our rulers will attack, and their rulers will retreat; their rulers will attack, and our rulers will retreat;
+
+即：諸王將出發；諸王將不出發、內部諸王將到來；外部諸王將退卻、外部諸王將到來；
+
+例如占『王應進軍、王不應進軍。』『內部諸王當迫進、外部諸王當退卻。』『外部諸王當迫進、內部諸王將退卻。』
+
+---
+
+abbhantarānaṃ raññaṃ jayo bhavissati, bāhirānaṃ raññaṃ parājayo bhavissati, bāhirānaṃ raññaṃ jayo bhavissati, abbhantarānaṃ raññaṃ parājayo bhavissati,
+
+there will be triumph for our rulers and defeat for their rulers; there will be triumph for their rulers and defeat for our rulers; 
+
+內部諸王將退卻、內部諸王將勝利；外部諸王將敗北、外部諸王將勝利；內部諸王將敗北，
+
+『內部諸王當勝利、外部諸王將敗退。』『外部諸王當勝利、內部諸王將敗退。』
+
+---
+
+iti imassa jayo bhavissati, imassa parājayo bhavissati iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti.
+
+thus there will be triumph this one, defeat for that one — he abstains from wrong livelihood, from “animal” arts such as these.
+
+這樣，他是離這樣或那樣以畜生明邪命謀生者，
+
+『此人當勝利、此人將敗退。』遠離如是等無益徒勞之橫明。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
@@ -3659,57 +3849,217 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 ---
 
-Seyyathidaṃ— candaggāho bhavissati, sūriyaggāho bhavissati, nakkhattaggāho bhavissati, can­dima­sūriyā­naṃ pathagamanaṃ bhavissati, can­dima­sūriyā­naṃ uppathagamanaṃ bhavissati, nakkhattānaṃ pathagamanaṃ bhavissati, nakkhattānaṃ uppathagamanaṃ bhavissati, ukkāpāto bhavissati, disāḍāho bhavissati, bhūmicālo bhavissati, devadudrabhi bhavissati, can­dima­sūriya­nak­khat­tā­naṃ uggamanaṃ ogamanaṃ saṅkilesaṃ vodānaṃ bhavissati,
+Seyyathidaṃ— candaggāho bhavissati, sūriyaggāho bhavissati, nakkhattaggāho bhavissati, can­dima­sūriyā­naṃ pathagamanaṃ bhavissati, can­dima­sūriyā­naṃ uppathagamanaṃ bhavissati, 
 
-there will be a lunar eclipse; there will be a solar eclipse; there will be an occultation of [a conjunction of the moon or a planet with] an asterism; the sun and moon will be favorable; the sun and moon will be unfavorable; the asterisms will be favorable; the asterisms will be unfavorable; there will be a meteor shower; there will be a flickering light on the horizon [an aurora?]; there will be an earthquake; there will be thunder coming from dry clouds; there will be a rising, a setting, a darkening, a brightening of the sun, moon, and asterisms;
+there will be a lunar eclipse; there will be a solar eclipse; there will be an occultation of [a conjunction of the moon or a planet with] an asterism; the sun and moon will be favorable; the sun and moon will be unfavorable; 
 
-即：將有月蝕、將有日蝕、將有星蝕、將有日月的[正常]軌道、將有日月的偏離軌道、將有星辰的[正常]軌道、將有星辰的偏離軌道、將有流星的隕落、將有天火、將有地震、將有天鼓、將有日月星辰的上升下沉遮蔽明淨、
+即：將有月蝕、將有日蝕、將有星蝕、將有日月的[正常]軌道、將有日月的偏離軌道、將有星辰的[正常]軌道、將有星辰的偏離軌道、
 
-例如占：『應有月蝕、應有日蝕、應有星蝕、日月應行正道、諸星宿應行正道、諸星宿應行非道，流星應隕落、應有天火、應有地震、天鼓將鳴、應有日月星宿之昇沈明暗。
-
----
-
-evaṃvipāko candaggāho bhavissati, evaṃvipāko sūriyaggāho bhavissati, evaṃvipāko nakkhattaggāho bhavissati, evaṃvipākaṃ can­dima­sūriyā­naṃ pathagamanaṃ bhavissati, evaṃvipākaṃ can­dima­sūriyā­naṃ uppathagamanaṃ bhavissati, evaṃvipākaṃ nakkhattānaṃ pathagamanaṃ bhavissati, evaṃvipākaṃ nakkhattānaṃ uppathagamanaṃ bhavissati, evaṃvipāko ukkāpāto bhavissati, evaṃvipāko disāḍāho bhavissati, evaṃvipāko bhūmicālo bhavissati, evaṃvipāko devadudrabhi bhavissati, evaṃvipākaṃ can­dima­sūriya­nak­khat­tā­naṃ uggamanaṃ ogamanaṃ saṅkilesaṃ vodānaṃ bhavissati iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
-
-such will be the result of the lunar eclipse ... the rising, setting, darkening, brightening of the sun, moon, and asterisms — he abstains from wrong livelihood, from “animal” arts such as these. 
-
-月蝕將有這樣的果報、日蝕將有這樣的果報、星蝕將有這樣的果報、日月[正常]軌道將有這樣的果報、日月偏離軌道將有這樣的果報、星辰[正常]軌道將有這樣的果報、星辰偏離軌道將有這樣的果報、流星隕落將有這樣的果報、天火將有這樣的果報、地震將有這樣的果報、天鼓將有這樣的果報、日月星辰的上升下沉遮蔽明淨將有這樣的果報， 這樣，他是離這樣或那樣以畜生明邪命謀生者，這也是關於戒。
-
-如是之果報，應有月蝕……〔乃至〕……如是之果報，應有日月星宿之昇沈明暗。』遠離如是無益徒勞之橫明。此亦為比丘戒之一份。
+例如占：『應有月蝕、應有日蝕、應有星蝕、日月應行正道、
 
 ---
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti. Seyyathidaṃ— suvuṭṭhikā bhavissati, dubbuṭṭhikā bhavissati, subhikkhaṃ bhavissati, dubbhikkhaṃ bhavissati, khemaṃ bhavissati, bhayaṃ bhavissati, rogo bhavissati, ārogyaṃ bhavissati, muddā, gaṇanā, saṅkhānaṃ, kāveyyaṃ, lokāyataṃ iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+nakkhattānaṃ pathagamanaṃ bhavissati, nakkhattānaṃ uppathagamanaṃ bhavissati, ukkāpāto bhavissati, disāḍāho bhavissati, bhūmicālo bhavissati, devadudrabhi bhavissati, can­dima­sūriya­nak­khat­tā­naṃ uggamanaṃ ogamanaṃ saṅkilesaṃ vodānaṃ bhavissati,
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as [forecasting]: there will be abundant rain; there will be a drought; there will be plenty; there will be famine; there will be rest and security; there will be danger; there will be disease; there will be freedom from disease; or they earn their living by accounting, counting, calculation, composing poetry, or teaching hedonistic arts and doctrines [lokāyata] — he abstains from wrong livelihood, from “animal” arts such as these.
+the asterisms will be favorable; the asterisms will be unfavorable; there will be a meteor shower; there will be a flickering light on the horizon [an aurora?]; there will be an earthquake; there will be thunder coming from dry clouds; there will be a rising, a setting, a darkening, a brightening of the sun, moon, and asterisms;
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，即：將多雨、將難有雨、將豊收、將飢饉、將安穩、將有恐怖、將有疾病、將無病、查驗、會計、計算、詩作、世間論， 這樣，他是離這樣或那樣以畜生明邪命謀生者，這也是關於戒。
+將有流星的隕落、將有天火、將有地震、將有天鼓、將有日月星辰的上升下沉遮蔽明淨、
 
-又有某沙門、婆羅門，受食信施而生活。彼等以占無益徒勞之橫明過邪命生活。例如占：『應有多雨、應無雨、應有豐收、應無收穫、應來太平、應無恐怖、應有疫病、應有健康。』〔並占〕記號、計算吉凶數、作詩、順世論等。遠離如是任何無益徒勞之橫明。此亦為比丘戒之一份。
+諸星宿應行正道、諸星宿應行非道，流星應隕落、應有天火、應有地震、天鼓將鳴、應有日月星宿之昇沈明暗。
+
+---
+
+evaṃvipāko candaggāho bhavissati, evaṃvipāko sūriyaggāho bhavissati, evaṃvipāko nakkhattaggāho bhavissati, evaṃvipākaṃ can­dima­sūriyā­naṃ pathagamanaṃ bhavissati, evaṃvipākaṃ can­dima­sūriyā­naṃ uppathagamanaṃ bhavissati,
+
+such will be the result of the lunar eclipse ... 
+
+月蝕將有這樣的果報、日蝕將有這樣的果報、星蝕將有這樣的果報、日月[正常]軌道將有這樣的果報、日月偏離軌道將有這樣的果報、
+
+如是之果報，應有月蝕……
+
+---
+
+evaṃvipākaṃ nakkhattānaṃ pathagamanaṃ bhavissati, evaṃvipākaṃ nakkhattānaṃ uppathagamanaṃ bhavissati, evaṃvipāko ukkāpāto bhavissati, evaṃvipāko disāḍāho bhavissati, evaṃvipāko bhūmicālo bhavissati, evaṃvipāko devadudrabhi bhavissati,
+
+... 
+
+星辰[正常]軌道將有這樣的果報、星辰偏離軌道將有這樣的果報、流星隕落將有這樣的果報、天火將有這樣的果報、地震將有這樣的果報、天鼓將有這樣的果報、
+
+……
+
+---
+
+evaṃvipākaṃ can­dima­sūriya­nak­khat­tā­naṃ uggamanaṃ ogamanaṃ saṅkilesaṃ vodānaṃ bhavissati iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+
+the rising, setting, darkening, brightening of the sun, moon, and asterisms — he abstains from wrong livelihood, from “animal” arts such as these. 
+
+日月星辰的上升下沉遮蔽明淨將有這樣的果報，這樣，他是離這樣或那樣以畜生明邪命謀生者，這也是關於戒。
+
+……〔乃至〕……如是之果報，應有日月星宿之昇沈明暗。』遠離如是無益徒勞之橫明。此亦為比丘戒之一份。
+
+---
+
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti.
+
+“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as [forecasting]: 
+
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，
+
+又有某沙門、婆羅門，受食信施而生活。彼等以占無益徒勞之橫明過邪命生活。
+
+---
+
+Seyyathidaṃ— suvuṭṭhikā bhavissati, dubbuṭṭhikā bhavissati, subhikkhaṃ bhavissati, dubbhikkhaṃ bhavissati, khemaṃ bhavissati, bhayaṃ bhavissati, rogo bhavissati, ārogyaṃ bhavissati,
+
+there will be abundant rain; there will be a drought; there will be plenty; there will be famine; there will be rest and security; there will be danger;
+
+即：將多雨、將難有雨、將豊收、將飢饉、將安穩、將有恐怖、將有疾病、將無病、
+
+例如占：『應有多雨、應無雨、應有豐收、應無收穫、應來太平、應無恐怖、應有疫病、應有健康。』〔並占〕記號、計算吉凶數、作詩、順世論等。
+
+---
+
+muddā, gaṇanā, saṅkhānaṃ, kāveyyaṃ, lokāyataṃ iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. 
+
+there will be disease; there will be freedom from disease; or they earn their living by accounting, counting, calculation, composing poetry, or teaching hedonistic arts and doctrines [lokāyata] — he abstains from wrong livelihood, from “animal” arts such as these.
+
+查驗、會計、計算、詩作、世間論，這樣，他是離這樣或那樣以畜生明邪命謀生者，
+
+遠離如是任何無益徒勞之橫明。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
 ##### 61.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti. Seyyathidaṃ— āvāhanaṃ vivāhanaṃ saṃvaraṇaṃ vivaraṇaṃ saṅkiraṇaṃ vikiraṇaṃ subhagakaraṇaṃ dub­bha­gakara­ṇaṃ viruddha­gab­bhakara­ṇaṃ jivhā­ni­ban­dha­naṃ hanusaṃhananaṃ hat­thābhi­jappa­naṃ hanujappanaṃ kaṇṇajappanaṃ ādāsapañhaṃ kumārikapañhaṃ devapañhaṃ ādic­cu­paṭṭhā­naṃ maha­tu­paṭṭhā­naṃ abbhujjalanaṃ sirivhāyanaṃ iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti.
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as: calculating auspicious dates for marriages — both those in which the bride is brought home and those in which she is sent out; calculating auspicious dates for betrothals and divorces; for collecting debts or making investments and loans; reciting charms to make people attractive or unattractive; curing women who have undergone miscarriages or abortions; reciting spells to bind a man‘s tongue, to paralyze his jaws, to make him lose control over his hands, or to bring on deafness; getting oracular answers to questions addressed to a spirit in a mirror, in a young girl, or to a spirit medium; worshipping the sun, worshipping the Great Brahmā, bringing forth flames from the mouth, invoking the goddess of luck — he abstains from wrong livelihood, from “animal” arts such as these.
+“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as:
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，即：嫁娶[時間]、結婚、離婚、揭幕、討債、貸出、開運、作惡運、墮胎、綁舌[咒術]、使顎被結縛[咒術]、[他人]手控制咒術、顎咒術、耳聾咒術、詢問鏡子[而得答案]、詢問女孩[靈媒]、詢問天、太陽崇拜、大[梵天]崇拜、口吐出火、招請幸運女神， 這樣，他是離這樣或那樣以畜生明邪命謀生者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，
 
-又有某沙門、婆羅門，受食信施而生活。彼等以占無益徒勞之橫明過邪命生活。例如占：娶、嫁、和睦分裂、貸入、貸出、〔以咒術令〕開運、遇禍、墮胎、啞口、不能言、〔舉手〕不下、耳聾、問鏡、問童女、問天神、拜太陽、奉祭大〔梵天〕、口吐火、奉請吉祥天等。遠離如是任何無益徒勞之橫明。此亦為比丘戒之一份。
+又有某沙門、婆羅門，受食信施而生活。彼等以占無益徒勞之橫明過邪命生活。
+
+---
+
+Seyyathidaṃ— āvāhanaṃ vivāhanaṃ saṃvaraṇaṃ vivaraṇaṃ saṅkiraṇaṃ vikiraṇaṃ subhagakaraṇaṃ dub­bha­gakara­ṇaṃ viruddha­gab­bhakara­ṇaṃ 
+
+calculating auspicious dates for marriages — both those in which the bride is brought home and those in which she is sent out; calculating auspicious dates for betrothals and divorces; for collecting debts or making investments and loans; reciting charms to make people attractive or unattractive; curing women who have undergone miscarriages or abortions; 
+
+即：嫁娶[時間]、結婚、離婚、揭幕、討債、貸出、開運、作惡運、墮胎、
+
+例如占：娶、嫁、和睦分裂、貸入、貸出、〔以咒術令〕開運、遇禍、墮胎、
+
+---
+
+jivhā­ni­ban­dha­naṃ hanusaṃhananaṃ hat­thābhi­jappa­naṃ hanujappanaṃ kaṇṇajappanaṃ ādāsapañhaṃ kumārikapañhaṃ devapañhaṃ 
+
+reciting spells to bind a man‘s tongue, to paralyze his jaws, to make him lose control over his hands, or to bring on deafness; getting oracular answers to questions addressed to a spirit in a mirror, in a young girl, or to a spirit medium; 
+
+綁舌[咒術]、使顎被結縛[咒術]、[他人]手控制咒術、顎咒術、耳聾咒術、詢問鏡子[而得答案]、詢問女孩[靈媒]、詢問天、
+
+啞口、不能言、〔舉手〕不下、耳聾、問鏡、問童女、問天神、
+
+---
+
+ādic­cu­paṭṭhā­naṃ maha­tu­paṭṭhā­naṃ abbhujjalanaṃ sirivhāyanaṃ iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. 
+
+worshipping the sun, worshipping the Great Brahmā, bringing forth flames from the mouth, invoking the goddess of luck — he abstains from wrong livelihood, from “animal” arts such as these.
+
+太陽崇拜、大[梵天]崇拜、口吐出火、招請幸運女神，這樣，他是離這樣或那樣以畜生明邪命謀生者，
+
+拜太陽、奉祭大〔梵天〕、口吐火、奉請吉祥天等。遠離如是任何無益徒勞之橫明。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
 ##### 62.
 
-Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti. Seyyathidaṃ— santikammaṃ paṇidhikammaṃ bhūtakammaṃ bhūrikammaṃ vassakammaṃ vossakammaṃ vatthukammaṃ vatthu­pari­kammaṃ ācamanaṃ nhāpanaṃ juhanaṃ vamanaṃ virecanaṃ uddhaṃ­vire­ca­naṃ adhovirecanaṃ sīsavirecanaṃ kaṇṇatelaṃ nettatappanaṃ natthukammaṃ añjanaṃ paccañjanaṃ sālākiyaṃ sallakattiyaṃ dārakatikicchā, mūla­bhesaj­jā­naṃ anuppadānaṃ, osadhīnaṃ paṭimokkho iti vā iti evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. Idampissa hoti sīlasmiṃ.
+Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchā­na­vijjāya micchājīvena jīvitaṃ kappenti. 
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as: promising gifts to deities in return for favors; fulfilling such promises; demonology; reciting spells in earth houses [see earth skills, above]; inducing virility and impotence; preparing sites for construction; consecrating sites for construction; giving ceremonial mouthwashes and ceremonial baths; offering sacrificial fires; administering emetics, purges, purges from above, purges from below, head-purges; ear-oil, eye-drops, treatments through the nose, ointments, and counter-ointments; practicing eye-surgery [or: extractive surgery], general surgery, pediatrics; administering root-medicines and binding medicinal herbs — he abstains from wrong livelihood, from “animal” arts such as these. This, too, is part of his virtue.”
+“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as: 
 
-如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，即：透過神而使變得寂靜的儀式、誓願儀式、鬼神儀式、居地儀式、[使]元氣旺盛儀式、[使]性無能儀式、房地儀式、房地準備儀式、洗淨、[芳香]沐浴、獻供、催吐劑、瀉藥、向上瀉藥、向下瀉藥、頭的瀉藥、耳油藥、眼藥水、灌鼻、藥膏、塗油、眼科、外科、兒科、根藥、無生(藥的解藥)、藥草、瀉劑， 這樣，他是離這樣或那樣以畜生明邪命謀生者，這也是關於戒。
+如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生，
 
-又有某沙門、婆羅門，受食信施而生活。彼等以無益徒勞之橫明過邪命生活。例如許願、還願、對地基作咒、得精力〔有子〕、失精力〔無子〕、相宅地、對宅地撒〔祭物〕；漱口、沐浴、供犧牲、吐藥、下劑、上吐、下瀉、頭痛藥、點耳、洗眼、灌鼻、眼藥、藥油；眼科醫、外科醫、小兒科醫、與根本藥、草藥、瀉藥等。遠離如是任何無益徒勞之橫明。此亦為比丘戒之一份。
+又有某沙門、婆羅門，受食信施而生活。彼等以無益徒勞之橫明過邪命生活。
+
+---
+
+Seyyathidaṃ— santikammaṃ paṇidhikammaṃ bhūtakammaṃ bhūrikammaṃ
+
+promising gifts to deities in return for favors; fulfilling such promises; demonology; reciting spells in earth houses [see earth skills, above]; 
+
+即：透過神而使變得寂靜的儀式、誓願儀式、鬼神儀式、居地儀式、
+
+例如許願、還願、對地基作咒、
+
+---
+
+vassakammaṃ vossakammaṃ vatthukammaṃ vatthu­pari­kammaṃ ācamanaṃ nhāpanaṃ juhanaṃ 
+
+inducing virility and impotence; preparing sites for construction; consecrating sites for construction; giving ceremonial mouthwashes and ceremonial baths; offering sacrificial fires;
+
+[使]元氣旺盛儀式、[使]性無能儀式、房地儀式、房地準備儀式、洗淨、[芳香]沐浴、獻供、
+
+得精力〔有子〕、失精力〔無子〕、相宅地、對宅地撒〔祭物〕；漱口、沐浴、供犧牲、
+
+---
+
+vamanaṃ virecanaṃ uddhaṃ­vire­ca­naṃ adhovirecanaṃ sīsavirecanaṃ kaṇṇatelaṃ nettatappanaṃ natthukammaṃ añjanaṃ paccañjanaṃ 
+
+administering emetics, purges, purges from above, purges from below, head-purges; ear-oil, eye-drops, treatments through the nose, ointments, and counter-ointments; 
+
+催吐劑、瀉藥、向上瀉藥、向下瀉藥、頭的瀉藥、耳油藥、眼藥水、灌鼻、藥膏、塗油、
+
+吐藥、下劑、上吐、下瀉、頭痛藥、點耳、洗眼、灌鼻、眼藥、藥油；
+
+---
+
+sālākiyaṃ sallakattiyaṃ dārakatikicchā, mūla­bhesaj­jā­naṃ anuppadānaṃ, osadhīnaṃ paṭimokkho iti vā iti
+
+practicing eye-surgery [or: extractive surgery], general surgery, pediatrics; administering root-medicines and binding medicinal herbs — 
+
+眼科、外科、兒科、根藥、無生(藥的解藥)、藥草、瀉劑， 
+
+眼科醫、外科醫、小兒科醫、與根本藥、草藥、瀉藥等。
+
+---
+
+evarūpāya tiracchā­na­vijjāya micchājīvā paṭivirato hoti. 
+
+he abstains from wrong livelihood, from “animal” arts such as these. 
+
+這樣，他是離這樣或那樣以畜生明邪命謀生者，
+
+遠離如是任何無益徒勞之橫明。
+
+---
+
+Idampissa hoti sīlasmiṃ.
+
+This, too, is part of his virtue.”
+
+這也是關於戒。
+
+此亦為比丘戒之一份。
 
 ---
 
