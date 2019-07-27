@@ -4065,49 +4065,249 @@ This, too, is part of his virtue.”
 
 ##### 63.
 
-Sa kho so, mahārāja, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ samanupassati, yadidaṃ sīlasaṃvarato. Seyyathāpi, mahārāja, rājā khattiyo muddhābhisitto nihata­pac­cā­mitto na kutoci bhayaṃ samanupassati, yadidaṃ paccatthikato; evameva kho, mahārāja, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ samanupassati, yadidaṃ sīlasaṃvarato. So iminā ariyena sīlakkhandhena samannāgato ajjhattaṃ anavajjasukhaṃ paṭisaṃvedeti. Evaṃ kho, mahārāja, bhikkhu sīlasampanno hoti.
+Sa kho so, mahārāja, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ samanupassati, yadidaṃ sīlasaṃvarato. 
 
-“A monk thus consummate in virtue sees no danger anywhere from his restraint through virtue. Just as a head-anointed noble warrior king who has defeated his enemies sees no danger anywhere from his enemies, in the same way the monk thus consummate in virtue sees no danger anywhere from his restraint through virtue. Endowed with this noble aggregate of virtue, he is inwardly sensitive to the pleasure of being blameless. This is how a monk is consummate in virtue.
+“A monk thus consummate in virtue sees no danger anywhere from his restraint through virtue. 
 
-大王！那位這樣戒具足的比丘在任何地方都不看見戒自制的恐怖，大王！猶如敵人已被殺害的剎帝利灌頂王，在任何地方都不看見敵人的恐怖，同樣的，大王！那位這樣戒具足的比丘在任何地方都不看見戒自制的恐怖。已具備這聖戒蘊，他自身內感受無過失的安樂，大王！這樣，比丘是戒具足者。
+大王！那位這樣戒具足的比丘在任何地方都不看見戒自制的恐怖，
 
-大王！此比丘如是戒具足者，無論於何處，由戒之護持故，皆不見怖畏。大王！恰如一灌頂之剎帝利制伏怨敵，無論於何處，皆不見怖畏。比丘而戒具足者，由戒之護持故，無論於何處，皆不見怖畏。具足此聖戒蘊，彼之內心，感受無垢純淨安樂。大王！如是比丘乃戒具足。
+大王！此比丘如是戒具足者，無論於何處，由戒之護持故，皆不見怖畏。
+
+---
+
+Seyyathāpi, mahārāja, rājā khattiyo muddhābhisitto nihata­pac­cā­mitto na kutoci bhayaṃ samanupassati, yadidaṃ paccatthikato; 
+
+Just as a head-anointed noble warrior king who has defeated his enemies sees no danger anywhere from his enemies, 
+
+大王！猶如敵人已被殺害的剎帝利灌頂王，在任何地方都不看見敵人的恐怖，
+
+大王！恰如一灌頂之剎帝利制伏怨敵，無論於何處，皆不見怖畏。
+
+---
+
+evameva kho, mahārāja, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ samanupassati, yadidaṃ sīlasaṃvarato. 
+
+in the same way the monk thus consummate in virtue sees no danger anywhere from his restraint through virtue.
+
+同樣的，大王！那位這樣戒具足的比丘在任何地方都不看見戒自制的恐怖。
+
+比丘而戒具足者，由戒之護持故，無論於何處，皆不見怖畏。
+
+---
+
+So iminā ariyena sīlakkhandhena samannāgato ajjhattaṃ anavajjasukhaṃ paṭisaṃvedeti. 
+
+Endowed with this noble aggregate of virtue, he is inwardly sensitive to the pleasure of being blameless. 
+
+已具備這聖戒蘊，他自身內感受無過失的安樂，
+
+具足此聖戒蘊，彼之內心，感受無垢純淨安樂。
+
+---
+
+Evaṃ kho, mahārāja, bhikkhu sīlasampanno hoti.
+
+This is how a monk is consummate in virtue.
+
+大王！這樣，比丘是戒具足者。
+
+大王！如是比丘乃戒具足。
 
 ---
 
 ##### 64.
 
-Kathañca, mahārāja, bhikkhu indriyesu guttadvāro hoti? Idha, mahārāja, bhikkhu cakkhunā rūpaṃ disvā na nimittaggāhī hoti ­nānub­yañ­janag­gāhī. Yat­vādhika­ra­ṇa­menaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhā domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati. Sotena saddaṃ sutvā … pe … ghānena gandhaṃ ghāyitvā … pe … jivhāya rasaṃ sāyitvā … pe … kāyena phoṭṭhabbaṃ phusitvā … pe … manasā dhammaṃ viññāya na nimittaggāhī hoti ­nānub­yañ­janag­gāhī. Yat­vādhika­ra­ṇa­menaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhā domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati manindriyaṃ, manindriye saṃvaraṃ āpajjati. So iminā ariyena indriya­saṃ­varena samannāgato ajjhattaṃ abyāsekasukhaṃ paṭisaṃvedeti. Evaṃ kho, mahārāja, bhikkhu indriyesu guttadvāro hoti.
+Kathañca, mahārāja, bhikkhu indriyesu guttadvāro hoti? 
 
-“And how does a monk guard the doors of his senses? On seeing a form with the eye, he does not grasp at any theme or details by which — if he were to dwell without restraint over the faculty of the eye — evil, unskillful qualities such as greed or distress might assail him. On hearing a sound with the ear... On smelling an odor with the nose... On tasting a flavor with the tongue... On touching a tactile sensation with the body... On cognizing an idea with the intellect, he does not grasp at any theme or details by which — if he were to dwell without restraint over the faculty of the intellect — evil, unskillful qualities such as greed or distress might assail him. Endowed with this noble restraint over the sense faculties, he is inwardly sensitive to the pleasure of being blameless. This is how a monk guards the doors of his senses.
+“And how does a monk guard the doors of his senses? 
 
-大王！比丘如何是守護根門者呢？大王！這裡，比丘以眼見色後，不成為相的執取者、細相的執取者，因為當住於眼根的不防護時，貪憂、惡不善法會流入，他依其自制而行動，保護眼根，在眼根上達到自制；以耳聽聲音後，……以鼻聞氣味後，……以舌嚐味道後，……以身觸所觸後，……以意識知法後，不成為相的執取者、細相的執取者，因為當住於意根的不防護時，貪憂、惡不善法會流入，他依其自制而行動，保護意根，在意根上達到自制，已具備這聖根自制，他自身內感受不受害的安樂，大王！這樣，比丘是守護根門者。
+大王！比丘如何是守護根門者呢？
 
-大王！又比丘如何防護諸根門耶？大王！茲有比丘以眼見色時，不執取〔總〕相，不執取別相。彼若放逸不防護，而隨著貪愛、憂悲、過惡、不淨法，即攝御眼根，防護眼根，令達眼根之防護。以耳聞聲時……乃至……以鼻嗅香……乃至……以舌味味……乃至……以身觸觸……乃至……以意知法時，不執取總相，不執取別相。彼若放逸不防護，而隨著貪愛、憂悲、過惡、不淨法，即攝御意根，以防護意根，令達意根之防護。彼依此聖具足諸根之攝御，感受內心無垢純淨之安樂。大王！比丘如是攝護諸根門。
+大王！又比丘如何防護諸根門耶？
+
+---
+
+Idha, mahārāja, bhikkhu cakkhunā rūpaṃ disvā na nimittaggāhī hoti ­nānub­yañ­janag­gāhī. 
+
+On seeing a form with the eye, he does not grasp at any theme or details by which — 
+
+大王！這裡，比丘以眼見色後，不成為相的執取者、細相的執取者，
+
+大王！茲有比丘以眼見色時，不執取〔總〕相，不執取別相。
+
+---
+
+Yat­vādhika­ra­ṇa­menaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhā domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati. 
+
+if he were to dwell without restraint over the faculty of the eye — evil, unskillful qualities such as greed or distress might assail him. 
+
+因為當住於眼根的不防護時，貪憂、惡不善法會流入，他依其自制而行動，保護眼根，在眼根上達到自制；
+
+彼若放逸不防護，而隨著貪愛、憂悲、過惡、不淨法，即攝御眼根，防護眼根，令達眼根之防護。
+
+---
+
+Sotena saddaṃ sutvā … pe … ghānena gandhaṃ ghāyitvā … pe … jivhāya rasaṃ sāyitvā … pe … kāyena phoṭṭhabbaṃ phusitvā … pe … manasā dhammaṃ viññāya na nimittaggāhī hoti ­nānub­yañ­janag­gāhī.
+
+On hearing a sound with the ear... On smelling an odor with the nose... On tasting a flavor with the tongue... On touching a tactile sensation with the body... On cognizing an idea with the intellect, he does not grasp at any theme or details by which — 
+
+以耳聽聲音後，……以鼻聞氣味後，……以舌嚐味道後，……以身觸所觸後，……以意識知法後，不成為相的執取者、細相的執取者，
+
+以耳聞聲時……乃至……以鼻嗅香……乃至……以舌味味……乃至……以身觸觸……乃至……以意知法時，不執取總相，不執取別相。
+
+---
+
+Yat­vādhika­ra­ṇa­menaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhā domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati manindriyaṃ, manindriye saṃvaraṃ āpajjati. 
+
+if he were to dwell without restraint over the faculty of the intellect — evil, unskillful qualities such as greed or distress might assail him. 
+
+因為當住於意根的不防護時，貪憂、惡不善法會流入，
+
+彼若放逸不防護，而隨著貪愛、憂悲、過惡、不淨法，即攝御意根，以防護意根，令達意根之防護。
+
+---
+
+So iminā ariyena indriya­saṃ­varena samannāgato ajjhattaṃ abyāsekasukhaṃ paṭisaṃvedeti. 
+
+Endowed with this noble restraint over the sense faculties, he is inwardly sensitive to the pleasure of being blameless. 
+
+他依其自制而行動，保護意根，在意根上達到自制，已具備這聖根自制，他自身內感受不受害的安樂，
+
+彼依此聖具足諸根之攝御，感受內心無垢純淨之安樂。
+
+---
+
+Evaṃ kho, mahārāja, bhikkhu indriyesu guttadvāro hoti.
+
+This is how a monk guards the doors of his senses.
+
+大王！這樣，比丘是守護根門者。
+
+大王！比丘如是攝護諸根門。
 
 ---
 
 ##### 65.
 
-Kathañca, mahārāja, bhikkhu sati­sam­pajañ­ñena samannāgato hoti? Idha, mahārāja, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghā­ṭi­patta­cīvara­dhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccāra­passā­va­kamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti. Evaṃ kho, mahārāja, bhikkhu sati­sam­pajañ­ñena samannāgato hoti.
+Kathañca, mahārāja, bhikkhu sati­sam­pajañ­ñena samannāgato hoti?
 
-“And how is a monk possessed of mindfulness and alertness? When going forward and returning, he acts with alertness. When looking toward and looking away... when bending and extending his limbs... when carrying his outer cloak, his upper robe, and his bowl... when eating, drinking, chewing, and tasting... when urinating and defecating... when walking, standing, sitting, falling asleep, waking up, talking, and remaining silent, he acts with alertness. This is how a monk is possessed of mindfulness and alertness.
+“And how is a monk possessed of mindfulness and alertness?
 
-大王！比丘如何具備正念與正知呢？比丘在前進、後退時是正知於行為者；在前視、後視時是正知於行為者；在[肢體]曲伸時是正知於行為者；在[穿]衣、持鉢與大衣時是正知於行為者；在飲、食、嚼、嚐時是正知於行為者；在大小便動作時是正知於行為者；在行、住、坐、臥、清醒、語、默時是正知於行為者，大王！這樣，比丘具備正念與正知。
+大王！比丘如何具備正念與正知呢？
 
-大王！又如何比丘具足正念、正智耶？大王！茲有比丘於進、於退以具正智，於瞻前、於顧後亦具正智。又屈伸手足時、持下衣、上衣及鉢時，飲食嘗味時，大小便時，行住坐臥時，覺醒時，語時，默時，皆具正智。大王！比丘如是具足正念、正智。
+大王！又如何比丘具足正念、正智耶？
+
+---
+
+Idha, mahārāja, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, 
+
+When going forward and returning, he acts with alertness. When looking toward and looking away... when bending and extending his limbs... 
+
+比丘在前進、後退時是正知於行為者；在前視、後視時是正知於行為者；在[肢體]曲伸時是正知於行為者；
+
+大王！茲有比丘於進、於退以具正智，於瞻前、於顧後亦具正智。又屈伸手足時、
+
+---
+
+saṅghā­ṭi­patta­cīvara­dhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, 
+
+when carrying his outer cloak, his upper robe, and his bowl... when eating, drinking, chewing, and tasting... 
+
+在[穿]衣、持鉢與大衣時是正知於行為者；在飲、食、嚼、嚐時是正知於行為者；
+
+持下衣、上衣及鉢時，飲食嘗味時，
+
+---
+
+uccāra­passā­va­kamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti. 
+
+when urinating and defecating... when walking, standing, sitting, falling asleep, waking up, talking, and remaining silent, he acts with alertness. 
+
+在大小便動作時是正知於行為者；在行、住、坐、臥、清醒、語、默時是正知於行為者，
+
+大小便時，行住坐臥時，覺醒時，語時，默時，皆具正智。
+
+---
+
+Evaṃ kho, mahārāja, bhikkhu sati­sam­pajañ­ñena samannāgato hoti.
+
+This is how a monk is possessed of mindfulness and alertness.
+
+大王！這樣，比丘具備正念與正知。
+
+大王！比丘如是具足正念、正智。
 
 ---
 
 ##### 66.
 
-Kathañca, mahārāja, bhikkhu santuṭṭho hoti? Idha, mahārāja, bhikkhu santuṭṭho hoti kāya­pari­hāri­kena cīvarena, kucchi­pari­hāri­kena piṇḍapātena. So yena yeneva pakkamati, samādāyeva pakkamati. Seyyathāpi, mahārāja, pakkhī sakuṇo yena yeneva ḍeti, sapattabhārova ḍeti; evameva kho, mahārāja, bhikkhu santuṭṭho hoti kāya­pari­hāri­kena cīvarena kucchi­pari­hāri­kena piṇḍapātena. So yena yeneva pakkamati, samādāyeva pakkamati. Evaṃ kho, mahārāja, bhikkhu santuṭṭho hoti.
+Kathañca, mahārāja, bhikkhu santuṭṭho hoti?
 
-“And how is a monk content? Just as a bird, wherever it goes, flies with its wings as its only burden; so too is he content with a set of robes to provide for his body and almsfood to provide for his hunger. Wherever he goes, he takes only his barest necessities along. This is how a monk is content.
+“And how is a monk content? 
 
-大王！比丘如何是已知足者呢？大王！比丘是已知足者：以衣服保護身體、以施食保護肚子，不論出發到何處，他只拿[這些]出發，猶如鳥不論以翼飛到何處，只有翼的負荷而飛。同樣的，大王！比丘以衣服保護身體、以施食保護肚子為知足，不論出發到何處，他只拿[這些]出發，大王！這樣，比丘是已知足者。
+大王！比丘如何是已知足者呢？
 
-大王！又比丘如何為滿足耶？大王！茲有比丘，滿足其護身之衣及其養體之施食，〔彼〕往何處，唯持此等（衣、鉢）而往。大王！猶如有翼之鳥，飛往何處，亦只持其翼而飛。大王！比丘如是滿足其護身之衣及養體之施食，往何處，唯持此等而往。大王！比丘如是滿足。
+大王！又比丘如何為滿足耶？
+
+---
+
+Idha, mahārāja, bhikkhu santuṭṭho hoti kāya­pari­hāri­kena cīvarena, kucchi­pari­hāri­kena piṇḍapātena.
+
+/
+
+大王！比丘是已知足者：以衣服保護身體、以施食保護肚子，
+
+大王！茲有比丘，滿足其護身之衣及其養體之施食，
+
+---
+
+So yena yeneva pakkamati, samādāyeva pakkamati.
+
+/
+
+不論出發到何處，他只拿[這些]出發，
+
+〔彼〕往何處，唯持此等（衣、鉢）而往。
+
+---
+
+Seyyathāpi, mahārāja, pakkhī sakuṇo yena yeneva ḍeti, sapattabhārova ḍeti;
+
+Just as a bird, wherever it goes, flies with its wings as its only burden; 
+
+猶如鳥不論以翼飛到何處，只有翼的負荷而飛。
+
+大王！猶如有翼之鳥，飛往何處，亦只持其翼而飛。
+
+---
+
+evameva kho, mahārāja, bhikkhu santuṭṭho hoti kāya­pari­hāri­kena cīvarena kucchi­pari­hāri­kena piṇḍapātena.
+
+so too is he content with a set of robes to provide for his body and almsfood to provide for his hunger. 
+
+同樣的，大王！比丘以衣服保護身體、以施食保護肚子為知足，
+
+大王！比丘如是滿足其護身之衣及養體之施食，
+
+---
+
+So yena yeneva pakkamati, samādāyeva pakkamati.
+
+Wherever he goes, he takes only his barest necessities along. 
+
+不論出發到何處，他只拿[這些]出發，
+
+往何處，唯持此等而往。
+
+---
+
+Evaṃ kho, mahārāja, bhikkhu santuṭṭho hoti.
+
+This is how a monk is content.
+
+大王！這樣，比丘是已知足者。
+
+大王！比丘如是滿足。
 
 ---
 
