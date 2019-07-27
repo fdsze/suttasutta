@@ -8,6 +8,6 @@
 
 King Ajātasattu, son of the great lay devotee King Bimbisāra, consults the Buddha for ways to calm down the mind, and asks the Buddha about the benefits brought by renunciation and spiritual practice. 
 
-頻毘娑羅王之子阿闍世王，詢問佛陀如何讓心寂靜的方法，以及有關出家與修行帶來之利益
+頻毘娑羅王之子阿闍世王，詢問佛陀能使心寂靜的方法，以及有關出家與修行帶來之利益
 
 ---
