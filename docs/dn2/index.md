@@ -4313,13 +4313,33 @@ This is how a monk is content.
 
 ##### 67.
 
-So iminā ca ariyena sīlakkhandhena samannāgato, iminā ca ariyena indriya­saṃ­varena samannāgato, iminā ca ariyena sati­sam­pajañ­ñena samannāgato, imāya ca ariyāya santuṭṭhiyā samannāgato, vivittaṃ senāsanaṃ bhajati araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ. So pacchābhattaṃ piṇḍa­pāta­paṭik­kanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.
+So iminā ca ariyena sīlakkhandhena samannāgato, iminā ca ariyena indriya­saṃ­varena samannāgato, iminā ca ariyena sati­sam­pajañ­ñena samannāgato, imāya ca ariyāya santuṭṭhiyā samannāgato, 
 
-“Endowed with this noble aggregate of virtue, this noble restraint over the sense faculties, this noble mindfulness and alertness, and this noble contentment, he seeks out a secluded dwelling: a forest, the shade of a tree, a mountain, a glen, a hillside cave, a charnel ground, a jungle grove, the open air, a heap of straw. After his meal, returning from his alms round, he sits down, crosses his legs, holds his body erect, and brings mindfulness to the fore.
+“Endowed with this noble aggregate of virtue, this noble restraint over the sense faculties, this noble mindfulness and alertness, and this noble contentment, 
 
-已具備這聖戒蘊，已具備這聖根自制，已具備這聖正念與正知，已具備這聖知足，他親近獨居的住處：林野、樹下、山岳、洞窟、山洞、墓地、森林、露地、稻草堆。他食畢，從施食處返回，坐下，盤腿後，挺直身體，建立起面前的正念後，
+已具備這聖戒蘊，已具備這聖根自制，已具備這聖正念與正知，已具備這聖知足，
 
-具足此聖戒蘊、聖諸根之防護、聖正念正智、聖之滿足，選〔住〕空閑處、樹下、山岳、峽谷、巖窟、藪林、露地、塚間、藁堆。彼乞食而歸，食已而結跏趺坐、端身安住，現起深正念。
+具足此聖戒蘊、聖諸根之防護、聖正念正智、聖之滿足，
+
+---
+
+vivittaṃ senāsanaṃ bhajati araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ. 
+
+he seeks out a secluded dwelling: a forest, the shade of a tree, a mountain, a glen, a hillside cave, a charnel ground, a jungle grove, the open air, a heap of straw. 
+
+他親近獨居的住處：林野、樹下、山岳、洞窟、山洞、墓地、森林、露地、稻草堆。
+
+選〔住〕空閑處、樹下、山岳、峽谷、巖窟、藪林、露地、塚間、藁堆。
+
+---
+
+So pacchābhattaṃ piṇḍa­pāta­paṭik­kanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.
+
+After his meal, returning from his alms round, he sits down, crosses his legs, holds his body erect, and brings mindfulness to the fore.
+
+他食畢，從施食處返回，坐下，盤腿後，挺直身體，建立起面前的正念後，
+
+彼乞食而歸，食已而結跏趺坐、端身安住，現起深正念。
 
 ---
 
@@ -4377,37 +4397,147 @@ Abandoning uncertainty, he dwells having crossed over uncertainty, with no perpl
 
 ##### 69.
 
-Seyyathāpi, mahārāja, puriso iṇaṃ ādāya kammante payojeyya. Tassa te kammantā samijjheyyuṃ. So yāni ca porāṇāni iṇamūlāni, tāni ca byantiṃ kareyya, siyā cassa uttariṃ avasiṭṭhaṃ dārabharaṇāya. Tassa evamassa: ‘ahaṃ kho pubbe iṇaṃ ādāya kammante payojesiṃ. Tassa me te kammantā samijjhiṃsu. Sohaṃ yāni ca porāṇāni iṇamūlāni, tāni ca byantiṃ akāsiṃ, atthi ca me uttariṃ avasiṭṭhaṃ dārabharaṇāyā’ti. So tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.
+Seyyathāpi, mahārāja, puriso iṇaṃ ādāya kammante payojeyya. 
 
-“Suppose that a man, taking a loan, invests it in his business affairs. His business affairs succeed. He repays his old debts and there is extra left over for maintaining his wife. The thought would occur to him, ‘Before, taking a loan, I invested it in my business affairs. Now my business affairs have succeeded. I have repaid my old debts and there is extra left over for maintaining my wife.’ Because of that he would experience joy and happiness.
+“Suppose that a man, taking a loan, invests it in his business affairs.
 
-大王！猶如男子如果拿了借款後從事事業，如果他的那些事業成功，他會終結那舊的借款本金，會有超出的餘額扶養妻子，他這麼想：『我以前拿了借款後會從事事業，我的那些事業成功，我終結了那舊的借款本金，有超出的餘額扶養我的妻子。』他從此因緣而會得到欣悅，會到達喜悅。
+大王！猶如男子如果拿了借款後從事事業，
 
-大王！猶如有人，以負債而營事業，其事業繁榮，得還清負債之本金，尚有剩餘，得以養妻。其時，彼思惟：『我曾負債以營事業，事業繁榮，得還清負債之本金，尚有剩餘，得以養妻。』而彼其喜亦悅樂。
+大王！猶如有人，以負債而營事業，
+
+---
+
+Tassa te kammantā samijjheyyuṃ. So yāni ca porāṇāni iṇamūlāni, tāni ca byantiṃ kareyya, siyā cassa uttariṃ avasiṭṭhaṃ dārabharaṇāya. 
+
+His business affairs succeed. He repays his old debts and there is extra left over for maintaining his wife.
+
+如果他的那些事業成功，他會終結那舊的借款本金，會有超出的餘額扶養妻子，
+
+其事業繁榮，得還清負債之本金，尚有剩餘，得以養妻。
+
+---
+
+Tassa evamassa: ‘ahaṃ kho pubbe iṇaṃ ādāya kammante payojesiṃ. 
+
+The thought would occur to him, ‘Before, taking a loan, I invested it in my business affairs.
+
+他這麼想：『我以前拿了借款後會從事事業，
+
+其時，彼思惟：『我曾負債以營事業，
+
+---
+
+Tassa me te kammantā samijjhiṃsu. Sohaṃ yāni ca porāṇāni iṇamūlāni, tāni ca byantiṃ akāsiṃ, atthi ca me uttariṃ avasiṭṭhaṃ dārabharaṇāyā’ti.
+
+Now my business affairs have succeeded. I have repaid my old debts and there is extra left over for maintaining my wife.’ 
+
+我的那些事業成功，我終結了那舊的借款本金，有超出的餘額扶養我的妻子。』
+
+事業繁榮，得還清負債之本金，尚有剩餘，得以養妻。』
+
+---
+
+So tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.
+
+Because of that he would experience joy and happiness.
+
+他從此因緣而會得到欣悅，會到達喜悅。
+
+而彼其喜亦悅樂。
 
 ---
 
 ##### 70.
 
-Seyyathāpi, mahārāja, puriso ābādhiko assa dukkhito bāḷhagilāno; bhattañcassa nacchādeyya, na cassa kāye balamattā. So aparena samayena tamhā ābādhā mucceyya; bhattaṃ cassa chādeyya, siyā cassa kāye balamattā. Tassa evamassa: ‘ahaṃ kho pubbe ābādhiko ahosiṃ dukkhito bāḷhagilāno; bhattañca me nacchādesi, na ca me āsi kāye balamattā. Somhi etarahi tamhā ābādhā mutto; bhattañca me chādeti, atthi ca me kāye balamattā’ti. So tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.
+Seyyathāpi, mahārāja, puriso ābādhiko assa dukkhito bāḷhagilāno;
 
-“Now suppose that a man falls sick — in pain and seriously ill. He does not enjoy his meals, and there is no strength in his body. As time passes, he eventually recovers from that sickness. He enjoys his meals and there is strength in his body. The thought would occur to him, ‘Before, I was sick... Now I am recovered from that sickness. I enjoy my meals and there is strength in my body.’ Because of that he would experience joy and happiness.
+“Now suppose that a man falls sick — in pain and seriously ill.
 
-大王！猶如男子如果生病、痛苦、重病，他會不喜歡食物，身體會沒力氣，過些時候，如果他從那個病脫離，他會喜歡食物，他的身體會有力氣，他這麼想：『我以前生病、痛苦、重病，我不喜歡食物，我的身體沒力氣，現在，我從那個病脫離，我喜歡食物，我的身體會有力氣。』他從此因緣而會得到欣悅，會到達喜悅。
+大王！猶如男子如果生病、痛苦、重病，
 
-大王！猶如有人，為重病所惱，不喜食物，而消失體力。然，其後，彼脫離其疾病，喜得食物，以恢復體力。其時，彼思惟：『我曾為重病所惱，不喜食物，而消失體力。然今，我脫離疾病，喜得食物，恢復體力。』而彼其喜亦悅樂。
+大王！猶如有人，為重病所惱，
+
+---
+
+bhattañcassa nacchādeyya, na cassa kāye balamattā. So aparena samayena tamhā ābādhā mucceyya; bhattaṃ cassa chādeyya, siyā cassa kāye balamattā. 
+
+He does not enjoy his meals, and there is no strength in his body. As time passes, he eventually recovers from that sickness. He enjoys his meals and there is strength in his body. 
+
+他會不喜歡食物，身體會沒力氣，過些時候，如果他從那個病脫離，他會喜歡食物，他的身體會有力氣，
+
+不喜食物，而消失體力。然，其後，彼脫離其疾病，喜得食物，以恢復體力。
+
+---
+
+Tassa evamassa: ‘ahaṃ kho pubbe ābādhiko ahosiṃ dukkhito bāḷhagilāno; bhattañca me nacchādesi, na ca me āsi kāye balamattā. 
+
+The thought would occur to him, ‘Before, I was sick... 
+
+他這麼想：『我以前生病、痛苦、重病，我不喜歡食物，我的身體沒力氣，
+
+其時，彼思惟：『我曾為重病所惱，不喜食物，而消失體力。
+
+---
+
+Somhi etarahi tamhā ābādhā mutto; bhattañca me chādeti, atthi ca me kāye balamattā’ti. 
+
+Now I am recovered from that sickness. I enjoy my meals and there is strength in my body.’ 
+
+現在，我從那個病脫離，我喜歡食物，我的身體會有力氣。』
+
+然今，我脫離疾病，喜得食物，恢復體力。』
+
+---
+
+So tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.
+
+Because of that he would experience joy and happiness.
+
+他從此因緣而會得到欣悅，會到達喜悅。
+
+而彼其喜亦悅樂。
 
 ---
 
 ##### 71.
 
-Seyyathāpi, mahārāja, puriso bandhanāgāre baddho assa. So aparena samayena tamhā bandhanāgārā mucceyya sotthinā abbhayena, na cassa kiñci bhogānaṃ vayo. Tassa evamassa: ‘ahaṃ kho pubbe bandhanāgāre baddho ahosiṃ, somhi etarahi tamhā bandhanāgārā mutto sotthinā abbhayena. Natthi ca me kiñci bhogānaṃ vayo’ti. So tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.
+Seyyathāpi, mahārāja, puriso bandhanāgāre baddho assa. 
 
-“Now suppose that a man is bound in prison. As time passes, he eventually is released from that bondage, safe and sound, with no loss of property. The thought would occur to him, ‘Before, I was bound in prison. Now I am released from that bondage, safe and sound, with no loss of my property.’ Because of that he would experience joy and happiness.
+“Now suppose that a man is bound in prison. 
 
-大王！猶如男子如果被關在監獄裡，過些時候，如果他從那個監獄被平安地、無恐怖地釋放，沒有任何財物損失，他這麼想：『以前，我被關在監獄裡，現在，我從那個監獄被平安地、無恐怖地釋放，沒有任何財物損失。』他從此因緣而會得到欣悅，會到達喜悅。
+大王！猶如男子如果被關在監獄裡，
 
-大王！猶如有人，繫禁於牢獄，彼其後健全安樂，又不減損彼之財物，得解放此牢獄。其時彼思惟：『我雖嘗繫禁於牢獄，但今健全安穩，又不減損我之財物，得解放此牢獄。』而彼喜其所悅樂。
+大王！猶如有人，繫禁於牢獄，
+
+---
+
+So aparena samayena tamhā bandhanāgārā mucceyya sotthinā abbhayena, na cassa kiñci bhogānaṃ vayo. 
+
+As time passes, he eventually is released from that bondage, safe and sound, with no loss of property.
+
+過些時候，如果他從那個監獄被平安地、無恐怖地釋放，沒有任何財物損失，
+
+彼其後健全安樂，又不減損彼之財物，得解放此牢獄。
+
+---
+
+Tassa evamassa: ‘ahaṃ kho pubbe bandhanāgāre baddho ahosiṃ, somhi etarahi tamhā bandhanāgārā mutto sotthinā abbhayena. Natthi ca me kiñci bhogānaṃ vayo’ti.
+
+The thought would occur to him, ‘Before, I was bound in prison. Now I am released from that bondage, safe and sound, with no loss of my property.’
+
+他這麼想：『以前，我被關在監獄裡，現在，我從那個監獄被平安地、無恐怖地釋放，沒有任何財物損失。』
+
+其時彼思惟：『我雖嘗繫禁於牢獄，但今健全安穩，又不減損我之財物，得解放此牢獄。』
+
+---
+
+So tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.
+
+Because of that he would experience joy and happiness.
+
+他從此因緣而會得到欣悅，會到達喜悅。
+
+而彼喜其所悅樂。
 
 ---
 
