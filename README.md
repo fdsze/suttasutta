@@ -16,9 +16,9 @@ Pāli: http://suttacentral.net
 
 ### Translations:
 
-English: http://suttacentral.net
-Modern Chinese: http://agama.buddhason.org
-Literary Chinese: http://tripitaka.cbeta.org
+English: http://suttacentral.net    
+Modern Chinese: http://agama.buddhason.org    
+Literary Chinese: http://tripitaka.cbeta.org    
 
 ## Contribution
 
