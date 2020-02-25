@@ -1,7 +1,6 @@
 const toc = require('./toc.js');
 
 module.exports = {
-  dest: 'dist',
   title: 'SUTTA·SUTTA',
   description: 'Compare sutta translations',
   themeConfig: {
