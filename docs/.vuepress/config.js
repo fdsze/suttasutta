@@ -32,5 +32,6 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#ffffff'}],
     ['meta', { name: 'msapplication-TileImage', content: '/favicon/ms-icon-144x144.png'}],
     ['meta', { name: 'theme-color', content: '#ffffff'}],
+    ['script', { src : 'https://identity.netlify.com/v1/netlify-identity-widget.js' }]
   ]
 }
