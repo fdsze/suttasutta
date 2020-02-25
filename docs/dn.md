@@ -1,6 +1,8 @@
 ---
 title: Dīgha Nikāya (DN) Content / 長部目錄
+pageClass: content-page
 ---
+
 # Dīgha Nikāya (DN) Content / 長部目錄
 
 [DN1](/dn/#dn1) [DN10](/dn/#dn10)

@@ -1,3 +1,8 @@
+---
+title: AN2 Dukanipāta / Book of the Twos / 增支部 二集
+pageClass: an
+---
+
 # AN2 Dukanipāta / Book of the Twos / 增支部 二集
 
 ---
@@ -16,7 +21,7 @@
 
 ---
 
-Evaṃ me sutaṃ. 
+Evaṃ me sutaṃ.
 
 So i have heard. 
 
