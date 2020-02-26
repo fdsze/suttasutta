@@ -26,8 +26,8 @@ export default {
     padding 0
     margin 0
     list-style-type none
-//  a
-//    display inline-block
+  // a
+  //   display inline-block
   .nav-links
     display none
     border-bottom 1px solid $borderColor
