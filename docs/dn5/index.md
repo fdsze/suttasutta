@@ -1,6 +1,6 @@
 ---
 title: DN5
-slug: dn5
+url: dn5
 pageClass: dn
 ---
 Testing
