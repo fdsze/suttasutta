@@ -1,5 +1,6 @@
 ---
 title: Dīgha Nikāya (DN) Content / 長部目錄
+slug: dn
 pageClass: content-page
 ---
 

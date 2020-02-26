@@ -1,5 +1,6 @@
 ---
 title: AN2 Dukanipāta / Book of the Twos / 增支部 二集
+slug: an2
 pageClass: an
 ---
 
