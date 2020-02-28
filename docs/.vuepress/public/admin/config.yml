@@ -22,12 +22,6 @@ collections:
         name: "index"
         file: "index"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - label: Team
-            name: team
-            widget: list
-            fields:
-              - { label: "Title", name: "title", widget: "string" }
-              - { label: "Page Class", name: "pageClass", widget: "string" }
-              - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Page Class", name: "pageClass", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
