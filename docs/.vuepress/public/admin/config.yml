@@ -20,7 +20,7 @@ collections:
     files:
       - label: "Index Page"
         name: "index"
-        file: "index"
+        file: "docs/index"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Page Class", name: "pageClass", widget: "string" }
