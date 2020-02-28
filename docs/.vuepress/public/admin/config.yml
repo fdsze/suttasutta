@@ -17,6 +17,8 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
+    extension: "md"
+    format: "frontmatter"
     files:
       - label: "Index Page"
         name: "index.md"
