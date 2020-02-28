@@ -21,8 +21,8 @@ collections:
     format: "frontmatter"
     files:
       - label: "Index Page"
-        name: "index.md"
-        file: "docs/index"
+        name: "index"
+        file: "docs/index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Page Class", name: "pageClass", widget: "string" }
