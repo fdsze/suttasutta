@@ -1,12 +1,28 @@
 {
   "suttas": [
     {
+      "title": "DN",
+      "path": "/dn/"
+    },
+    {
       "title": "DN1",
       "path": "/dn1/"
     },
     {
       "title": "DN2",
       "path": "/dn2/"
+    },
+    {
+      "title": "MN",
+      "path": "/mn/"
+    },
+    {
+      "title": "SN",
+      "path": "/sn/"
+    },
+    {
+      "title": "AN",
+      "path": "/an/"
     },
     {
       "title": "AN1",
