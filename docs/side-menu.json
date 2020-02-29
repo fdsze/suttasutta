@@ -7,6 +7,14 @@
     {
       "title": "DN2",
       "path": "/dn2/"
+    },
+    {
+      "title": "AN1",
+      "path": "/an1/"
+    },
+    {
+      "title": "AN2",
+      "path": "/an2/"
     }
   ],
   "title": "Side Menu"
