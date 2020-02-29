@@ -1,4 +1,4 @@
-const toc = require('./toc.js');
+const sideMenu = require('./side-menu.js');
 
 module.exports = {
   title: 'SUTTA·SUTTA',
@@ -10,7 +10,7 @@ module.exports = {
       { text: 'SN', link: '/sn/' },
       { text: 'AN', link: '/an/' },
     ],
-    sidebar: toc,
+    sidebar: sideMenu,
     sidebarDepth: 2,
     displayAllHeaders: true
   },
