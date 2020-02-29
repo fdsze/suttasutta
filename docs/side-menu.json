@@ -1,0 +1,13 @@
+{
+  "sutta": [
+    {
+      "title": "DN1",
+      "path": "/dn1/"
+    },
+    {
+      "title": "DN2",
+      "path": "/dn2/"
+    }
+  ],
+  "title": "Side Menu"
+}
