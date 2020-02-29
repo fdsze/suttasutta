@@ -25,3 +25,19 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Page Class", name: "pageClass", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+  - name: "menus"
+    label: "Menus"
+    files:
+      - label: "Side Menu"
+        name: "side-menu"
+        extension: "json"
+        format: "json"
+        file: "docs/side-menu.json"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - label: "Suttas"
+            name: "sutta"
+            widget: "list"
+            fields: 
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Path", name: "path", widget: "string" }
