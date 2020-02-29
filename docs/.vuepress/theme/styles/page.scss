@@ -226,3 +226,39 @@
     }
   }
 }
+
+
+a.sidebar-link {
+  display: none;
+}
+
+.dn {
+  .sidebar-link[href^="/dn"] {
+    display: inline-block;
+  }
+}
+
+.mn {
+  .sidebar-link[href^="/mn"] {
+    display: inline-block;
+  }
+}
+
+.sn {
+  .sidebar-link[href^="/sn"] {
+    display: inline-block;
+  }
+}
+
+.an {
+  .sidebar-link[href^="/an"] {
+    display: inline-block;
+  }
+}
+
+.content-page {
+  h5 {
+    height: 0;
+    overflow: hidden;
+  }
+}

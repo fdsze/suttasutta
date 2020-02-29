@@ -1,4 +1,9 @@
-# Pāli Sutta Pitaka Content / 巴利經藏目錄
+---
+title: Pāli Sutta Pitaka Content / 巴利經藏目錄
+pageClass: home
+---
+
+# Pāli Sutta Pitaka Content / 巴利文經藏目錄
 
 ### [Dīgha Nikāya (DN) Content / 長部目錄](/dn/) 
 

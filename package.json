@@ -10,6 +10,7 @@
     "vuepress": "^1.0.2"
   },
   "dependencies": {
-    "stylus-converter": "^0.8.1"
+    "stylus-converter": "^0.8.1",
+    "vuepress-plugin-clean-urls": "^1.1.1"
   }
 }

@@ -1,7 +1,6 @@
-const toc = require('./toc.js');
+const sideMenu = require('./side-menu.js');
 
 module.exports = {
-  dest: 'dist',
   title: 'SUTTA·SUTTA',
   description: 'Compare sutta translations',
   themeConfig: {
@@ -11,7 +10,7 @@ module.exports = {
       { text: 'SN', link: '/sn/' },
       { text: 'AN', link: '/an/' },
     ],
-    sidebar: toc,
+    sidebar: sideMenu,
     sidebarDepth: 2,
     displayAllHeaders: true
   },
@@ -33,5 +32,6 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#ffffff'}],
     ['meta', { name: 'msapplication-TileImage', content: '/favicon/ms-icon-144x144.png'}],
     ['meta', { name: 'theme-color', content: '#ffffff'}],
+    ['script', { src : 'https://identity.netlify.com/v1/netlify-identity-widget.js' }]
   ]
 }

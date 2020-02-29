@@ -1,3 +1,9 @@
+---
+title: DN2 / Samaññaphala Sutta / The Fruits of Recluseship / 長部二 沙門果經
+slug: dn2
+pageClass: dn
+---
+
 # DN2 / Samaññaphala Sutta / The Fruits of Recluseship / 長部二 沙門果經
 
 ---

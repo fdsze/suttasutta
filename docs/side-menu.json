@@ -1,0 +1,29 @@
+{
+  "suttas": [
+    {
+      "title": "DN",
+      "path": "/dn/"
+    },
+    {
+      "title": "DN1",
+      "path": "/dn1/"
+    },
+    {
+      "title": "DN2",
+      "path": "/dn2/"
+    },
+    {
+      "title": "AN",
+      "path": "/an/"
+    },
+    {
+      "title": "AN1",
+      "path": "/an1/"
+    },
+    {
+      "title": "AN2",
+      "path": "/an2/"
+    }
+  ],
+  "title": "Side Menu"
+}

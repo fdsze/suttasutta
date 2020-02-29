@@ -1,3 +1,9 @@
+---
+title: Aṅguttara Nikāya (AN) Content / 增支部目錄
+slug: an
+pageClass: content-page
+---
+
 # Aṅguttara Nikāya (AN) Content / 增支部目錄
 
 ### [AN1 Ekakanipāta / Book of the Ones / 增支部 一集](/an1/)
