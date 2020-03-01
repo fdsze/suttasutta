@@ -2,7 +2,7 @@
 title: >-
   MN20 / Vitakkasaṇṭhāna Sutta / The Removal of Distracting Thoughts / 中部二十
   想念止息經
-slug: mn20
+slug: mn20-wip
 pageClass: mn
 ---
 # MN20 / Vitakkasaṇṭhāna Sutta / The Removal of Distracting Thoughts / 中部二十 想念止息經
