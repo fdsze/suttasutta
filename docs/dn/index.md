@@ -15,7 +15,7 @@ pageClass: content-page
 
 ---
 
-##### [DN3](/dn2)
+##### [DN2](/dn2)
 ### [DN2 Samaññaphala Sutta / The Fruits of Recluseship / 長部二 沙門果經](/dn2/)
 
 King Ajātasattu, son of the great lay devotee King Bimbisāra, consults the Buddha for ways to calm down the mind, and asks the Buddha about the benefits brought by renunciation and spiritual practice. 
