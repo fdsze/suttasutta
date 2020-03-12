@@ -283,6 +283,27 @@ pageClass: content-page
 ##### [SN55](/sn55/)
 ### SN55 Sotāpatti Saṃyutta / Connected Discourses on Stream-Entry / 相應部五五 預流相應
 
+SN55.1 Cakkavattirāja Sutta / Wheel-Turning Monarch / 相應部五五・一 轉輪王經
+SN55.2 Brahmacariyogadha Sutta / Grounded / 相應部五五・二 梵行立足處經
+SN55.3 Dīghāvūpāsaka Sutta / Dīghāvu / 相應部五五・三 長壽優婆塞經
+SN55.4 Paṭhamasāriputta Sutta / Sāriputta (1) / 相應部五五・四 舍利弗經第一
+SN55.5 Dutiyasāriputta Sutta / Sāriputta (2) / 相應部五五・五 舍利弗經第二
+SN55.6 Thapati Sutta / The Chamberlains / 相應部五五・六 侍從官經
+SN55.7 Veḷudvāreyya Sutta / The People of Bamboo Gate / 相應部五五・七 竹門人經
+SN55.8 Paṭhamagiñjakāvasatha Sutta / The Brick Hall (1) / 相應部五五・八 磚屋經第一
+SN55.9 Dutiyagiñjakāvasatha Sutta / The Brick Hall (2) / 相應部五五・九 磚屋經第二
+SN55.10 Tatiyagiñjakāvasatha Sutta / The Brick Hall (3) / 相應部五五・十 磚屋經第三
+SN55.11 Sahassabhikkhunisaṅgha Sutta / The Thousand / 相應部五五・一一 千位比丘尼的僧團經
+SN55.12 Brāhmaṇa Sutta / The Brahmins / 相應部五五・一二 婆羅門經
+SN55.13 Ānandatthera Sutta / Ānanda / 相應部五五・一三 上座阿難經
+SN55.14 Duggatibhaya Sutta / Bad Destination (1) / 相應部五五・一四 害怕惡趣經
+SN55.15 Duggativinipātabhaya Sutta / Bad Destination (2) / 相應部五五・一五 害怕惡趣下界經
+SN55.16 Paṭhamamittāmacca Sutta / Friends and Colleagues (1) / 相應部五五・一六 朋友與同事經第一
+SN55.17 Dutiyamittāmacca Sutta / Friends and Colleagues (2) / 相應部五五・一七 朋友與同事經第二
+SN55.18 Paṭhamadevacārika Sutta / Visiting the Devas (1) / 相應部五五・一八 天之行者經第一
+SN55.19 Dutiyadevacārika Sutta / Visiting the Devas (2) / 相應部五五・一九 天之行者經第二
+SN55.20 Tatiyadevacārika Sutta / Visiting the Devas (3) / 相應部五五・二十 天之行者經第三
+
 ---
 
 ##### [SN56](/sn56/)
