@@ -1,7 +1,5 @@
 ---
-title: >-
-  DN22 / Mahāsatipaṭṭhāna Sutta / The Longer Discourse on Mindfulness Meditation
-  / 長部二二 大念處經
+title: DN22 / Mahāsatipaṭṭhāna Sutta / The Longer Discourse on Mindfulness Meditation / 長部二二 大念處經
 slug: dn22-wip
 pageClass: dn
 ---
