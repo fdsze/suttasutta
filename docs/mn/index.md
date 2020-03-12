@@ -13,9 +13,9 @@ pageClass: content-page
 ##### [MN1](/mn1/)
 ### MN1 Mūlapariyāya Sutta / The Root of All Things / 中部一 根本法門經
 
-The Buddha explains the concept of a self comes from the process of perception. An unawakened person make sense of experiences with a self, while the awakened have the same experiences without any attachments.
+The Buddha explains that the concept of a self comes from the process of perception. An unawakened person make sense of experiences with a self, while the awakened have the same experiences without any attachments.
 
-佛陀解釋自我的觀念來自於感知的過程。未覺醒的人以自我的觀念看待各種經驗，而已覺醒的人沒有執着地看待同樣的經驗。
+佛陀解釋自我觀念如何從感知的過程生起。未覺醒的人以自我觀念看待各種經驗，而已覺醒的人則沒有執着地看待同樣的經驗。
 
 ---
 
