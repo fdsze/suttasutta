@@ -106,5 +106,130 @@ function css (el, property) {
 }
 </script>
 
-<style lang="stylus">
+<style lang="scss">
+@import '@theme/styles/config.scss';
+
+$navbar-vertical-padding: 0.7rem;
+$navbar-horizontal-padding: 1.5rem;
+
+#nprogress .bar {
+  height: 2px;
+  background-color: rgba($accentColor, 0.9);
+
+  .peg {
+    box-shadow: none;
+  }
+}
+
+.theme-container {
+  &::before {
+    content: '';
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-top: 2px solid $accentColor; 
+    z-index: 21;
+
+    .nprogress-busy & {
+      border-top-color: transparent;  
+    }
+  }
+}
+
+.navbar {
+  padding: $navbar-vertical-padding $navbar-horizontal-padding;
+  line-height: $navbarHeight - 1.4rem;
+
+  a, span, img {
+    display: inline-block;
+  }
+
+  .logo {
+    height: $navbarHeight - 1.4rem;
+    min-width: $navbarHeight - 1.4rem;
+    margin-right: 0.8rem;
+    vertical-align: top;
+  }
+
+  .site-name {
+    font-family: 'Bellefair', serif;
+    font-size: 21px;
+    font-weight: 400;
+    color: $accentColor;
+    position: relative;
+    letter-spacing: 0.4em;
+    margin-right: -0.2em;
+
+    @media (max-width: $MQMobile) {
+      font-size: 18px;
+    }
+  }
+
+  .home-link {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .links {
+    padding-left: 1.5rem;
+    box-sizing: border-box;
+    background-color: white;
+    white-space: nowrap;
+    font-size: 0.9rem;
+    position: absolute;
+    right: $navbar-horizontal-padding;
+    top: $navbar-vertical-padding;
+    display: flex;
+
+    @media (max-width: $MQMobile) {
+      padding-left: 0;
+    }
+
+    .search-box {
+      flex: 0 0 auto;
+      vertical-align: top;
+      margin-right: 0;
+
+      input {
+        border: none;
+        border-radius: 0;
+        background: desaturate( lighten($textColor, 65%), 20%) url(../assets/images/search.svg) 0.6rem 0.6rem no-repeat;
+      }
+
+      input:focus {
+        cursor: auto;
+        border-color: $accentColor;
+      }
+
+      .suggestions {
+        border-color: $darkborderColor;
+        right: 0;
+        border-radius: 0;
+      }
+
+      .suggestion {
+        a {
+          color: $textColor;
+        }
+
+        &.focused a {
+          color: $accentColor;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: $MQMobile) {
+  .navbar {
+    padding-left: 4rem;
+
+    .can-hide {
+      display: none;
+    }
+  }
+}
 </style>

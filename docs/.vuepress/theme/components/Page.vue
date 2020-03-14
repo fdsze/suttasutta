@@ -2,9 +2,9 @@
   <main class="page">
     <slot name="top"/>
 
-    <Content class="theme-default-content"/>
+    <Content class="theme-default-content sutta-content"/>
 
-    <footer class="page-edit">
+    <!-- <footer class="page-edit">
       <div
         class="edit-link"
         v-if="editLink"
@@ -24,7 +24,7 @@
         <span class="prefix">{{ lastUpdatedText }}: </span>
         <span class="time">{{ lastUpdated }}</span>
       </div>
-    </footer>
+    </footer> -->
 
     <div class="page-nav" v-if="prev || next">
       <p class="inner">
@@ -193,4 +193,300 @@ function flatten (items, res) {
 </script>
 
 <style lang="scss">
+@import '@theme/styles/config.scss';
+@import '@theme/styles/wrapper.scss';
+
+.page {
+  margin-top: 57px;
+  padding: 1px 0 2rem $sidebarWidth;
+  display: block;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  h1 {
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    clear: both;
+
+    @media (max-width: $MQMobile) {
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+  }
+
+  h3 {
+    font-size: 1.3rem;
+    font-weight: 400;
+
+    a.header-anchor {
+      float: none;
+    }
+  }
+
+  p a {
+    color: $textColor;
+    font-weight: 400;
+    border-bottom: 1px solid $darkborderColor;
+    transition: border-bottom-color 0.15s ease-in-out;
+
+    &:hover {
+      border-bottom: 1px solid $accentColor;      
+    }
+  }
+
+  h3,
+  p {
+    text-align: center;
+    max-width: $contentWidth;
+    margin-left: auto;
+    margin-right: auto;
+
+    @media (max-width: $MQMobile) {
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+  }
+
+  hr,
+  h5 {
+    & + p,
+    & + p + p,
+    & + p + p + p,
+    & + p + p + p + p {
+      text-align: left;
+      width: calc(25% - 20px);
+      float: left;
+      margin-left: 10px;
+      margin-right: 10px;
+
+      @media (max-width: $MQMobile) {
+        float: none;
+        width: auto;
+        margin-left: 25px;
+        margin-right: 25px;
+      }
+
+      &::before {
+        @media (max-width: $MQMobile) {
+          display: table;
+          margin-bottom: 5px;
+          color: lighten(desaturate($accentColor, 30%), 20%);
+          border: 1px solid $borderColor;
+          font-size: 12px;
+          font-weight: 700;
+          text-transform: uppercase;
+          padding: 0px 4px;
+        }
+      }
+    }
+
+    & + p::before {
+      @media (max-width: $MQMobile) {
+        content: 'Pāli';
+      }
+    }
+
+    & + p + p::before {
+      @media (max-width: $MQMobile) {
+        content: 'Eng';
+      }
+    }
+
+    & + p + p + p::before {
+      @media (max-width: $MQMobile) {
+        content: '白';
+      }
+    }
+
+    & + p + p + p + p::before {
+      @media (max-width: $MQMobile) {
+        content: '文';
+      }
+    }
+  }
+
+  h5 {
+    margin-left: 10px; 
+
+    @media (max-width: $MQMobile) {
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+  }
+
+  hr {
+    display: block;
+    clear: both;
+  }
+
+  h3 + hr {
+    margin-top: 1rem;
+  }
+
+  .sutta-content {
+    max-width: none;
+    margin-left: -10px;
+    margin-right: $sidebarWidth - 20px;
+    padding-left: 0;
+    padding-right: 0;
+
+    h1:first-child {
+      margin-top: 1rem;
+    }
+
+    .no-sidebar & {
+      margin-right: -10px;
+    }
+
+    @media (max-width: $MQMobile) {
+      margin-right: -10px; 
+    }
+  }
+
+  .icon.outbound {
+    color: $accentColor;
+  }
+}
+
+// .page-edit {
+//   @extend .wrapper;
+
+//   padding-top: 1rem;
+//   padding-bottom: 1rem;
+//   overflow: auto;
+  
+//   .edit-link {
+//     display: inline-block;
+
+//     a {
+//       color: lighten($textColor, 25%);
+//       margin-right: 0.25rem;
+//     }
+//   }
+
+//   .last-updated {
+//     float: right;
+//     font-size: 0.9em;
+
+//     .prefix {
+//       font-weight: 500;
+//       color: lighten($textColor, 25%);
+//     }
+      
+//     .time {
+//       font-weight: 400;
+//       color: #aaa;
+//     }
+//   }
+// }
+
+.page-nav {
+  // @extend .wrapper;
+  
+  width: calc(100% + 20px);
+  margin-left: -10px;
+  margin-right: -10px;
+  padding-top: 1rem;
+  padding-bottom: 0;
+  clear: both;
+
+  @media (max-width: $MQMobile) {
+    width: calc(100% + 20px);
+  }
+
+  .inner {
+    max-width: none;
+    min-height: 2rem;
+    margin-top: 0;
+    border-top: 1px solid $borderColor;
+    padding-top: 1rem;
+    overflow: auto; // clear float
+  }
+
+  .next {
+    float: right;
+  }
+}
+
+@media (max-width: $MQMobile) {
+  .page-edit {
+    .edit-link {
+      margin-bottom: .5rem;
+    }
+
+    .last-updated {
+      font-size: .8em;
+      float: none;
+      text-align: left;
+    }
+  }
+}
+
+
+a.sidebar-link {
+  display: none;
+}
+
+.dn {
+  .sidebar-link[href^="/dn"] {
+    display: inline-block;
+  }
+}
+
+.mn {
+  .sidebar-link[href^="/mn"] {
+    display: inline-block;
+  }
+}
+
+.sn {
+  .sidebar-link[href^="/sn"] {
+    display: inline-block;
+  }
+}
+
+.an {
+  .sidebar-link[href^="/an"] {
+    display: inline-block;
+  }
+}
+
+.content-page {
+  .page {
+    @media (max-width: $MQMobile) {
+      // margin-top: 30px;
+    }
+
+    .sutta-content {
+      h1:first-child {
+        margin-top: 3rem;
+      }
+    }
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  h5 {
+    height: 0;
+    overflow: hidden;
+  }
+
+  .page-nav {
+    display: none;
+  }
+
+  hr,
+  .page h3 + hr {
+    margin-top: 60px;
+
+    @media (max-width: $MQMobile) {
+      margin-top: 30px;
+    }
+  }
+}
 </style>
