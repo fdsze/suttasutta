@@ -203,6 +203,24 @@ function flatten (items, res) {
   margin-left: 10px;
   margin-right: 10px;
 
+  @media (max-width: $MQNarrow) {
+    padding-left: $mobileSidebarWidth;
+  }
+
+  @media (max-width: $MQMobile) {
+    padding-left: 0;
+  }
+
+  .theme-container.no-sidebar & {
+    @media (min-width: $MQMobile + 1px) {
+      padding-left: 0;
+    }
+  }
+
+  .content-page & .sutta-content h1:first-child {
+    margin-top: 3rem;
+  }
+
   h1 {
     font-size: 1.3rem;
     font-weight: 400;
@@ -455,22 +473,6 @@ a.sidebar-link {
 }
 
 .content-page {
-  .page {
-    @media (max-width: $MQMobile) {
-      // margin-top: 30px;
-    }
-
-    .sutta-content {
-      h1:first-child {
-        margin-top: 3rem;
-      }
-    }
-  }
-
-  .sidebar {
-    display: none;
-  }
-
   h5 {
     height: 0;
     overflow: hidden;

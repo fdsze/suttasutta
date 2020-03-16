@@ -150,7 +150,6 @@ export default {
 @import '@theme/styles/config.scss';
 @import '@theme/styles/global.scss';
 @import '@theme/styles/fonts.scss';
-@import '@theme/styles/arrow.scss';
 @import '@theme/styles/code.scss';
 @import '@theme/styles/wrapper.scss';
 @import '@theme/styles/page.scss';
@@ -179,21 +178,10 @@ export default {
   width: 100vw;
   height: 100vh;
   display: none;
-}
 
-.sidebar {
-  font-size: 16px;
-  background-color: lighten($accentColor, 47%);
-  width: $sidebarWidth;
-  position: fixed;
-  z-index: 10;
-  margin: 0;
-  top: $navbarHeight;
-  left: 0;
-  bottom: 0;
-  box-sizing: border-box;
-  border-right: 1px solid $borderColor;
-  overflow-y: auto;
+  .theme-container.sidebar-open & {
+    display: block;
+  }
 }
 
 #{$contentClass}:not(.custom) {
@@ -227,35 +215,20 @@ export default {
 }
 
 .theme-container {
-  &.sidebar-open {
-    .sidebar-mask {
-      display: block;
-    }
-  }
-
   &.no-navbar {
     #{$contentClass}:not(.custom) > h1, h2, h3, h4, h5, h6 {
       padding-top: 0;
     }
-
-    .sidebar {
-      top: 0;
-    }
   }
 }
 
-@media (min-width: $MQMobile + 1px) {
-  .theme-container.no-sidebar {
-    .sidebar {
-      display: none;
-    }
-
-    .page {
-      padding-left: 0;
+@media (max-width: $MQMobileNarrow) {
+  #{$contentClass} {
+    div[class*="language-"] {
+      margin: 0.85rem -1.5rem;
+      border-radius: 0;
     }
   }
 }
-
-@import '@theme/styles/mobile.scss';
 
 </style>
