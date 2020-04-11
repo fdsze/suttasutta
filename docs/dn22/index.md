@@ -272,9 +272,7 @@ Iti ajjhattaṃ vā kāye kāyānupassī viharati … pe … evampi kho, bhikkha
 
 像這樣，或住於在自己的身上隨觀身，……（中略）比丘們！比丘這樣住於在身上隨觀身。
 
-如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。或
-
-於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於身觀身而住。
+如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於身觀身而住。
 
 ---
 
@@ -432,44 +430,44 @@ And how does a mendicant meditate observing an aspect of feelings?
 
 Idha, bhikkhave, bhikkhu sukhaṃ vā vedanaṃ vedayamāno ‘sukhaṃ vedanaṃ vedayāmī’ti pajānāti.
 
-
-
 It’s when a mendicant who feels a pleasant feeling knows: ‘I feel a pleasant feeling.’
 
 比丘們！這裡，比丘當感受樂受時，他了知：『我感受樂受。』
 
-
-
 諸比丘！比丘於此，若在感樂受，知：『我在感樂受。』
+
+---
+
 Dukkhaṃ vā vedanaṃ vedayamāno ‘dukkhaṃ vedanaṃ vedayāmī’ti pajānāti.
-
-
 
 When they feel a painful feeling, they know: ‘I feel a painful feeling.’
 
+當感受苦受時，他了知：『我感受苦受。』
 
+在感苦受者，知：『我在感苦受。』
 
-當感受苦受時，他了知：『我感受苦受。』 在感苦受者，知：『我在感苦受。』
+---
+
 Adukkhamasukhaṃ vā vedanaṃ vedayamāno ‘adukkhamasukhaṃ vedanaṃ vedayāmī’ti pajānāti.
 
-
-
 When they feel a neutral feeling, they know: ‘I feel a neutral feeling.’
-
-
 
 當感受不苦不樂受時，他了知：『我感受不苦不樂受。』
 
 在感不苦不樂受者，知：『我在感不苦不樂受。』
+
+---
+
 Sāmisaṃ vā sukhaṃ vedanaṃ vedayamāno ‘sāmisaṃ sukhaṃ vedanaṃ vedayāmī’ti pajānāti.
 
 When they feel a carnal pleasant feeling, they know: ‘I feel a carnal pleasant feeling.’
 
-
-
 當感受肉體的樂受時，他了知：『我感受肉體的樂受。』
 
 若在感肉體之樂受者，知：『我在感肉體之樂受。』
+
+---
+
 Nirāmisaṃ vā sukhaṃ vedanaṃ vedayamāno ‘nirāmisaṃ sukhaṃ vedanaṃ vedayāmī’ti pajānāti.
 
 When they feel a spiritual pleasant feeling, they know: ‘I feel a spiritual pleasant feeling.’
@@ -477,48 +475,56 @@ When they feel a spiritual pleasant feeling, they know: ‘I feel a spiritual pl
 當感受精神的樂受時，他了知：『我感受精神的樂受。』
 
 又在感精神之樂受者，知：『我在感精神之樂受。』
+
+---
+
 Sāmisaṃ vā dukkhaṃ vedanaṃ vedayamāno ‘sāmisaṃ dukkhaṃ vedanaṃ vedayāmī’ti pajānāti.
-
-
 
 When they feel a carnal painful feeling, they know: ‘I feel a carnal painful feeling.’
 
 當感受肉體的苦受時，他了知：『我感受肉體的苦受。』
 
 或在感肉體之苦受者，知：『我在感肉體之苦受。』
+
+---
+
 Nirāmisaṃ vā dukkhaṃ vedanaṃ vedayamāno ‘nirāmisaṃ dukkhaṃ vedanaṃ vedayāmī’ti pajānāti.
 
-
-
 When they feel a spiritual painful feeling, they know: ‘I feel a spiritual painful feeling.’
-
-
 
 當感受精神的苦受時，他了知：『我感受精神的苦受。』
 
 又在感精神之苦受者，知：『我在感精神之苦受。』
+
+---
+
 Sāmisaṃ vā adukkhamasukhaṃ vedanaṃ vedayamāno ‘sāmisaṃ adukkhamasukhaṃ vedanaṃ vedayāmī’ti pajānāti.
-
-
 
 When they feel a carnal neutral feeling, they know: ‘I feel a carnal neutral feeling.’
 
-當感受肉體的不苦不樂受時，他了知：『我感受肉體的不苦不樂受。』 或在感肉體之不苦不樂受者，知：『我在感肉體之不苦不樂受。』
+當感受肉體的不苦不樂受時，他了知：『我感受肉體的不苦不樂受。』
+
+或在感肉體之不苦不樂受者，知：『我在感肉體之不苦不樂受。』
+
+---
+
 Nirāmisaṃ vā adukkhamasukhaṃ vedanaṃ vedayamāno ‘nirāmisaṃ adukkhamasukhaṃ vedanaṃ vedayāmī’ti pajānāti.
-
-
 
 When they feel a spiritual neutral feeling, they know: ‘I feel a spiritual neutral feeling.’
 
+當感受精神的不苦不樂受時，他了知：『我感受精神的不苦不樂受。』
 
+又在感精神之不苦不樂受者，知：『我在感精神之不苦不樂受。』
 
-當感受精神的不苦不樂受時，他了知：『我感受精神的不苦不樂受。』 又在感精神之不苦不樂受者，知：『我在感精神之不苦不樂受。』
-Iti ajjhattaṃ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati. Samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati. ‘Atthi vedanā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati. And so they meditate observing an aspect of feelings internally, externally, and both internally and externally. They meditate observing feelings as liable to originate, as liable to vanish, and as liable to both originate and vanish. Or mindfulness is established that feelings exist, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That’s how a mendicant meditates by observing an aspect of feelings. 像這樣，或住於在自己的受上隨觀受，或住於在外部的受上隨觀受，或住於在自己的與外部的受上隨觀受，或住於在受上隨觀集法，或住於在受上隨觀消散法，或住於在受上隨觀集法與消散法，或只為了智與憶念的程度而『有受』的念被現起，並且住於無依止，他在世間中不執取任何事物。比丘們！比丘這樣住於在受上隨觀受。
+---
 
-如是，或於內受，觀受而住；於外受，觀受而住；又於內外受，觀受而住。或
+Iti ajjhattaṃ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati. Samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati. ‘Atthi vedanā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati.
 
-於受，觀生法而住；於受，觀滅法而住；又於受，觀生滅法而住。尚又智識所成及憶念所成，皆會『有受』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於受觀受而住。
+And so they meditate observing an aspect of feelings internally, externally, and both internally and externally.They meditate observing feelings as liable to originate, as liable to vanish, and as liable to both originate and vanish. Or mindfulness is established that feelings exist, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That’s how a mendicant meditates by observing an aspect of feelings.
 
+像這樣，或住於在自己的受上隨觀受，或住於在外部的受上隨觀受，或住於在自己的與外部的受上隨觀受，或住於在受上隨觀集法，或住於在受上隨觀消散法，或住於在受上隨觀集法與消散法，或只為了智與憶念的程度而『有受』的念被現起，並且住於無依止，他在世間中不執取任何事物。比丘們！比丘這樣住於在受上隨觀受。
+
+如是，或於內受，觀受而住；於外受，觀受而住；又於內外受，觀受而住。或於受，觀生法而住；於受，觀滅法而住；又於受，觀生滅法而住。尚又智識所成及憶念所成，皆會『有受』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於受觀受而住。
 
 ---
 
@@ -1450,6 +1456,7 @@ Cakkhusamphasso loke … sotasamphasso loke … ghānasamphasso loke … jivhās
 ---
 
 Cakkhusamphassajā vedanā loke … sotasamphassajā vedanā loke … ghānasamphassajā vedanā loke … jivhāsamphassajā vedanā loke … kāyasamphassajā vedanā loke … manosamphassajā vedanā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+
 …
 
 眼觸所生受是在世間中……耳觸所生受是在世間中……鼻觸所生受是在世間中……舌觸所生受是在世間中……身觸所生受是在世間中……意觸所生受是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。

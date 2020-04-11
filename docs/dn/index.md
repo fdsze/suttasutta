@@ -134,7 +134,7 @@ Conduct, Concentration, And Intellect
 ---
 
 ##### [DN22](/dn22)
-### DN22 Mahasatipaṭṭhāna Sutta / The Long Discourse about the Ways of Attending to Mindfulness / 長部二一 大念處經
+### [DN22 Mahasatipaṭṭhāna Sutta / The Long Discourse about the Ways of Attending to Mindfulness / 長部二一 大念處經](/dn22/)
 
 ---
 
