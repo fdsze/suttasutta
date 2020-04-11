@@ -64,17 +64,15 @@ What four? It’s when a mendicant meditates by observing an aspect of the body�
 
 Kathañca pana, bhikkhave, bhikkhu kāye kāyānupassī viharati?
 
-
-
 And how does a mendicant meditate observing an aspect of the body?
 
 比丘們！比丘怎樣住於在身上隨觀身呢？
 
 然，諸比丘！比丘如何於身觀身而住耶？
 
+---
+
 Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā. So satova assasati, satova passasati.
-
-
 
 It’s when a mendicant—gone to a wilderness, or to the root of a tree, or to an empty hut—sits down cross-legged, with their body straight, and focuses their mindfulness right there. Just mindful, they breathe in. Mindful, they breathe out.
 
@@ -216,9 +214,7 @@ It’s as if there were a bag with openings at both ends, filled with various ki
 
 比丘們！猶如兩邊有[開]口的袋子放置滿滿的種種穀物，即：山米、紅米、綠豆，豌豆，胡麻，白米，有眼的男子倒出它後能觀察：『這些是山米，這些是紅米，這些是綠豆，這些是豌豆，這些是胡麻，這些是白米。』同樣的，比丘們！比丘觀察此身從腳掌底往上，髮梢往下，皮膚所包覆充滿種種不淨的：『此身有頭髮、體毛、……（中略）尿。』
 
-諸比丘！猶如兩口之袋，填進種種穀物，即：稻、粳、綠豆、豆顆、胡麻、糙米，具眼者開解之，得觀察：『此是稻、此是粳、此是綠豆、此是豆顆、此是胡麻、此是糙米。』諸比丘！如是比丘於皮覆包充滿種種不淨物之此身，觀察上至頭髮，下至蹠底，〔知〕：『於此身有髮、髦、爪、
-
-齒、皮、肉、筋、骨、髓、腎臟、心臟、肝臟、肋膜、脾臟、肺、腸、腸間膜、胃、排泄物、膽汁、痰、膿、血、汗、脂肪、淚、淋巴液、唾液、粘液、關節液、尿。』
+諸比丘！猶如兩口之袋，填進種種穀物，即：稻、粳、綠豆、豆顆、胡麻、糙米，具眼者開解之，得觀察：『此是稻、此是粳、此是綠豆、此是豆顆、此是胡麻、此是糙米。』諸比丘！如是比丘於皮覆包充滿種種不淨物之此身，觀察上至頭髮，下至蹠底，〔知〕：『於此身有髮、髦、爪、齒、皮、肉、筋、骨、髓、腎臟、心臟、肝臟、肋膜、脾臟、肺、腸、腸間膜、胃、排泄物、膽汁、痰、膿、血、汗、脂肪、淚、淋巴液、唾液、粘液、關節液、尿。』
 
 ---
 
