@@ -546,13 +546,43 @@ when walking, standing, sitting, sleeping, waking, speaking, and keeping silent.
 
 ---
 
-Iti ajjhattaṃ vā … pe … evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Iti ajjhattaṃ vā ...
 
-And so they meditate observing an aspect of the body internally … That too is how a mendicant meditates by observing an aspect of the body.
+And so they meditate observing an aspect of the body internally ... 
 
-像這樣，或住於在自己的身上隨觀身，……（中略）比丘們！比丘這樣住於在身上隨觀身。
+像這樣，或住於在自己的身上隨觀身，
 
-如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。尚又智識所成，憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物而住。諸比丘！比丘如是，於身觀身而住。
+如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。
+
+---
+
+... pe ... 
+
+...
+
+......（中略）...... 
+
+或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。
+
+---
+
+... pe ... 
+
+...
+
+......（中略）...... 
+
+尚又智識所成，憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物而住。
+
+---
+
+evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+
+That too is how a mendicant meditates by observing an aspect of the body.
+
+比丘們！比丘這樣住於在身上隨觀身。
+
+諸比丘！比丘如是，於身觀身而住。
 
 ---
 
@@ -598,23 +628,53 @@ It’s as if there were a bag with openings at both ends, filled with various ki
 
 ---
 
-Evameva kho, bhikkhave, bhikkhu imameva kāyaṃ uddhaṃ pādatalā adho kesamatthakā tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati: ‘atthi imasmiṃ kāye kesā lomā … pe … muttan’ti.
+Evameva kho, bhikkhave, bhikkhu imameva kāyaṃ uddhaṃ pādatalā adho kesamatthakā tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati: ‘atthi imasmiṃ kāye kesā lomā ... pe ... muttan’ti.
 
 ...
 
-同樣的，比丘們！比丘觀察此身從腳掌底往上，髮梢往下，皮膚所包覆充滿種種不淨的：『此身有頭髮、體毛、……（中略）尿。』
+同樣的，比丘們！比丘觀察此身從腳掌底往上，髮梢往下，皮膚所包覆充滿種種不淨的：『此身有頭髮、體毛、......（中略）尿。』
 
 諸比丘！如是比丘於皮覆包充滿種種不淨物之此身，觀察上至頭髮，下至蹠底，〔知〕：『於此身有髮、髦、爪、齒、皮、肉、筋、骨、髓、腎臟、心臟、肝臟、肋膜、脾臟、肺、腸、腸間膜、胃、排泄物、膽汁、痰、膿、血、汗、脂肪、淚、淋巴液、唾液、粘液、關節液、尿。』
 
 ---
 
-Iti ajjhattaṃ vā … pe … evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Iti ajjhattaṃ vā ...
 
-And so they meditate observing an aspect of the body internally … That too is how a mendicant meditates by observing an aspect of the body.
+And so they meditate observing an aspect of the body internally ...
 
-像這樣，或住於在自己的身上隨觀身，……（中略）比丘們！比丘這樣住於在身上隨觀身。
+像這樣，或住於在自己的身上隨觀身，......
 
-如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於身觀身而住。
+如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。
+
+---
+
+... pe ... 
+
+...
+
+......（中略）......
+
+或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。
+
+---
+
+... pe ...
+
+...
+
+......（中略）......
+
+尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。
+
+---
+
+evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+
+That too is how a mendicant meditates by observing an aspect of the body.
+
+比丘們！比丘這樣住於在身上隨觀身。
+
+諸比丘！比丘如是，於身觀身而住。
 
 ---
 
@@ -642,7 +702,7 @@ It’s as if an expert butcher or butcher’s apprentice were to kill a cow and 
 
 evameva kho, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati: ‘atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti.
 
-And so they meditate observing an aspect of the body internally …
+...
 
 同樣的，比丘們！比丘就此如其住立、如其動向、有界之身觀察：『在這身體中有地界、水界、火界、風界。』
 
@@ -650,35 +710,105 @@ And so they meditate observing an aspect of the body internally …
 
 ---
 
-Iti ajjhattaṃ vā kāye kāyānupassī viharati … pe … evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Iti ajjhattaṃ vā kāye kāyānupassī viharati ... 
 
-… That too is how a mendicant meditates by observing an aspect of the body.
+And so they meditate observing an aspect of the body internally ...
 
-像這樣，或住於在自己的身上隨觀身，……（中略）比丘們！比丘這樣住於在身上隨觀身。
+像這樣，或住於在自己的身上隨觀身，......
 
-如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於身觀身而住。
+如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。
+
+---
+
+... pe ... 
+
+...
+
+......（中略）...... 
+
+或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。
+
+---
+
+... pe ...
+
+...
+
+......（中略）......
+
+尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。
+
+---
+
+evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+
+... That too is how a mendicant meditates by observing an aspect of the body.
+
+比丘們！比丘這樣住於在身上隨觀身。
+
+諸比丘！比丘如是，於身觀身而住。
 
 ---
 
 ##### 7.
 
-Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ ekāhamataṃ vā dvīhamataṃ vā tīhamataṃ vā uddhumātakaṃ vinīlakaṃ vipubbakajātaṃ. So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti.
+Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ ekāhamataṃ vā dvīhamataṃ vā tīhamataṃ vā uddhumātakaṃ vinīlakaṃ vipubbakajātaṃ.
 
-Furthermore, suppose a mendicant were to see a corpse thrown in a charnel ground. And it had been dead for one, two, or three days, bloated, livid, and festering. They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’
+Furthermore, suppose a mendicant were to see a corpse thrown in a charnel ground. And it had been dead for one, two, or three days, bloated, livid, and festering. 
 
-再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：已死一天、已死二天、已死三天，腫脹、青瘀、生膿爛，他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』
+再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：已死一天、已死二天、已死三天，腫脹、青瘀、生膿爛，
 
-復次，諸比丘！比丘恰如得觀遺棄於塚間之死屍，死後經一日二日乃至三日，膨脹成為青黑、腐爛，彼注視此身，〔知〕：『此身不脫如是法（性質），而成為如是者。』
+復次，諸比丘！比丘恰如得觀遺棄於塚間之死屍，死後經一日二日乃至三日，膨脹成為青黑、腐爛，
 
 ---
 
-Iti ajjhattaṃ vā … pe … evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti.
 
-And so they meditate observing an aspect of the body internally … That too is how a mendicant meditates by observing an aspect of the body.
+They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’
 
-像這樣，或住於在自己的身上隨觀身，……（中略）比丘們！比丘這樣住於在身上隨觀身。
+他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』
 
-如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於身觀身而住。
+彼注視此身，〔知〕：『此身不脫如是法（性質），而成為如是者。』
+
+---
+
+Iti ajjhattaṃ vā ...
+
+And so they meditate observing an aspect of the body internally ... 
+
+像這樣，或住於在自己的身上隨觀身，...... 
+
+如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。
+
+---
+
+... pe ...
+
+...
+
+......（中略）......
+
+或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。
+
+---
+
+... pe ...
+
+...
+
+......（中略）......
+
+尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。
+
+---
+
+evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+
+That too is how a mendicant meditates by observing an aspect of the body.
+
+比丘們！比丘這樣住於在身上隨觀身。
+
+諸比丘！比丘如是，於身觀身而住。
 
 ---
 
@@ -696,7 +826,7 @@ Furthermore, suppose they were to see a corpse thrown in a charnel ground being 
 
 So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti.
 
-...
+They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’
 
 他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』
 
@@ -704,55 +834,95 @@ So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāv
 
 ---
 
-Iti ajjhattaṃ vā … pe … evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Iti ajjhattaṃ vā ...
 
-They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’ And so they meditate observing an aspect of the body internally … That too is how a mendicant meditates by observing an aspect of the body.
+And so they meditate observing an aspect of the body internally ... 
 
-像這樣，或住於在自己的身上隨觀身，……（中略）比丘們！比丘這樣住於在身上隨觀身。
+像這樣，或住於在自己的身上隨觀身，...... 
 
-如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於身觀身而住。
+如是，或於內身，觀身而住；於外身，觀身而住；
+
+---
+
+... pe ...
+
+...
+
+......（中略）......
+
+又於內外身，觀身而住。或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。
+
+---
+
+... pe ... 
+
+...
+
+......（中略）......
+
+尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。
+
+---
+
+evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+
+That too is how a mendicant meditates by observing an aspect of the body.
+
+比丘們！比丘這樣住於在身上隨觀身。
+
+諸比丘！比丘如是，於身觀身而住。
 
 ---
 
 ##### 9.
 
-Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikasaṅkhalikaṃ samaṃsalohitaṃ nhārusambandhaṃ … pe …
+Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikasaṅkhalikaṃ samaṃsalohitaṃ nhārusambandhaṃ ... pe ...
 
-Furthermore, suppose they were to see a corpse thrown in a charnel ground, a skeleton with flesh and blood, held together by sinews …
+Furthermore, suppose they were to see a corpse thrown in a charnel ground, a skeleton with flesh and blood, held together by sinews ...
 
-再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：有血肉、連著筋的骨鎖，……
+再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：有血肉、連著筋的骨鎖，......
 
-復次，諸比丘！比丘恰如得觀遺棄塚間之死屍，由於具有血肉而筋連結於骸骨……
-
----
-
-Aṭṭhikasaṅkhalikaṃ nimaṃsalohitamakkhitaṃ nhārusambandhaṃ … pe …
-
-A skeleton without flesh but smeared with blood, and held together by sinews …
-
-……（中略）無肉、沾血、連著筋的骨鎖，……
-
-……乃至……無肉之附著血而筋連結骸骨……
+復次，諸比丘！比丘恰如得觀遺棄塚間之死屍，由於具有血肉而筋連結於骸骨......
 
 ---
 
-Aṭṭhikasaṅkhalikaṃ apagatamaṃsalohitaṃ nhārusambandhaṃ … pe …
+Aṭṭhikasaṅkhalikaṃ nimaṃsalohitamakkhitaṃ nhārusambandhaṃ ... pe ...
 
-A skeleton rid of flesh and blood, held together by sinews …
+A skeleton without flesh but smeared with blood, and held together by sinews ...
 
-……（中略）無血肉、連著筋的骨鎖，……
+......（中略）無肉、沾血、連著筋的骨鎖，......
 
-……乃至……無血、肉，唯筋連結骸骨……
+......乃至......無肉之附著血而筋連結骸骨......
 
 ---
 
-Aṭṭhikāni apagatasambandhāni disā vidisā vikkhittāni, aññena hatthaṭṭhikaṃ aññena pādaṭṭhikaṃ aññena gopphakaṭṭhikaṃ aññena jaṅghaṭṭhikaṃ aññena ūruṭṭhikaṃ aññena kaṭiṭṭhikaṃ aññena phāsukaṭṭhikaṃ aññena piṭṭhiṭṭhikaṃ aññena khandhaṭṭhikaṃ aññena gīvaṭṭhikaṃ aññena hanukaṭṭhikaṃ aññena dantaṭṭhikaṃ aññena sīsakaṭāhaṃ.
+Aṭṭhikasaṅkhalikaṃ apagatamaṃsalohitaṃ nhārusambandhaṃ ... pe ...
 
-Bones without sinews, scattered in every direction. Here a hand-bone, there a foot-bone, here a shin-bone, there a thigh-bone, here a hip-bone, there a rib-bone, here a back-bone, there an arm-bone, here a neck-bone, there a jaw-bone, here a tooth, there the skull …
+A skeleton rid of flesh and blood, held together by sinews ...
 
-……（中略）骨散亂地離散四處：手骨一處，腳骨一處，腳踝骨一處，小腿骨一處，大腿骨一處，腰骨一處，肋骨一處，脊椎骨一處，肩骨一處，頸骨一處，顎骨一處，齒骨一處，頭蓋骨一處，
+......（中略）無血肉、連著筋的骨鎖，......
 
-……乃至……〔關節〕解散，手骨於此處，足骨於彼處，髁骨於此處，腿骨於彼處，盤骨於此處，背骨於彼處，頭蓋骨在彼處，骸骨散在四方八面。彼注視此身，
+......乃至......無血、肉，唯筋連結骸骨......
+
+---
+
+Aṭṭhikāni apagatasambandhāni disā vidisā vikkhittāni, aññena hatthaṭṭhikaṃ aññena pādaṭṭhikaṃ aññena gopphakaṭṭhikaṃ aññena jaṅghaṭṭhikaṃ aññena ūruṭṭhikaṃ aññena kaṭiṭṭhikaṃ,
+
+Bones without sinews, scattered in every direction. Here a hand-bone, there a foot-bone, here a shin-bone, there a thigh-bone, here a hip-bone,
+
+......（中略）骨散亂地離散四處：手骨一處，腳骨一處，腳踝骨一處，小腿骨一處，大腿骨一處，腰骨一處，
+
+......乃至......〔關節〕解散，手骨於此處，足骨於彼處，髁骨於此處，腿骨於彼處，盤骨於此處，
+
+---
+
+aññena phāsukaṭṭhikaṃ aññena piṭṭhiṭṭhikaṃ aññena khandhaṭṭhikaṃ aññena gīvaṭṭhikaṃ aññena hanukaṭṭhikaṃ aññena dantaṭṭhikaṃ aññena sīsakaṭāhaṃ.
+
+there a rib-bone, here a back-bone, there an arm-bone, here a neck-bone, there a jaw-bone, here a tooth, there the skull ...
+
+肋骨一處，脊椎骨一處，肩骨一處，頸骨一處，顎骨一處，齒骨一處，頭蓋骨一處，
+
+背骨於彼處，頭蓋骨在彼處，骸骨散在四方八面。彼注視此身，
 
 ---
 
@@ -766,11 +936,11 @@ So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāv
 
 ---
 
-Iti ajjhattaṃ vā … pe … viharati.
+Iti ajjhattaṃ vā ... pe ... viharati.
 
 ...
 
-像這樣，或住於在自己的身上隨觀身，……（中略）比丘們！比丘這樣住於在身上隨觀身。
+像這樣，或住於在自己的身上隨觀身，......（中略）比丘們！比丘這樣住於在身上隨觀身。
 
 如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。或於身，觀生法而住，於身，觀滅法而住；又於身，觀生滅法而住。尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於身觀身而住。
 
@@ -778,23 +948,23 @@ Iti ajjhattaṃ vā … pe … viharati.
 
 ##### 10.
 
-Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikāni setāni saṅkhavaṇṇapaṭibhāgāni … pe …
+Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikāni setāni saṅkhavaṇṇapaṭibhāgāni ... pe ...
 
-White bones, the color of shells …
+White bones, the color of shells ...
 
-再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：類似螺貝顏色的白骨，……
+再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：類似螺貝顏色的白骨，......
 
-復次，諸比丘！比丘恰如得觀遺棄塚間之死屍，初如螺色之白骨……
+復次，諸比丘！比丘恰如得觀遺棄塚間之死屍，初如螺色之白骨......
 
 ---
 
-Aṭṭhikāni puñjakitāni terovassikāni … pe …
+Aṭṭhikāni puñjakitāni terovassikāni ... pe ...
 
-Decrepit bones, heaped in a pile …
+Decrepit bones, heaped in a pile ...
 
-……（中略）堆過一年的骨頭，……
+......（中略）堆過一年的骨頭，......
 
-……乃至……經過一年，骸骨堆高……
+......乃至......經過一年，骸骨堆高......
 
 ---
 
@@ -802,9 +972,9 @@ Aṭṭhikāni pūtīni cuṇṇakajātāni. So imameva kāyaṃ upasaṃharati:
 
 Bones rotted and crumbled to powder. They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’
 
-……（中略）腐爛成粉末的骨頭，他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』
+......（中略）腐爛成粉末的骨頭，他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』
 
-……乃至……骸骨粉碎敗壞，彼注視此身，〔知〕：『此身不脫如是法，而成為如此者。』
+......乃至......骸骨粉碎敗壞，彼注視此身，〔知〕：『此身不脫如是法，而成為如此者。』
 
 ---
 
@@ -1569,7 +1739,7 @@ It’s when a mendicant contemplates: ‘Such is form, such is the origin of for
 
 iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu.
 
-And so they meditate observing an aspect of principles internally … That’s how a mendicant meditates by observing an aspect of principles with respect to the five grasping aggregates.
+And so they meditate observing an aspect of principles internally ... That’s how a mendicant meditates by observing an aspect of principles with respect to the five grasping aggregates.
 
 像這樣，或住於在自己的法上隨觀法，或住於在外部的法上隨觀法，或住於在自己的與外部的法上隨觀法，或住於在法上隨觀集法，或住於在法上隨觀消散法，或住於在法上隨觀集法與消散法，或只為了智與憶念的程度而『有法』的念被現起，並且住於無依止，他在世間中不執取任何事物。比丘們！比丘這樣住於對五取蘊在法上隨觀法。
 
@@ -1611,41 +1781,41 @@ It’s when a mendicant understands the eye, sights, and the fetter that arises 
 
 Sotañca pajānāti, sadde ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti.
 
-They understand the ear, sounds, and the fetter …
+They understand the ear, sounds, and the fetter ...
 
 了知耳，了知聲，了知緣於這兩者生起的結縛，如其未生起結縛之生起而了知，如其已生起結縛之捨斷而了知，如其已捨斷結縛之未來不生起而了知；
 
-又知耳，知聲…
+又知耳，知聲...
 
 ---
 
 Ghānañca pajānāti, gandhe ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti.
 
-They understand the nose, smells, and the fetter …
+They understand the nose, smells, and the fetter ...
 
 了知鼻，了知氣味，了知緣於這兩者生起的結縛，如其未生起結縛之生起而了知，如其已生起結縛之捨斷而了知，如其已捨斷結縛之未來不生起而了知；
 
-…乃至…知鼻，知香…
+...乃至...知鼻，知香...
 
 ---
 
 Jivhañca pajānāti, rase ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti.
 
-They understand the tongue, tastes, and the fetter …
+They understand the tongue, tastes, and the fetter ...
 
 了知舌，了知味道，了知緣於這兩者生起的結縛，如其未生起結縛之生起而了知，如其已生起結縛之捨斷而了知，如其已捨斷結縛之未來不生起而了知；
 
-…乃至…知舌，知味…
+...乃至...知舌，知味...
 
 ---
 
 Kāyañca pajānāti, phoṭṭhabbe ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti.
 
-They understand the body, touches, and the fetter …
+They understand the body, touches, and the fetter ...
 
 了知身，了知所觸，了知緣於這兩者生起的結縛，如其未生起結縛之生起而了知，如其已生起結縛之捨斷而了知，如其已捨斷結縛之未來不生起而了知；
 
-…乃至…知身，知觸…
+...乃至...知身，知觸...
 
 ---
 
@@ -1655,13 +1825,13 @@ They understand the mind, thoughts, and the fetter that arises dependent on both
 
 了知意，了知法，了知緣於這兩者生起的結縛，如其未生起結縛之生起而了知，如其已生起結縛之捨斷而了知，如其已捨斷結縛之未來不生起而了知。
 
-…乃至…知意，知法，知緣其二者生結。而知未生之結生起，又知已生之結滅盡，知已滅盡之結，於未來不再生起。
+...乃至...知意，知法，知緣其二者生結。而知未生之結生起，又知已生之結滅盡，知已滅盡之結，於未來不再生起。
 
 ---
 
 Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu.
 
-And so they meditate observing an aspect of principles internally … That’s how a mendicant meditates by observing an aspect of principles with respect to the six internal and external sense fields.
+And so they meditate observing an aspect of principles internally ... That’s how a mendicant meditates by observing an aspect of principles with respect to the six internal and external sense fields.
 
 像這樣，或住於在自己的法上隨觀法，或住於在外部的法上隨觀法，或住於在自己的與外部的法上隨觀法，或住於在法上隨觀集法，或住於在法上隨觀消散法，或住於在法上隨觀集法與消散法，或只為了智與憶念的程度而『有法』的念被現起，並且住於無依止，他在世間中不執取任何事物。比丘們！比丘這樣住於對六內外處在法上隨觀法。
 
@@ -1703,51 +1873,51 @@ It’s when a mendicant who has the awakening factor of mindfulness in them unde
 
 Santaṃ vā ajjhattaṃ dhammavicayasambojjhaṅgaṃ ‘atthi me ajjhattaṃ dhammavicayasambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ dhammavicayasambojjhaṅgaṃ ‘natthi me ajjhattaṃ dhammavicayasambojjhaṅgo’ti pajānāti, yathā ca anuppannassa dhammavicayasambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa dhammavicayasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti.
 
-When they have the awakening factor of investigation of principles …
+When they have the awakening factor of investigation of principles ...
 
 當自己有擇法覺支時，了知：『我有擇法覺支。』當自己沒有擇法覺支時，了知：『我沒有擇法覺支。』如其未生起擇法覺支之生起而了知，如其已生起擇法覺支之圓滿修習而了知；
 
-或於內擇法覺支存在者，知……乃至……修習成就。
+或於內擇法覺支存在者，知......乃至......修習成就。
 
 ---
 
 Santaṃ vā ajjhattaṃ vīriyasambojjhaṅgaṃ ‘atthi me ajjhattaṃ vīriyasambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ vīriyasambojjhaṅgaṃ ‘natthi me ajjhattaṃ vīriyasambojjhaṅgo’ti pajānāti, yathā ca anuppannassa vīriyasambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa vīriyasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti.
 
-energy …
+energy ...
 
 當自己有活力覺支時，了知：『有我自己的活力覺支。』當自己沒有活力覺支時，了知：『沒有我自己的活力覺支。』如其未生起活力覺支之生起而了知，如其已生起活力覺支之圓滿修習而了知；
 
-或於內精進覺支存在者，知……乃至……修習成就。
+或於內精進覺支存在者，知......乃至......修習成就。
 
 ---
 
 Santaṃ vā ajjhattaṃ pītisambojjhaṅgaṃ ‘atthi me ajjhattaṃ pītisambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ pītisambojjhaṅgaṃ ‘natthi me ajjhattaṃ pītisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa pītisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa pītisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti.
 
-rapture …
+rapture ...
 
 當自己有喜覺支時，了知：『有我自己的喜覺支。』當自己沒有喜覺支時，了知：『沒有我自己的喜覺支。』如其未生起喜覺支之生起而了知，如其已生起喜覺支之圓滿修習而了知；
 
-或於內喜覺支存在者，知……乃至……修習成就。
+或於內喜覺支存在者，知......乃至......修習成就。
 
 ---
 
 Santaṃ vā ajjhattaṃ passaddhisambojjhaṅgaṃ ‘atthi me ajjhattaṃ passaddhisambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ passaddhisambojjhaṅgaṃ ‘natthi me ajjhattaṃ passaddhisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa passaddhisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa passaddhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti.
 
-tranquility …
+tranquility ...
 
 當自己有寧靜覺支時，了知：『有我自己的寧靜覺支。』當自己沒有寧靜覺支時，了知：『沒有我自己的寧靜覺支。』如其未生起寧靜覺支之生起而了知，如其已生起寧靜覺支之圓滿修習而了知；
 
-或於內息（輕安）覺支存在者，知……乃至……修習成就。
+或於內息（輕安）覺支存在者，知......乃至......修習成就。
 
 ---
 
 Santaṃ vā ajjhattaṃ samādhisambojjhaṅgaṃ ‘atthi me ajjhattaṃ samādhisambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ samādhisambojjhaṅgaṃ ‘natthi me ajjhattaṃ samādhisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa samādhisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa samādhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti.
 
-immersion … 
+immersion ... 
 
 當自己有定覺支時，了知：『有我自己的定覺支。』當自己沒有定覺支時，了知：『沒有我自己的定覺支。』如其未生起定覺支之生起而了知，如其已生起定覺支之圓滿修習而了知；
 
-或於內定覺支存在者，知……乃至……修習成就。
+或於內定覺支存在者，知......乃至......修習成就。
 
 ---
 
@@ -1795,7 +1965,7 @@ And how does a mendicant meditate observing an aspect of principles with respect
 
 Idha, bhikkhave, bhikkhu ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti.
 
-It’s when a mendicant truly understands: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering.’
+It’s when a mendicant truly understands: ‘This is suffering’ ... ‘This is the origin of suffering’ ... ‘This is the cessation of suffering’ ... ‘This is the practice that leads to the cessation of suffering.’
 
 這裡，比丘如實了知：『這是苦。』如實了知：『這是苦集。』如實了知：『這是苦滅。』如實了知：『這是導向苦滅道跡。』
 
@@ -1911,7 +2081,7 @@ And what is association with the disliked is suffering? There are sights, sounds
 
 而，比丘們！什麼是與不愛的結合是苦？這裡，凡那些是不喜好的、不想要的、不合意的色、聲、氣味、味道、所觸、法，或凡那些是對他樂於無利益、不利、不安樂、不離軛安穩者，與那些一起會合、集合、結合、合一，比丘們！這被稱為與不愛的結合是苦。
 
-……
+......
 
 ---
 
@@ -1921,17 +2091,17 @@ And what is separation from the liked is suffering? There are sights, sounds, sm
 
 而，比丘們！什麼是與所愛的別離是苦？這裡，凡那些是喜好的、想要的、合意的色、聲、氣味、味道、所觸、法，或凡那些是對他樂於利益、有益、安樂、離軛安穩的母親、父親、兄弟、姊妹、朋友、同事、親族、血親者，與那些一起不會合、不集合、不結合、不合一，比丘們！這被稱為與所愛的別離是苦。
 
-……
+......
 
 ---
 
 Katamañca, bhikkhave, yampicchaṃ na labhati tampi dukkhaṃ? Jātidhammānaṃ, bhikkhave, sattānaṃ evaṃ icchā uppajjati: ‘aho vata mayaṃ na jātidhammā assāma, na ca vata no jāti āgaccheyyā’ti. Na kho panetaṃ icchāya pattabbaṃ, idampi yampicchaṃ na labhati tampi dukkhaṃ. Jarādhammānaṃ, bhikkhave, sattānaṃ evaṃ icchā uppajjati: ‘aho vata mayaṃ na jarādhammā assāma, na ca vata no jarā āgaccheyyā’ti. Na kho panetaṃ icchāya pattabbaṃ, idampi yampicchaṃ na labhati tampi dukkhaṃ. Byādhidhammānaṃ, bhikkhave, sattānaṃ evaṃ icchā uppajjati ‘aho vata mayaṃ na byādhidhammā assāma, na ca vata no byādhi āgaccheyyā’ti. Na kho panetaṃ icchāya pattabbaṃ, idampi yampicchaṃ na labhati tampi dukkhaṃ. Maraṇadhammānaṃ, bhikkhave, sattānaṃ evaṃ icchā uppajjati ‘aho vata mayaṃ na maraṇadhammā assāma, na ca vata no maraṇaṃ āgaccheyyā’ti. Na kho panetaṃ icchāya pattabbaṃ, idampi yampicchaṃ na labhati tampi dukkhaṃ. Sokaparidevadukkhadomanassupāyāsadhammānaṃ, bhikkhave, sattānaṃ evaṃ icchā uppajjati ‘aho vata mayaṃ na sokaparidevadukkhadomanassupāyāsadhammā assāma, na ca vata no sokaparidevadukkhadomanassupāyāsaā āgaccheyyun’ti. Na kho panetaṃ icchāya pattabbaṃ, idampi yampicchaṃ na labhati tampi dukkhaṃ.
 
-And what is ‘not getting what you wish for is suffering’? In sentient beings who are liable to be reborn, such a wish arises: ‘Oh, if only we were not liable to be reborn! If only rebirth would not come to us!’ But you can’t get that by wishing. This is ‘not getting what you wish for is suffering.’ In sentient beings who are liable to grow old … fall ill … die … experience sorrow, lamentation, pain, sadness, and distress, such a wish arises: ‘Oh, if only we were not liable to experience sorrow, lamentation, pain, sadness, and distress! If only sorrow, lamentation, pain, sadness, and distress would not come to us!’ But you can’t get that by wishing. This is ‘not getting what you wish for is suffering.’
+And what is ‘not getting what you wish for is suffering’? In sentient beings who are liable to be reborn, such a wish arises: ‘Oh, if only we were not liable to be reborn! If only rebirth would not come to us!’ But you can’t get that by wishing. This is ‘not getting what you wish for is suffering.’ In sentient beings who are liable to grow old ... fall ill ... die ... experience sorrow, lamentation, pain, sadness, and distress, such a wish arises: ‘Oh, if only we were not liable to experience sorrow, lamentation, pain, sadness, and distress! If only sorrow, lamentation, pain, sadness, and distress would not come to us!’ But you can’t get that by wishing. This is ‘not getting what you wish for is suffering.’
 
 而，比丘們！什麼是所求不得是苦？比丘們！生法的眾生生起這樣的欲求：『啊！願我們沒有生法！願我們的生不來！』但這不以欲求而能得到，這是所求不得是苦。比丘們！老法的眾生生起這樣的欲求：『啊！願我們沒有老法！願我們的老不來！』但這不以欲求而能得到，這是所求不得是苦。比丘們！病法的眾生生起這樣的欲求：『啊！願我們沒有病法！願我們的病不來！』但這不以欲求而能得到，這是所求不得是苦。比丘們！死法的眾生生起這樣的欲求：『啊！願我們沒有死法！願我們的死不來！』但這不以欲求而能得到，這是所求不得是苦。比丘們！愁、悲、苦、憂、絕望法的眾生生起這樣的欲求：『啊！願我們沒有愁、悲、苦、憂、絕望法！願我們的愁、悲、苦、憂、絕望不來！』但這不以欲求而能得到，這是所求不得是苦。
 
-然，諸比丘！求不得苦者何耶？諸比丘！於生法之眾生，生如是欲求：『我等實非於生法之下，我等不願意生來。』然，不得此欲求，此為求不得苦也。諸比丘！於老法之眾生……乃至……諸比丘！於病法之眾生……乃至……諸比丘！於死法之眾生……乃至……諸比丘！於憂、悲、苦、惱、悶法之眾生，生如是之欲求：『我等實非於憂、悲、惱、悶法之下，我等不願意憂、悲、苦、惱、悶法之來。』然，不得此欲求，此為求不得苦。
+然，諸比丘！求不得苦者何耶？諸比丘！於生法之眾生，生如是欲求：『我等實非於生法之下，我等不願意生來。』然，不得此欲求，此為求不得苦也。諸比丘！於老法之眾生......乃至......諸比丘！於病法之眾生......乃至......諸比丘！於死法之眾生......乃至......諸比丘！於憂、悲、苦、惱、悶法之眾生，生如是之欲求：『我等實非於憂、悲、惱、悶法之下，我等不願意憂、悲、苦、惱、悶法之來。』然，不得此欲求，此為求不得苦。
 
 ---
 
@@ -1997,103 +2167,103 @@ And what in the world seems nice and pleasant?
 
 ---
 
-Cakkhu loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Sotaṃ loke … pe … ghānaṃ loke … jivhā loke … kāyo loke … mano loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
+Cakkhu loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Sotaṃ loke ... pe ... ghānaṃ loke ... jivhā loke ... kāyo loke ... mano loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
 
-The eye in the world seems nice and pleasant, and it is there that craving arises and settles. The ear … nose … tongue … body … mind in the world seems nice and pleasant, and it is there that craving arises and settles.
+The eye in the world seems nice and pleasant, and it is there that craving arises and settles. The ear ... nose ... tongue ... body ... mind in the world seems nice and pleasant, and it is there that craving arises and settles.
 
-眼是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住；耳是在世間中……（中略）鼻是在世間中……舌是在世間中……身是在世間中……意是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
+眼是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住；耳是在世間中......（中略）鼻是在世間中......舌是在世間中......身是在世間中......意是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
 
-眼於世間為可愛、可喜也。此愛即於此處生起、於此處止住。身於世間……乃至……鼻於世間……乃至……舌於世間……乃至……身於世間……乃至……意於世間為可愛、可喜者。此愛即於此處生起、於此處止住。
-
----
-
-Rūpā loke … saddā loke … gandhā loke … rasā loke … phoṭṭhabbā loke … dhammā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
-
-Sights … sounds … smells … tastes … touches … thoughts in the world seem nice and pleasant, and it is there that craving arises and settles.
-
-色是在世間中……聲是在世間中……氣味是在世間中……味道是在世間中……所觸是在世間中……法是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
-
-色於世間……乃至……聲於世間……乃至……香於世間……乃至……味於世間……乃至……觸於世間……乃至……法於世間為可愛、可喜也。此愛即於此處生起、於此處止住。
+眼於世間為可愛、可喜也。此愛即於此處生起、於此處止住。身於世間......乃至......鼻於世間......乃至......舌於世間......乃至......身於世間......乃至......意於世間為可愛、可喜者。此愛即於此處生起、於此處止住。
 
 ---
 
-Cakkhuviññāṇaṃ loke … sotaviññāṇaṃ loke … ghānaviññāṇaṃ loke … jivhāviññāṇaṃ loke … kāyaviññāṇaṃ loke … manoviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
+Rūpā loke ... saddā loke ... gandhā loke ... rasā loke ... phoṭṭhabbā loke ... dhammā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
 
-Eye consciousness … ear consciousness … nose consciousness … tongue consciousness … body consciousness … mind consciousness in the world seems nice and pleasant, and it is there that craving arises and settles.
+Sights ... sounds ... smells ... tastes ... touches ... thoughts in the world seem nice and pleasant, and it is there that craving arises and settles.
 
-眼識是在世間中……耳識是在世間中……鼻識是在世間中……舌識是在世間中……身識是在世間中……意識是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
+色是在世間中......聲是在世間中......氣味是在世間中......味道是在世間中......所觸是在世間中......法是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
 
-眼識於世間……乃至……耳識於世間……乃至……鼻識於世間……乃至……舌識於世間……乃至……身識於世間……乃至……意識於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
-
----
-
-Cakkhusamphasso loke … sotasamphasso loke … ghānasamphasso loke … jivhāsamphasso loke … kāyasamphasso loke … manosamphasso loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
-
-Eye contact … ear contact … nose contact … tongue contact … body contact … mind contact in the world seems nice and pleasant, and it is there that craving arises and settles.
-
-眼觸是在世間中……耳觸是在世間中……鼻觸是在世間中……舌觸是在世間中……身觸是在世間中……意觸是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
-
-眼觸於世間……乃至……耳觸於世間……乃至……鼻觸於世間……乃至……舌觸於世間……乃至……身觸於世間……乃至……意觸於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
+色於世間......乃至......聲於世間......乃至......香於世間......乃至......味於世間......乃至......觸於世間......乃至......法於世間為可愛、可喜也。此愛即於此處生起、於此處止住。
 
 ---
 
-Cakkhusamphassajā vedanā loke … sotasamphassajā vedanā loke … ghānasamphassajā vedanā loke … jivhāsamphassajā vedanā loke … kāyasamphassajā vedanā loke … manosamphassajā vedanā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
+Cakkhuviññāṇaṃ loke ... sotaviññāṇaṃ loke ... ghānaviññāṇaṃ loke ... jivhāviññāṇaṃ loke ... kāyaviññāṇaṃ loke ... manoviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
 
-Feeling born of eye contact … feeling born of ear contact … feeling born of nose contact … feeling born of tongue contact … feeling born of body contact … feeling born of mind contact in the world seems nice and pleasant, and it is there that craving arises and settles.
+Eye consciousness ... ear consciousness ... nose consciousness ... tongue consciousness ... body consciousness ... mind consciousness in the world seems nice and pleasant, and it is there that craving arises and settles.
 
-眼觸所生受是在世間中……耳觸所生受是在世間中……鼻觸所生受是在世間中……舌觸所生受是在世間中……身觸所生受是在世間中……意觸所生受是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
+眼識是在世間中......耳識是在世間中......鼻識是在世間中......舌識是在世間中......身識是在世間中......意識是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
 
-眼觸所生之受於世間……乃至……耳觸所生之受於世間……乃至……鼻觸所生之受於世間……乃至……舌觸所生之受於世間……乃至……身觸所生之受於世間……乃至……意觸所生之受於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
-
----
-
-Rūpasaññā loke … saddasaññā loke … gandhasaññā loke … rasasaññā loke … phoṭṭhabbasaññā loke … dhammasaññā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
-
-Perception of sights … perception of sounds … perception of smells … perception of tastes … perception of touches … perception of thoughts in the world seems nice and pleasant, and it is there that craving arises and settles.
-
-色之想是在世間中……聲之想是在世間中……氣味之想是在世間中……味道之想是在世間中……所觸之想是在世間中……法之想是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
-
-色想於世間……乃至……聲想於世間……乃至……香想於世間……味想於世間……乃至……觸想於世間……乃至……法想於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
+眼識於世間......乃至......耳識於世間......乃至......鼻識於世間......乃至......舌識於世間......乃至......身識於世間......乃至......意識於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
 
 ---
 
-Rūpasañcetanā loke … saddasañcetanā loke … gandhasañcetanā loke … rasasañcetanā loke … phoṭṭhabbasañcetanā loke … dhammasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
+Cakkhusamphasso loke ... sotasamphasso loke ... ghānasamphasso loke ... jivhāsamphasso loke ... kāyasamphasso loke ... manosamphasso loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
 
-Intention regarding sights … intention regarding sounds … intention regarding smells … intention regarding tastes … intention regarding touches … intention regarding thoughts in the world seems nice and pleasant, and it is there that craving arises and settles.
+Eye contact ... ear contact ... nose contact ... tongue contact ... body contact ... mind contact in the world seems nice and pleasant, and it is there that craving arises and settles.
 
-色之思是在世間中……聲之思是在世間中……氣味之思是在世間中……味道之思是在世間中……所觸之思是在世間中……法之思是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
+眼觸是在世間中......耳觸是在世間中......鼻觸是在世間中......舌觸是在世間中......身觸是在世間中......意觸是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
 
-色思於世間……乃至……聲思於世間……乃至……香思於世間……乃至……味思於世間，乃至……觸思於世間……乃至……法思於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
-
----
-
-Rūpataṇhā loke … saddataṇhā loke … gandhataṇhā loke … rasataṇhā loke … phoṭṭhabbataṇhā loke … dhammataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
-
-Craving for sights … craving for sounds … craving for smells … craving for tastes … craving for touches … craving for thoughts in the world seems nice and pleasant, and it is there that craving arises and settles.
-
-色之渴愛是在世間中……聲之渴愛是在世間中……氣味之渴愛是在世間中……味道之渴愛是在世間中……所觸之渴愛是在世間中……法之渴愛是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。 
-
-色愛於世間……乃至……聲愛於世間……乃至……香愛於世間……乃至……味愛於世間，乃至……觸愛於世間……乃至……法愛於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
+眼觸於世間......乃至......耳觸於世間......乃至......鼻觸於世間......乃至......舌觸於世間......乃至......身觸於世間......乃至......意觸於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
 
 ---
 
-Rūpavitakko loke … saddavitakko loke … gandhavitakko loke … rasavitakko loke … phoṭṭhabbavitakko loke … dhammavitakko loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
+Cakkhusamphassajā vedanā loke ... sotasamphassajā vedanā loke ... ghānasamphassajā vedanā loke ... jivhāsamphassajā vedanā loke ... kāyasamphassajā vedanā loke ... manosamphassajā vedanā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
 
-Thoughts about sights … thoughts about sounds … thoughts about smells … thoughts about tastes … thoughts about touches … thoughts about thoughts in the world seem nice and pleasant, and it is there that craving arises and settles.
+Feeling born of eye contact ... feeling born of ear contact ... feeling born of nose contact ... feeling born of tongue contact ... feeling born of body contact ... feeling born of mind contact in the world seems nice and pleasant, and it is there that craving arises and settles.
 
-色之尋是在世間中……聲之尋是在世間中……氣味之尋是在世間中……味道之尋是在世間中……所觸之尋是在世間中……法之尋是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
+眼觸所生受是在世間中......耳觸所生受是在世間中......鼻觸所生受是在世間中......舌觸所生受是在世間中......身觸所生受是在世間中......意觸所生受是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
 
-色尋於世間……乃至……聲尋於世間……乃至……香尋於世間……乃至……味尋於世間，乃至……觸尋於世間……乃至……法尋於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
+眼觸所生之受於世間......乃至......耳觸所生之受於世間......乃至......鼻觸所生之受於世間......乃至......舌觸所生之受於世間......乃至......身觸所生之受於世間......乃至......意觸所生之受於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
 
 ---
 
-Rūpavicāro loke … saddavicāro loke … gandhavicāro loke … rasavicāro loke … phoṭṭhabbavicāro loke … dhammavicāro loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
+Rūpasaññā loke ... saddasaññā loke ... gandhasaññā loke ... rasasaññā loke ... phoṭṭhabbasaññā loke ... dhammasaññā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
 
-Considerations regarding sights … considerations regarding sounds … considerations regarding smells … considerations regarding tastes … considerations regarding touches … considerations regarding thoughts in the world seem nice and pleasant, and it is there that craving arises and settles.
+Perception of sights ... perception of sounds ... perception of smells ... perception of tastes ... perception of touches ... perception of thoughts in the world seems nice and pleasant, and it is there that craving arises and settles.
 
-色之伺是在世間中……聲之伺是在世間中……氣味之伺是在世間中……味道之伺是在世間中……所觸之伺是在世間中……法之伺是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
+色之想是在世間中......聲之想是在世間中......氣味之想是在世間中......味道之想是在世間中......所觸之想是在世間中......法之想是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
 
-色伺於世間……乃至……聲伺於世間……乃至……香伺於世間……乃至……味伺於世間，乃至……觸伺於世間……乃至……法伺於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
+色想於世間......乃至......聲想於世間......乃至......香想於世間......味想於世間......乃至......觸想於世間......乃至......法想於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
+
+---
+
+Rūpasañcetanā loke ... saddasañcetanā loke ... gandhasañcetanā loke ... rasasañcetanā loke ... phoṭṭhabbasañcetanā loke ... dhammasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
+
+Intention regarding sights ... intention regarding sounds ... intention regarding smells ... intention regarding tastes ... intention regarding touches ... intention regarding thoughts in the world seems nice and pleasant, and it is there that craving arises and settles.
+
+色之思是在世間中......聲之思是在世間中......氣味之思是在世間中......味道之思是在世間中......所觸之思是在世間中......法之思是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
+
+色思於世間......乃至......聲思於世間......乃至......香思於世間......乃至......味思於世間，乃至......觸思於世間......乃至......法思於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
+
+---
+
+Rūpataṇhā loke ... saddataṇhā loke ... gandhataṇhā loke ... rasataṇhā loke ... phoṭṭhabbataṇhā loke ... dhammataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
+
+Craving for sights ... craving for sounds ... craving for smells ... craving for tastes ... craving for touches ... craving for thoughts in the world seems nice and pleasant, and it is there that craving arises and settles.
+
+色之渴愛是在世間中......聲之渴愛是在世間中......氣味之渴愛是在世間中......味道之渴愛是在世間中......所觸之渴愛是在世間中......法之渴愛是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。 
+
+色愛於世間......乃至......聲愛於世間......乃至......香愛於世間......乃至......味愛於世間，乃至......觸愛於世間......乃至......法愛於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
+
+---
+
+Rūpavitakko loke ... saddavitakko loke ... gandhavitakko loke ... rasavitakko loke ... phoṭṭhabbavitakko loke ... dhammavitakko loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
+
+Thoughts about sights ... thoughts about sounds ... thoughts about smells ... thoughts about tastes ... thoughts about touches ... thoughts about thoughts in the world seem nice and pleasant, and it is there that craving arises and settles.
+
+色之尋是在世間中......聲之尋是在世間中......氣味之尋是在世間中......味道之尋是在世間中......所觸之尋是在世間中......法之尋是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
+
+色尋於世間......乃至......聲尋於世間......乃至......香尋於世間......乃至......味尋於世間，乃至......觸尋於世間......乃至......法尋於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
+
+---
+
+Rūpavicāro loke ... saddavicāro loke ... gandhavicāro loke ... rasavicāro loke ... phoṭṭhabbavicāro loke ... dhammavicāro loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
+
+Considerations regarding sights ... considerations regarding sounds ... considerations regarding smells ... considerations regarding tastes ... considerations regarding touches ... considerations regarding thoughts in the world seem nice and pleasant, and it is there that craving arises and settles.
+
+色之伺是在世間中......聲之伺是在世間中......氣味之伺是在世間中......味道之伺是在世間中......所觸之伺是在世間中......法之伺是在世間中的可愛樣子、合意樣子，這渴愛當生起時，在這裡生起，當安住時，在這裡安住。
+
+色伺於世間......乃至......聲伺於世間......乃至......香伺於世間......乃至......味伺於世間，乃至......觸伺於世間......乃至......法伺於世間為可愛、可喜者，此愛即於此處生起、於此處止住。
 
 ---
 
@@ -2147,103 +2317,103 @@ And what in the world seems nice and pleasant?
 
 ---
 
-Cakkhu loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Sotaṃ loke … pe … ghānaṃ loke … jivhā loke … kāyo loke … mano loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+Cakkhu loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Sotaṃ loke ... pe ... ghānaṃ loke ... jivhā loke ... kāyo loke ... mano loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
 
-The eye in the world seems nice and pleasant, and it is there that craving is given up and ceases. …
+The eye in the world seems nice and pleasant, and it is there that craving is given up and ceases. ...
 
-眼是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅；耳是在世間中……（中略）鼻是在世間中……舌是在世間中……身是在世間中……意是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
+眼是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅；耳是在世間中......（中略）鼻是在世間中......舌是在世間中......身是在世間中......意是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
 
-眼於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。耳於世間……乃至……鼻於世間……乃至……舌於世間……乃至……身於世間……乃至……意於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
-
----
-
-Rūpā loke … saddā loke … gandhā loke … rasā loke … phoṭṭhabbā loke … dhammā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
-
-…
-
-色是在世間中……聲是在世間中……氣味是在世間中……味道是在世間中……所觸是在世間中……法是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
-
-色於世間……乃至……聲於世間……乃至……香於世間……乃至……味於世間……乃至……觸於世間……乃至……法於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
+眼於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。耳於世間......乃至......鼻於世間......乃至......舌於世間......乃至......身於世間......乃至......意於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
 
 ---
 
-Cakkhuviññāṇaṃ loke … sotaviññāṇaṃ loke … ghānaviññāṇaṃ loke … jivhāviññāṇaṃ loke … kāyaviññāṇaṃ loke … manoviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+Rūpā loke ... saddā loke ... gandhā loke ... rasā loke ... phoṭṭhabbā loke ... dhammā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
 
-…
+...
 
-眼識是在世間中……耳識是在世間中……鼻識是在世間中……舌識是在世間中……身識是在世間中……意識是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
+色是在世間中......聲是在世間中......氣味是在世間中......味道是在世間中......所觸是在世間中......法是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
 
-眼識於世間……乃至……耳識於世間……乃至……鼻識於世間……乃至……舌識於世間，乃至……身識於世間……乃至……意識於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
-
----
-
-Cakkhusamphasso loke … sotasamphasso loke … ghānasamphasso loke … jivhāsamphasso loke … kāyasamphasso loke … manosamphasso loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
-
-…
-
-眼觸是在世間中……耳觸是在世間中……鼻觸是在世間中……舌觸是在世間中……身觸是在世間中……意觸是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
-
-眼觸於世間……乃至……耳觸於世間……乃至……鼻觸於世間……乃至……舌觸於世間……乃至……身觸於世間……乃至……意觸於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
+色於世間......乃至......聲於世間......乃至......香於世間......乃至......味於世間......乃至......觸於世間......乃至......法於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
 
 ---
 
-Cakkhusamphassajā vedanā loke … sotasamphassajā vedanā loke … ghānasamphassajā vedanā loke … jivhāsamphassajā vedanā loke … kāyasamphassajā vedanā loke … manosamphassajā vedanā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+Cakkhuviññāṇaṃ loke ... sotaviññāṇaṃ loke ... ghānaviññāṇaṃ loke ... jivhāviññāṇaṃ loke ... kāyaviññāṇaṃ loke ... manoviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
 
-…
+...
 
-眼觸所生受是在世間中……耳觸所生受是在世間中……鼻觸所生受是在世間中……舌觸所生受是在世間中……身觸所生受是在世間中……意觸所生受是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
+眼識是在世間中......耳識是在世間中......鼻識是在世間中......舌識是在世間中......身識是在世間中......意識是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
 
-眼觸所生之受於世間……乃至……耳觸所生之受於世間……乃至……鼻觸所生之受於世間……乃至……舌觸所生之受於世間……乃至……身觸所生之受於世間……乃至……意觸所生之受於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
-
----
-
-Rūpasaññā loke … saddasaññā loke … gandhasaññā loke … rasasaññā loke … phoṭṭhabbasaññā loke … dhammasaññā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
-
-…
-
-色之想是在世間中……聲之想是在世間中……氣味之想是在世間中……味道之想是在世間中……所觸之想是在世間中……法之想是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
-
-色想於世間……乃至……聲想於世間……乃至……香想於世間……乃至……味想於世間……乃至……觸想於世間……乃至……法想於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
+眼識於世間......乃至......耳識於世間......乃至......鼻識於世間......乃至......舌識於世間，乃至......身識於世間......乃至......意識於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
 
 ---
 
-Rūpasañcetanā loke … saddasañcetanā loke … gandhasañcetanā loke … rasasañcetanā loke … phoṭṭhabbasañcetanā loke … dhammasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+Cakkhusamphasso loke ... sotasamphasso loke ... ghānasamphasso loke ... jivhāsamphasso loke ... kāyasamphasso loke ... manosamphasso loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
 
-…
+...
 
-色之思是在世間中……聲之思是在世間中……氣味之思是在世間中……味道之思是在世間中……所觸之思是在世間中……法之思是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。 
+眼觸是在世間中......耳觸是在世間中......鼻觸是在世間中......舌觸是在世間中......身觸是在世間中......意觸是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
 
-色思於世間……乃至……聲思於世間……乃至……香思於世間……乃至……味思於世間……乃至……觸思於世間……乃至……法思於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
-
----
-
-Rūpataṇhā loke … saddataṇhā loke … gandhataṇhā loke … rasataṇhā loke … phoṭṭhabbataṇhā loke … dhammataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
-
-…
-
-色之渴愛是在世間中……聲之渴愛是在世間中……氣味之渴愛是在世間中……味道之渴愛是在世間中……所觸之渴愛是在世間中……法之渴愛是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
-
-色愛於世間……乃至……聲愛於世間……乃至……香愛於世間……乃至……味愛於世間……乃至……觸愛於世間……乃至……法愛於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
+眼觸於世間......乃至......耳觸於世間......乃至......鼻觸於世間......乃至......舌觸於世間......乃至......身觸於世間......乃至......意觸於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
 
 ---
 
-Rūpavitakko loke … saddavitakko loke … gandhavitakko loke … rasavitakko loke … phoṭṭhabbavitakko loke … dhammavitakko loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+Cakkhusamphassajā vedanā loke ... sotasamphassajā vedanā loke ... ghānasamphassajā vedanā loke ... jivhāsamphassajā vedanā loke ... kāyasamphassajā vedanā loke ... manosamphassajā vedanā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
 
-…
+...
 
-色之尋是在世間中……聲之尋是在世間中……氣味之尋是在世間中……味道之尋是在世間中……所觸之尋是在世間中……法之尋是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。 
+眼觸所生受是在世間中......耳觸所生受是在世間中......鼻觸所生受是在世間中......舌觸所生受是在世間中......身觸所生受是在世間中......意觸所生受是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
 
-色尋於世間……乃至……聲尋於世間……乃至……香尋於世間……乃至……味尋於世間……乃至……觸尋於世間……乃至……法尋於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
+眼觸所生之受於世間......乃至......耳觸所生之受於世間......乃至......鼻觸所生之受於世間......乃至......舌觸所生之受於世間......乃至......身觸所生之受於世間......乃至......意觸所生之受於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
 
 ---
 
-Rūpavicāro loke … saddavicāro loke … gandhavicāro loke … rasavicāro loke … phoṭṭhabbavicāro loke … dhammavicāro loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+Rūpasaññā loke ... saddasaññā loke ... gandhasaññā loke ... rasasaññā loke ... phoṭṭhabbasaññā loke ... dhammasaññā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
 
-… Considerations regarding thoughts in the world seem nice and pleasant, and it is there that craving is given up and ceases.
+...
 
-色之伺是在世間中……聲之伺是在世間中……氣味之伺是在世間中……味道之伺是在世間中……所觸之伺是在世間中……法之伺是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。 
+色之想是在世間中......聲之想是在世間中......氣味之想是在世間中......味道之想是在世間中......所觸之想是在世間中......法之想是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
 
-色伺於世間……乃至……聲伺於世間……乃至……香伺於世間……乃至……味伺於世間……乃至……觸伺於世間……乃至……法伺於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
+色想於世間......乃至......聲想於世間......乃至......香想於世間......乃至......味想於世間......乃至......觸想於世間......乃至......法想於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
+
+---
+
+Rūpasañcetanā loke ... saddasañcetanā loke ... gandhasañcetanā loke ... rasasañcetanā loke ... phoṭṭhabbasañcetanā loke ... dhammasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+
+...
+
+色之思是在世間中......聲之思是在世間中......氣味之思是在世間中......味道之思是在世間中......所觸之思是在世間中......法之思是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。 
+
+色思於世間......乃至......聲思於世間......乃至......香思於世間......乃至......味思於世間......乃至......觸思於世間......乃至......法思於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
+
+---
+
+Rūpataṇhā loke ... saddataṇhā loke ... gandhataṇhā loke ... rasataṇhā loke ... phoṭṭhabbataṇhā loke ... dhammataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+
+...
+
+色之渴愛是在世間中......聲之渴愛是在世間中......氣味之渴愛是在世間中......味道之渴愛是在世間中......所觸之渴愛是在世間中......法之渴愛是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。
+
+色愛於世間......乃至......聲愛於世間......乃至......香愛於世間......乃至......味愛於世間......乃至......觸愛於世間......乃至......法愛於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
+
+---
+
+Rūpavitakko loke ... saddavitakko loke ... gandhavitakko loke ... rasavitakko loke ... phoṭṭhabbavitakko loke ... dhammavitakko loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+
+...
+
+色之尋是在世間中......聲之尋是在世間中......氣味之尋是在世間中......味道之尋是在世間中......所觸之尋是在世間中......法之尋是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。 
+
+色尋於世間......乃至......聲尋於世間......乃至......香尋於世間......乃至......味尋於世間......乃至......觸尋於世間......乃至......法尋於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
+
+---
+
+Rūpavicāro loke ... saddavicāro loke ... gandhavicāro loke ... rasavicāro loke ... phoṭṭhabbavicāro loke ... dhammavicāro loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+
+... Considerations regarding thoughts in the world seem nice and pleasant, and it is there that craving is given up and ceases.
+
+色之伺是在世間中......聲之伺是在世間中......氣味之伺是在世間中......味道之伺是在世間中......所觸之伺是在世間中......法之伺是在世間中的可愛樣子、合意樣子，這渴愛當被捨斷時，在這裡被捨斷，當被滅時，在這裡被滅。 
+
+色伺於世間......乃至......聲伺於世間......乃至......香伺於世間......乃至......味伺於世間......乃至......觸伺於世間......乃至......法伺於世間為可愛、可喜者，此愛即於此處捨棄、於此處止滅。
 
 ---
 
@@ -2425,7 +2595,7 @@ They meditate observing an aspect of feelings—keen, aware, and mindful, rid of
 
 住於在受上隨觀受，熱心、正知、有念，能調伏對於世間的貪婪、憂；
 
-於受……乃至……
+於受......乃至......
 
 ---
 
@@ -2435,7 +2605,7 @@ They meditate observing an aspect of the mind—keen, aware, and mindful, rid of
 
 住於在心上隨觀心，熱心、正知、有念，能調伏對於世間的貪婪、憂；
 
-於心……乃至……
+於心......乃至......
 
 ---
 
@@ -2531,43 +2701,43 @@ Anyone who develops these four kinds of mindfulness meditation in this way for s
 
 ---
 
-Tiṭṭhantu, bhikkhave, sattavassāni. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya cha vassāni … pe … pañca vassāni … cattāri vassāni … tīṇi vassāni … dve vassāni … ekaṃ vassaṃ …
+Tiṭṭhantu, bhikkhave, sattavassāni. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya cha vassāni ... pe ... pañca vassāni ... cattāri vassāni ... tīṇi vassāni ... dve vassāni ... ekaṃ vassaṃ ...
 
-Let alone seven years, anyone who develops these four kinds of mindfulness meditation in this way for six years … five years … four years … three years … two years … one year …
+Let alone seven years, anyone who develops these four kinds of mindfulness meditation in this way for six years ... five years ... four years ... three years ... two years ... one year ...
 
-比丘們！別說七年，比丘們！如果任何人在這四念住上這麼修習六年，……（中略）五年……四年……三年……二年……一年……
+比丘們！別說七年，比丘們！如果任何人在這四念住上這麼修習六年，......（中略）五年......四年......三年......二年......一年......
 
-諸比丘！當建立七年間〔之念〕。諸比丘！實不管任何人，於六年間，……乃至……五年間……乃至……四年間……乃至……三年間……乃至……二年間……乃至……
+諸比丘！當建立七年間〔之念〕。諸比丘！實不管任何人，於六年間，......乃至......五年間......乃至......四年間......乃至......三年間......乃至......二年間......乃至......
 
 ---
 
-tiṭṭhatu, bhikkhave, ekaṃ vassaṃ. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya sattamāsāni, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ diṭṭheva dhamme aññā; sati vā upādisese anāgāmitā. …
+tiṭṭhatu, bhikkhave, ekaṃ vassaṃ. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya sattamāsāni, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ diṭṭheva dhamme aññā; sati vā upādisese anāgāmitā. ...
 
-……比丘們！別說一年，比丘們！如果任何人在這四念住上這麼修習七個月，二果其中之一果應該可以被預期：當生完全智，或當存在有餘依時，為阿那含位。
+......比丘們！別說一年，比丘們！如果任何人在這四念住上這麼修習七個月，二果其中之一果應該可以被預期：當生完全智，或當存在有餘依時，為阿那含位。
 
-……一年間，如果修此四念處者，得二果中之一果，〔即〕於現法得究竟智，或有餘者，期待不還來。諸比丘！當建立一年間〔之念〕。任何人七個月間如是修此四念處者，得二果中之一果，〔即〕於現法得究竟智，
+......一年間，如果修此四念處者，得二果中之一果，〔即〕於現法得究竟智，或有餘者，期待不還來。諸比丘！當建立一年間〔之念〕。任何人七個月間如是修此四念處者，得二果中之一果，〔即〕於現法得究竟智，
 
 或有餘者，期待不還來。
 
 ---
 
-Tiṭṭhantu, bhikkhave, satta māsāni. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya cha māsāni … pe … pañca māsāni … cattāri māsāni … tīṇi māsāni … dve māsāni … ekaṃ māsaṃ … aḍḍhamāsaṃ …
+Tiṭṭhantu, bhikkhave, satta māsāni. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya cha māsāni ... pe ... pañca māsāni ... cattāri māsāni ... tīṇi māsāni ... dve māsāni ... ekaṃ māsaṃ ... aḍḍhamāsaṃ ...
 
-… seven months … six months … five months … four months … three months … two months … one month … a fortnight …
+... seven months ... six months ... five months ... four months ... three months ... two months ... one month ... a fortnight ...
 
-比丘們！別說七個月，比丘們！如果任何人在這四念住上這麼修習六個月，……（中略）五個月，……四個月，……三個月，……二個月，……一個月，……半個月，…… 
+比丘們！別說七個月，比丘們！如果任何人在這四念住上這麼修習六個月，......（中略）五個月，......四個月，......三個月，......二個月，......一個月，......半個月，...... 
 
-諸比丘！當建立七個月間之念。實不管任何人，於六個月……乃至……五個月……乃至……四個月……乃至……三個月……乃至……二個月……乃至……一個月……乃至……
+諸比丘！當建立七個月間之念。實不管任何人，於六個月......乃至......五個月......乃至......四個月......乃至......三個月......乃至......二個月......乃至......一個月......乃至......
 
 ---
 
-… tiṭṭhatu, bhikkhave, aḍḍhamāso. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya sattāhaṃ, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ diṭṭheva dhamme aññā; sati vā upādisese anāgāmitāti.
+... tiṭṭhatu, bhikkhave, aḍḍhamāso. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya sattāhaṃ, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ diṭṭheva dhamme aññā; sati vā upādisese anāgāmitāti.
 
-… Let alone a fortnight, anyone who develops these four kinds of mindfulness meditation in this way for seven days can expect one of two results: enlightenment in the present life, or if there’s something left over, non-return.
+... Let alone a fortnight, anyone who develops these four kinds of mindfulness meditation in this way for seven days can expect one of two results: enlightenment in the present life, or if there’s something left over, non-return.
 
-……比丘們！別說半個月，比丘們！如果任何人在這四念住上這麼修習七天，對他來說，二果其中之一果應該可以被預期：當生完全智，或當存在有餘依時，為阿那含位。 
+......比丘們！別說半個月，比丘們！如果任何人在這四念住上這麼修習七天，對他來說，二果其中之一果應該可以被預期：當生完全智，或當存在有餘依時，為阿那含位。 
 
-……半個月，如是修此四念處者，得二果中之一果，〔即〕於現法得究竟智，或有餘者，期待不還來。諸比丘！當建立半月間〔之念〕。諸比丘！實不管任何人，於七日間如是修此四念處者，得二果中之一果，〔即〕於現法得究竟智，或有餘者，期待不還來。
+......半個月，如是修此四念處者，得二果中之一果，〔即〕於現法得究竟智，或有餘者，期待不還來。諸比丘！當建立半月間〔之念〕。諸比丘！實不管任何人，於七日間如是修此四念處者，得二果中之一果，〔即〕於現法得究竟智，或有餘者，期待不還來。
 
 ---
 
