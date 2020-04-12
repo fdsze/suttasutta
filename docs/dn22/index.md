@@ -936,13 +936,43 @@ So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāv
 
 ---
 
-Iti ajjhattaṃ vā ... pe ... viharati.
+Iti ajjhattaṃ vā ... 
 
 ...
 
-像這樣，或住於在自己的身上隨觀身，......（中略）比丘們！比丘這樣住於在身上隨觀身。
+像這樣，或住於在自己的身上隨觀身，...
 
-如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。或於身，觀生法而住，於身，觀滅法而住；又於身，觀生滅法而住。尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於身觀身而住。
+如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。
+
+---
+
+... pe ...
+
+...
+
+...（中略）...
+
+或於身，觀生法而住，於身，觀滅法而住；又於身，觀生滅法而住。
+
+---
+
+... pe ...
+
+...
+
+...（中略）...
+
+尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。
+
+---
+
+...viharati.
+
+...
+
+比丘們！比丘這樣住於在身上隨觀身。
+
+諸比丘！比丘如是，於身觀身而住。
 
 ---
 
@@ -1675,33 +1705,183 @@ and how, once they’re given up, they don’t arise again in the future.
 
 ---
 
-Santaṃ vā ajjhattaṃ uddhaccakukkuccaṃ ‘atthi me ajjhattaṃ uddhaccakukkuccan’ti pajānāti, asantaṃ vā ajjhattaṃ uddhaccakukkuccaṃ ‘natthi me ajjhattaṃ uddhaccakukkuccan’ti pajānāti, yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti tañca pajānāti, yathā ca uppannassa uddhaccakukkuccassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa uddhaccakukkuccassa āyatiṃ anuppādo hoti tañca pajānāti.
+Santaṃ vā ajjhattaṃ uddhaccakukkuccaṃ ‘atthi me ajjhattaṃ uddhaccakukkuccan’ti pajānāti,
 
-When they have restlessness and remorse in them, they understand: ‘I have restlessness and remorse in me.’ When they don’t have restlessness and remorse in them, they understand: ‘I don’t have restlessness and remorse in me.’ They understand how restlessness and remorse arise; how, when they’ve already arisen, they’re given up; and how, once they’re given up, they don’t arise again in the future.
+When they have restlessness and remorse in them, they understand: ‘I have restlessness and remorse in me.’
 
-當有自己的掉舉後悔時，他了知：『我有自己的掉舉後悔。』當沒有自己的掉舉後悔時，他了知：『我沒有自己的掉舉後悔。』他如其未生起掉舉後悔之生起而了知，如其已生起掉舉後悔之捨斷而了知，如其已捨斷掉舉後悔之未來不生起而了知。
+當有自己的掉舉後悔時，他了知：『我有自己的掉舉後悔。』
 
-或於內掉悔存在，知：『於我內掉悔存在。』或於內掉悔不存在，知：『於我內掉悔不存在。』而知未生之掉悔生起，又知已生之掉悔滅盡，又知已滅盡之掉悔，於未來不再生起。
-
----
-
-Santaṃ vā ajjhattaṃ vicikicchaṃ ‘atthi me ajjhattaṃ vicikicchā’ti pajānāti, asantaṃ vā ajjhattaṃ vicikicchaṃ ‘natthi me ajjhattaṃ vicikicchā’ti pajānāti, yathā ca anuppannāya vicikicchāya uppādo hoti tañca pajānāti, yathā ca uppannāya vicikicchāya pahānaṃ hoti tañca pajānāti, yathā ca pahīnāya vicikicchāya āyatiṃ anuppādo hoti tañca pajānāti.
-
-When they have doubt in them, they understand: ‘I have doubt in me.’ When they don’t have doubt in them, they understand: ‘I don’t have doubt in me.’ They understand how doubt arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future.
-
-當有自己的疑惑時，他了知：『我有自己的疑惑。』當沒有自己的疑惑時，他了知：『我沒有自己的疑惑。』他如其未生起疑惑之生起而了知，如其已生起疑惑之捨斷而了知，如其已捨斷疑惑之未來不生起而了知。
-
-或於內疑惑存在者，知：『於我內疑惑存在。』於內疑惑不存在者，知：『於我內疑惑不存在。』而知未生之疑惑生起，知已生之疑惑滅盡，又知已滅盡之疑惑，於未來不再生起。
+或於內掉悔存在，知：『於我內掉悔存在。』
 
 ---
 
-Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu.
+asantaṃ vā ajjhattaṃ uddhaccakukkuccaṃ ‘natthi me ajjhattaṃ uddhaccakukkuccan’ti pajānāti,
 
-And so they meditate observing an aspect of principles internally, externally, and both internally and externally. They meditate observing the principles as liable to originate, as liable to vanish, and as liable to both originate and vanish. Or mindfulness is established that principles exist, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That’s how a mendicant meditates by observing an aspect of principles with respect to the five hindrances.
+When they don’t have restlessness and remorse in them, they understand: ‘I don’t have restlessness and remorse in me.’
 
-像這樣，或住於在自己的法上隨觀法，或住於在外部的法上隨觀法，或住於在自己的與外部的法上隨觀法，或住於在法上隨觀集法，或住於在法上隨觀消散法，或住於在法上隨觀集法與消散法，或只為了智與憶念的程度而『有法』的念被現起，並且住於無依止，他在世間中不執取任何事物。比丘們！比丘這樣住於對五蓋在法上隨觀法。
+當沒有自己的掉舉後悔時，他了知：『我沒有自己的掉舉後悔。』
 
-如是，或於內法，觀法而住；又於外法，觀法而住；又於內外法，觀法而住。或於法，觀生法而住；又於法，觀滅法而住；又於法，觀生滅法而住。尚又智識所成及憶念所成，皆會『有法』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是即於五蓋法，觀法而住。
+或於內掉悔不存在，知：『於我內掉悔不存在。』
+
+---
+
+yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti tañca pajānāti,
+
+They understand how restlessness and remorse arise;
+
+他如其未生起掉舉後悔之生起而了知，
+
+而知未生之掉悔生起，
+
+---
+
+yathā ca uppannassa uddhaccakukkuccassa pahānaṃ hoti tañca pajānāti,
+
+how, when they’ve already arisen, they’re given up;
+
+如其已生起掉舉後悔之捨斷而了知，
+
+又知已生之掉悔滅盡，
+
+---
+
+yathā ca pahīnassa uddhaccakukkuccassa āyatiṃ anuppādo hoti tañca pajānāti.
+
+and how, once they’re given up, they don’t arise again in the future.
+
+如其已捨斷掉舉後悔之未來不生起而了知。
+
+又知已滅盡之掉悔，於未來不再生起。
+
+---
+
+Santaṃ vā ajjhattaṃ vicikicchaṃ ‘atthi me ajjhattaṃ vicikicchā’ti pajānāti,
+
+When they have doubt in them, they understand: ‘I have doubt in me.’
+
+當有自己的疑惑時，他了知：『我有自己的疑惑。』
+
+或於內疑惑存在者，知：『於我內疑惑存在。』
+
+---
+
+asantaṃ vā ajjhattaṃ vicikicchaṃ ‘natthi me ajjhattaṃ vicikicchā’ti pajānāti,
+
+When they don’t have doubt in them, they understand: ‘I don’t have doubt in me.’
+
+當沒有自己的疑惑時，他了知：『我沒有自己的疑惑。』
+
+於內疑惑不存在者，知：『於我內疑惑不存在。』
+
+---
+
+yathā ca anuppannāya vicikicchāya uppādo hoti tañca pajānāti,
+
+They understand how doubt arises;
+
+他如其未生起疑惑之生起而了知，
+
+而知未生之疑惑生起，
+
+---
+
+yathā ca uppannāya vicikicchāya pahānaṃ hoti tañca pajānāti,
+
+how, when it’s already arisen, it’s given up;
+
+如其已生起疑惑之捨斷而了知，
+
+知已生之疑惑滅盡，
+
+---
+
+yathā ca pahīnāya vicikicchāya āyatiṃ anuppādo hoti tañca pajānāti.
+
+and how, once it’s given up, it doesn’t arise again in the future.
+
+如其已捨斷疑惑之未來不生起而了知。
+
+又知已滅盡之疑惑，於未來不再生起。
+
+---
+
+Iti ajjhattaṃ vā dhammesu dhammānupassī viharati,
+
+And so they meditate observing an aspect of principles internally,
+
+像這樣，或住於在自己的法上隨觀法，
+
+如是，或於內法，觀法而住；
+
+---
+
+bahiddhā vā dhammesu dhammānupassī viharati,
+
+externally,
+
+或住於在外部的法上隨觀法，
+
+又於外法，觀法而住；
+
+---
+
+ajjhattabahiddhā vā dhammesu dhammānupassī viharati.
+
+and both internally and externally.
+
+或住於在自己的與外部的法上隨觀法，
+
+又於內外法，觀法而住。
+
+---
+
+Samudayadhammānupassī vā dhammesu viharati,
+
+They meditate observing the principles as liable to originate,
+
+或住於在法上隨觀集法，
+
+或於法，觀生法而住；
+
+---
+
+vayadhammānupassī vā dhammesu viharati,
+
+as liable to vanish,
+
+或住於在法上隨觀消散法，
+
+又於法，觀滅法而住；
+
+---
+
+samudayavayadhammānupassī vā dhammesu viharati.
+
+and as liable to both originate and vanish.
+
+或住於在法上隨觀集法與消散法，
+
+又於法，觀生滅法而住。
+
+---
+
+‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati.
+
+Or mindfulness is established that principles exist, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world.
+
+或只為了智與憶念的程度而『有法』的念被現起，並且住於無依止，他在世間中不執取任何事物。
+
+尚又智識所成及憶念所成，皆會『有法』之思念現前。彼當無所依而住，且不執著世間任何物。
+
+---
+
+Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu.
+
+That’s how a mendicant meditates by observing an aspect of principles with respect to the five hindrances.
+
+比丘們！比丘這樣住於對五蓋在法上隨觀法。
+
+諸比丘！比丘如是即於五蓋法，觀法而住。
 
 ---
 
@@ -1727,23 +1907,133 @@ And how does a mendicant meditate observing an aspect of principles with respect
 
 ---
 
-Idha, bhikkhave, bhikkhu: ‘iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo; iti saṅkhārā, iti saṅkhārānaṃ samudayo, iti saṅkhārānaṃ atthaṅgamo, iti viññāṇaṃ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti,
+Idha, bhikkhave, bhikkhu: ‘iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo;
 
-It’s when a mendicant contemplates: ‘Such is form, such is the origin of form, such is the ending of form. Such is feeling, such is the origin of feeling, such is the ending of feeling. Such is perception, such is the origin of perception, such is the ending of perception. Such are choices, such is the origin of choices, such is the ending of choices. Such is consciousness, such is the origin of consciousness, such is the ending of consciousness.’
+It’s when a mendicant contemplates: ‘Such is form, such is the origin of form, such is the ending of form.
 
-這裡，比丘[了知]：『像這樣是色，像這樣是色的集起，像這樣是色的滅沒；像這樣是受，像這樣是受的集起，像這樣是受的滅沒；像這樣是想，像這樣是想的集起，像這樣是想的滅沒；像這樣是行，像這樣是行的集起，像這樣是行的滅沒；像這樣是識，像這樣是識的集起，像這樣是識的滅沒。』
+這裡，比丘[了知]：『像這樣是色，像這樣是色的集起，像這樣是色的滅沒；
 
-於此，諸比丘！比丘〔知〕：『如是色，如是色之生起，如是色之滅盡——如是受，如是受之生起，如是受之滅盡——如是想，如是想之生起，如是想之滅盡——如是行，如是行之生起，如是行之滅盡——如是識，如是識之生起，如是識之滅盡。』
+於此，諸比丘！比丘〔知〕：『如是色，如是色之生起，如是色之滅盡——
 
 ---
 
-iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu.
+iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo;
 
-And so they meditate observing an aspect of principles internally ... That’s how a mendicant meditates by observing an aspect of principles with respect to the five grasping aggregates.
+Such is feeling, such is the origin of feeling, such is the ending of feeling.
 
-像這樣，或住於在自己的法上隨觀法，或住於在外部的法上隨觀法，或住於在自己的與外部的法上隨觀法，或住於在法上隨觀集法，或住於在法上隨觀消散法，或住於在法上隨觀集法與消散法，或只為了智與憶念的程度而『有法』的念被現起，並且住於無依止，他在世間中不執取任何事物。比丘們！比丘這樣住於對五取蘊在法上隨觀法。
+像這樣是受，像這樣是受的集起，像這樣是受的滅沒；
 
-如是，或於內法，觀法而住；又於外法，觀法而住；又於內外法，觀法而住。或於法，觀生法而住；又於法，觀滅法而住；或於法，觀生滅法而住。尚又智識所成及憶念所成，皆會『有法』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是即於五取蘊法，觀法而住。
+——如是受，如是受之生起，如是受之滅盡——
+
+---
+
+iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo;
+
+Such is perception, such is the origin of perception, such is the ending of perception.
+
+像這樣是想，像這樣是想的集起，像這樣是想的滅沒；
+
+——如是想，如是想之生起，如是想之滅盡——
+
+---
+
+iti saṅkhārā, iti saṅkhārānaṃ samudayo, iti saṅkhārānaṃ atthaṅgamo,
+
+Such are choices, such is the origin of choices, such is the ending of choices.
+
+像這樣是行，像這樣是行的集起，像這樣是行的滅沒；
+
+——如是行，如是行之生起，如是行之滅盡——
+
+---
+
+iti viññāṇaṃ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti,
+
+Such is consciousness, such is the origin of consciousness, such is the ending of consciousness.’
+
+像這樣是識，像這樣是識的集起，像這樣是識的滅沒。』
+
+——如是識，如是識之生起，如是識之滅盡。』
+
+---
+
+iti ajjhattaṃ vā dhammesu dhammānupassī viharati,
+
+And so they meditate observing an aspect of principles internally...
+
+像這樣，或住於在自己的法上隨觀法，
+
+如是，或於內法，觀法而住；
+
+---
+
+bahiddhā vā dhammesu dhammānupassī viharati,
+
+...
+
+或住於在外部的法上隨觀法，
+
+又於外法，觀法而住；
+
+---
+
+ajjhattabahiddhā vā dhammesu dhammānupassī viharati.
+
+...
+
+或住於在自己的與外部的法上隨觀法，
+
+又於內外法，觀法而住。
+
+---
+
+Samudayadhammānupassī vā dhammesu viharati,
+
+...
+
+或住於在法上隨觀集法，
+
+或於法，觀生法而住；
+
+---
+
+vayadhammānupassī vā dhammesu viharati,
+
+...
+
+或住於在法上隨觀消散法，
+
+又於法，觀滅法而住；
+
+---
+
+samudayavayadhammānupassī vā dhammesu viharati.
+
+...
+
+或住於在法上隨觀集法與消散法，
+
+或於法，觀生滅法而住。
+
+---
+
+‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati.
+
+...
+
+或只為了智與憶念的程度而『有法』的念被現起，並且住於無依止，他在世間中不執取任何事物。
+
+尚又智識所成及憶念所成，皆會『有法』之思念現前。彼當無所依而住，且不執著世間任何物。
+
+---
+
+Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu.
+
+That’s how a mendicant meditates by observing an aspect of principles with respect to the five grasping aggregates.
+
+比丘們！比丘這樣住於對五取蘊在法上隨觀法。
+
+諸比丘！比丘如是即於五取蘊法，觀法而住。
 
 ---
 
@@ -1769,23 +2059,103 @@ And how does a mendicant meditate observing an aspect of principles with respect
 
 ---
 
-Idha, bhikkhave, bhikkhu cakkhuñca pajānāti, rūpe ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti.
+Idha, bhikkhave, bhikkhu cakkhuñca pajānāti, rūpe ca pajānāti,
 
-It’s when a mendicant understands the eye, sights, and the fetter that arises dependent on both of these. They understand how the fetter that has not arisen comes to arise; how the arisen fetter comes to be abandoned; and how the abandoned fetter comes to not rise again in the future.
+It’s when a mendicant understands the eye, sights,
 
-這裡，比丘了知眼，了知色，了知緣於這兩者生起的結縛，如其未生起結縛之生起而了知，如其已生起結縛之捨斷而了知，如其已捨斷結縛之未來不生起而了知； 
+這裡，比丘了知眼，了知色，
 
-於此，諸比丘！比丘知眼，知色，知緣其二者生結。而知未生之結生起，又知已生之結滅盡，又知已滅盡之結，於未來不再生起。
+於此，諸比丘！比丘知眼，知色，
 
 ---
 
-Sotañca pajānāti, sadde ca pajānāti, yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti.
+yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti,
 
-They understand the ear, sounds, and the fetter ...
+and the fetter that arises dependent on both of these.
 
-了知耳，了知聲，了知緣於這兩者生起的結縛，如其未生起結縛之生起而了知，如其已生起結縛之捨斷而了知，如其已捨斷結縛之未來不生起而了知；
+了知緣於這兩者生起的結縛，
+
+知緣其二者生結。
+
+---
+
+yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti,
+
+They understand how the fetter that has not arisen comes to arise;
+
+如其未生起結縛之生起而了知，
+
+而知未生之結生起，
+
+---
+
+yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti,
+
+how the arisen fetter comes to be abandoned;
+
+如其已生起結縛之捨斷而了知，
+
+又知已生之結滅盡，
+
+---
+
+yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti.
+
+and how the abandoned fetter comes to not rise again in the future.
+
+如其已捨斷結縛之未來不生起而了知； 
+
+又知已滅盡之結，於未來不再生起。
+
+---
+
+Sotañca pajānāti, sadde ca pajānāti,
+
+They understand the ear, sounds,
+
+了知耳，了知聲，
 
 又知耳，知聲...
+
+---
+
+yañca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ tañca pajānāti,
+
+and the fetter ...
+
+了知緣於這兩者生起的結縛，
+
+...
+
+---
+
+yathā ca anuppannassa saṃyojanassa uppādo hoti tañca pajānāti,
+
+...
+
+如其未生起結縛之生起而了知，
+
+...
+
+---
+
+yathā ca uppannassa saṃyojanassa pahānaṃ hoti tañca pajānāti,
+
+...
+
+如其已生起結縛之捨斷而了知，
+
+...
+
+---
+
+yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti tañca pajānāti.
+
+...
+
+如其已捨斷結縛之未來不生起而了知；
+
+...
 
 ---
 
@@ -1829,13 +2199,83 @@ They understand the mind, thoughts, and the fetter that arises dependent on both
 
 ---
 
-Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu.
+Iti ajjhattaṃ vā dhammesu dhammānupassī viharati,
 
-And so they meditate observing an aspect of principles internally ... That’s how a mendicant meditates by observing an aspect of principles with respect to the six internal and external sense fields.
+And so they meditate observing an aspect of principles internally ...
 
-像這樣，或住於在自己的法上隨觀法，或住於在外部的法上隨觀法，或住於在自己的與外部的法上隨觀法，或住於在法上隨觀集法，或住於在法上隨觀消散法，或住於在法上隨觀集法與消散法，或只為了智與憶念的程度而『有法』的念被現起，並且住於無依止，他在世間中不執取任何事物。比丘們！比丘這樣住於對六內外處在法上隨觀法。
+像這樣，或住於在自己的法上隨觀法，
 
-如是，或於內法，觀法而住；於外法，觀法而住；於內外法，觀法而住。或於法，觀生法而住；或於法，觀滅法而住；或於法，觀生滅法而住。尚又智識所成及憶念所成，皆會『有法』之思念現前。彼當無所依而住，且不執著世間任何物。比丘如是，於法觀法而住。
+如是，或於內法，觀法而住；
+
+---
+
+bahiddhā vā dhammesu dhammānupassī viharati,
+
+...
+
+或住於在外部的法上隨觀法，
+
+於外法，觀法而住；
+
+---
+
+ajjhattabahiddhā vā dhammesu dhammānupassī viharati.
+
+...
+
+或住於在自己的與外部的法上隨觀法，
+
+於內外法，觀法而住。
+
+---
+
+Samudayadhammānupassī vā dhammesu viharati,
+
+...
+
+或住於在法上隨觀集法，
+
+或於法，觀生法而住；
+
+---
+
+vayadhammānupassī vā dhammesu viharati,
+
+...
+
+或住於在法上隨觀消散法，
+
+或於法，觀滅法而住；
+
+---
+
+samudayavayadhammānupassī vā dhammesu viharati.
+
+...
+
+或住於在法上隨觀集法與消散法，
+
+或於法，觀生滅法而住。
+
+---
+
+‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati.
+
+...
+
+或只為了智與憶念的程度而『有法』的念被現起，並且住於無依止，他在世間中不執取任何事物。
+
+尚又智識所成及憶念所成，皆會『有法』之思念現前。彼當無所依而住，且不執著世間任何物。
+
+---
+
+Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu.
+
+That’s how a mendicant meditates by observing an aspect of principles with respect to the six internal and external sense fields.
+
+比丘們！比丘這樣住於對六內外處在法上隨觀法。
+
+比丘如是，於法觀法而住。
 
 ---
 
@@ -1861,13 +2301,43 @@ And how does a mendicant meditate observing an aspect of principles with respect
 
 ---
 
-Idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ satisambojjhaṅgaṃ ‘atthi me ajjhattaṃ satisambojjhaṅgo’ti pajānāti, asantaṃ vā ajjhattaṃ satisambojjhaṅgaṃ ‘natthi me ajjhattaṃ satisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa satisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti.
+Idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ satisambojjhaṅgaṃ ‘atthi me ajjhattaṃ satisambojjhaṅgo’ti pajānāti,
 
-It’s when a mendicant who has the awakening factor of mindfulness in them understands: ‘I have the awakening factor of mindfulness in me.’ When they don’t have the awakening factor of mindfulness in them, they understand: ‘I don’t have the awakening factor of mindfulness in me.’ They understand how the awakening factor of mindfulness that has not arisen comes to arise; and how the awakening factor of mindfulness that has arisen becomes fulfilled by development.
+It’s when a mendicant who has the awakening factor of mindfulness in them understands: ‘I have the awakening factor of mindfulness in me.’
 
-這裡，比丘當自己有念覺支時，了知：『有我自己的念覺支。』當自己沒有念覺支時，了知：『沒有我自己的念覺支。』如其未生起念覺支之生起而了知，如其已生起念覺支之圓滿修習而了知；
+這裡，比丘當自己有念覺支時，了知：『有我自己的念覺支。』
 
-於此，諸比丘！比丘或於內念覺支存在者，知：『於我內念覺支存在。』或於內念覺支不存在者，知：『於我內念覺支不存在。』而知未生之念覺支生起，又知已生之念覺支修習成就。
+於此，諸比丘！比丘或於內念覺支存在者，知：『於我內念覺支存在。』
+
+---
+
+asantaṃ vā ajjhattaṃ satisambojjhaṅgaṃ ‘natthi me ajjhattaṃ satisambojjhaṅgo’ti pajānāti,
+
+When they don’t have the awakening factor of mindfulness in them, they understand: ‘I don’t have the awakening factor of mindfulness in me.’
+
+當自己沒有念覺支時，了知：『沒有我自己的念覺支。』
+
+或於內念覺支不存在者，知：『於我內念覺支不存在。』
+
+---
+
+yathā ca anuppannassa satisambojjhaṅgassa uppādo hoti tañca pajānāti,
+
+They understand how the awakening factor of mindfulness that has not arisen comes to arise;
+
+如其未生起念覺支之生起而了知，
+
+而知未生之念覺支生起，
+
+---
+
+yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti.
+
+and how the awakening factor of mindfulness that has arisen becomes fulfilled by development.
+
+如其已生起念覺支之圓滿修習而了知；
+
+又知已生之念覺支修習成就。
 
 ---
 
