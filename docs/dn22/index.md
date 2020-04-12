@@ -814,13 +814,23 @@ That too is how a mendicant meditates by observing an aspect of the body.
 
 ##### 8.
 
-Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ kākehi vā khajjamānaṃ kulalehi vā khajjamānaṃ gijjhehi vā khajjamānaṃ kaṅkehi vā khajjamānaṃ sunakhehi vā khajjamānaṃ byagghehi vā khajjamānaṃ dīpīhi vā khajjamānaṃ siṅgālehi vā khajjamānaṃ vividhehi vā pāṇakajātehi khajjamānaṃ. 
+Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ kākehi vā khajjamānaṃ kulalehi vā khajjamānaṃ gijjhehi vā khajjamānaṃ kaṅkehi vā 
 
-Furthermore, suppose they were to see a corpse thrown in a charnel ground being devoured by crows, hawks, vultures, herons, dogs, tigers, leopards, jackals, and many kinds of little creatures.
+Furthermore, suppose they were to see a corpse thrown in a charnel ground being devoured by crows, hawks, vultures, herons,
 
-再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：被烏鴉、鷹、禿鷹、蒼鷺、狗、虎、豹、狐狼、各種生出的蟲吞食，
+再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：被烏鴉、鷹、禿鷹、蒼鷺、
 
-復次，諸比丘！比丘恰如得觀遺棄於塚間之死屍，被鳥所啄、或鷹所啄、或鷲所啄、或犬所喰、或豺所喰，乃至各種生類之所喰。
+復次，諸比丘！比丘恰如得觀遺棄於塚間之死屍，被鳥所啄、或鷹所啄、或鷲所啄、
+
+---
+
+khajjamānaṃ sunakhehi vā khajjamānaṃ byagghehi vā khajjamānaṃ dīpīhi vā khajjamānaṃ siṅgālehi vā khajjamānaṃ vividhehi vā pāṇakajātehi khajjamānaṃ. 
+
+dogs, tigers, leopards, jackals, and many kinds of little creatures.
+
+狗、虎、豹、狐狼、各種生出的蟲吞食，
+
+或犬所喰、或豺所喰，乃至各種生類之所喰。
 
 ---
 
