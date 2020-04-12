@@ -434,8 +434,8 @@ Viggāhikakathā Sutta / Disputatious Talk / 諍論經
 SN56.10 / 相應部五六・十  
 Tiracchānakathā Sutta / Pointless Talk / 畜生論經  
 .  
-SN56.11 / 相應部五六・一一  
-Dhammacakkappavattana Sutta / Setting in Motion the Wheel of the Dhamma / 法輪轉起經  
+[SN56.11 / 相應部五六・一一](/sn56#11)  
+[Dhammacakkappavattana Sutta / Setting in Motion the Wheel of the Dhamma / 法輪轉起經](/sn56#11)  
 .  
 SN56.12 / 相應部五六・一二  
 Tathāgata Sutta / Tathāgatas / 如來經  
