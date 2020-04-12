@@ -50,13 +50,43 @@ There the Buddha addressed the mendicants: “Mendicants!” “Venerable sir,�
 
 ---
 
-Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ, vedanāsu vedanānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ, citte cittānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ, dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ.
+Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ,
 
-What four? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of feelings—keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of the mind—keen, aware, and mindful, rid of desire and aversion for the world. They meditate observing an aspect of principles—keen, aware, and mindful, rid of desire and aversion for the world.
+What four? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for the world. 
 
-哪四個呢？比丘們！這裡，比丘住於在身上隨觀身，熱心、正知、有念，能調伏對於世間的貪婪、憂；住於在受上隨觀受，熱心、正知、有念，能調伏對於世間的貪婪、憂；住於在心上隨觀心，熱心、正知、有念，能調伏對於世間的貪婪、憂；住於在法上隨觀法，熱心、正知、有念，能調伏對於世間的貪婪、憂。
+哪四個呢？比丘們！這裡，比丘住於在身上隨觀身，熱心、正知、有念，能調伏對於世間的貪婪、憂；
 
-如何為四念處，諸比丘！比丘於此，於身觀身而住，精勤，正知正念，捨離世間之欲貪、苦惱，——於受觀受而住，精勤，正知正念，捨離世間之欲貪、苦惱，——於心觀心而住，精勤，正知正念，捨離世間之欲貪、苦惱，——於法觀法而住，精勤，正知正念，捨離世間之欲貪、苦惱。
+如何為四念處，諸比丘！比丘於此，於身觀身而住，精勤，正知正念，捨離世間之欲貪、苦惱，
+
+---
+
+vedanāsu vedanānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ,
+
+They meditate observing an aspect of feelings—keen, aware, and mindful, rid of desire and aversion for the world. 
+
+住於在受上隨觀受，熱心、正知、有念，能調伏對於世間的貪婪、憂；
+
+——於受觀受而住，精勤，正知正念，捨離世間之欲貪、苦惱，
+
+---
+
+citte cittānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ,
+
+They meditate observing an aspect of the mind—keen, aware, and mindful, rid of desire and aversion for the world. 
+
+住於在心上隨觀心，熱心、正知、有念，能調伏對於世間的貪婪、憂；
+
+——於心觀心而住，精勤，正知正念，捨離世間之欲貪、苦惱，
+
+---
+
+dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ.
+
+They meditate observing an aspect of principles—keen, aware, and mindful, rid of desire and aversion for the world.
+
+住於在法上隨觀法，熱心、正知、有念，能調伏對於世間的貪婪、憂。
+
+——於法觀法而住，精勤，正知正念，捨離世間之欲貪、苦惱。
 
 ---
 
@@ -72,13 +102,23 @@ And how does a mendicant meditate observing an aspect of the body?
 
 ---
 
-Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā. So satova assasati, satova passasati.
+Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.
 
-It’s when a mendicant—gone to a wilderness, or to the root of a tree, or to an empty hut—sits down cross-legged, with their body straight, and focuses their mindfulness right there. Just mindful, they breathe in. Mindful, they breathe out.
+It’s when a mendicant—gone to a wilderness, or to the root of a tree, or to an empty hut—sits down cross-legged, with their body straight, and focuses their mindfulness right there.
 
-比丘們！這裡，比丘到林野，或到樹下，或到空屋，坐下，盤腿後，挺直身體，建立起面前的正念後，他只正念地吸氣、只正念地呼氣：
+比丘們！這裡，比丘到林野，或到樹下，或到空屋，坐下，盤腿後，挺直身體，建立起面前的正念後，
 
-諸比丘！於此，比丘往森林，往樹下，往空閒處而結跏趺坐身正直，思念現前。彼正念而入息，正念而出息，
+諸比丘！於此，比丘往森林，往樹下，往空閒處而結跏趺坐身正直，思念現前。
+
+---
+
+So satova assasati, satova passasati.
+
+Just mindful, they breathe in. Mindful, they breathe out.
+
+他只正念地吸氣、只正念地呼氣：
+
+彼正念而入息，正念而出息，
 
 ---
 
@@ -352,9 +392,7 @@ Bones without sinews, scattered in every direction. Here a hand-bone, there a fo
 
 ……（中略）骨散亂地離散四處：手骨一處，腳骨一處，腳踝骨一處，小腿骨一處，大腿骨一處，腰骨一處，肋骨一處，脊椎骨一處，肩骨一處，頸骨一處，顎骨一處，齒骨一處，頭蓋骨一處，他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』
 
-……乃至……〔關節〕解散，手骨於此處，足骨於彼處，髁骨於此處，腿骨於彼處，盤
-
-骨於此處，背骨於彼處，頭蓋骨在彼處，骸骨散在四方八面。彼注視此身，〔知〕：『此身不脫如是法，而成為如此者。』
+……乃至……〔關節〕解散，手骨於此處，足骨於彼處，髁骨於此處，腿骨於彼處，盤骨於此處，背骨於彼處，頭蓋骨在彼處，骸骨散在四方八面。彼注視此身，〔知〕：『此身不脫如是法，而成為如此者。』
 
 ---
 
