@@ -162,23 +162,173 @@ They practice breathing in stilling the body’s motion. They practice breathing
 
 ---
 
-Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṃ vā añchanto ‘dīghaṃ añchāmī’ti pajānāti, rassaṃ vā añchanto ‘rassaṃ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti, dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ti pajānāti, rassaṃ vā assasanto ‘rassaṃ assasāmī’ti pajānāti, rassaṃ vā passasanto ‘rassaṃ passasāmī’ti pajānāti. ‘Sabbakāyapaṭisaṃvedī assasissāmī’ti sikkhati, ‘sabbakāyapaṭisaṃvedī passasissāmī’ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’ti sikkhati.
+Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṃ vā añchanto ‘dīghaṃ añchāmī’ti pajānāti, 
 
-It’s like an expert carpenter or carpenter’s apprentice. When making a deep cut they know: ‘I’m making a deep cut,’ and when making a shallow cut they know: ‘I’m making a shallow cut.’
+It’s like an expert carpenter or carpenter’s apprentice. When making a deep cut they know: ‘I’m making a deep cut,’ 
 
-比丘們！猶如熟練的絞車工或絞車工的徒弟，當拉長的時，他了知：『我拉長的。』當拉短的時，他了知：『我拉短的。』同樣的，比丘們！比丘當吸氣長時，他了知：『我吸氣長。』或當呼氣長時，他了知：『我呼氣長。』當吸氣短時，他了知：『我吸氣短。』或當呼氣短時，他了知：『我呼氣短。』他學習：『經驗著一切身，我將吸氣。』他學習：『經驗著一切身，我將呼氣。』他學習：『使身行寧靜著，我將吸氣。』他學習：『使身行寧靜著，我將呼氣。』
+比丘們！猶如熟練的絞車工或絞車工的徒弟，當拉長的時，他了知：『我拉長的。』
 
-諸比丘！恰如熟練之轆轤匠或轆驢之弟子，或長轉（轆轤）者，知：『我在長轉。』或短者，知：『我在短轉。』諸比丘！比丘如是在長入息者，知：『我在長入息。』或長出息者，知：『我在長出息。』短入息者，知：『我在短入息。』短出息者，知：『我在短出息。』修習：『我覺知全身而入息。』修習：『我覺知全身而出息。』修習：『我止身行而入息。』修習：『我止身行而出息。』
+諸比丘！恰如熟練之轆轤匠或轆驢之弟子，或長轉（轆轤）者，知：『我在長轉。』
 
 ---
 
-Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati. Samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati. ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+rassaṃ vā añchanto ‘rassaṃ añchāmī’ti pajānāti;
 
-And so they meditate observing an aspect of the body internally, externally, and both internally and externally. They meditate observing the body as liable to originate, as liable to vanish, and as liable to both originate and vanish. Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world.
+and when making a shallow cut they know: ‘I’m making a shallow cut.’
 
-像這樣，或住於在自己的身上隨觀身，或住於在外部的身上隨觀身，或住於在自己的與外部的身上隨觀身，或住於在身上隨觀集法，或住於在身上隨觀消散法，或住於在身上隨觀集法與消散法，或只為了智與憶念的程度而『有身體』的念被現起，並且住於無依止，他在世間中不執取任何事物。
+當拉短的時，他了知：『我拉短的。』
 
-如是，或於內身之觀身而住；又於外身之觀身而住；或於內外身，觀身而住。或於身，觀生法而住；又於身，觀滅法而住；又於身，觀生滅法而住。尚又對於智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且亦不執著世間之任何物而住。
+或短者，知：『我在短轉。』
+
+---
+
+evameva kho, bhikkhave, bhikkhu dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti,
+
+...
+
+同樣的，比丘們！比丘當吸氣長時，他了知：『我吸氣長。』
+
+諸比丘！比丘如是在長入息者，知：『我在長入息。』
+
+---
+
+dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ti pajānāti,
+
+...
+
+或當呼氣長時，他了知：『我呼氣長。』
+
+或長出息者，知：『我在長出息。』
+
+---
+
+rassaṃ vā assasanto ‘rassaṃ assasāmī’ti pajānāti,
+
+...
+
+當吸氣短時，他了知：『我吸氣短。』
+
+短入息者，知：『我在短入息。』
+
+---
+
+rassaṃ vā passasanto ‘rassaṃ passasāmī’ti pajānāti.
+
+...
+
+或當呼氣短時，他了知：『我呼氣短。』
+
+短出息者，知：『我在短出息。』
+
+---
+
+‘Sabbakāyapaṭisaṃvedī assasissāmī’ti sikkhati,
+
+...
+
+他學習：『經驗著一切身，我將吸氣。』
+
+修習：『我覺知全身而入息。』
+
+---
+
+‘sabbakāyapaṭisaṃvedī passasissāmī’ti sikkhati,
+
+...
+
+他學習：『經驗著一切身，我將呼氣。』
+
+修習：『我覺知全身而出息。』
+
+---
+
+‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’ti sikkhati,
+
+...
+
+他學習：『使身行寧靜著，我將吸氣。』
+
+修習：『我止身行而入息。』
+
+---
+
+‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’ti sikkhati.
+
+...
+
+他學習：『使身行寧靜著，我將呼氣。』
+
+修習：『我止身行而出息。』
+
+---
+
+Iti ajjhattaṃ vā kāye kāyānupassī viharati,
+
+And so they meditate observing an aspect of the body internally,
+
+像這樣，或住於在自己的身上隨觀身，
+
+如是，或於內身之觀身而住；
+
+---
+
+bahiddhā vā kāye kāyānupassī viharati, 
+
+externally,
+
+或住於在外部的身上隨觀身，
+
+又於外身之觀身而住；
+
+---
+
+ajjhattabahiddhā vā kāye kāyānupassī viharati.
+
+and both internally and externally.
+
+或住於在自己的與外部的身上隨觀身，
+
+或於內外身，觀身而住。
+
+---
+
+Samudayadhammānupassī vā kāyasmiṃ viharati,
+
+They meditate observing the body as liable to originate,
+
+或住於在身上隨觀集法，
+
+或於身，觀生法而住；
+
+---
+
+vayadhammānupassī vā kāyasmiṃ viharati,
+
+as liable to vanish,
+
+或住於在身上隨觀消散法，
+
+又於身，觀滅法而住；
+
+---
+
+samudayavayadhammānupassī vā kāyasmiṃ viharati.
+
+and as liable to both originate and vanish.
+
+或住於在身上隨觀集法與消散法，
+
+又於身，觀生滅法而住。
+
+---
+
+‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+
+Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world.
+
+或只為了智與憶念的程度而『有身體』的念被現起，並且住於無依止，他在世間中不執取任何事物。
+
+尚又對於智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且亦不執著世間之任何物而住。
 
 ---
 
@@ -194,35 +344,205 @@ That’s how a mendicant meditates by observing an aspect of the body.
 
 ##### 3.
 
-Puna caparaṃ, bhikkhave, bhikkhu gacchanto vā ‘gacchāmī’ti pajānāti, ṭhito vā ‘ṭhitomhī’ti pajānāti, nisinno vā ‘nisinnomhī’ti pajānāti, sayāno vā ‘sayānomhī’ti pajānāti, yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṃ pajānāti.
+Puna caparaṃ, bhikkhave, bhikkhu gacchanto vā ‘gacchāmī’ti pajānāti,
 
-Furthermore, when a mendicant is walking they know: ‘I am walking.’ When standing they know: ‘I am standing.’ When sitting they know: ‘I am sitting.’ And when lying down they know: ‘I am lying down.’ Whatever posture their body is in, they know it.
+Furthermore, when a mendicant is walking they know: ‘I am walking.’
 
-再者，比丘們！比丘當行走時，他了知：『我行走。』或者，當站立時，他了知：『我站立。』或者，當坐著時，他了知：『我坐著。』或者，當躺著時，他了知：『我躺著。』或者，他如身體的動向而了知。
+再者，比丘們！比丘當行走時，他了知：『我行走。』
 
-復次，諸比丘！比丘於行者，知：『我在行。』又於住者，知：『我在住。』於坐者，知：『我在坐。』於臥者，知：『我在臥。』又此身置於如何之狀態，亦如其狀態而知之。
+復次，諸比丘！比丘於行者，知：『我在行。』
 
 ---
 
-Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati. Samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati. ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+ṭhito vā ‘ṭhitomhī’ti pajānāti,
 
-And so they meditate observing an aspect of the body internally, externally, and both internally and externally. They meditate observing the body as liable to originate, as liable to vanish, and as liable to both originate and vanish. Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That too is how a mendicant meditates by observing an aspect of the body.
+When standing they know: ‘I am standing.’
 
-像這樣，或住於在自己的身上隨觀身，或住於在外部的身上隨觀身，或住於在自己的與外部的身上隨觀身，或住於在身上隨觀集法，或住於在身上隨觀消散法，或住於在身上隨觀集法與消散法，或只為了智與憶念的程度而『有身體』的念被現起，並且住於無依止，他在世間中不執取任何事物。比丘們！比丘這樣住於在身上隨觀身。
+或者，當站立時，他了知：『我站立。』
 
-如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。尚又智識所成，憶念所成，皆會『有身』之思念現前。彼當無所依而住，且亦不執著世間任何物而住。諸比丘！比丘如是，於身觀身而住。
+又於住者，知：『我在住。』
+
+---
+
+nisinno vā ‘nisinnomhī’ti pajānāti,
+
+When sitting they know: ‘I am sitting.’
+
+或者，當坐著時，他了知：『我坐著。』
+
+於坐者，知：『我在坐。』
+
+---
+
+sayāno vā ‘sayānomhī’ti pajānāti,
+
+And when lying down they know: ‘I am lying down.’
+
+或者，當躺著時，他了知：『我躺著。』
+
+於臥者，知：『我在臥。』
+
+---
+
+yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṃ pajānāti.
+
+Whatever posture their body is in, they know it.
+
+或者，他如身體的動向而了知。
+
+又此身置於如何之狀態，亦如其狀態而知之。
+
+---
+
+Iti ajjhattaṃ vā kāye kāyānupassī viharati,
+
+And so they meditate observing an aspect of the body internally,
+
+像這樣，或住於在自己的身上隨觀身，
+
+如是，或於內身，觀身而住；
+
+---
+
+bahiddhā vā kāye kāyānupassī viharati,
+
+externally,
+
+或住於在外部的身上隨觀身，
+
+於外身，觀身而住；
+
+---
+
+ajjhattabahiddhā vā kāye kāyānupassī viharati.
+
+and both internally and externally.
+
+或住於在自己的與外部的身上隨觀身，
+
+又於內外身，觀身而住。
+
+---
+
+Samudayadhammānupassī vā kāyasmiṃ viharati,
+
+They meditate observing the body as liable to originate,
+
+或住於在身上隨觀集法，
+
+或於身，觀生法而住；
+
+---
+
+vayadhammānupassī vā kāyasmiṃ viharati,
+
+as liable to vanish,
+
+或住於在身上隨觀消散法，
+
+於身，觀滅法而住；
+
+---
+
+samudayavayadhammānupassī vā kāyasmiṃ viharati.
+
+and as liable to both originate and vanish.
+
+或住於在身上隨觀集法與消散法，
+
+又於身，觀生滅法而住。
+
+---
+
+‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+
+Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world.
+
+或只為了智與憶念的程度而『有身體』的念被現起，並且住於無依止，他在世間中不執取任何事物。
+
+尚又智識所成，憶念所成，皆會『有身』之思念現前。彼當無所依而住，且亦不執著世間任何物而住。
+
+---
+
+Evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+
+That too is how a mendicant meditates by observing an aspect of the body.
+
+比丘們！比丘這樣住於在身上隨觀身。
+
+諸比丘！比丘如是，於身觀身而住。
 
 ---
 
 ##### 4.
 
-Puna caparaṃ, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.
+Puna caparaṃ, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti,
 
-Furthermore, a mendicant acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl, and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent.
+Furthermore, a mendicant acts with situational awareness when going out and coming back;
 
-再者，比丘們！比丘在前進、後退時是正知於行為者；在前視、後視時是正知於行為者；在[肢體]曲伸時是正知於行為者；在[穿]衣、持鉢與大衣時是正知於行為者；在飲、食、嚼、嚐時是正知於行為者；在大小便動作時是正知於行為者；在行、住、坐、臥、清醒、語、默時是正知於行為者。
+再者，比丘們！比丘在前進、後退時是正知於行為者；
 
-復次，諸比丘！比丘不論行往歸來，亦由於正智而作；彼觀前、顧後，亦由於正智而作；彼於屈、於伸，亦由正智而作；彼於著僧伽梨（袈裟）衣、鉢，亦由於正智而作；彼於食、飲、咀嚼、嘗味亦由於正智而作；彼於大、小便，亦由於正智而作；彼於行、住、坐、臥、醒、語、默，亦由於正智而作。
+復次，諸比丘！比丘不論行往歸來，亦由於正智而作；
+
+---
+
+ālokite vilokite sampajānakārī hoti,
+
+when looking ahead and aside;
+
+在前視、後視時是正知於行為者；
+
+彼觀前、顧後，亦由於正智而作；
+
+---
+
+samiñjite pasārite sampajānakārī hoti,
+
+when bending and extending the limbs;
+
+在[肢體]曲伸時是正知於行為者；
+
+彼於屈、於伸，亦由正智而作；
+
+---
+
+saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti,
+
+when bearing the outer robe, bowl, and robes;
+
+在[穿]衣、持鉢與大衣時是正知於行為者；
+
+彼於著僧伽梨（袈裟）衣、鉢，亦由於正智而作；
+
+---
+
+asite pīte khāyite sāyite sampajānakārī hoti,
+
+when eating, drinking, chewing, and tasting;
+
+在飲、食、嚼、嚐時是正知於行為者；
+
+彼於食、飲、咀嚼、嘗味亦由於正智而作；
+
+---
+
+uccārapassāvakamme sampajānakārī hoti,
+
+when urinating and defecating;
+
+在大小便動作時是正知於行為者；
+
+彼於大、小便，亦由於正智而作；
+
+---
+
+gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.
+
+when walking, standing, sitting, sleeping, waking, speaking, and keeping silent.
+
+在行、住、坐、臥、清醒、語、默時是正知於行為者。
+
+彼於行、住、坐、臥、醒、語、默，亦由於正智而作。
 
 ---
 
@@ -238,23 +558,53 @@ And so they meditate observing an aspect of the body internally … That too is 
 
 ##### 5.
 
-Puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ uddhaṃ pādatalā adho kesamatthakā tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati: ‘atthi imasmiṃ kāye kesā lomā nakhā dantā taco, maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ, hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ, antaṃ antaguṇaṃ udariyaṃ karīsaṃ, pittaṃ semhaṃ pubbo lohitaṃ sedo medo, assu vasā kheḷo siṅghāṇikā lasikā muttan’ti.
+Puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ uddhaṃ pādatalā adho kesamatthakā tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati:
 
-Furthermore, a mendicant examines their own body, up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth. ‘In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’
+Furthermore, a mendicant examines their own body, up from the soles of the feet and down from the tips of the hairs, wrapped in skin and full of many kinds of filth.
 
-再者，比丘們！比丘觀察此身從腳掌底往上，髮梢往下，皮膚所包覆充滿種種不淨的：『此身有頭髮、體毛、指甲、牙齒、皮膚、肌肉、筋腱、骨骼、骨髓、腎臟、心臟、肝臟、肋膜、脾臟、肺臟、腸子、腸間膜、胃、糞便、膽汁、痰、膿、血、汗、脂肪、眼淚、油脂、唾液、鼻涕、關節液、尿。』
+再者，比丘們！比丘觀察此身從腳掌底往上，髮梢往下，皮膚所包覆充滿種種不淨的：
 
-復次，諸比丘！比丘於皮覆包充滿種種不淨物之此身，觀察此身，上至頭髮，下至蹠底，知：『於此身有髮、髦、爪、齒、皮、肉、筋、骨、髓、腎臟、心臟、肝臟、肋膜、脾臟、肺、腸、腸間膜、胃、排泄物、膽汁、痰、膿、血、汗、脂肪、淚、淋巴液、唾液、粘液、關節液、尿。』
+復次，諸比丘！比丘於皮覆包充滿種種不淨物之此身，觀察此身，上至頭髮，下至蹠底，知：
 
 ---
 
-Seyyathāpi, bhikkhave, ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa, seyyathidaṃ—sālīnaṃ vīhīnaṃ muggānaṃ māsānaṃ tilānaṃ taṇḍulānaṃ. Tamenaṃ cakkhumā puriso muñcitvā paccavekkheyya: ‘ime sālī, ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā’ti. Evameva kho, bhikkhave, bhikkhu imameva kāyaṃ uddhaṃ pādatalā adho kesamatthakā tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati: ‘atthi imasmiṃ kāye kesā lomā … pe … muttan’ti.
+‘atthi imasmiṃ kāye kesā lomā nakhā dantā taco, maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ, hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ, antaṃ antaguṇaṃ udariyaṃ karīsaṃ, pittaṃ semhaṃ pubbo lohitaṃ sedo medo, assu vasā kheḷo siṅghāṇikā lasikā muttan’ti.
 
-It’s as if there were a bag with openings at both ends, filled with various kinds of grains, such as fine rice, wheat, mung beans, peas, sesame, and ordinary rice. And someone with good eyesight were to open it and examine the contents: ‘These grains are fine rice, these are wheat, these are mung beans, these are peas, these are sesame, and these are ordinary rice.’
+‘In this body there is head hair, body hair, nails, teeth, skin, flesh, sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, undigested food, feces, bile, phlegm, pus, blood, sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’
 
-比丘們！猶如兩邊有[開]口的袋子放置滿滿的種種穀物，即：山米、紅米、綠豆，豌豆，胡麻，白米，有眼的男子倒出它後能觀察：『這些是山米，這些是紅米，這些是綠豆，這些是豌豆，這些是胡麻，這些是白米。』同樣的，比丘們！比丘觀察此身從腳掌底往上，髮梢往下，皮膚所包覆充滿種種不淨的：『此身有頭髮、體毛、……（中略）尿。』
+『此身有頭髮、體毛、指甲、牙齒、皮膚、肌肉、筋腱、骨骼、骨髓、腎臟、心臟、肝臟、肋膜、脾臟、肺臟、腸子、腸間膜、胃、糞便、膽汁、痰、膿、血、汗、脂肪、眼淚、油脂、唾液、鼻涕、關節液、尿。』
 
-諸比丘！猶如兩口之袋，填進種種穀物，即：稻、粳、綠豆、豆顆、胡麻、糙米，具眼者開解之，得觀察：『此是稻、此是粳、此是綠豆、此是豆顆、此是胡麻、此是糙米。』諸比丘！如是比丘於皮覆包充滿種種不淨物之此身，觀察上至頭髮，下至蹠底，〔知〕：『於此身有髮、髦、爪、齒、皮、肉、筋、骨、髓、腎臟、心臟、肝臟、肋膜、脾臟、肺、腸、腸間膜、胃、排泄物、膽汁、痰、膿、血、汗、脂肪、淚、淋巴液、唾液、粘液、關節液、尿。』
+『於此身有髮、髦、爪、齒、皮、肉、筋、骨、髓、腎臟、心臟、肝臟、肋膜、脾臟、肺、腸、腸間膜、胃、排泄物、膽汁、痰、膿、血、汗、脂肪、淚、淋巴液、唾液、粘液、關節液、尿。』
+
+---
+
+Seyyathāpi, bhikkhave, ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa, seyyathidaṃ—sālīnaṃ vīhīnaṃ muggānaṃ māsānaṃ tilānaṃ taṇḍulānaṃ. Tamenaṃ cakkhumā puriso muñcitvā paccavekkheyya:
+
+It’s as if there were a bag with openings at both ends, filled with various kinds of grains, such as fine rice, wheat, mung beans, peas, sesame, and ordinary rice. And someone with good eyesight were to open it and examine the contents:
+
+比丘們！猶如兩邊有[開]口的袋子放置滿滿的種種穀物，即：山米、紅米、綠豆，豌豆，胡麻，白米，有眼的男子倒出它後能觀察：
+
+諸比丘！猶如兩口之袋，填進種種穀物，即：稻、粳、綠豆、豆顆、胡麻、糙米，具眼者開解之，得觀察：
+
+---
+
+‘ime sālī, ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā’ti. 
+
+‘These grains are fine rice, these are wheat, these are mung beans, these are peas, these are sesame, and these are ordinary rice.’
+
+『這些是山米，這些是紅米，這些是綠豆，這些是豌豆，這些是胡麻，這些是白米。』
+
+『此是稻、此是粳、此是綠豆、此是豆顆、此是胡麻、此是糙米。』
+
+---
+
+Evameva kho, bhikkhave, bhikkhu imameva kāyaṃ uddhaṃ pādatalā adho kesamatthakā tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati: ‘atthi imasmiṃ kāye kesā lomā … pe … muttan’ti.
+
+...
+
+同樣的，比丘們！比丘觀察此身從腳掌底往上，髮梢往下，皮膚所包覆充滿種種不淨的：『此身有頭髮、體毛、……（中略）尿。』
+
+諸比丘！如是比丘於皮覆包充滿種種不淨物之此身，觀察上至頭髮，下至蹠底，〔知〕：『於此身有髮、髦、爪、齒、皮、肉、筋、骨、髓、腎臟、心臟、肝臟、肋膜、脾臟、肺、腸、腸間膜、胃、排泄物、膽汁、痰、膿、血、汗、脂肪、淚、淋巴液、唾液、粘液、關節液、尿。』
 
 ---
 
@@ -334,13 +684,23 @@ And so they meditate observing an aspect of the body internally … That too is 
 
 ##### 8.
 
-Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ kākehi vā khajjamānaṃ kulalehi vā khajjamānaṃ gijjhehi vā khajjamānaṃ kaṅkehi vā khajjamānaṃ sunakhehi vā khajjamānaṃ byagghehi vā khajjamānaṃ dīpīhi vā khajjamānaṃ siṅgālehi vā khajjamānaṃ vividhehi vā pāṇakajātehi khajjamānaṃ. So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti.
+Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ kākehi vā khajjamānaṃ kulalehi vā khajjamānaṃ gijjhehi vā khajjamānaṃ kaṅkehi vā khajjamānaṃ sunakhehi vā khajjamānaṃ byagghehi vā khajjamānaṃ dīpīhi vā khajjamānaṃ siṅgālehi vā khajjamānaṃ vividhehi vā pāṇakajātehi khajjamānaṃ. 
 
 Furthermore, suppose they were to see a corpse thrown in a charnel ground being devoured by crows, hawks, vultures, herons, dogs, tigers, leopards, jackals, and many kinds of little creatures.
 
-再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：被烏鴉、鷹、禿鷹、蒼鷺、狗、虎、豹、狐狼、各種生出的蟲吞食，他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』
+再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：被烏鴉、鷹、禿鷹、蒼鷺、狗、虎、豹、狐狼、各種生出的蟲吞食，
 
-復次，諸比丘！比丘恰如得觀遺棄於塚間之死屍，被鳥所啄、或鷹所啄、或鷲所啄、或犬所喰、或豺所喰，乃至各種生類之所喰。彼注視此身，〔知〕：『此身不脫如是法，而成為如是者。』
+復次，諸比丘！比丘恰如得觀遺棄於塚間之死屍，被鳥所啄、或鷹所啄、或鷲所啄、或犬所喰、或豺所喰，乃至各種生類之所喰。
+
+---
+
+So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti.
+
+...
+
+他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』
+
+彼注視此身，〔知〕：『此身不脫如是法，而成為如是者。』
 
 ---
 
@@ -386,13 +746,23 @@ A skeleton rid of flesh and blood, held together by sinews …
 
 ---
 
-Aṭṭhikāni apagatasambandhāni disā vidisā vikkhittāni, aññena hatthaṭṭhikaṃ aññena pādaṭṭhikaṃ aññena gopphakaṭṭhikaṃ aññena jaṅghaṭṭhikaṃ aññena ūruṭṭhikaṃ aññena kaṭiṭṭhikaṃ aññena phāsukaṭṭhikaṃ aññena piṭṭhiṭṭhikaṃ aññena khandhaṭṭhikaṃ aññena gīvaṭṭhikaṃ aññena hanukaṭṭhikaṃ aññena dantaṭṭhikaṃ aññena sīsakaṭāhaṃ. So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti.
+Aṭṭhikāni apagatasambandhāni disā vidisā vikkhittāni, aññena hatthaṭṭhikaṃ aññena pādaṭṭhikaṃ aññena gopphakaṭṭhikaṃ aññena jaṅghaṭṭhikaṃ aññena ūruṭṭhikaṃ aññena kaṭiṭṭhikaṃ aññena phāsukaṭṭhikaṃ aññena piṭṭhiṭṭhikaṃ aññena khandhaṭṭhikaṃ aññena gīvaṭṭhikaṃ aññena hanukaṭṭhikaṃ aññena dantaṭṭhikaṃ aññena sīsakaṭāhaṃ.
 
 Bones without sinews, scattered in every direction. Here a hand-bone, there a foot-bone, here a shin-bone, there a thigh-bone, here a hip-bone, there a rib-bone, here a back-bone, there an arm-bone, here a neck-bone, there a jaw-bone, here a tooth, there the skull …
 
-……（中略）骨散亂地離散四處：手骨一處，腳骨一處，腳踝骨一處，小腿骨一處，大腿骨一處，腰骨一處，肋骨一處，脊椎骨一處，肩骨一處，頸骨一處，顎骨一處，齒骨一處，頭蓋骨一處，他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』
+……（中略）骨散亂地離散四處：手骨一處，腳骨一處，腳踝骨一處，小腿骨一處，大腿骨一處，腰骨一處，肋骨一處，脊椎骨一處，肩骨一處，頸骨一處，顎骨一處，齒骨一處，頭蓋骨一處，
 
-……乃至……〔關節〕解散，手骨於此處，足骨於彼處，髁骨於此處，腿骨於彼處，盤骨於此處，背骨於彼處，頭蓋骨在彼處，骸骨散在四方八面。彼注視此身，〔知〕：『此身不脫如是法，而成為如此者。』
+……乃至……〔關節〕解散，手骨於此處，足骨於彼處，髁骨於此處，腿骨於彼處，盤骨於此處，背骨於彼處，頭蓋骨在彼處，骸骨散在四方八面。彼注視此身，
+
+---
+
+So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti.
+
+...
+
+他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』
+
+〔知〕：『此身不脫如是法，而成為如此者。』
 
 ---
 
@@ -438,13 +808,83 @@ Bones rotted and crumbled to powder. They’d compare it with their own body: �
 
 ---
 
-Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati. Samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati. ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Iti ajjhattaṃ vā kāye kāyānupassī viharati,
 
-And so they meditate observing an aspect of the body internally, externally, and both internally and externally. They meditate observing the body as liable to originate, as liable to vanish, and as liable to both originate and vanish. Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That too is how a mendicant meditates by observing an aspect of the body.
+And so they meditate observing an aspect of the body internally,
 
-像這樣，或住於在自己的身上隨觀身，或住於在外部的身上隨觀身，或住於在自己的與外部的身上隨觀身，或住於在身上隨觀集法，或住於在身上隨觀消散法，或住於在身上隨觀集法與消散法，或只為了智與憶念的程度而『有身體』的念被現起，並且住於無依止，他在世間中不執取任何事物。比丘們！比丘這樣住於在身上隨觀身。
+像這樣，或住於在自己的身上隨觀身，
 
-如是，或於內身，觀身而住；於外身，觀身而住；又於內外身，觀身而住。或於身，觀生法而住；於身，觀滅法而住；又於身，觀生滅法而住。尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於身觀身而住。
+如是，或於內身，觀身而住；
+
+---
+
+bahiddhā vā kāye kāyānupassī viharati,
+
+externally,
+
+或住於在外部的身上隨觀身，
+
+於外身，觀身而住；
+
+---
+
+ajjhattabahiddhā vā kāye kāyānupassī viharati.
+
+and both internally and externally.
+
+或住於在自己的與外部的身上隨觀身，
+
+又於內外身，觀身而住。
+
+---
+
+Samudayadhammānupassī vā kāyasmiṃ viharati,
+
+They meditate observing the body as liable to originate,
+
+或住於在身上隨觀集法，
+
+或於身，觀生法而住；
+
+---
+
+vayadhammānupassī vā kāyasmiṃ viharati,
+
+as liable to vanish,
+
+或住於在身上隨觀消散法，
+
+於身，觀滅法而住；
+
+---
+
+samudayavayadhammānupassī vā kāyasmiṃ viharati.
+
+and as liable to both originate and vanish.
+
+或住於在身上隨觀集法與消散法，
+
+又於身，觀生滅法而住。
+
+---
+
+‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+
+Or mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world.
+
+或只為了智與憶念的程度而『有身體』的念被現起，並且住於無依止，他在世間中不執取任何事物。
+
+尚又智識所成及憶念所成，皆會『有身』之思念現前。彼當無所依而住，且不執著世間任何物。
+
+---
+
+Evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+
+That too is how a mendicant meditates by observing an aspect of the body.
+
+比丘們！比丘這樣住於在身上隨觀身。
+
+諸比丘！比丘如是，於身觀身而住。
 
 ---
 
@@ -550,13 +990,83 @@ When they feel a spiritual neutral feeling, they know: ‘I feel a spiritual neu
 
 ---
 
-Iti ajjhattaṃ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati. Samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati. ‘Atthi vedanā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati.
+Iti ajjhattaṃ vā vedanāsu vedanānupassī viharati,
 
-And so they meditate observing an aspect of feelings internally, externally, and both internally and externally.They meditate observing feelings as liable to originate, as liable to vanish, and as liable to both originate and vanish. Or mindfulness is established that feelings exist, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That’s how a mendicant meditates by observing an aspect of feelings.
+And so they meditate observing an aspect of feelings internally,
 
-像這樣，或住於在自己的受上隨觀受，或住於在外部的受上隨觀受，或住於在自己的與外部的受上隨觀受，或住於在受上隨觀集法，或住於在受上隨觀消散法，或住於在受上隨觀集法與消散法，或只為了智與憶念的程度而『有受』的念被現起，並且住於無依止，他在世間中不執取任何事物。比丘們！比丘這樣住於在受上隨觀受。
+像這樣，或住於在自己的受上隨觀受，
 
-如是，或於內受，觀受而住；於外受，觀受而住；又於內外受，觀受而住。或於受，觀生法而住；於受，觀滅法而住；又於受，觀生滅法而住。尚又智識所成及憶念所成，皆會『有受』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是，於受觀受而住。
+如是，或於內受，觀受而住；
+
+---
+
+bahiddhā vā vedanāsu vedanānupassī viharati,
+
+externally,
+
+或住於在外部的受上隨觀受，
+
+於外受，觀受而住；
+
+---
+
+ajjhattabahiddhā vā vedanāsu vedanānupassī viharati.
+
+and both internally and externally.
+
+或住於在自己的與外部的受上隨觀受，
+
+又於內外受，觀受而住。
+
+---
+
+Samudayadhammānupassī vā vedanāsu viharati,
+
+They meditate observing feelings as liable to originate,
+
+或住於在受上隨觀集法，
+
+或於受，觀生法而住；
+
+---
+
+vayadhammānupassī vā vedanāsu viharati,
+
+as liable to vanish,
+
+或住於在受上隨觀消散法，
+
+於受，觀滅法而住；
+
+---
+
+samudayavayadhammānupassī vā vedanāsu viharati.
+
+and as liable to both originate and vanish.
+
+或住於在受上隨觀集法與消散法，
+
+又於受，觀生滅法而住。
+
+---
+
+‘Atthi vedanā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+
+Or mindfulness is established that feelings exist,to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world.
+
+或只為了智與憶念的程度而『有受』的念被現起，並且住於無依止，他在世間中不執取任何事物。
+
+尚又智識所成及憶念所成，皆會『有受』之思念現前。彼當無所依而住，且不執著世間任何物。
+
+---
+
+Evampi kho, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati.
+
+That’s how a mendicant meditates by observing an aspect of feelings.
+
+比丘們！比丘這樣住於在受上隨觀受。
+
+諸比丘！比丘如是，於受觀受而住。
 
 ---
 
@@ -733,13 +1243,83 @@ and unfreed mind as ‘unfreed mind.’
 
 ---
 
-Iti ajjhattaṃ vā citte cittānupassī viharati, bahiddhā vā citte cittānupassī viharati, ajjhattabahiddhā vā citte cittānupassī viharati. Samudayadhammānupassī vā cittasmiṃ viharati, vayadhammānupassī vā cittasmiṃ viharati, samudayavayadhammānupassī vā cittasmiṃ viharati, ‘atthi cittan’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu citte cittānupassī viharati.
+Iti ajjhattaṃ vā citte cittānupassī viharati,
 
-And so they meditate observing an aspect of the mind internally, externally, and both internally and externally. They meditate observing the mind as liable to originate, as liable to vanish, and as liable to both originate and vanish. Or mindfulness is established that the mind exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world. That’s how a mendicant meditates by observing an aspect of the mind.
+And so they meditate observing an aspect of the mind internally,
 
-像這樣，或住於在自己的心上隨觀心，或住於在外部的心上隨觀心，或住於在自己的與外部的心上隨觀心，或住於在心上隨觀集法，或住於在心上隨觀消散法，或住於在心上隨觀集法與消散法，或只為了智與憶念的程度而『有心』的念被現起，並且住於無依止，他在世間中不執取任何事物。比丘們！比丘這樣住於在心上隨觀心。
+像這樣，或住於在自己的心上隨觀心，
 
-如是，或於心，觀心而住；又於外心，觀心而住；又於內外心，觀心而住。或於心，觀生法而住；於心，觀滅法而住；又於心，觀生滅法而住。尚又智識所成及憶念所成，皆會『有心』之思念現前。彼當無所依而住，且不執著世間任何物。諸比丘！比丘如是於心觀心而住。
+如是，或於心，觀心而住；
+
+---
+
+bahiddhā vā citte cittānupassī viharati,
+
+externally,
+
+或住於在外部的心上隨觀心，
+
+又於外心，觀心而住；
+
+---
+
+ajjhattabahiddhā vā citte cittānupassī viharati.
+
+and both internally and externally.
+
+或住於在自己的與外部的心上隨觀心，
+
+又於內外心，觀心而住。
+
+---
+
+Samudayadhammānupassī vā cittasmiṃ viharati,
+
+They meditate observing the mind as liable to originate,
+
+或住於在心上隨觀集法，
+
+或於心，觀生法而住；
+
+---
+
+vayadhammānupassī vā cittasmiṃ viharati,
+
+as liable to vanish,
+
+或住於在心上隨觀消散法，
+
+於心，觀滅法而住；
+
+---
+
+samudayavayadhammānupassī vā cittasmiṃ viharati,
+
+and as liable to both originate and vanish.
+
+或住於在心上隨觀集法與消散法，
+
+又於心，觀生滅法而住。
+
+---
+
+‘atthi cittan’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+
+Or mindfulness is established that the mind exists, to the extent necessary for knowledge and mindfulness. They meditate independent, not grasping at anything in the world.
+
+或只為了智與憶念的程度而『有心』的念被現起，並且住於無依止，他在世間中不執取任何事物。
+
+尚又智識所成及憶念所成，皆會『有心』之思念現前。彼當無所依而住，且不執著世間任何物。
+
+---
+
+Evampi kho, bhikkhave, bhikkhu citte cittānupassī viharati.
+
+That’s how a mendicant meditates by observing an aspect of the mind.
+
+比丘們！比丘這樣住於在心上隨觀心。
+
+諸比丘！比丘如是於心觀心而住。
 
 ---
 
@@ -775,33 +1355,153 @@ And how does a mendicant meditate observing an aspect of principles with respect
 
 ---
 
-Idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ kāmacchandaṃ ‘atthi me ajjhattaṃ kāmacchando’ti pajānāti, asantaṃ vā ajjhattaṃ kāmacchandaṃ ‘natthi me ajjhattaṃ kāmacchando’ti pajānāti, yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti, yathā ca uppannassa kāmacchandassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa kāmacchandassa āyatiṃ anuppādo hoti tañca pajānāti.
+Idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ kāmacchandaṃ ‘atthi me ajjhattaṃ kāmacchando’ti pajānāti,
 
-It’s when a mendicant who has sensual desire in them understands: ‘I have sensual desire in me.’ When they don’t have sensual desire in them, they understand: ‘I don’t have sensual desire in me.’ They understand how sensual desire arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future.
+It’s when a mendicant who has sensual desire in them understands: ‘I have sensual desire in me.’
 
-比丘們！這裡，比丘當有自己的欲的意欲時，他了知：『我有自己的欲的意欲。』當沒有自己的欲的意欲時，他了知：『我沒有自己的欲的意欲。』他如其未生起欲的意欲之生起而了知，如其已生起欲的意欲之捨斷而了知，如其已捨斷欲的意欲之未來不生起而了知。
+比丘們！這裡，比丘當有自己的欲的意欲時，他了知：『我有自己的欲的意欲。』
 
-於此，諸比丘！比丘或於內貪欲存在者，知：『我於內貪欲存在。』於內貪欲不存在者，知：『於我內貪欲不存在。』彼知未生之貪欲生起，知已生之貪欲滅盡，又知已滅盡之貪欲，於未來不再生起。
-
----
-
-Santaṃ vā ajjhattaṃ byāpādaṃ ‘atthi me ajjhattaṃ byāpādo’ti pajānāti, asantaṃ vā ajjhattaṃ byāpādaṃ ‘natthi me ajjhattaṃ byāpādo’ti pajānāti, yathā ca anuppannassa byāpādassa uppādo hoti tañca pajānāti, yathā ca uppannassa byāpādassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa byāpādassa āyatiṃ anuppādo hoti tañca pajānāti.
-
-When they have ill will in them, they understand: ‘I have ill will in me.’ When they don’t have ill will in them, they understand: ‘I don’t have ill will in me.’ They understand how ill will arises; how, when it’s already arisen, it’s given up; and how, once it’s given up, it doesn’t arise again in the future.
-
-當有自己的惡意時，他了知：『我有自己的惡意。』當沒有自己的惡意時，他了知：『我沒有自己的惡意。』他如其未生起惡意之生起而了知，如其已生起惡意之捨斷而了知，如其已捨斷惡意之未來不生起而了知。
-
-或於內瞋恚存在者，知：『於我內瞋恚存在。』於內瞋恚不存在者，知：『於我內瞋恚不存在。』知未生之瞋恚生起，又知已生之瞋恚滅盡，又知已滅盡之瞋恚，於未來不再生起。
+於此，諸比丘！比丘或於內貪欲存在者，知：『我於內貪欲存在。』
 
 ---
 
-Santaṃ vā ajjhattaṃ thinamiddhaṃ ‘atthi me ajjhattaṃ thinamiddhan’ti pajānāti, asantaṃ vā ajjhattaṃ thinamiddhaṃ ‘natthi me ajjhattaṃ thinamiddhan’ti pajānāti, yathā ca anuppannassa thinamiddhassa uppādo hoti tañca pajānāti, yathā ca uppannassa thinamiddhassa pahānaṃ hoti tañca pajānāti, yathā ca pahīnassa thinamiddhassa āyatiṃ anuppādo hoti tañca pajānāti.
+asantaṃ vā ajjhattaṃ kāmacchandaṃ ‘natthi me ajjhattaṃ kāmacchando’ti pajānāti,
 
-When they have dullness and drowsiness in them, they understand: ‘I have dullness and drowsiness in me.’ When they don’t have dullness and drowsiness in them, they understand: ‘I don’t have dullness and drowsiness in me.’ They understand how dullness and drowsiness arise; how, when they’ve already arisen, they’re given up; and how, once they’re given up, they don’t arise again in the future.
+When they don’t have sensual desire in them, they understand: ‘I don’t have sensual desire in me.’
 
-當有自己的惛沈睡眠時，他了知：『我有自己的惛沈睡眠。』當沒有自己的惛沈睡眠時，他了知：『我沒有自己的惛沈睡眠。』他如其未生起惛沈睡眠之生起而了知，如其已生起惛沈睡眠之捨斷而了知，如其已捨斷惛沈睡眠之未來不生起而了知。
+當沒有自己的欲的意欲時，他了知：『我沒有自己的欲的意欲。』
 
-或於內睡眠（愚鈍）存在，知：『於我內睡眠存在。』或於內睡眠不存在，知：『於我內睡眠不存在。』而知未生之睡眠生起，又知已生之睡眠滅盡，又知已滅盡之睡眠，於未來不再生起。
+於內貪欲不存在者，知：『於我內貪欲不存在。』
+
+---
+
+yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti,
+
+They understand how sensual desire arises; 
+
+他如其未生起欲的意欲之生起而了知，
+
+彼知未生之貪欲生起，
+
+---
+
+yathā ca uppannassa kāmacchandassa pahānaṃ hoti tañca pajānāti,
+
+how, when it’s already arisen, it’s given up;
+
+如其已生起欲的意欲之捨斷而了知，
+
+知已生之貪欲滅盡，
+
+---
+
+yathā ca pahīnassa kāmacchandassa āyatiṃ anuppādo hoti tañca pajānāti.
+
+and how, once it’s given up, it doesn’t arise again in the future.
+
+如其已捨斷欲的意欲之未來不生起而了知。
+
+又知已滅盡之貪欲，於未來不再生起。
+
+---
+
+Santaṃ vā ajjhattaṃ byāpādaṃ ‘atthi me ajjhattaṃ byāpādo’ti pajānāti,
+
+When they have ill will in them, they understand: ‘I have ill will in me.’
+
+當有自己的惡意時，他了知：『我有自己的惡意。』
+
+或於內瞋恚存在者，知：『於我內瞋恚存在。』
+
+---
+
+asantaṃ vā ajjhattaṃ byāpādaṃ ‘natthi me ajjhattaṃ byāpādo’ti pajānāti,
+
+When they don’t have ill will in them, they understand: ‘I don’t have ill will in me.’
+
+當沒有自己的惡意時，他了知：『我沒有自己的惡意。』
+
+於內瞋恚不存在者，知：『於我內瞋恚不存在。』
+
+---
+
+yathā ca anuppannassa byāpādassa uppādo hoti tañca pajānāti,
+
+They understand how ill will arises;
+
+他如其未生起惡意之生起而了知，
+
+知未生之瞋恚生起，
+
+---
+
+yathā ca uppannassa byāpādassa pahānaṃ hoti tañca pajānāti,
+
+how, when it’s already arisen, it’s given up;
+
+如其已生起惡意之捨斷而了知，
+
+又知已生之瞋恚滅盡，
+
+---
+
+yathā ca pahīnassa byāpādassa āyatiṃ anuppādo hoti tañca pajānāti.
+
+and how, once it’s given up, it doesn’t arise again in the future.
+
+如其已捨斷惡意之未來不生起而了知。
+
+又知已滅盡之瞋恚，於未來不再生起。
+
+---
+
+Santaṃ vā ajjhattaṃ thinamiddhaṃ ‘atthi me ajjhattaṃ thinamiddhan’ti pajānāti,
+
+When they have dullness and drowsiness in them, they understand: ‘I have dullness and drowsiness in me.’
+
+當有自己的惛沈睡眠時，他了知：『我有自己的惛沈睡眠。』
+
+或於內睡眠（愚鈍）存在，知：『於我內睡眠存在。』
+
+---
+
+asantaṃ vā ajjhattaṃ thinamiddhaṃ ‘natthi me ajjhattaṃ thinamiddhan’ti pajānāti,
+
+When they don’t have dullness and drowsiness in them, they understand: ‘I don’t have dullness and drowsiness in me.’
+
+當沒有自己的惛沈睡眠時，他了知：『我沒有自己的惛沈睡眠。』
+
+或於內睡眠不存在，知：『於我內睡眠不存在。』
+
+---
+
+yathā ca anuppannassa thinamiddhassa uppādo hoti tañca pajānāti,
+
+They understand how dullness and drowsiness arise;
+
+他如其未生起惛沈睡眠之生起而了知，
+
+而知未生之睡眠生起，
+
+---
+
+yathā ca uppannassa thinamiddhassa pahānaṃ hoti tañca pajānāti,
+
+how, when they’ve already arisen, they’re given up;
+
+如其已生起惛沈睡眠之捨斷而了知，
+
+又知已生之睡眠滅盡，
+
+---
+
+yathā ca pahīnassa thinamiddhassa āyatiṃ anuppādo hoti tañca pajānāti.
+
+and how, once they’re given up, they don’t arise again in the future.
+
+如其已捨斷惛沈睡眠之未來不生起而了知。
+
+又知已滅盡之睡眠，於未來不再生起。
 
 ---
 
