@@ -870,13 +870,23 @@ Idampi vuccati, brāhmaṇa, tathāgatapadaṃ itipi, tathā­gata­nisevi­ta�
 
 ---
 
-So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe viga­tū­pak­kilese mudubhūte kammaniye ṭhite āneñjappatte pubbe­nivāsā­nus­sati­ñāṇāya cittaṃ abhininnāmeti. So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ, dvepi jātiyo ...
+So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe viga­tū­pak­kilese mudubhūte kammaniye ṭhite āneñjappatte pubbe­nivāsā­nus­sati­ñāṇāya cittaṃ abhininnāmeti.
 
-“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, he directs and inclines it to knowledge of the recollection of past lives.[3] He recollects his manifold past lives, i.e., one birth, two births, three births, four, five, ten, twenty, thirty, forty, fifty, one hundred, one thousand, one hundred thousand, many aeons of cosmic contraction, many aeons of cosmic expansion, many aeons of cosmic contraction and expansion, 
+“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, he directs and inclines it to knowledge of the recollection of past lives.
 
-當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他使心轉向許多前世住處回憶之智。他回憶起許多前世住處，即：一生、二生、......
+當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他使心轉向許多前世住處回憶之智。
 
-彼如是心等持，清淨、皎潔、無穢、無垢、柔軟、堪任而得確立不動，心向憶宿命智。彼憶念：『種種宿命，即：一生、二生、三生、四生、五生、十生、二十生、三十生、四十生、五十生、百生、千生、百千生、種種成劫、種種壞劫、種種成壞劫。
+彼如是心等持，清淨、皎潔、無穢、無垢、柔軟、堪任而得確立不動，心向憶宿命智。
+
+---
+
+So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ, dvepi jātiyo ...
+
+He recollects his manifold past lives, i.e., one birth, two births, three births, four, five, ten, twenty, thirty, forty, fifty, one hundred, one thousand, one hundred thousand, many aeons of cosmic contraction, many aeons of cosmic expansion, many aeons of cosmic contraction and expansion,
+
+他回憶起許多前世住處，即：一生、二生、......
+
+彼憶念：『種種宿命，即：一生、二生、三生、四生、五生、十生、二十生、三十生、四十生、五十生、百生、千生、百千生、種種成劫、種種壞劫、種種成壞劫。
 
 ---
 
@@ -884,7 +894,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe viga­tū­pak­ki
 
 [recollecting,] ‘There I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure and pain, such the end of my life. Passing away from that state, I re-arose there. There too I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure and pain, such the end of my life. Passing away from that state, I re-arose here.’ Thus he recollects his manifold past lives in their modes and details.
 
-（中略）像這樣，他回憶起許多前世住處有這樣的行相與境遇。
+......（中略）...... 像這樣，他回憶起許多前世住處有這樣的行相與境遇。
 
 於其處，予有如是名、如是姓、如是種族、如是食、如是苦樂之受、如是以命終。於其處死，於彼處生。於彼處有如是名、如是姓、如是種族、如是食、如是苦樂之受、如是以命終。彼於彼處死，於此處生。』如是憶念其相及詳細狀況與俱種種之宿命。
 
@@ -940,13 +950,23 @@ Idampi vuccati, brāhmaṇa, tathāgatapadaṃ itipi, tathā­gata­nisevi­ta�
 
 ---
 
-So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe viga­tū­pak­kilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmeti. So ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ duk­kha­nirodha­gāminī paṭipadā’ti yathābhūtaṃ pajānāti. ‘Ime āsavā’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsava­nirodha­gāminī paṭipadā’ti yathābhūtaṃ pajānāti. 
+So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe viga­tū­pak­kilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmeti. 
 
-“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, the monk directs and inclines it to the knowledge of the ending of the mental fermentations. He discerns, as it has come to be, that ‘This is stress... This is the origination of stress... This is the cessation of stress... This is the way leading to the cessation of stress... These are mental fermentations... This is the origination of fermentations... This is the cessation of fermentations... This is the way leading to the cessation of fermentations.’
+“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, the monk directs and inclines it to the knowledge of the ending of the mental fermentations.
 
-當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他使心轉向煩惱之滅盡智。他如實了知：『這是苦。』如實了知：『這是苦集。』如實了知：『這是苦滅。』如實了知：『這是導向苦滅道跡。』如實了知：『這些是煩惱。』如實了知：『這是煩惱集。』如實了知：『這是煩惱滅。』如實了知：『這是導向煩惱滅道跡。』
+當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他使心轉向煩惱之滅盡智。
 
-彼如是心等持，清淨、皎潔、無穢、無垢、柔軟、堪任，以得確立不動，彼心向漏盡智。彼如實知『此是苦』，如實知『此是苦之集』，如實知『此是苦之滅』，如實知『此是苦滅之道』。又如實知『此等是漏』，如實知『此是漏之集』，如實知『此是漏之滅』，如實知『此是漏滅之道』。
+彼如是心等持，清淨、皎潔、無穢、無垢、柔軟、堪任，以得確立不動，彼心向漏盡智。
+
+---
+
+So ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ duk­kha­nirodha­gāminī paṭipadā’ti yathābhūtaṃ pajānāti. ‘Ime āsavā’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsava­nirodha­gāminī paṭipadā’ti yathābhūtaṃ pajānāti. 
+
+He discerns, as it has come to be, that ‘This is stress... This is the origination of stress... This is the cessation of stress... This is the way leading to the cessation of stress... These are mental fermentations... This is the origination of fermentations... This is the cessation of fermentations... This is the way leading to the cessation of fermentations.’
+
+他如實了知：『這是苦。』如實了知：『這是苦集。』如實了知：『這是苦滅。』如實了知：『這是導向苦滅道跡。』如實了知：『這些是煩惱。』如實了知：『這是煩惱集。』如實了知：『這是煩惱滅。』如實了知：『這是導向煩惱滅道跡。』
+
+彼如實知『此是苦』，如實知『此是苦之集』，如實知『此是苦之滅』，如實知『此是苦滅之道』。又如實知『此等是漏』，如實知『此是漏之集』，如實知『此是漏之滅』，如實知『此是漏滅之道』。
 
 ---
 
