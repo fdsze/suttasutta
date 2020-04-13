@@ -4,6 +4,8 @@ slug: mn27
 pageClass: mn
 ---
 
+(Working in progress / 建設中)
+
 # Cūḷa­ Hatthi­pa­dopa­ma Sutta / The Shorter Elephant Footprint Simile / 中部二七 象跡喻小經
 
 ---
@@ -170,7 +172,7 @@ Te suṇanti ‘samaṇo khalu bho gotamo amukaṃ nāma gāmaṃ vā nigamaṃ 
 
 Yadāhaṃ, bho, samaṇe gotame imaṃ catutthaṃ padaṃ addasaṃ athāhaṃ niṭṭhamagamaṃ: ‘sammāsambuddho bhagavā, svākkhāto bhagavatā dhammo, suppaṭipanno bhagavato sāvakasaṃgho’ti. (4)
 
-
+...
 
 先生！當我看到沙門喬達摩的這四個足跡時，那時，我來到結論：『世尊是遍正覺者，法被世尊善說，世尊的弟子僧團是依善而行者。』」
 
@@ -182,7 +184,7 @@ Yato kho ahaṃ, bho, samaṇe gotame imāni cattāri padāni addasaṃ athāha�
 
 When I saw this fourth footprint in Gotama the contemplative, I came to the conclusion, 'The Blessed One is rightly self-awakened; the Dhamma is well-taught by the Blessed One; the Sangha of the Blessed One's disciples has practiced rightly.'
 
-
+...
 
 尊者！我於沙門瞿曇見此等四足跡故，於此我至如是結論：『世尊是正等正覺者，法由世尊所善說，其僧團善從而行也。』」
 
