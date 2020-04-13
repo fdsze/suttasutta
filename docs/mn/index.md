@@ -144,8 +144,8 @@ The Buddha explains that the concept of a self comes from the process of percept
 
 ---
 
-##### [MN27](/mn27/)
-### MN27 Cūḷahatthipadopama Sutta / The Shorter Elephant Footprint Simile / 中部二七 象跡喻小經
+##### [MN27](/mn27)
+### [MN27 Cūḷahatthipadopama Sutta / The Shorter Elephant Footprint Simile / 中部二七 象跡喻小經](/mn27)
 
 ---
 
