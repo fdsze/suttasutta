@@ -109,8 +109,8 @@ The Buddha explains that the concept of a self comes from the process of percept
 
 ---
 
-##### [MN20](/mn20/)
-### MN20 Vitakkasaṇṭhāna Sutta / The Removal of Distracting Thoughts / 中部二十 想念止息經
+##### [MN20](/mn20)
+### [MN20 Vitakkasaṇṭhāna Sutta / The Removal of Distracting Thoughts / 中部二十 想念止息經](/mn20)
 
 ---
 

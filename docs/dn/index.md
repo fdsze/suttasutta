@@ -16,7 +16,7 @@ pageClass: content-page
 ---
 
 ##### [DN2](/dn2)
-### [DN2 Samaññaphala Sutta / The Fruits of Recluseship / 長部二 沙門果經](/dn2/)
+### [DN2 Samaññaphala Sutta / The Fruits of Recluseship / 長部二 沙門果經](/dn2)
 
 King Ajātasattu, son of the great lay devotee King Bimbisāra, consults the Buddha for ways to calm down the mind, and asks the Buddha about the benefits brought by renunciation and spiritual practice. 
 
@@ -25,7 +25,7 @@ King Ajātasattu, son of the great lay devotee King Bimbisāra, consults the Bud
 ---
 
 ##### [DN3](/dn3)
-### DN3 Ambaṭṭha Sutta / To Ambaṭṭha / 長部三 阿摩晝經
+### [DN3 Ambaṭṭha Sutta / To Ambaṭṭha / 長部三 阿摩晝經](/dn3)
 
 A Young Brahman’s Rudeness
 
