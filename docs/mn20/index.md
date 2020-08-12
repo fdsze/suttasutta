@@ -28,7 +28,7 @@ Thus have i heard.
 
 ---
 
-Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. 
+Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.
 
 On one occasion the Blessed One was living at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.
 
@@ -48,7 +48,7 @@ There he addressed the bhikkhus thus: “Bhikkhus.”
 
 ---
 
-“Bhadante”ti te bhikkhū bhagavato paccassosuṃ. 
+“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.
 
 —“Venerable sir,” they replied.
 
@@ -78,9 +78,9 @@ The Blessed One said this:
 
 ---
 
-Idha, bhikkhave, bhikkhuno yaṃ nimittaṃ āgamma yaṃ nimittaṃ manasikaroto uppajjanti pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, tena, bhikkhave, bhikkhunā tamhā nimittā aññaṃ nimittaṃ manasi kātabbaṃ kusalūpasaṃhitaṃ. 
+Idha, bhikkhave, bhikkhuno yaṃ nimittaṃ āgamma yaṃ nimittaṃ manasikaroto uppajjanti pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, tena, bhikkhave, bhikkhunā tamhā nimittā aññaṃ nimittaṃ manasi kātabbaṃ kusalūpasaṃhitaṃ.
 
-“Here, bhikkhus, when a bhikkhu is giving attention to some sign, and owing to that sign there arise in him evil unwholesome thoughts connected with desire, with hate, and with delusion, then he should give attention to some other sign connected with what is wholesome. 
+“Here, bhikkhus, when a bhikkhu is giving attention to some sign, and owing to that sign there arise in him evil unwholesome thoughts connected with desire, with hate, and with delusion, then he should give attention to some other sign connected with what is wholesome.
 
 比丘們！這裡，當比丘由於作意某個相而生起與欲、瞋、癡有關的惡不善尋時，比丘們！因為那樣，比丘因那個相而應該作意其它有關善的相。
 
@@ -88,7 +88,7 @@ Idha, bhikkhave, bhikkhuno yaṃ nimittaṃ āgamma yaṃ nimittaṃ manasikarot
 
 ---
 
-Tassa tamhā nimittā aññaṃ nimittaṃ manasikaroto kusalūpasaṃhitaṃ ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati. 
+Tassa tamhā nimittā aññaṃ nimittaṃ manasikaroto kusalūpasaṃhitaṃ ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
 
 When he gives attention to some other sign connected with what is wholesome, then any evil unwholesome thoughts connected with desire, with hate, and with delusion are abandoned in him and subside.
 
@@ -98,9 +98,9 @@ When he gives attention to some other sign connected with what is wholesome, the
 
 ---
 
-Seyyathāpi, bhikkhave, dakkho palagaṇḍo vā palagaṇḍantevāsī vā sukhumāya āṇiyā oḷārikaṃ āṇiṃ abhinihaneyya abhinīhareyya abhinivatteyya; 
+Seyyathāpi, bhikkhave, dakkho palagaṇḍo vā palagaṇḍantevāsī vā sukhumāya āṇiyā oḷārikaṃ āṇiṃ abhinihaneyya abhinīhareyya abhinivatteyya;
 
-With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated. 
+With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
 
 比丘們！猶如熟練的石匠或石匠的徒弟會以細楔子頂出、引出、退出粗楔子。
 
@@ -178,7 +178,7 @@ With the abandoning of them his mind becomes steadied internally, quieted, broug
 
 ---
 
-Tassa ce, bhikkhave, bhikkhuno tesampi vitakkānaṃ ādīnavaṃ upaparikkhato uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, tena, bhikkhave, bhikkhunā tesaṃ vitakkānaṃ asatiamanasikāro āpajjitabbo. Tassa tesaṃ vitakkānaṃ asatiamanasikāraṃ āpajjato ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati. 
+Tassa ce, bhikkhave, bhikkhuno tesampi vitakkānaṃ ādīnavaṃ upaparikkhato uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, tena, bhikkhave, bhikkhunā tesaṃ vitakkānaṃ asatiamanasikāro āpajjitabbo. Tassa tesaṃ vitakkānaṃ asatiamanasikāraṃ āpajjato ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
 
 “If, while he is examining the danger in those thoughts, there still arise in him evil unwholesome thoughts connected with desire, with hate, and with delusion, then he should try to forget those thoughts and should not give attention to them. When he tries to forget those thoughts and does not give attention to them, then any evil unwholesome thoughts connected with desire, with hate, and with delusion are abandoned in him and subside. With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
 
