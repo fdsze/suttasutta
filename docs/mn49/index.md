@@ -60,7 +60,7 @@ So I — having known with my awareness the train of thought in Baka Brahma’s 
 
 Evaṃ vutte, ahaṃ, bhikkhave, bakaṃ brahmānaṃ etadavocaṃ: ‘avijjāgato vata bho bako brahmā, avijjāgato vata bho bako brahmā; yatra hi nāma aniccaṃyeva samānaṃ niccanti vakkhati, addhuvaṃyeva samānaṃ dhuvanti vakkhati, asassataṃyeva samānaṃ sassatanti vakkhati, akevalaṃyeva samānaṃ kevalanti vakkhati, cavanadhammaṃyeva samānaṃ acavanadhammanti vakkhati; yattha ca pana jāyati jīyati mīyati cavati upapajjati tañca vakkhati: “idañhi na jāyati na jīyati na mīyati na cavati na upapajjatī”ti; santañca panaññaṃ uttari nissaraṇaṃ “natthaññaṃ uttari nissaraṇan”ti vakkhatī’ti.
 
-When this was said, I told Baka Brahma, ‘How immersed in ignorance is Baka Brahma! How immersed in ignorance is Baka Brahma!  — in that what is actually inconstant he calls “constant.” What is actually impermanent he calls “permanent.” What is actually non-eternal he calls “eternal.” What is actually partial he calls “total.” What is actually subject to falling away he calls “not subject to falling away.” Where one takes birth, ages, dies, falls away, and reappears, he says, “For here one does not take birth, does not age, does not die, does not fall away, does not reappear.” And there being another, higher escape, he says, “There is no other, higher escape.”’
+When this was said, I told Baka Brahma, ‘How immersed in ignorance is Baka Brahma! How immersed in ignorance is Baka Brahma! — in that what is actually inconstant he calls “constant.” What is actually impermanent he calls “permanent.” What is actually non-eternal he calls “eternal.” What is actually partial he calls “total.” What is actually subject to falling away he calls “not subject to falling away.” Where one takes birth, ages, dies, falls away, and reappears, he says, “For here one does not take birth, does not age, does not die, does not fall away, does not reappear.” And there being another, higher escape, he says, “There is no other, higher escape.”’
 
 比丘們！當這麼說時，我對巴迦梵天這麼說：『唉！先生！巴迦梵天進入了無明，唉！先生！巴迦梵天進入了無明，確實是因為他將無常的說成常的，不堅固的說成堅固的，非永恆的說成永恆的，非全部的說成全部的，衰變法說成不衰變法，而且，將被生、老、死、去世、再生之處那樣說：「確實，這是不被生、不老、不死、不去世、不再生[之處]。」又，將存在著其它超越出離者說成：「沒有其它超越出離者。」』
 
@@ -68,43 +68,63 @@ When this was said, I told Baka Brahma, ‘How immersed in ignorance is Baka Bra
 
 ---
 
-Atha kho, bhikkhave, māro pāpimā aññataraṃ brahmapārisajjaṃ anvāvisitvā maṃ etadavoca: ‘bhikkhu bhikkhu, metamāsado metamāsado, eso hi, bhikkhu, brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṃ. Ahesuṃ kho ye, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṃ pathavīgarahakā pathavījigucchakā,
+Atha kho, bhikkhave, māro pāpimā aññataraṃ brahmapārisajjaṃ anvāvisitvā maṃ etadavoca: ‘bhikkhu bhikkhu, metamāsado metamāsado, eso hi, bhikkhu, brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṃ.
 
-Then Mara, the Evil One, taking possession of an attendant of the Brahma assembly, said to me, ‘Monk! Monk! Don’t attack him! Don’t attack him! For this Brahma, monk, is the Great Brahma, the Conqueror, the Unconquered, the All-Seeing, All-Powerful, the Sovereign Lord, the Maker, Creator, Chief, Appointer and Ruler, Father of All That Have Been and Shall Be. There were, monk, before your time, brahmans & contemplatives in the world
+Then Mara, the Evil One, taking possession of an attendant of the Brahma assembly, said to me, ‘Monk! Monk! Don’t attack him! Don’t attack him! For this Brahma, monk, is the Great Brahma, the Conqueror, the Unconquered, the All-Seeing, All-Powerful, the Sovereign Lord, the Maker, Creator, Chief, Appointer and Ruler, Father of All That Have Been and Shall Be.
 
-那時，魔波旬佔有某位梵眾天後，對我這麼說：『比丘！比丘！不要貶抑他，不要貶抑他，比丘！因為這位梵天是大梵天、征服者、不被征服者、全見者、自在者、主宰者、製造者、化作者、最高的神、操縱者、已生者與未來生者之父。比丘！在你存在之前，世間有沙門、婆羅門
+那時，魔波旬佔有某位梵眾天後，對我這麼說：『比丘！比丘！不要貶抑他，不要貶抑他，比丘！因為這位梵天是大梵天、征服者、不被征服者、全見者、自在者、主宰者、製造者、化作者、最高的神、操縱者、已生者與未來生者之父。
 
-諸比丘！爾時，惡魔魅入另一梵天眷屬，如此告我曰：『比丘！比丘！勿管此閒事、勿管此閒事；比丘！彼實是梵天、大梵天也，是無能勝之征服者，為普見者、 [P.327] 全能者、自在者、創造者、化作者、最尊者、主宰者、主權者、已生、未生之父也。比丘！於汝前世，有沙門、婆羅門，
+諸比丘！爾時，惡魔魅入另一梵天眷屬，如此告我曰：『比丘！比丘！勿管此閒事、勿管此閒事；比丘！彼實是梵天、大梵天也，是無能勝之征服者，為普見者、全能者、自在者、創造者、化作者、最尊者、主宰者、主權者、已生、未生之父也。
 
 ---
 
-āpagarahakā āpajigucchakā, tejagarahakā tejajigucchakā, vāyagarahakā vāyajigucchakā, bhūtagarahakā bhūtajigucchakā, devagarahakā devajigucchakā, pajāpatigarahakā pajāpatijigucchakā, brahmagarahakā brahmajigucchakā—te kāyassa bhedā pāṇupacchedā hīne kāye patiṭṭhitā ahesuṃ.
+Ahesuṃ kho ye, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṃ pathavīgarahakā pathavījigucchakā, āpagarahakā āpajigucchakā, tejagarahakā tejajigucchakā, vāyagarahakā vāyajigucchakā,
 
-who found fault with earth and were disgusted with earth, who found fault with liquid and were disgusted with liquid, who found fault with fire and were disgusted with fire, who found fault with wind and were disgusted with wind, who found fault with beings and were disgusted with beings, who found fault with devas and were disgusted with devas, who found fault with Pajapati and were disgusted with Pajapati, who found fault with Brahma and were disgusted with Brahma. ‘They, with the break-up of the body, with the cutting off of life, were established in a coarse body.[3] There were, monk, before your time, brahmans & contemplatives in the world
+There were, monk, before your time, brahmans & contemplatives in the world who found fault with earth and were disgusted with earth, who found fault with liquid and were disgusted with liquid, who found fault with fire and were disgusted with fire, who found fault with wind and were disgusted with wind,
 
-是斥責地者、厭惡地者，斥責水者、厭惡水者，斥責火者、厭惡火者，斥責風者、厭惡風者，斥責已生者、厭惡已生者，斥責天神者、厭惡天神者，斥責生主神者、厭惡生主神者，斥責梵天者、厭惡梵天者，他們以身體的崩解，以生命斷絕而被住立在下劣身中。而，比丘！在你存在之前，世間有沙門、婆羅門
+比丘！在你存在之前，世間有沙門、婆羅門是斥責地者、厭惡地者，斥責水者、厭惡水者，斥責火者、厭惡火者，斥責風者、厭惡風者，
 
-呵責地、憎惡地；呵責水、憎惡水；呵責火、憎惡火；呵責風、憎惡風；呵責生物、憎惡生物；呵責天、憎惡天；呵責生主、憎惡生主；呵責梵天、憎惡梵天；彼等身壞命終後，再生於卑下身；又，由汝於前世，有沙門、婆羅門，
+比丘！於汝前世，有沙門、婆羅門，呵責地、憎惡地；呵責水、憎惡水；呵責火、憎惡火；呵責風、憎惡風；
+
+---
+
+bhūtagarahakā bhūtajigucchakā, devagarahakā devajigucchakā, pajāpatigarahakā pajāpatijigucchakā, brahmagarahakā brahmajigucchakā—te kāyassa bhedā pāṇupacchedā hīne kāye patiṭṭhitā ahesuṃ.
+
+who found fault with beings and were disgusted with beings, who found fault with devas and were disgusted with devas, who found fault with Pajapati and were disgusted with Pajapati, who found fault with Brahma and were disgusted with Brahma. ‘They, with the break-up of the body, with the cutting off of life, were established in a coarse body.
+
+斥責已生者、厭惡已生者，斥責天神者、厭惡天神者，斥責生主神者、厭惡生主神者，斥責梵天者、厭惡梵天者，他們以身體的崩解，以生命斷絕而被住立在下劣身中。
+
+呵責生物、憎惡生物；呵責天、憎惡天；呵責生主、憎惡生主；呵責梵天、憎惡梵天；彼等身壞命終後，再生於卑下身；
 
 ---
 
 Ye pana, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṃ pathavīpasaṃsakā pathavābhinandino, āpapasaṃsakā āpābhinandino, tejapasaṃsakā tejābhinandino, vāyapasaṃsakā vāyābhinandino, bhūtapasaṃsakā bhūtābhinandino, devapasaṃsakā devābhinandino, pajāpatipasaṃsakā pajāpatābhinandino, brahmapasaṃsakā brahmābhinandino—
 
-who praised earth and were delighted with earth, who praised liquid and were delighted with liquid, who praised fire and were delighted with fire, who praised wind and were delighted with wind, who praised beings and were delighted with beings, who praised devas and were delighted with devas, who praised Pajapati and were delighted with Pajapati, who praised Brahma and were delighted with Brahma.
+There were, monk, before your time, brahmans & contemplatives in the world who praised earth and were delighted with earth, who praised liquid and were delighted with liquid, who praised fire and were delighted with fire, who praised wind and were delighted with wind, who praised beings and were delighted with beings, who praised devas and were delighted with devas, who praised Pajapati and were delighted with Pajapati, who praised Brahma and were delighted with Brahma.
 
-是讚賞地者、歡喜地者，讚賞水者、歡喜水者，讚賞火者、歡喜火者，讚賞風者、歡喜風者，讚賞已生者、歡喜已生者，讚賞天神者、歡喜天神者，讚賞生主神者、歡喜生主神者，讚賞梵天者、歡喜梵天者，
+而，比丘！在你存在之前，世間有沙門、婆羅門是讚賞地者、歡喜地者，讚賞水者、歡喜水者，讚賞火者、歡喜火者，讚賞風者、歡喜風者，讚賞已生者、歡喜已生者，讚賞天神者、歡喜天神者，讚賞生主神者、歡喜生主神者，讚賞梵天者、歡喜梵天者，
 
-稱歎地、歡喜地；稱歎水、歡喜水；稱歎火、歡喜火；稱歎風、歡喜風；稱歎生物、歡喜生物；稱歎天、歡喜天；稱歎生主、歡喜生主；稱歎梵天、歡喜梵天；
+又，由汝於前世，有沙門、婆羅門，稱歎地、歡喜地；稱歎水、歡喜水；稱歎火、歡喜火；稱歎風、歡喜風；稱歎生物、歡喜生物；稱歎天、歡喜天；稱歎生主、歡喜生主；稱歎梵天、歡喜梵天；
 
 ---
 
-te kāyassa bhedā pāṇupacchedā paṇīte kāye patiṭṭhitā. Taṃ tāhaṃ, bhikkhu, evaṃ vadāmi: “iṅgha tvaṃ, mārisa, yadeva te brahmā āha tadeva tvaṃ karohi, mā tvaṃ brahmuno vacanaṃ upātivattittho”. Sace kho tvaṃ, bhikkhu, brahmuno vacanaṃ upātivattissasi, seyyathāpi nāma puriso siriṃ āgacchantiṃ daṇḍena paṭippaṇāmeyya, seyyathāpi vā pana, bhikkhu, puriso narakappapāte papatanto hatthehi ca pādehi ca pathaviṃ virādheyya, evaṃ sampadamidaṃ, bhikkhu, tuyhaṃ bhavissati. Iṅgha tvaṃ, mārisa, yadeva te brahmā āha tadeva tvaṃ karohi, mā tvaṃ brahmuno vacanaṃ upātivattittho. Nanu tvaṃ, bhikkhu, passasi brahmaparisaṃ sannipatitan’ti?
+te kāyassa bhedā pāṇupacchedā paṇīte kāye patiṭṭhitā. Taṃ tāhaṃ, bhikkhu, evaṃ vadāmi: “iṅgha tvaṃ, mārisa, yadeva te brahmā āha tadeva tvaṃ karohi, mā tvaṃ brahmuno vacanaṃ upātivattittho”. Sace kho tvaṃ, bhikkhu, brahmuno vacanaṃ upātivattissasi, seyyathāpi nāma puriso siriṃ āgacchantiṃ daṇḍena paṭippaṇāmeyya, seyyathāpi vā pana, bhikkhu, puriso narakappapāte papatanto hatthehi ca pādehi ca pathaviṃ virādheyya, evaṃ sampadamidaṃ, bhikkhu, tuyhaṃ bhavissati.
 
-‘They, with the break-up of the body, with the cutting off of life, were established in a refined body. So I tell you, monk, Please, good sir, do only as Brahma says. Don’t defy the word of Brahma. If you defy the word of Brahma, then — as a man, when the goddess of fortune approaches, chases her away with a stick, or as a man, falling into hell, loses hold of the earth with his hands and feet — that will be what you have accomplished. Please, good sir, do only as Brahma says. Don’t defy the word of Brahma. Don’t you see that Brahma’s assembly has gathered?”’ And so Mara the Evil One directed my attention to Brahma’s assembly.
+‘They, with the break-up of the body, with the cutting off of life, were established in a refined body. So I tell you, monk, Please, good sir, do only as Brahma says. Don’t defy the word of Brahma. If you defy the word of Brahma, then — as a man, when the goddess of fortune approaches, chases her away with a stick, or as a man, falling into hell, loses hold of the earth with his hands and feet — that will be what you have accomplished.
 
-他們以身體的崩解，以生命斷絕而被住立在勝妙身中。比丘！我對你這麼說：「來吧！你，親愛的先生！你要只做那位梵天說的，你不要逾越梵天的言語。」比丘！如果你逾越梵天的言語，猶如男子以棍棒抵擋到來的吉運，又，比丘！猶如男子掉到地獄的坑崖時，手腳會失去地，比丘！這樣，對你來說，這將會具足。來吧！你，親愛的先生！你要只做那位梵天說的，你不要逾越梵天的言語，比丘！你不見梵天眾已聚集嗎？』比丘們！像這樣，魔波旬指引我[見]梵天眾。
+他們以身體的崩解，以生命斷絕而被住立在勝妙身中。比丘！我對你這麼說：「來吧！你，親愛的先生！你要只做那位梵天說的，你不要逾越梵天的言語。」比丘！如果你逾越梵天的言語，猶如男子以棍棒抵擋到來的吉運，又，比丘！猶如男子掉到地獄的坑崖時，手腳會失去地，比丘！這樣，對你來說，這將會具足。
 
-彼等身壞命終後，生於勝妙身。比丘是故予為汝如是言：「尊者！對梵天所告汝者，汝應為之，汝勿逾越梵天之語。比丘！汝若逾越梵天之語，則恰如吉祥天女之前來賜富而士夫卻欲擯出之；又恰如正顛落坑崖之人，欲以手足不至地；如是，比丘！對汝，結果如此。尊者！對梵天所告汝者，汝應為之，汝勿逾越梵天之語。比丘！汝不見集坐之梵天眾耶？」』
+彼等身壞命終後，生於勝妙身。比丘是故予為汝如是言：「尊者！對梵天所告汝者，汝應為之，汝勿逾越梵天之語。比丘！汝若逾越梵天之語，則恰如吉祥天女之前來賜富而士夫卻欲擯出之；又恰如正顛落坑崖之人，欲以手足不至地；如是，比丘！對汝，結果如此。
+
+---
+
+Iṅgha tvaṃ, mārisa, yadeva te brahmā āha tadeva tvaṃ karohi, mā tvaṃ brahmuno vacanaṃ upātivattittho. Nanu tvaṃ, bhikkhu, passasi brahmaparisaṃ sannipatitan’ti?
+
+Please, good sir, do only as Brahma says. Don’t defy the word of Brahma. Don’t you see that Brahma’s assembly has gathered?”’ And so Mara the Evil One directed my attention to Brahma’s assembly.
+
+來吧！你，親愛的先生！你要只做那位梵天說的，你不要逾越梵天的言語，比丘！你不見梵天眾已聚集嗎？』比丘們！像這樣，魔波旬指引我[見]梵天眾。
+
+尊者！對梵天所告汝者，汝應為之，汝勿逾越梵天之語。比丘！汝不見集坐之梵天眾耶？」』
 
 ---
 
@@ -128,13 +148,23 @@ When this was said, Baka Brahma told me, ‘But, good sir, what is actually cons
 
 ---
 
-Ahesuṃ kho, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṃ yāvatakaṃ tuyhaṃ kasiṇaṃ āyu tāvatakaṃ tesaṃ tapokammameva ahosi. Te kho evaṃ jāneyyuṃ santañca panaññaṃ uttari nissaraṇaṃ “atthaññaṃ uttari nissaraṇan”ti, asantaṃ vā aññaṃ uttari nissaraṇaṃ “natthaññaṃ uttari nissaraṇan”ti. Taṃ tāhaṃ, bhikkhu, evaṃ vadāmi: “na cevaññaṃ uttari nissaraṇaṃ dakkhissasi, yāvadeva ca pana kilamathassa vighātassa bhāgī bhavissasi. Sace kho tvaṃ, bhikkhu, pathaviṃ ajjhosissasi, opasāyiko me bhavissasi vatthusāyiko, yathākāmakaraṇīyo bāhiteyyo. Sace āpaṃ … tejaṃ … vāyaṃ … bhūte … deve … pajāpatiṃ … brahmaṃ ajjhosissasi, opasāyiko me bhavissasi vatthusāyiko, yathākāmakaraṇīyo bāhiteyyo”’ti.
+Ahesuṃ kho, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṃ yāvatakaṃ tuyhaṃ kasiṇaṃ āyu tāvatakaṃ tesaṃ tapokammameva ahosi. Te kho evaṃ jāneyyuṃ santañca panaññaṃ uttari nissaraṇaṃ “atthaññaṃ uttari nissaraṇan”ti, asantaṃ vā aññaṃ uttari nissaraṇaṃ “natthaññaṃ uttari nissaraṇan”ti.
 
-‘There were, monk, before your time, brahmans & contemplatives in the world whose ascetic practice lasted as long as your entire life span. They knew, when there was another, higher escape, that there was another, higher escape; or, when there was no other, higher escape, that there was no other, higher escape. So I tell you, monk, both that you will not find another, higher escape, and that, to that extent, you will reap your share of trouble & weariness. Monk, if you relish earth, you will lie close to me, lie within my domain, for me to banish and to do with as I like. If you relish liquid ... fire ... wind ... beings ... devas ... Pajapati ... brahma, you will lie close to me, lie within my domain, for me to banish and to do with as I like.’
+Taṃ tāhaṃ, bhikkhu, evaṃ vadāmi: “na cevaññaṃ uttari nissaraṇaṃ dakkhissasi, yāvadeva ca pana kilamathassa vighātassa bhāgī bhavissasi. Sace kho tvaṃ, bhikkhu, pathaviṃ ajjhosissasi, opasāyiko me bhavissasi vatthusāyiko, yathākāmakaraṇīyo bāhiteyyo. Sace āpaṃ … tejaṃ … vāyaṃ … bhūte … deve … pajāpatiṃ … brahmaṃ ajjhosissasi, opasāyiko me bhavissasi vatthusāyiko, yathākāmakaraṇīyo bāhiteyyo”’ti.
 
-比丘！在你存在之前，世間有沙門、婆羅門，他們的苦行是你壽命量的全部，他們應該知道：「有其他從這裡超越出離者就有其他從這裡超越出離者，沒有其他從這裡超越出離者就沒有其他從這裡超越出離者。」比丘！我對你這麼說：「你將看不到其他超越出離者，你將只有疲勞與惱害的分。比丘！如果你固持地，你將成為住在我宅院的近住者，隨欲而作與能懲處；如果你固持水，……火……風……已生者……天神們……生主神……如果你固持梵天，你將成為住在我宅院的近住者，隨欲而作與能懲處。」』
+比丘！在你存在之前，世間有沙門、婆羅門，他們的苦行是你壽命量的全部，他們應該知道：「有其他從這裡超越出離者就有其他從這裡超越出離者，沒有其他從這裡超越出離者就沒有其他從這裡超越出離者。」
 
-比丘！由於汝前世，有沙門、婆羅門，相當於汝一生間，於其時彼等行苦行，彼等如有其他更上之出離，則知有其他更上之出離；如無其他更上之出離，則知無有其他更上之出離也。比丘！是故予對汝言：「汝雖受如何之疲累、煩勞，汝亦不能得見其他更上之出離。」比丘！汝若依著於地，則成為近侍予者、住〔於予〕領地者、〔予〕如欲所作者、〔予〕之所驅使者；汝若依著水、火、風、生物、天、生主、梵天，則成為近侍予者，住〔於予〕之領地者，〔予〕如所欲作者，〔予〕之所驅使者。』
+比丘！由於汝前世，有沙門、婆羅門，相當於汝一生間，於其時彼等行苦行，彼等如有其他更上之出離，則知有其他更上之出離；如無其他更上之出離，則知無有其他更上之出離也。
+
+---
+
+‘There were, monk, before your time, brahmans & contemplatives in the world whose ascetic practice lasted as long as your entire life span. They knew, when there was another, higher escape, that there was another, higher escape; or, when there was no other, higher escape, that there was no other, higher escape.
+
+So I tell you, monk, both that you will not find another, higher escape, and that, to that extent, you will reap your share of trouble & weariness. Monk, if you relish earth, you will lie close to me, lie within my domain, for me to banish and to do with as I like. If you relish liquid ... fire ... wind ... beings ... devas ... Pajapati ... brahma, you will lie close to me, lie within my domain, for me to banish and to do with as I like.’
+
+比丘！我對你這麼說：「你將看不到其他超越出離者，你將只有疲勞與惱害的分。比丘！如果你固持地，你將成為住在我宅院的近住者，隨欲而作與能懲處；如果你固持水，……火……風……已生者……天神們……生主神……如果你固持梵天，你將成為住在我宅院的近住者，隨欲而作與能懲處。」』
+
+比丘！是故予對汝言：「汝雖受如何之疲累、煩勞，汝亦不能得見其他更上之出離。」比丘！汝若依著於地，則成為近侍予者、住〔於予〕領地者、〔予〕如欲所作者、〔予〕之所驅使者；汝若依著水、火、風、生物、天、生主、梵天，則成為近侍予者，住〔於予〕之領地者，〔予〕如所欲作者，〔予〕之所驅使者。』
 
 ---
 
@@ -158,9 +188,9 @@ Yathākathaṃ pana me tvaṃ, mārisa, gatiñca pajānāsi, jutiñca pajānāsi
 
 ---
 
-‘Yāvatā candimasūriyā, Pariharanti disā bhanti virocanā; Tāva sahassadhā loko, Ettha te vattate vaso.  Paroparañca jānāsi, atho rāgavirāginaṃ; Itthabhāvaññathābhāvaṃ, sattānaṃ āgatiṃ gatinti.
+‘Yāvatā candimasūriyā, Pariharanti disā bhanti virocanā; Tāva sahassadhā loko, Ettha te vattate vaso. Paroparañca jānāsi, atho rāgavirāginaṃ; Itthabhāvaññathābhāvaṃ, sattānaṃ āgatiṃ gatinti.
 
-‘As far as suns & moons revolve, shining, illuminating the directions, over a thousand-fold world         your control holds sway. There you know those above & below, those with lust & those without, the state of what is as it is, the state of what becomes otherwise, the coming & going of beings.
+‘As far as suns & moons revolve, shining, illuminating the directions, over a thousand-fold world your control holds sway. There you know those above & below, those with lust & those without, the state of what is as it is, the state of what becomes otherwise, the coming & going of beings.
 
 『所有日月運行之所及，光亮照耀四方， 大約一千個那樣的世界，在那裡都存在你的影響力。 你知道勝劣，以及貪與離貪者， 像這樣的狀態與其它狀態，眾生的來處與趣處。
 
@@ -168,19 +198,29 @@ Yathākathaṃ pana me tvaṃ, mārisa, gatiñca pajānāsi, jutiñca pajānāsi
 
 ---
 
-Evaṃ kho te ahaṃ, brahme, gatiñca pajānāmi jutiñca pajānāmi: “evaṃ mahiddhiko bako brahmā, evaṃ mahānubhāvo bako brahmā, evaṃ mahesakkho bako brahmā”ti. Atthi kho, brahme, añño kāyo, taṃ tvaṃ na jānāsi na passasi; tamahaṃ jānāmi passāmi. Atthi kho, brahme, ābhassarā nāma kāyo yato tvaṃ cuto idhūpapanno. Tassa te aticiranivāsena sā sati pamuṭṭhā, tena taṃ tvaṃ na jānāsi na passasi; tamahaṃ jānāmi passāmi. Evampi kho ahaṃ, brahme, neva te samasamo abhiññāya, kuto nīceyyaṃ? Atha kho ahameva tayā bhiyyo.
+Evaṃ kho te ahaṃ, brahme, gatiñca pajānāmi jutiñca pajānāmi: “evaṃ mahiddhiko bako brahmā, evaṃ mahānubhāvo bako brahmā, evaṃ mahesakkho bako brahmā”ti. Atthi kho, brahme, añño kāyo, taṃ tvaṃ na jānāsi na passasi; tamahaṃ jānāmi passāmi.
 
-That, brahma, is how I discern your sphere, that is how I discern your splendor: “Baka Brahma has this much great power. Baka Brahma has this much great might. Baka Brahma has this much great influence.” There are, brahma, bodies other than yours that you don’t know, don’t see, but that I know, I see. There is, brahma, the body named Abhassara (Radiant/Luminous) from which you fell away & reappeared here.[4] From your having lived here so long, your memory of that has become muddled. That is why you don’t know it, don’t see it, but I know it, I see it. Thus I am not your mere equal in terms of direct knowing, so how could I be inferior? I am actually superior to you.
+That, brahma, is how I discern your sphere, that is how I discern your splendor: “Baka Brahma has this much great power. Baka Brahma has this much great might. Baka Brahma has this much great influence.” There are, brahma, bodies other than yours that you don’t know, don’t see, but that I know, I see.
 
-梵天！我這樣了知你[死後]的趣處與光輝：「巴迦梵天有這麼大神通力，巴迦梵天有這麼大威力，巴迦梵天有這麼大權勢。」梵天！有其它身你不知、不見而我知道、見到，梵天！有名叫光音天身[處]，你從那裡死沒往生這裡，對那[樣的事]，你的記憶因為在這裡住過久了而忘失了，因而你不知、不見而我知道、見到。梵天！這樣，在證智上我既與你不同，何來更低劣呢？我只比你更多。
+梵天！我這樣了知你[死後]的趣處與光輝：「巴迦梵天有這麼大神通力，巴迦梵天有這麼大威力，巴迦梵天有這麼大權勢。」梵天！有其它身你不知、不見而我知道、見到，
 
-梵天！予知汝趣向，知汝榮光：梵天婆伽具如是大神通、具如是大威力、具如是大偉力。梵天！有其他三群眾，對彼，汝不知、不見之，對彼，予知、見之。梵天！有群眾名為光音天，汝由其處消滅，再生於此處，對彼，汝因過於長時居此，其憶念被忘卻也。是故，汝對彼不知、不見之，予對彼知、見之。梵天！如是，於智予與汝實不相等，何況〔汝〕劣者。然而，予實比汝為勝也。
+梵天！予知汝趣向，知汝榮光：梵天婆伽具如是大神通、具如是大威力、具如是大偉力。梵天！有其他三群眾，對彼，汝不知、不見之，對彼，予知、見之。
+
+---
+
+Atthi kho, brahme, ābhassarā nāma kāyo yato tvaṃ cuto idhūpapanno. Tassa te aticiranivāsena sā sati pamuṭṭhā, tena taṃ tvaṃ na jānāsi na passasi; tamahaṃ jānāmi passāmi. Evampi kho ahaṃ, brahme, neva te samasamo abhiññāya, kuto nīceyyaṃ? Atha kho ahameva tayā bhiyyo.
+
+There is, brahma, the body named Abhassara (Radiant/Luminous) from which you fell away & reappeared here. From your having lived here so long, your memory of that has become muddled. That is why you don’t know it, don’t see it, but I know it, I see it. Thus I am not your mere equal in terms of direct knowing, so how could I be inferior? I am actually superior to you.
+
+梵天！有名叫光音天身[處]，你從那裡死沒往生這裡，對那[樣的事]，你的記憶因為在這裡住過久了而忘失了，因而你不知、不見而我知道、見到。梵天！這樣，在證智上我既與你不同，何來更低劣呢？我只比你更多。
+
+梵天！有群眾名為光音天，汝由其處消滅，再生於此處，對彼，汝因過於長時居此，其憶念被忘卻也。是故，汝對彼不知、不見之，予對彼知、見之。梵天！如是，於智予與汝實不相等，何況〔汝〕劣者。然而，予實比汝為勝也。
 
 ---
 
 Atthi kho, brahme, subhakiṇho nāma kāyo, vehapphalo nāma kāyo, abhibhū nāma kāyo, taṃ tvaṃ na jānāsi na passasi; tamahaṃ jānāmi passāmi. Evampi kho ahaṃ, brahme, neva te samasamo abhiññāya, kuto nīceyyaṃ? Atha kho ahameva tayā bhiyyo.
 
-‘There is, brahma, the body named Subhakinha (Beautiful Black/Refulgent Glory) ... the body named Vehapphala (Sky-fruit/Great Fruit), {the body named Abhibhu (Conqueror)}[5] which you don’t know, don’t see, but that I know, I see. Thus I am not your mere equal in terms of direct knowing, so how could I be your inferior? I am actually superior to you.
+‘There is, brahma, the body named Subhakinha (Beautiful Black/Refulgent Glory) ... the body named Vehapphala (Sky-fruit/Great Fruit), {the body named Abhibhu (Conqueror)} which you don’t know, don’t see, but that I know, I see. Thus I am not your mere equal in terms of direct knowing, so how could I be your inferior? I am actually superior to you.
 
 梵天！有名叫遍淨天身、名叫廣果天身、名叫征服天身[處]你不知、不見而我知道、見到。梵天！這樣，在證智上我既與你不同，何來更低劣呢？我只比你更多。
 
@@ -190,7 +230,7 @@ Atthi kho, brahme, subhakiṇho nāma kāyo, vehapphalo nāma kāyo, abhibhū n�
 
 Pathaviṃ kho ahaṃ, brahme, pathavito abhiññāya yāvatā pathaviyā pathavattena ananubhūtaṃ tadabhiññāya pathaviṃ nāpahosiṃ, pathaviyā nāpahosiṃ, pathavito nāpahosiṃ, pathaviṃ meti nāpahosiṃ, pathaviṃ nābhivadiṃ. Evampi kho ahaṃ, brahme, neva te samasamo abhiññāya, kuto nīceyyaṃ? Atha kho ahameva tayā bhiyyo.
 
-Having directly known earth as earth, and having directly known the extent of what has not been experienced through the earthness of earth,[6] I wasn’t earth, I wasn’t in earth, I wasn’t coming from earth, I wasn’t “Earth is mine.” I didn’t affirm earth.[7] Thus I am not your mere equal in terms of direct knowing, so how could I be inferior? I am actually superior to you.
+Having directly known earth as earth, and having directly known the extent of what has not been experienced through the earthness of earth, I wasn’t earth, I wasn’t in earth, I wasn’t coming from earth, I wasn’t “Earth is mine.” I didn’t affirm earth. Thus I am not your mere equal in terms of direct knowing, so how could I be inferior? I am actually superior to you.
 
 梵天！我證知地為地後，證知那所有不被地之地性經驗之所及後，我不[自稱]是地、不[自稱]在地中、不[自稱]從地分離、不[自稱]地是「我的」，不歡迎地。梵天！這樣，在證智上我既與你不同，何來更低劣呢？我只比你更多。
 
@@ -210,7 +250,7 @@ Having directly known earth as earth, and having directly known the extent of wh
 
 sabbaṃ kho ahaṃ, brahme, sabbato abhiññāya yāvatā sabbassa sabbattena ananubhūtaṃ tadabhiññāya sabbaṃ nāpahosiṃ sabbasmiṃ nāpahosiṃ sabbato nāpahosiṃ sabbaṃ meti nāpahosiṃ, sabbaṃ nābhivadiṃ. Evampi kho ahaṃ, brahme, neva te samasamo abhiññāya, kuto nīceyyaṃ? Atha kho ahameva tayā bhiyyo’ti.
 
-Having directly known the all as the all,[8] and having directly known the extent of what has not been experienced through the allness of the all, I wasn’t the all, I wasn’t in the all, I wasn’t coming forth from the all, I wasn’t “The all is mine.” I didn’t affirm the all. Thus I am not your mere equal in terms of direct knowing, so how could I be inferior? I am actually superior to you.’
+Having directly known the all as the all, and having directly known the extent of what has not been experienced through the allness of the all, I wasn’t the all, I wasn’t in the all, I wasn’t coming forth from the all, I wasn’t “The all is mine.” I didn’t affirm the all. Thus I am not your mere equal in terms of direct knowing, so how could I be inferior? I am actually superior to you.’
 
 我證知一切為一切後，證知那所有不被一切之一切性經驗之所及後，我不[自稱]是一切、不[自稱]在一切中、不[自稱]從一切分離、不[自稱]一切是「我的」，不歡迎一切。梵天！這樣，在證智上我既與你不同，何來更低劣呢？我只比你更多。』
 
@@ -238,13 +278,23 @@ Consciousness without surface,” endless, radiant all around,”
 
 ---
 
-taṃ pathaviyā pathavattena ananubhūtaṃ, āpassa āpattena ananubhūtaṃ, tejassa tejattena ananubhūtaṃ, vāyassa vāyattena ananubhūtaṃ, bhūtānaṃ bhūtattena ananubhūtaṃ, devānaṃ devattena ananubhūtaṃ, pajāpatissa pajāpatittena ananubhūtaṃ, brahmānaṃ brahmattena ananubhūtaṃ, ābhassarānaṃ ābhassarattena ananubhūtaṃ, subhakiṇhānaṃ subhakiṇhattena ananubhūtaṃ, vehapphalānaṃ vehapphalattena ananubhūtaṃ, abhibhussa abhibhuttena ananubhūtaṃ, sabbassa sabbattena ananubhūtaṃ.
+taṃ pathaviyā pathavattena ananubhūtaṃ, āpassa āpattena ananubhūtaṃ, tejassa tejattena ananubhūtaṃ, vāyassa vāyattena ananubhūtaṃ,
 
-has not been experienced through the earthness of earth ... the liquidity of liquid ... the fieriness of fire ... the windiness of wind ... the allness of the all.’[9]
+has not been experienced through the earthness of earth ... the liquidity of liquid ... the fieriness of fire ... the windiness of wind ...
 
-對地不被地性經驗；對水不被水性經驗；對火不被火性經驗；對風不被風性經驗；對已生者不被已生者之性經驗；對天神們不被天神們之性經驗；對生主神不被生主神之性經驗；對梵天不被梵天之性經驗；對光音天不被光音天之性經驗；對遍淨天不被遍淨天之性經驗；對廣果天不被廣果天之性經驗；對征服天不被征服天之性經驗；對一切不被一切性經驗。』
+對地不被地性經驗；對水不被水性經驗；對火不被火性經驗；對風不被風性經驗；
 
-其為以地之地性，不得領受者也；以水之水性，不得領受者也；以火之火性，不得領受者也；以風之風性，不得領受者也；以生物之生物性，不得領受者也；以天之天性，不得領受者也；以生主之生主性，不得領受者也；以梵天之梵天性，不得領受者也；以光音天之光音天性，不得領受者也；以徧淨天之徧淨天性，不得領受者也；以廣果天之廣果天性，不得領受 [P.330] 者也；以阿毘浮天之阿毘浮天性，不得領受者也；以一切之性為不得領受者也。
+其為以地之地性，不得領受者也；以水之水性，不得領受者也；以火之火性，不得領受者也；以風之風性，不得領受者也；
+
+---
+
+bhūtānaṃ bhūtattena ananubhūtaṃ, devānaṃ devattena ananubhūtaṃ, pajāpatissa pajāpatittena ananubhūtaṃ, brahmānaṃ brahmattena ananubhūtaṃ, ābhassarānaṃ ābhassarattena ananubhūtaṃ, subhakiṇhānaṃ subhakiṇhattena ananubhūtaṃ, vehapphalānaṃ vehapphalattena ananubhūtaṃ, abhibhussa abhibhuttena ananubhūtaṃ, sabbassa sabbattena ananubhūtaṃ.
+
+... the allness of the all.’
+
+對已生者不被已生者之性經驗；對天神們不被天神們之性經驗；對生主神不被生主神之性經驗；對梵天不被梵天之性經驗；對光音天不被光音天之性經驗；對遍淨天不被遍淨天之性經驗；對廣果天不被廣果天之性經驗；對征服天不被征服天之性經驗；對一切不被一切性經驗。』
+
+以生物之生物性，不得領受者也；以天之天性，不得領受者也；以生主之生主性，不得領受者也；以梵天之梵天性，不得領受者也；以光音天之光音天性，不得領受者也；以徧淨天之徧淨天性，不得領受者也；以廣果天之廣果天性，不得領受者也；以阿毘浮天之阿毘浮天性，不得領受者也；以一切之性為不得領受者也。
 
 ---
 
@@ -310,11 +360,11 @@ Atha kho ahaṃ, bhikkhave, tathārūpaṃ iddhābhisaṅkhāraṃ abhisaṅkhā
 
 ‘Bhavevāhaṃ bhayaṃ disvā, bhavañca vibhavesinaṃ; Bhavaṃ nābhivadiṃ kiñci, nandiñca na upādiyin’ti.
 
-Having seen         danger         right in becoming,         and becoming         searching for non-becoming,[10]  I didn’t affirm any kind of becoming, or cling to any delight.’
+Having seen danger right in becoming, and becoming searching for non-becoming, I didn’t affirm any kind of becoming, or cling to any delight.’
 
 『我看見生存的恐怖，以及生存者有離生存的尋求，不歡迎任何生存，也不執取[生存之]歡喜。』
 
-『於有見恐怖，以尋求非有    予不致意有，不歡不執取』
+『於有見恐怖，以尋求非有，予不致意有，不歡不執取』
 
 ---
 
@@ -328,13 +378,23 @@ Then in Brahma, the Brahma assembly, and the attendants of the Brahma assembly t
 
 ---
 
-Atha kho, bhikkhave, māro pāpimā aññataraṃ brahmapārisajjaṃ anvāvisitvā maṃ etadavoca: ‘sace kho tvaṃ, mārisa, evaṃ pajānāsi, sace tvaṃ evaṃ anubuddho, mā sāvake upanesi, mā pabbajite; mā sāvakānaṃ dhammaṃ desesi, mā pabbajitānaṃ; mā sāvakesu gedhimakāsi, mā pabbajitesu. Ahesuṃ kho, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṃ arahanto sammāsambuddhā paṭijānamānā. Te sāvake upanesuṃ pabbajite, sāvakānaṃ dhammaṃ desesuṃ pabbajitānaṃ, sāvakesu gedhimakaṃsu pabbajitesu, te sāvake upanetvā pabbajite, sāvakānaṃ dhammaṃ desetvā pabbajitānaṃ, sāvakesu gedhitacittā pabbajitesu, kāyassa bhedā pāṇupacchedā hīne kāye patiṭṭhitā.
+Atha kho, bhikkhave, māro pāpimā aññataraṃ brahmapārisajjaṃ anvāvisitvā maṃ etadavoca: ‘sace kho tvaṃ, mārisa, evaṃ pajānāsi, sace tvaṃ evaṃ anubuddho, mā sāvake upanesi, mā pabbajite; mā sāvakānaṃ dhammaṃ desesi, mā pabbajitānaṃ; mā sāvakesu gedhimakāsi, mā pabbajitesu.
 
-Then Mara, the Evil One, taking possession of an attendant of the Brahma assembly, said to me, ‘If, good sir, this is what you discern, if this is what you have awakened to, do not lead (lay) disciples or those gone forth. Do not teach the Dhamma to (lay) disciples or those gone forth. Do not yearn for (lay) disciples or those gone forth. There were, good sir, before your time, brahmans & contemplatives in the world who claimed to be worthy & rightly self-awakened. They led (lay) disciples & those gone forth. They taught the Dhamma to (lay) disciples & those gone forth. They yearned for (lay) disciples & those gone forth. Having led (lay) disciples & those gone forth, having taught the Dhamma to (lay) disciples & those gone forth, having yearned for (lay) disciples & those gone forth, they — on the break-up of the body, with the cutting off of life — were established in a coarse body.
+Then Mara, the Evil One, taking possession of an attendant of the Brahma assembly, said to me, ‘If, good sir, this is what you discern, if this is what you have awakened to, do not lead (lay) disciples or those gone forth. Do not teach the Dhamma to (lay) disciples or those gone forth. Do not yearn for (lay) disciples or those gone forth.
 
-那時，魔波旬進入某位梵眾天後，對我這麼說：『親愛的先生！如果你這麼知，如果你這麼領悟，不要導引[在家]弟子、出家[弟子]，不要對[在家]弟子、出家[弟子]教導法，不要使[在家]弟子、出家[弟子]羨慕，比丘！在你存在之前，世間有沙門、婆羅門自稱是阿羅漢、遍正覺者，他們引導[在家]弟子、出家[弟子]，對[在家]弟子、出家[弟子]教導法，使[在家]弟子、出家[弟子]羨慕；他們引導[在家]弟子、出家[弟子]，對[在家]弟子、出家[弟子]教導法，使[在家]弟子、出家[弟子]羨慕後，以身體的崩解，以生命斷絕而被住立在下劣身中。
+那時，魔波旬進入某位梵眾天後，對我這麼說：『親愛的先生！如果你這麼知，如果你這麼領悟，不要導引[在家]弟子、出家[弟子]，不要對[在家]弟子、出家[弟子]教導法，不要使[在家]弟子、出家[弟子]羨慕，
 
-諸比丘！爾時，惡魔魅詣一梵天眾之眷屬，對予作如是語：『尊者！汝若如是知，又汝若如是覺，則勿教導諸聲聞、出家行者；勿對諸聲聞、出家行者說法；勿於諸聲聞、出家行者生期望。比丘！於汝之前世，有自稱應供、等正覺者之沙門、婆羅門眾，彼等對諸聲聞、出家行者教導之；對諸聲聞、出家行者說法之；對諸聲 [P.331] 聞，出家行者生期望；彼等教導諸聲聞、出家行者；為諸聲聞、出家行者說法；對諸聲聞、出家行者抱期望之心，身壞命終住於卑下身。
+諸比丘！爾時，惡魔魅詣一梵天眾之眷屬，對予作如是語：『尊者！汝若如是知，又汝若如是覺，則勿教導諸聲聞、出家行者；勿對諸聲聞、出家行者說法；勿於諸聲聞、出家行者生期望。
+
+---
+
+Ahesuṃ kho, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṃ arahanto sammāsambuddhā paṭijānamānā. Te sāvake upanesuṃ pabbajite, sāvakānaṃ dhammaṃ desesuṃ pabbajitānaṃ, sāvakesu gedhimakaṃsu pabbajitesu, te sāvake upanetvā pabbajite, sāvakānaṃ dhammaṃ desetvā pabbajitānaṃ, sāvakesu gedhitacittā pabbajitesu, kāyassa bhedā pāṇupacchedā hīne kāye patiṭṭhitā.
+
+There were, good sir, before your time, brahmans & contemplatives in the world who claimed to be worthy & rightly self-awakened. They led (lay) disciples & those gone forth. They taught the Dhamma to (lay) disciples & those gone forth. They yearned for (lay) disciples & those gone forth. Having led (lay) disciples & those gone forth, having taught the Dhamma to (lay) disciples & those gone forth, having yearned for (lay) disciples & those gone forth, they — on the break-up of the body, with the cutting off of life — were established in a coarse body.
+
+比丘！在你存在之前，世間有沙門、婆羅門自稱是阿羅漢、遍正覺者，他們引導[在家]弟子、出家[弟子]，對[在家]弟子、出家[弟子]教導法，使[在家]弟子、出家[弟子]羨慕；他們引導[在家]弟子、出家[弟子]，對[在家]弟子、出家[弟子]教導法，使[在家]弟子、出家[弟子]羨慕後，以身體的崩解，以生命斷絕而被住立在下劣身中。
+
+比丘！於汝之前世，有自稱應供、等正覺者之沙門、婆羅門眾，彼等對諸聲聞、出家行者教導之；對諸聲聞、出家行者說法之；對諸聲聞，出家行者生期望；彼等教導諸聲聞、出家行者；為諸聲聞、出家行者說法；對諸聲聞、出家行者抱期望之心，身壞命終住於卑下身。
 
 ---
 
