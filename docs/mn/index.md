@@ -255,7 +255,7 @@ The Buddha explains that the concept of a self comes from the process of percept
 ---
 
 ##### [MN49](/mn49/)
-### MN49 Brahmanimantanika Sutta / The Invitation Of A Brahma / 中部四九 梵天請經
+### [MN49 Brahmanimantanika Sutta / The Invitation Of A Brahma / 中部四九 梵天請經](/mn49)
 
 ---
 

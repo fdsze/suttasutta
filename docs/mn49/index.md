@@ -1,10 +1,10 @@
 ---
-title: MN49 / Brahma-nimantanika Sutta / The Brahma Invitation / 中部四十九 梵天請經
+title: MN49 / Brahma-nimantanika Sutta / The Brahma Invitation / 中部四九 梵天請經
 slug: mn49
 pageClass: mn
 ---
 
-# MN49 / Brahma-nimantanika Sutta / The Brahma Invitation / 中部四十九 梵天請經
+# MN49 / Brahma-nimantanika Sutta / The Brahma Invitation / 中部四九 梵天請經
 
 ---
 
