@@ -48,23 +48,43 @@ The Blessed One said: “On one occasion recently I was staying in Ukkattha in t
 
 ---
 
-Atha khvāhaṃ, bhikkhave, bakassa brahmuno cetasā cetoparivitakkamaññāya—seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya; evameva—ukkaṭṭhāyaṃ subhagavane sālarājamūle antarahito tasmiṃ brahmaloke pāturahosiṃ. Addasā kho maṃ, bhikkhave, bako brahmā dūratova āgacchantaṃ; disvāna maṃ etadavoca: ‘ehi kho, mārisa, svāgataṃ, mārisa. Cirassaṃ kho, mārisa, imaṃ pariyāyamakāsi yadidaṃ idhāgamanāya. Idañhi, mārisa, niccaṃ, idaṃ dhuvaṃ, idaṃ sassataṃ, idaṃ kevalaṃ, idaṃ acavanadhammaṃ, idañhi na jāyati na jīyati na mīyati na cavati na upapajjati. Ito ca panaññaṃ uttari nissaraṇaṃ natthī’ti.
+Atha khvāhaṃ, bhikkhave, bakassa brahmuno cetasā cetoparivitakkamaññāya—seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya; evameva—ukkaṭṭhāyaṃ subhagavane sālarājamūle antarahito tasmiṃ brahmaloke pāturahosiṃ.
 
-So I — having known with my awareness the train of thought in Baka Brahma’s awareness — as a strong man would extend his flexed arm or flex his extended arm, vanished into the root of the royal sala tree in the Subhaga forest in Ukkattha and appeared in that brahma world. Baka Brahma saw me coming in the distance and, on seeing me, said, ‘Come, good sir. You are well-come, good sir. It has been long, good sir, since you arranged to come here — for this, good sir, is constant. This is permanent. This is eternal. This is total. This is not subject to falling away — for here one does not take birth, does not age, does not die, does not fall away, does not reappear. And there is no other, higher escape.’
+So I — having known with my awareness the train of thought in Baka Brahma’s awareness — as a strong man would extend his flexed arm or flex his extended arm, vanished into the root of the royal sala tree in the Subhaga forest in Ukkattha and appeared in that brahma world.
 
-比丘們！那時，我以心思量巴迦梵天心中的深思後，猶如有力氣的男子能伸直彎曲的手臂，或彎曲伸直的手臂那樣[快]地在[名叫]善高貴[地方]的幸運林國王的沙羅樹下消失，出現在那梵天世界中。巴迦梵天看見我遠遠地走來。看見後對我這麼說：『親愛的先生！來！親愛的先生！歡迎你！親愛的先生！你離上次來這裡已很久了，親愛的先生！確實，這是常的，這是堅固的，這是永恆的，這是全部的，這是不衰變法；確實，這是不被生、不老、不死、不去世、不再生[之處]，又，沒有其它從這裡超越出離者。』
+比丘們！那時，我以心思量巴迦梵天心中的深思後，猶如有力氣的男子能伸直彎曲的手臂，或彎曲伸直的手臂那樣[快]地在[名叫]善高貴[地方]的幸運林國王的沙羅樹下消失，出現在那梵天世界中。
 
-諸比丘！我於此，予因知梵天婆伽心之所念，恰如有力士夫，將屈伸臂或將伸屈臂，如是〔迅速〕，予即於郁伽羅村幸福林娑羅王樹下消失，而出現於彼梵天界。諸比丘！婆伽梵天遙見予來，見予即作是語曰：『善來，尊者！善來，尊者！尊者終於來此處。尊者！〔我〕實為常也、為恒也、為永住也、為獨存也、為不變之法也，實為不生、不老、不死、不滅、不轉生、而無其他比此更殊勝之出離也。』
+諸比丘！我於此，予因知梵天婆伽心之所念，恰如有力士夫，將屈伸臂或將伸屈臂，如是〔迅速〕，予即於郁伽羅村幸福林娑羅王樹下消失，而出現於彼梵天界。
 
 ---
 
-Evaṃ vutte, ahaṃ, bhikkhave, bakaṃ brahmānaṃ etadavocaṃ: ‘avijjāgato vata bho bako brahmā, avijjāgato vata bho bako brahmā; yatra hi nāma aniccaṃyeva samānaṃ niccanti vakkhati, addhuvaṃyeva samānaṃ dhuvanti vakkhati, asassataṃyeva samānaṃ sassatanti vakkhati, akevalaṃyeva samānaṃ kevalanti vakkhati, cavanadhammaṃyeva samānaṃ acavanadhammanti vakkhati; yattha ca pana jāyati jīyati mīyati cavati upapajjati tañca vakkhati: “idañhi na jāyati na jīyati na mīyati na cavati na upapajjatī”ti; santañca panaññaṃ uttari nissaraṇaṃ “natthaññaṃ uttari nissaraṇan”ti vakkhatī’ti.
+Addasā kho maṃ, bhikkhave, bako brahmā dūratova āgacchantaṃ; disvāna maṃ etadavoca: ‘ehi kho, mārisa, svāgataṃ, mārisa. Cirassaṃ kho, mārisa, imaṃ pariyāyamakāsi yadidaṃ idhāgamanāya. Idañhi, mārisa, niccaṃ, idaṃ dhuvaṃ, idaṃ sassataṃ, idaṃ kevalaṃ, idaṃ acavanadhammaṃ, idañhi na jāyati na jīyati na mīyati na cavati na upapajjati. Ito ca panaññaṃ uttari nissaraṇaṃ natthī’ti.
 
-When this was said, I told Baka Brahma, ‘How immersed in ignorance is Baka Brahma! How immersed in ignorance is Baka Brahma! — in that what is actually inconstant he calls “constant.” What is actually impermanent he calls “permanent.” What is actually non-eternal he calls “eternal.” What is actually partial he calls “total.” What is actually subject to falling away he calls “not subject to falling away.” Where one takes birth, ages, dies, falls away, and reappears, he says, “For here one does not take birth, does not age, does not die, does not fall away, does not reappear.” And there being another, higher escape, he says, “There is no other, higher escape.”’
+Baka Brahma saw me coming in the distance and, on seeing me, said, ‘Come, good sir. You are well-come, good sir. It has been long, good sir, since you arranged to come here — for this, good sir, is constant. This is permanent. This is eternal. This is total. This is not subject to falling away — for here one does not take birth, does not age, does not die, does not fall away, does not reappear. And there is no other, higher escape.’
 
-比丘們！當這麼說時，我對巴迦梵天這麼說：『唉！先生！巴迦梵天進入了無明，唉！先生！巴迦梵天進入了無明，確實是因為他將無常的說成常的，不堅固的說成堅固的，非永恆的說成永恆的，非全部的說成全部的，衰變法說成不衰變法，而且，將被生、老、死、去世、再生之處那樣說：「確實，這是不被生、不老、不死、不去世、不再生[之處]。」又，將存在著其它超越出離者說成：「沒有其它超越出離者。」』
+巴迦梵天看見我遠遠地走來。看見後對我這麼說：『親愛的先生！來！親愛的先生！歡迎你！親愛的先生！你離上次來這裡已很久了，親愛的先生！確實，這是常的，這是堅固的，這是永恆的，這是全部的，這是不衰變法；確實，這是不被生、不老、不死、不去世、不再生[之處]，又，沒有其它從這裡超越出離者。』
 
-諸比丘！如是告已，我對婆伽梵天作是語曰：『汝，梵天婆伽實為無明〔所蔽〕也；汝，婆伽實為無明〔所蔽〕也。由於〔汝〕將無常之存在，言為常也；將無恒之存在，言為恒也；將不永住之存在，言為永住也；將非獨存之存在，言為獨存也；將變法之存在，言為不變法也；且又將生、老、死、滅、轉生者，言為此實為不生、不老、不死、不滅、不轉生；且又〔將〕有其他更殊勝出離之存在，言無其他更上之出離也。』
+諸比丘！婆伽梵天遙見予來，見予即作是語曰：『善來，尊者！善來，尊者！尊者終於來此處。尊者！〔我〕實為常也、為恒也、為永住也、為獨存也、為不變之法也，實為不生、不老、不死、不滅、不轉生、而無其他比此更殊勝之出離也。』
+
+---
+
+Evaṃ vutte, ahaṃ, bhikkhave, bakaṃ brahmānaṃ etadavocaṃ: ‘avijjāgato vata bho bako brahmā, avijjāgato vata bho bako brahmā; yatra hi nāma aniccaṃyeva samānaṃ niccanti vakkhati, addhuvaṃyeva samānaṃ dhuvanti vakkhati, asassataṃyeva samānaṃ sassatanti vakkhati, akevalaṃyeva samānaṃ kevalanti vakkhati, cavanadhammaṃyeva samānaṃ acavanadhammanti vakkhati;
+
+When this was said, I told Baka Brahma, ‘How immersed in ignorance is Baka Brahma! How immersed in ignorance is Baka Brahma! — in that what is actually inconstant he calls “constant.” What is actually impermanent he calls “permanent.” What is actually non-eternal he calls “eternal.” What is actually partial he calls “total.” What is actually subject to falling away he calls “not subject to falling away.”
+
+比丘們！當這麼說時，我對巴迦梵天這麼說：『唉！先生！巴迦梵天進入了無明，唉！先生！巴迦梵天進入了無明，確實是因為他將無常的說成常的，不堅固的說成堅固的，非永恆的說成永恆的，非全部的說成全部的，衰變法說成不衰變法，
+
+諸比丘！如是告已，我對婆伽梵天作是語曰：『汝，梵天婆伽實為無明〔所蔽〕也；汝，婆伽實為無明〔所蔽〕也。由於〔汝〕將無常之存在，言為常也；將無恒之存在，言為恒也；將不永住之存在，言為永住也；將非獨存之存在，言為獨存也；將變法之存在，言為不變法也；
+
+---
+
+yattha ca pana jāyati jīyati mīyati cavati upapajjati tañca vakkhati: “idañhi na jāyati na jīyati na mīyati na cavati na upapajjatī”ti; santañca panaññaṃ uttari nissaraṇaṃ “natthaññaṃ uttari nissaraṇan”ti vakkhatī’ti.
+
+Where one takes birth, ages, dies, falls away, and reappears, he says, “For here one does not take birth, does not age, does not die, does not fall away, does not reappear.” And there being another, higher escape, he says, “There is no other, higher escape.”’
+
+而且，將被生、老、死、去世、再生之處那樣說：「確實，這是不被生、不老、不死、不去世、不再生[之處]。」又，將存在著其它超越出離者說成：「沒有其它超越出離者。」』
+
+且又將生、老、死、滅、轉生者，言為此實為不生、不老、不死、不滅、不轉生；且又〔將〕有其他更殊勝出離之存在，言無其他更上之出離也。』
 
 ---
 
@@ -368,13 +388,23 @@ Having seen danger right in becoming, and becoming searching for non-becoming, I
 
 ---
 
-Atha kho, bhikkhave, brahmā ca brahmaparisā ca brahmapārisajjā ca acchariyabbhutacittajātā ahesuṃ: ‘acchariyaṃ vata bho, abbhutaṃ vata bho. Samaṇassa gotamassa mahiddhikatā mahānubhāvatā, na ca vata no ito pubbe diṭṭho vā, suto vā, añño samaṇo vā brāhmaṇo vā evaṃ mahiddhiko evaṃ mahānubhāvo yathāyaṃ samaṇo gotamo sakyaputto sakyakulā pabbajito. Bhavarāmāya vata, bho, pajāya bhavaratāya bhavasammuditāya samūlaṃ bhavaṃ udabbahī’ti.
+Atha kho, bhikkhave, brahmā ca brahmaparisā ca brahmapārisajjā ca acchariyabbhutacittajātā ahesuṃ: ‘acchariyaṃ vata bho, abbhutaṃ vata bho. Samaṇassa gotamassa mahiddhikatā mahānubhāvatā, na ca vata no ito pubbe diṭṭho vā, suto vā, añño samaṇo vā brāhmaṇo vā evaṃ mahiddhiko evaṃ mahānubhāvo yathāyaṃ samaṇo gotamo sakyaputto sakyakulā pabbajito.
 
-Then in Brahma, the Brahma assembly, and the attendants of the Brahma assembly there arose a sense of amazement & awe: ‘How amazing! How awesome! — The great power, the great might of Gotama the contemplative! Never before have we seen or heard of any other contemplative or brahman of such great power, such great might as that of this Gotama the contemplative, who went forth from a Sakyan clan! Living in a generation that so delights in becoming, so rejoices in becoming, is so fond of becoming, he has pulled out becoming by the root!’”
+Then in Brahma, the Brahma assembly, and the attendants of the Brahma assembly there arose a sense of amazement & awe: ‘How amazing! How awesome! — The great power, the great might of Gotama the contemplative! Never before have we seen or heard of any other contemplative or brahman of such great power, such great might as that of this Gotama the contemplative, who went forth from a Sakyan clan!
 
-比丘們！那時，梵天、梵天眾、梵眾天有不可思議的、未曾有的心生起：『實在不可思議啊，先生！實在未曾有啊，先生！沙門喬達摩的大神通力狀態、大威力狀態，我們在此之前，未曾看見或聽聞其他沙門或婆羅門有這麼大神通力、大威力，如釋迦人之子、從釋迦族出家的沙門喬達摩那樣的。先生！被生在歡樂於生存、愛樂於生存、喜悅於生存中，他[卻]連根拉出生存。』
+比丘們！那時，梵天、梵天眾、梵眾天有不可思議的、未曾有的心生起：『實在不可思議啊，先生！實在未曾有啊，先生！沙門喬達摩的大神通力狀態、大威力狀態，我們在此之前，未曾看見或聽聞其他沙門或婆羅門有這麼大神通力、大威力，如釋迦人之子、從釋迦族出家的沙門喬達摩那樣的。
 
-諸比丘！爾時，梵天、梵天眾、及梵天眷屬，心生希有，未曾有，〔曰〕：『尊者！沙門瞿曇之大神力性，大威德性、實希有也，實未曾有也，如釋迦族之子由釋迦族出家之、此沙門瞿曇，有如是大神力、大威力之沙門或婆羅門者，於此之前，我等於他處尚未曾見、未曾聞，世尊實為於愛有、樂有、喜有之人中，已除去貪有之根者。』
+諸比丘！爾時，梵天、梵天眾、及梵天眷屬，心生希有，未曾有，〔曰〕：『尊者！沙門瞿曇之大神力性，大威德性、實希有也，實未曾有也，如釋迦族之子由釋迦族出家之、此沙門瞿曇，有如是大神力、大威力之沙門或婆羅門者，於此之前，我等於他處尚未曾見、未曾聞，
+
+---
+
+Bhavarāmāya vata, bho, pajāya bhavaratāya bhavasammuditāya samūlaṃ bhavaṃ udabbahī’ti.
+
+Living in a generation that so delights in becoming, so rejoices in becoming, is so fond of becoming, he has pulled out becoming by the root!’”
+
+先生！被生在歡樂於生存、愛樂於生存、喜悅於生存中，他[卻]連根拉出生存。』
+
+世尊實為於愛有、樂有、喜有之人中，已除去貪有之根者。』
 
 ---
 
@@ -438,13 +468,23 @@ I, however, being rightly self-awakened claim to be rightly self-awakened. For w
 
 ---
 
-Taṃ kissa hetu? Tathāgatassa, pāpima, ye āsavā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā—te pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā. Seyyathāpi, pāpima, tālo matthakacchinno abhabbo puna virūḷhiyā; evameva kho, pāpima, tathāgatassa ye āsavā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā—te pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā’ti.
+Taṃ kissa hetu? Tathāgatassa, pāpima, ye āsavā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā—te pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā.
 
-Why is that? The fermentations that defile, that lead to further becoming, that disturb, that ripen in stress, that tend to future birth, aging, & death: Those the Tathagata has abandoned, their root destroyed, like an uprooted palmyra tree, deprived of the conditions of development, not destined for future arising. Just as a palmyra tree with its crown cut off is incapable of growing again; so, too, the fermentations that defile, that lead to further becoming, that disturb, that ripen in stress, that tend to future birth, aging, & death: Those the Tathagata has abandoned, their root destroyed, like an uprooted palmyra tree, deprived of the conditions of development, not destined for future arising.’”
+Why is that? The fermentations that defile, that lead to further becoming, that disturb, that ripen in stress, that tend to future birth, aging, & death: Those the Tathagata has abandoned, their root destroyed, like an uprooted palmyra tree, deprived of the conditions of development, not destined for future arising.
 
-那是什麼原因呢？波旬！對如來來說，污染的、再生的、有憂苦的、苦報的、未來被生老死的諸煩惱，那些已被捨斷，根已被切斷，就像無根的棕櫚樹，成為非有，為未來不生之物，波旬！猶如頂頭已被切斷的棕櫚樹不能再成長。同樣的，波旬！對如來來說，污染的、再生的、有憂苦的、苦報的、未來被生老死的諸煩惱，那些已被捨斷，根已被切斷，就像無根的棕櫚樹，成為非有，為未來不生之物。』」
+那是什麼原因呢？波旬！對如來來說，污染的、再生的、有憂苦的、苦報的、未來被生老死的諸煩惱，那些已被捨斷，根已被切斷，就像無根的棕櫚樹，成為非有，為未來不生之物，
 
-何以故如來之說法或不說法？惡魔！如來之諸漏、諸雜染，帶來諸後有、不幸、苦報，及未來之生老死，皆已捨彼等，連根斷之，如斷頭之多羅樹，後歸於非有，為不復生之法；惡魔！猶如斷頭之多羅樹不能再成長；如是，惡魔，如來之諸漏、諸雜染，帶來後有、不幸、苦報，及未來之生老死，皆已捨彼等，連根斷之，如斷頭之多羅樹，於後歸於非有，為不復生之法也。』」
+何以故如來之說法或不說法？惡魔！如來之諸漏、諸雜染，帶來諸後有、不幸、苦報，及未來之生老死，皆已捨彼等，連根斷之，如斷頭之多羅樹，後歸於非有，為不復生之法；
+
+---
+
+Seyyathāpi, pāpima, tālo matthakacchinno abhabbo puna virūḷhiyā; evameva kho, pāpima, tathāgatassa ye āsavā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā—te pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṃ anuppādadhammā’ti.
+
+Just as a palmyra tree with its crown cut off is incapable of growing again; so, too, the fermentations that defile, that lead to further becoming, that disturb, that ripen in stress, that tend to future birth, aging, & death: Those the Tathagata has abandoned, their root destroyed, like an uprooted palmyra tree, deprived of the conditions of development, not destined for future arising.’”
+
+波旬！猶如頂頭已被切斷的棕櫚樹不能再成長。同樣的，波旬！對如來來說，污染的、再生的、有憂苦的、苦報的、未來被生老死的諸煩惱，那些已被捨斷，根已被切斷，就像無根的棕櫚樹，成為非有，為未來不生之物。』」
+
+惡魔！猶如斷頭之多羅樹不能再成長；如是，惡魔，如來之諸漏、諸雜染，帶來後有、不幸、苦報，及未來之生老死，皆已捨彼等，連根斷之，如斷頭之多羅樹，於後歸於非有，為不復生之法也。』」
 
 ---
 
