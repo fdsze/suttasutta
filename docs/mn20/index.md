@@ -50,7 +50,7 @@ There he addressed the bhikkhus thus: “Bhikkhus.”
 
 “Bhadante”ti te bhikkhū bhagavato paccassosuṃ.
 
-—“Venerable sir,” they replied.
+“Venerable sir,” they replied.
 
 「尊師！」那些比丘回答世尊。
 
@@ -90,7 +90,7 @@ Idha, bhikkhave, bhikkhuno yaṃ nimittaṃ āgamma yaṃ nimittaṃ manasikarot
 
 Tassa tamhā nimittā aññaṃ nimittaṃ manasikaroto kusalūpasaṃhitaṃ ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
 
-When he gives attention to some other sign connected with what is wholesome, then any evil unwholesome thoughts connected with desire, with hate, and with delusion are abandoned in him and subside.
+When he gives attention to some other sign connected with what is wholesome, then any evil unwholesome thoughts connected with desire, with hate, and with delusion are abandoned in him and subside. With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
 
 當因那個相而作意其它有關善的相時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，以它們的捨斷而內心住立、安靜下來、成為統一、入定。
 
@@ -100,7 +100,7 @@ When he gives attention to some other sign connected with what is wholesome, the
 
 Seyyathāpi, bhikkhave, dakkho palagaṇḍo vā palagaṇḍantevāsī vā sukhumāya āṇiyā oḷārikaṃ āṇiṃ abhinihaneyya abhinīhareyya abhinivatteyya;
 
-With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
+Just as a skilled carpenter or his apprentice might knock out, remove, and extract a coarse peg by means of a fine one,
 
 比丘們！猶如熟練的石匠或石匠的徒弟會以細楔子頂出、引出、退出粗楔子。
 
@@ -110,7 +110,7 @@ With the abandoning of them his mind becomes steadied internally, quieted, broug
 
 evameva kho, bhikkhave, bhikkhuno yaṃ nimittaṃ āgamma yaṃ nimittaṃ manasikaroto uppajjanti pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, tena, bhikkhave, bhikkhunā tamhā nimittā aññaṃ nimittaṃ manasi kātabbaṃ kusalūpasaṃhitaṃ.
 
-Just as a skilled carpenter or his apprentice might knock out, remove, and extract a coarse peg by means of a fine one, so too…
+so too...
 
 同樣的，比丘們！當比丘由於作意某個相而生起與欲、瞋、癡有關的惡不善尋時，比丘們！因為那樣，比丘因那個相而應該作意其它有關善的相。
 
@@ -118,9 +118,9 @@ Just as a skilled carpenter or his apprentice might knock out, remove, and extra
 
 ---
 
-Tassa tamhā nimittā aññaṃ nimittaṃ manasikaroto kusalūpasaṃhitaṃ ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati. (1)
+Tassa tamhā nimittā aññaṃ nimittaṃ manasikaroto kusalūpasaṃhitaṃ ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
 
-when a bhikkhu gives attention to some other sign connected with what is wholesome…his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
+when a bhikkhu gives attention to some other sign connected with what is wholesome...his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
 
 當因那個相而作意其它有關善的相時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，以它們的捨斷而內心住立、安靜下來、成為統一、入定。
 
@@ -128,23 +128,13 @@ when a bhikkhu gives attention to some other sign connected with what is wholeso
 
 ---
 
-Tassa ce, bhikkhave, bhikkhuno tamhā nimittā aññaṃ nimittaṃ manasikaroto kusalūpasaṃhitaṃ uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, tena, bhikkhave, bhikkhunā tesaṃ vitakkānaṃ ādīnavo upaparikkhitabbo: ‘itipime vitakkā akusalā, itipime vitakkā sāvajjā, itipime vitakkā dukkhavipākā’ti. Tassa tesaṃ vitakkānaṃ ādīnavaṃ upaparikkhato ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
-
-Just as a man or a woman, young, youthful, and fond of ornaments, would be horrified, humiliated, and disgusted if the carcass of a snake or a dog or a human being were hung around his or her neck, so too…when a bhikkhu examines the danger in those thoughts…his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
-
-比丘們！如果當比丘因那個相而作意其它有關善的相時，仍生起與欲、瞋、癡有關的惡不善尋，比丘們！因為那樣，比丘應該審察那些尋的過患：『像這樣，這些尋是不善的；像這樣，這些尋是有罪過的；像這樣，這些尋有苦果報。』當他審察那些尋的過患時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，以它們的捨斷而內心住立、安靜下來、成為統一、入定。
-
-諸比丘！若比丘不由其相為他伴善、念相者，若惡不善之伴貪、伴瞋、伴癡之想念生者，諸比丘！彼比丘即應審查此等想念之患，即：『如是此等想念是不善、如是此等想念應令非難，如是此等想念是導於苦果者也。』彼審查此等想念之患，即捨惡不善、伴貪、伴瞋、伴癡之之想念而消失之。依此等之捨，內心安立、靜止，以成一心，便得等持。
-
----
-
-Seyyathāpi, bhikkhave, itthī vā puriso vā daharo yuvā maṇḍanakajātiko ahikuṇapena vā kukkurakuṇapena vā manussakuṇapena vā kaṇṭhe āsattena aṭṭiyeyya harāyeyya jiguccheyya; evameva kho, bhikkhave, tassa ce bhikkhuno tamhāpi nimittā aññaṃ nimittaṃ manasikaroto kusalūpasaṃhitaṃ uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, tena, bhikkhave, bhikkhunā tesaṃ vitakkānaṃ ādīnavo upaparikkhitabbo:
+Tassa ce, bhikkhave, bhikkhuno tamhā nimittā aññaṃ nimittaṃ manasikaroto kusalūpasaṃhitaṃ uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, tena, bhikkhave, bhikkhunā tesaṃ vitakkānaṃ ādīnavo upaparikkhitabbo:
 
 “If, while he is giving attention to some other sign connected with what is wholesome, there still arise in him evil unwholesome thoughts connected with desire, with hate, and with delusion, then he should examine the danger in those thoughts thus:
 
-比丘們！猶如年輕、年少、喜好裝飾的女子或男子，如果在頸部被懸掛蛇屍或狗屍或人屍，會厭惡、慚恥、嫌惡。同樣的，比丘們！如果當比丘因那個相而作意其它有關善的相時，仍生起與欲、瞋、癡有關的惡不善尋，比丘們！因為那樣，比丘應該審察那些尋的過患：
+比丘們！如果當比丘因那個相而作意其它有關善的相時，仍生起與欲、瞋、癡有關的惡不善尋，比丘們！因為那樣，比丘應該審察那些尋的過患：
 
-諸比丘！恰如年少之青年男女，愛好裝飾，若以蛇之死屍、或狗之死屍、或人之死屍繫其頸，便惱、恥而忌避之，如是，諸比丘！若此比丘依其他伴善念相者，若惡不善、伴貪、伴瞋、伴癡之想念生者，彼之比丘即應審查此等想念之患，即：
+諸比丘！若比丘不由其相為他伴善、念相者，若惡不善之伴貪、伴瞋、伴癡之想念生者，諸比丘！彼比丘即應審查此等想念之患，即：
 
 ---
 
@@ -154,13 +144,53 @@ Seyyathāpi, bhikkhave, itthī vā puriso vā daharo yuvā maṇḍanakajātiko 
 
 『像這樣，這些尋是不善的；像這樣，這些尋是有罪過的；像這樣，這些尋有苦果報。』
 
+『如是此等想念是不善、如是此等想念應令非難，如是此等想念是導於苦果者也。』
+
+---
+
+Tassa tesaṃ vitakkānaṃ ādīnavaṃ upaparikkhato ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
+
+When he examines the danger in those thoughts, then any evil unwholesome thoughts connected with desire, with hate, and with delusion are abandoned in him and subside. With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
+
+當他審察那些尋的過患時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，以它們的捨斷而內心住立、安靜下來、成為統一、入定。
+
+彼審查此等想念之患，即捨惡不善、伴貪、伴瞋、伴癡之之想念而消失之。依此等之捨，內心安立、靜止，以成一心，便得等持。
+
+---
+
+Seyyathāpi, bhikkhave, itthī vā puriso vā daharo yuvā maṇḍanakajātiko ahikuṇapena vā kukkurakuṇapena vā manussakuṇapena vā kaṇṭhe āsattena aṭṭiyeyya harāyeyya jiguccheyya;
+
+Just as a man or a woman, young, youthful, and fond of ornaments, would be horrified, humiliated, and disgusted if the carcass of a snake or a dog or a human being were hung around his or her neck,
+
+比丘們！猶如年輕、年少、喜好裝飾的女子或男子，如果在頸部被懸掛蛇屍或狗屍或人屍，會厭惡、慚恥、嫌惡。
+
+諸比丘！恰如年少之青年男女，愛好裝飾，若以蛇之死屍、或狗之死屍、或人之死屍繫其頸，便惱、恥而忌避之，
+
+---
+
+evameva kho, bhikkhave, tassa ce bhikkhuno tamhāpi nimittā aññaṃ nimittaṃ manasikaroto kusalūpasaṃhitaṃ uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, tena, bhikkhave, bhikkhunā tesaṃ vitakkānaṃ ādīnavo upaparikkhitabbo:
+
+so too...
+
+同樣的，比丘們！如果當比丘因那個相而作意其它有關善的相時，仍生起與欲、瞋、癡有關的惡不善尋，比丘們！因為那樣，比丘應該審察那些尋的過患：
+
+如是，諸比丘！若此比丘依其他伴善念相者，若惡不善、伴貪、伴瞋、伴癡之想念生者，彼之比丘即應審查此等想念之患，即：
+
+---
+
+‘itipime vitakkā akusalā, itipime vitakkā sāvajjā, itipime vitakkā dukkhavipākā’ti.
+
+...
+
+『像這樣，這些尋是不善的；像這樣，這些尋是有罪過的；像這樣，這些尋有苦果報。』
+
 『如是此等想念是不善、如是此等之想念應是非難，如是此等之想念是導於苦果者也。』
 
 ---
 
 Tassa tesaṃ vitakkānaṃ ādīnavaṃ upaparikkhato ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti.
 
-When he examines the danger in those thoughts, then any evil unwholesome thoughts connected with desire, with hate, and with delusion are abandoned in him and subside.
+...when a bhikkhu examines the danger in those thoughts...
 
 當他審察那些尋的過患時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，
 
@@ -170,7 +200,7 @@ When he examines the danger in those thoughts, then any evil unwholesome thought
 
 Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
 
-With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
+...his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
 
 以它們的捨斷而內心住立、安靜下來、成為統一、入定。
 
@@ -178,19 +208,29 @@ With the abandoning of them his mind becomes steadied internally, quieted, broug
 
 ---
 
-Tassa ce, bhikkhave, bhikkhuno tesampi vitakkānaṃ ādīnavaṃ upaparikkhato uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, tena, bhikkhave, bhikkhunā tesaṃ vitakkānaṃ asatiamanasikāro āpajjitabbo. Tassa tesaṃ vitakkānaṃ asatiamanasikāraṃ āpajjato ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
+Tassa ce, bhikkhave, bhikkhuno tesampi vitakkānaṃ ādīnavaṃ upaparikkhato uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, tena, bhikkhave, bhikkhunā tesaṃ vitakkānaṃ asatiamanasikāro āpajjitabbo.
 
-“If, while he is examining the danger in those thoughts, there still arise in him evil unwholesome thoughts connected with desire, with hate, and with delusion, then he should try to forget those thoughts and should not give attention to them. When he tries to forget those thoughts and does not give attention to them, then any evil unwholesome thoughts connected with desire, with hate, and with delusion are abandoned in him and subside. With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
+“If, while he is examining the danger in those thoughts, there still arise in him evil unwholesome thoughts connected with desire, with hate, and with delusion, then he should try to forget those thoughts and should not give attention to them.
 
-比丘們！如果當比丘審察那些尋的過患時，仍生起與欲、瞋、癡有關的惡不善尋，比丘們！因為那樣，比丘應該走向不念、不作意那些尋。當他走向不念、不作意那些尋時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，以它們的捨斷而內心住立、安靜下來、成為統一、入定。
+比丘們！如果當比丘審察那些尋的過患時，仍生起與欲、瞋、癡有關的惡不善尋，比丘們！因為那樣，比丘應該走向不念、不作意那些尋。
 
-諸比丘！若比丘審查此等想念之患時，惡不善、伴貪、伴瞋、伴癡之想念生者，諸比丘！彼之比丘應對此等之想念，不應憶念、思念，彼對此等之想念不令憶念，思念時，即捨此等惡不善，伴貪、伴瞋、伴癡之想念而消失之。依此等之捨，內心安立，靜止，以成一心，便得等持。
+諸比丘！若比丘審查此等想念之患時，惡不善、伴貪、伴瞋、伴癡之想念生者，諸比丘！彼之比丘應對此等之想念，不應憶念、思念，
+
+---
+
+Tassa tesaṃ vitakkānaṃ asatiamanasikāraṃ āpajjato ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
+
+When he tries to forget those thoughts and does not give attention to them, then any evil unwholesome thoughts connected with desire, with hate, and with delusion are abandoned in him and subside. With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
+
+當他走向不念、不作意那些尋時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，以它們的捨斷而內心住立、安靜下來、成為統一、入定。
+
+彼對此等之想念不令憶念，思念時，即捨此等惡不善，伴貪、伴瞋、伴癡之想念而消失之。依此等之捨，內心安立，靜止，以成一心，便得等持。
 
 ---
 
 Seyyathāpi, bhikkhave, cakkhumā puriso āpāthagatānaṃ rūpānaṃ adassanakāmo assa; so nimīleyya vā aññena vā apalokeyya; evameva kho, bhikkhave, tassa ce bhikkhuno tesampi vitakkānaṃ ādīnavaṃ upaparikkhato uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi, te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
 
-Just as a man with good eyes who did not want to see forms that had come within range of sight would either shut his eyes or look away, so too…when a bhikkhu tries to forget those thoughts and does not give attention to them … his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
+Just as a man with good eyes who did not want to see forms that had come within range of sight would either shut his eyes or look away, so too...when a bhikkhu tries to forget those thoughts and does not give attention to them...his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
 
 比丘們！猶如有眼男子如果不想看到達視野的色時，他會閉眼或注意其它的。同樣的，比丘們！如果當比丘審察那些尋的過患時，仍生起與欲、瞋、癡有關的惡不善尋，比丘們！因為那樣，比丘應該走向不念、不作意那些尋。當他走向不念、不作意那些尋時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，以它們的捨斷而內心住立、安靜下來、成為統一、入定。
 
@@ -240,7 +280,7 @@ By doing so he would substitute for each grosser posture one that was subtler.
 
 Evameva kho, bhikkhave, tassa ce bhikkhuno tesampi vitakkānaṃ asatiamanasikāraṃ āpajjato uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
 
-So too…when a bhikkhu gives attention to stilling the thought-formation of those thoughts…his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
+So too...when a bhikkhu gives attention to stilling the thought-formation of those thoughts...his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
 
 同樣的，比丘們！如果當比丘走向不念、不作意那些尋時，仍生起與欲、瞋、癡有關的惡不善尋，比丘們！因為那樣，比丘應該作意那些尋的尋行止息。當他作意那些尋的尋行止息時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，以它們的捨斷而內心住立、安靜下來、成為統一、入定。
 
@@ -248,13 +288,23 @@ So too…when a bhikkhu gives attention to stilling the thought-formation of tho
 
 ---
 
-Tassa ce, bhikkhave, bhikkhuno tesampi vitakkānaṃ vitakkasaṅkhārasaṇṭhānaṃ manasikaroto uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi. Tena, bhikkhave, bhikkhunā dantebhidantamādhāya jivhāya tāluṃ āhacca cetasā cittaṃ abhiniggaṇhitabbaṃ abhinippīḷetabbaṃ abhisantāpetabbaṃ. Tassa dantebhidantamādhāya jivhāya tāluṃ āhacca cetasā cittaṃ abhiniggaṇhato abhinippīḷayato abhisantāpayato ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
+Tassa ce, bhikkhave, bhikkhuno tesampi vitakkānaṃ vitakkasaṅkhārasaṇṭhānaṃ manasikaroto uppajjanteva pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi. Tena, bhikkhave, bhikkhunā dantebhidantamādhāya jivhāya tāluṃ āhacca cetasā cittaṃ abhiniggaṇhitabbaṃ abhinippīḷetabbaṃ abhisantāpetabbaṃ.
 
-“If, while he is giving attention to stilling the thought-formation of those thoughts, there still arise in him evil unwholesome thoughts connected with desire, with hate, and with delusion, then, with his teeth clenched and his tongue pressed against the roof of his mouth, he should beat down, constrain, and crush mind with mind. When, with his teeth clenched and his tongue pressed against the roof of his mouth, he beats down, constrains, and crushes mind with mind, then any evil unwholesome thoughts connected with desire, with hate, and with delusion are abandoned in him and subside. With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
+“If, while he is giving attention to stilling the thought-formation of those thoughts, there still arise in him evil unwholesome thoughts connected with desire, with hate, and with delusion, then, with his teeth clenched and his tongue pressed against the roof of his mouth, he should beat down, constrain, and crush mind with mind.
 
-比丘們！如果當比丘作意那些尋的尋行止息時，仍生起與欲、瞋、癡有關的惡不善尋，比丘們！因為那樣，比丘緊扣牙齒、舌抵上顎後，應該以心抑止、壓迫、破壞心。當他緊扣牙齒、舌抵上顎後，以心抑止、壓迫、破壞心時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，以它們的捨斷而內心住立、安靜下來、成為統一、入定。
+比丘們！如果當比丘作意那些尋的尋行止息時，仍生起與欲、瞋、癡有關的惡不善尋，比丘們！因為那樣，比丘緊扣牙齒、舌抵上顎後，應該以心抑止、壓迫、破壞心。
 
-諸比丘！若更對此等之想念，比丘以念想、行之止息，若惡不善、伴貪、伴瞋、伴癡之想念生者，諸比丘！彼比丘，齒以齒相著，以舌逼上齶，彼應以〔正〕心制 [P.121] 〔邪〕心，降伏而滅之。彼齒以齒相著，以舌逼上齶，彼以〔正〕心制〔邪〕心，降伏而令滅，即捨惡不善、伴貪、伴瞋、伴癡之想念而消失之。依此等捨，內心安立、靜止，以成一心，便得等持。
+諸比丘！若更對此等之想念，比丘以念想、行之止息，若惡不善、伴貪、伴瞋、伴癡之想念生者，諸比丘！彼比丘，齒以齒相著，以舌逼上齶，彼應以〔正〕心制〔邪〕心，降伏而滅之。
+
+---
+
+Tassa dantebhidantamādhāya jivhāya tāluṃ āhacca cetasā cittaṃ abhiniggaṇhato abhinippīḷayato abhisantāpayato ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati.
+
+When, with his teeth clenched and his tongue pressed against the roof of his mouth, he beats down, constrains, and crushes mind with mind, then any evil unwholesome thoughts connected with desire, with hate, and with delusion are abandoned in him and subside. With the abandoning of them his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
+
+當他緊扣牙齒、舌抵上顎後，以心抑止、壓迫、破壞心時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，以它們的捨斷而內心住立、安靜下來、成為統一、入定。
+
+彼齒以齒相著，以舌逼上齶，彼以〔正〕心制〔邪〕心，降伏而令滅，即捨惡不善、伴貪、伴瞋、伴癡之想念而消失之。依此等捨，內心安立、靜止，以成一心，便得等持。
 
 ---
 
@@ -270,7 +320,7 @@ Just as a strong man might seize a weaker man by the head or shoulders and beat 
 
 Tassa dantebhidantamādhāya jivhāya tāluṃ āhacca cetasā cittaṃ abhiniggaṇhato abhinippīḷayato abhisantāpayato ye pāpakā akusalā vitakkā chandūpasaṃhitāpi dosūpasaṃhitāpi mohūpasaṃhitāpi te pahīyanti te abbhatthaṃ gacchanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati. (5)
 
-...when, with his teeth clenched and his tongue pressed against the roof of his mouth, a bhikkhu beats down, constrains, and crushes mind with mind…his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
+...when, with his teeth clenched and his tongue pressed against the roof of his mouth, a bhikkhu beats down, constrains, and crushes mind with mind...his mind becomes steadied internally, quieted, brought to singleness, and concentrated.
 
 當他緊扣牙齒、舌抵上顎後，以心抑止、壓迫、破壞心時，那些與欲、瞋、癡有關的惡不善尋被捨斷、滅沒，以它們的捨斷而內心住立、安靜下來、成為統一、入定。
 
