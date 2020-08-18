@@ -18,7 +18,7 @@ pageClass: mn
 
 ---
 
-Evaṃ me sutaṃ. ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+Evaṃ me sutaṃ. Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 I have heard that on one occasion the Blessed One was staying near Savatthi in Jeta’s Grove, Anathapindika’s monastery. There he addressed the monks, “Monks!”
 
