@@ -395,5 +395,3 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 這就是世尊所說，那些悅意的比丘歡喜世尊所說。
 
 世尊如是說已。彼等比丘歡喜信受世尊之所說。
-
----

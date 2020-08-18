@@ -495,5 +495,3 @@ Thus, because of the silencing of Mara, and because of the brahma’s invitation
 像這樣，因為魔的不說話與梵天的[開始]邀請，因此，這解說的標題為梵天的邀請。
 
 此實非對惡魔所言，乃為梵天請教所說，是為對此之解答，名謂「梵天請教經」。
-
----
