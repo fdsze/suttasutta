@@ -635,7 +635,7 @@ The Buddha explains that the concept of a self comes from the process of percept
 ---
 
 ##### [MN125](/mn125/)
-### MN125 Dantabhūmi Sutta / The Discourse on the "Tamed Stage" / 中部一二五 調御地經
+### [MN125 Dantabhūmi Sutta / On Tamed Stage / 中部一二五 調御地經](/mn125)
 
 ---
 
