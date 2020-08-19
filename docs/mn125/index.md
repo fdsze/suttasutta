@@ -248,13 +248,43 @@ It is as if, Aggivessana, there were a great mountain slope near a village or a 
 
 ---
 
-Tamenaṃ uparipabbate ṭhito sahāyako heṭṭhimapabbatapādaṃ orohitvā taṃ sahāyakaṃ bāhāyaṃ gahetvā uparipabbataṃ āropetvā muhuttaṃ assāsetvā evaṃ vadeyya: ‘yaṃ, samma, kiṃ tvaṃ passasi uparipabbate ṭhito’ti? So evaṃ vadeyya: ‘passāmi kho ahaṃ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti. So evaṃ vadeyya: ‘idāneva kho te, samma, bhāsitaṃ—mayaṃ evaṃ ājānāma—aṭṭhānaṃ kho etaṃ samma, anavakāso yaṃ tvaṃ uparipabbate ṭhito passeyyāsi ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti. Idāneva ca pana te bhāsitaṃ mayaṃ evaṃ ājānāma: ‘passāmi kho ahaṃ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti. So evaṃ vadeyya: ‘tathā hi panāhaṃ, samma, iminā mahatā pabbatena āvuto daṭṭheyyaṃ nāddasan’ti.
+Tamenaṃ uparipabbate ṭhito sahāyako heṭṭhimapabbatapādaṃ orohitvā taṃ sahāyakaṃ bāhāyaṃ gahetvā uparipabbataṃ āropetvā muhuttaṃ assāsetvā evaṃ vadeyya: ‘yaṃ, samma, kiṃ tvaṃ passasi uparipabbate ṭhito’ti?
 
-Then the friend who had been standing on top of the mountain slope having come down to the foot and taken his friend by the arm, making him climb to the top of the mountain slope and giving him a moment in which to regain his breath, might speak to him thus: 'Now, my dear, what is it that you see as you stand on the top of the mountain slope?' He might speak thus: 'I, my dear, as I stand on the top of the mountain slope, see delightful parks... delightful ponds.' He might speak thus: 'Just now, my dear, we understood you to say: This is impossible, it cannot come to pass that, as you stand on the top of the mountain slope, you should see delightful... ponds. But now we understand you to say: 'I, my dear, as I stand on the top of the mountain slope, see delightful parks... delightful ponds.' He might speak thus: 'That was because I, my dear, hemmed in by this great mountain slope, could not see what was to be seen.'
+Then the friend who had been standing on top of the mountain slope having come down to the foot and taken his friend by the arm, making him climb to the top of the mountain slope and giving him a moment in which to regain his breath, might speak to him thus: 'Now, my dear, what is it that you see as you stand on the top of the mountain slope?'
 
-那位站在山上的朋友下到山腳下後，抓住那位朋友的手臂，登上山上，休息片刻後會這麼說：『親愛的！你站在山上看見什麼？』他會這麼回答：『親愛的！我站在山上看見能令人愉悅的園林、能令人愉悅的森林、能令人愉悅的土地、能令人愉悅的蓮花池。』他會這麼說：『親愛的！這裡，剛才我們這麼了知你所說：「親愛的朋友！你站在山上能看見能令人愉悅的園林、能令人愉悅的森林、能令人愉悅的土地、能令人愉悅的蓮花池，這是不可能的。」而現在，我們這麼了知你所說：「親愛的！我站在山上看見能令人愉悅的園林、能令人愉悅的森林、能令人愉悅的土地、能令人愉悅的蓮花池。」』他會這麼說：『親愛的！因為，像這樣，我被大山擋住了，看不見能被看到的。』
+那位站在山上的朋友下到山腳下後，抓住那位朋友的手臂，登上山上，休息片刻後會這麼說：『親愛的！你站在山上看見什麼？』
 
-立彼山上之友下山麓，拉彼友之腕，令登山上，暫時休息已，向彼友言：『友！汝於山上見何耶？』彼如是曰：『友！我立於山上，見美麗之林園、美麗之森林、美麗之土地、美麗之水池。』彼如是言：『友！我等！今正是汝之——友！汝之立於山上，見美麗之林園......美麗之水池者！——之所說無處無容，以如此瞭解。我等今正是，又汝之——友！我立於山上見美麗之林園......美麗之池水——之所說如是諒解。』彼如是言：『對此，友！我被大山所遮，應見而不見故也。』
+立彼山上之友下山麓，拉彼友之腕，令登山上，暫時休息已，向彼友言：『友！汝於山上見何耶？』
+
+--
+
+So evaṃ vadeyya: ‘passāmi kho ahaṃ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti.
+
+He might speak thus: 'I, my dear, as I stand on the top of the mountain slope, see delightful parks... delightful ponds.'
+
+他會這麼回答：『親愛的！我站在山上看見能令人愉悅的園林、能令人愉悅的森林、能令人愉悅的土地、能令人愉悅的蓮花池。』
+
+彼如是曰：『友！我立於山上，見美麗之林園、美麗之森林、美麗之土地、美麗之水池。』
+
+--
+
+So evaṃ vadeyya: ‘idāneva kho te, samma, bhāsitaṃ—mayaṃ evaṃ ājānāma—aṭṭhānaṃ kho etaṃ samma, anavakāso yaṃ tvaṃ uparipabbate ṭhito passeyyāsi ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti.
+
+He might speak thus: 'Just now, my dear, we understood you to say: This is impossible, it cannot come to pass that, as you stand on the top of the mountain slope, you should see delightful... ponds.
+
+他會這麼說：『親愛的！這裡，剛才我們這麼了知你所說：「親愛的朋友！你站在山上能看見能令人愉悅的園林、能令人愉悅的森林、能令人愉悅的土地、能令人愉悅的蓮花池，這是不可能的。」
+
+彼如是言：『友！我等！今正是汝之——友！汝之立於山上，見美麗之林園......美麗之水池者！——之所說無處無容，
+
+---
+
+Idāneva ca pana te bhāsitaṃ mayaṃ evaṃ ājānāma: ‘passāmi kho ahaṃ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti. So evaṃ vadeyya: ‘tathā hi panāhaṃ, samma, iminā mahatā pabbatena āvuto daṭṭheyyaṃ nāddasan’ti.
+
+But now we understand you to say: 'I, my dear, as I stand on the top of the mountain slope, see delightful parks... delightful ponds.' He might speak thus: 'That was because I, my dear, hemmed in by this great mountain slope, could not see what was to be seen.'
+
+而現在，我們這麼了知你所說：「親愛的！我站在山上看見能令人愉悅的園林、能令人愉悅的森林、能令人愉悅的土地、能令人愉悅的蓮花池。」』他會這麼說：『親愛的！因為，像這樣，我被大山擋住了，看不見能被看到的。』
+
+以如此瞭解。我等今正是，又汝之——友！我立於山上見美麗之林園......美麗之池水——之所說如是諒解。』彼如是言：『對此，友！我被大山所遮，應見而不見故也。』
 
 ---
 
@@ -288,13 +318,23 @@ But how could these two similes for Prince Jayasena have occurred to me, revered
 
 ---
 
-“Seyyathāpi, aggivessana, rājā khattiyo muddhāvasitto nāgavanikaṃ āmanteti: ‘ehi tvaṃ, samma nāgavanika, rañño nāgaṃ abhiruhitvā nāgavanaṃ pavisitvā āraññakaṃ nāgaṃ atipassitvā rañño nāgassa gīvāyaṃ upanibandhāhī’ti. ‘Evaṃ, devā’ti kho, aggivessana, nāgavaniko rañño khattiyassa muddhāvasittassa paṭissutvā rañño nāgaṃ abhiruhitvā nāgavanaṃ pavisitvā āraññakaṃ nāgaṃ atipassitvā rañño nāgassa gīvāyaṃ upanibandhati. Tamenaṃ rañño nāgo abbhokāsaṃ nīharati. Ettāvatā kho, aggivessana, āraññako nāgo abbhokāsaṃ gato hoti. Etthagedhā hi, aggivessana, āraññakā nāgā yadidaṃ—nāgavanaṃ. Tamenaṃ nāgavaniko rañño khattiyassa muddhāvasittassa ārocesi: ‘abbhokāsagato kho, deva, āraññako nāgo’ti. Atha kho aggivessana, tamenaṃ rājā khattiyo muddhāvasitto hatthidamakaṃ āmantesi: ‘ehi tvaṃ, samma hatthidamaka, āraññakaṃ nāgaṃ damayāhi āraññakānañceva sīlānaṃ abhinimmadanāya āraññakānañceva sarasaṅkappānaṃ abhinimmadanāya āraññakānañceva darathakilamathapariḷāhānaṃ abhinimmadanāya gāmante abhiramāpanāya manussakantesu sīlesu samādapanāyā’ti.
+“Seyyathāpi, aggivessana, rājā khattiyo muddhāvasitto nāgavanikaṃ āmanteti: ‘ehi tvaṃ, samma nāgavanika, rañño nāgaṃ abhiruhitvā nāgavanaṃ pavisitvā āraññakaṃ nāgaṃ atipassitvā rañño nāgassa gīvāyaṃ upanibandhāhī’ti. ‘Evaṃ, devā’ti kho, aggivessana, nāgavaniko rañño khattiyassa muddhāvasittassa paṭissutvā rañño nāgaṃ abhiruhitvā nāgavanaṃ pavisitvā āraññakaṃ nāgaṃ atipassitvā rañño nāgassa gīvāyaṃ upanibandhati. Tamenaṃ rañño nāgo abbhokāsaṃ nīharati.
 
-As, Aggivessana, a noble anointed king addresses an elephant hunter saying; 'You, good elephant hunter, mount the king's elephant and go into an elephant forest. When you see a forest elephant, tie him to the neck of the king's elephant.' And, Aggivessana, the elephant hunter having answered: 'Yes, sire,' in assent to the noble anointed king, mounts the king's elephant and goes into an elephant forest. Seeing a forest elephant, he ties him to the neck of the king's elephant. So the king's elephant brings him out into the open. But, Aggivessana, the forest elephant has this longing, that is to say for the elephant forest. But in regard to him the elephant hunter tells the noble anointed king that the forest elephant has got out into the open. The noble anointed king then addresses an elephant tamer, saying: 'Come you, good elephant tamer, tame the forest elephant by subduing his forest ways, by subduing his forest memories, and aspirations and by subduing his distress, his fretting and fever for the forest, by making him pleased with the villages and by accustoming him to human ways.'
+As, Aggivessana, a noble anointed king addresses an elephant hunter saying; 'You, good elephant hunter, mount the king's elephant and go into an elephant forest. When you see a forest elephant, tie him to the neck of the king's elephant.' And, Aggivessana, the elephant hunter having answered: 'Yes, sire,' in assent to the noble anointed king, mounts the king's elephant and goes into an elephant forest. Seeing a forest elephant, he ties him to the neck of the king's elephant.
 
-「阿其威色那！猶如剎帝利灌頂王召喚捕象師：『來！親愛的捕象師！請你騎上國王的象後，進入象林，找到林野的象後，綁在國王象的脖子上。』『是的！陛下！』阿其威色那！捕象師回答剎帝利灌頂王後，騎上國王的象，進入象林，找到林野的象後，綁在國王象的脖子上。國王的象驅趕牠到露地，阿其威色那！林野的象只來到露地的範圍，阿其威色那！因為，在這裡，林野的象貪求象林。阿其威色那！捕象師通知剎帝利灌頂王這件事：『陛下！林野的象在露地。』那時，剎帝利灌頂王召喚馴象師：『來！親愛的馴象師！請你為了征服林野的習性、為了征服林野的念與思惟、為了征服林野的不安與疲勞及熱惱、為了使之歡喜村落、為了勸導樂愛人的習性而調伏林野的象。』
+「阿其威色那！猶如剎帝利灌頂王召喚捕象師：『來！親愛的捕象師！請你騎上國王的象後，進入象林，找到林野的象後，綁在國王象的脖子上。』『是的！陛下！』阿其威色那！捕象師回答剎帝利灌頂王後，騎上國王的象，進入象林，找到林野的象後，綁在國王象的脖子上。
 
-「阿奇耶沙那！猶如有剎帝利灌頂王。命令捕象師言：『捕象師！汝乘王之象入山林，見野象出，繫於王象之首。』『如是，王！』阿奇耶沙那！捕象師應諾剎帝利灌頂王已。乘王之象入象林，見野象即繫於王象之首而從王象帶出露地。如是，阿奇耶沙那！野象至露地。阿奇耶沙那！野象〔對〕其象林有種種貪求而彼捕象師白剎帝利灌頂王曰：『王！彼野象來露地矣。』彼剎帝利灌頂王命令調象師曰：『嗚呼！調象師！汝調御野象而除〔其〕野性、野之憶念、思惟、野之憂、疲、熱惱，樂於村鎮中，以令熟人之習慣。』
+「阿奇耶沙那！猶如有剎帝利灌頂王。命令捕象師言：『捕象師！汝乘王之象入山林，見野象出，繫於王象之首。』『如是，王！』阿奇耶沙那！捕象師應諾剎帝利灌頂王已。乘王之象入象林，見野象即繫於王象之首而從王象帶出露地。
+
+---
+
+Ettāvatā kho, aggivessana, āraññako nāgo abbhokāsaṃ gato hoti. Etthagedhā hi, aggivessana, āraññakā nāgā yadidaṃ—nāgavanaṃ. Tamenaṃ nāgavaniko rañño khattiyassa muddhāvasittassa ārocesi: ‘abbhokāsagato kho, deva, āraññako nāgo’ti. Atha kho aggivessana, tamenaṃ rājā khattiyo muddhāvasitto hatthidamakaṃ āmantesi: ‘ehi tvaṃ, samma hatthidamaka, āraññakaṃ nāgaṃ damayāhi āraññakānañceva sīlānaṃ abhinimmadanāya āraññakānañceva sarasaṅkappānaṃ abhinimmadanāya āraññakānañceva darathakilamathapariḷāhānaṃ abhinimmadanāya gāmante abhiramāpanāya manussakantesu sīlesu samādapanāyā’ti.
+
+So the king's elephant brings him out into the open. But, Aggivessana, the forest elephant has this longing, that is to say for the elephant forest. But in regard to him the elephant hunter tells the noble anointed king that the forest elephant has got out into the open. The noble anointed king then addresses an elephant tamer, saying: 'Come you, good elephant tamer, tame the forest elephant by subduing his forest ways, by subduing his forest memories, and aspirations and by subduing his distress, his fretting and fever for the forest, by making him pleased with the villages and by accustoming him to human ways.'
+
+國王的象驅趕牠到露地，阿其威色那！林野的象只來到露地的範圍，阿其威色那！因為，在這裡，林野的象貪求象林。阿其威色那！捕象師通知剎帝利灌頂王這件事：『陛下！林野的象在露地。』那時，剎帝利灌頂王召喚馴象師：『來！親愛的馴象師！請你為了征服林野的習性、為了征服林野的念與思惟、為了征服林野的不安與疲勞及熱惱、為了使之歡喜村落、為了勸導樂愛人的習性而調伏林野的象。』
+
+如是，阿奇耶沙那！野象至露地。阿奇耶沙那！野象〔對〕其象林有種種貪求而彼捕象師白剎帝利灌頂王曰：『王！彼野象來露地矣。』彼剎帝利灌頂王命令調象師曰：『嗚呼！調象師！汝調御野象而除〔其〕野性、野之憶念、思惟、野之憂、疲、熱惱，樂於村鎮中，以令熟人之習慣。』
 
 ---
 
@@ -338,13 +378,23 @@ When, Aggivessana the king's elephant is obedient to the elephant tamer and acts
 
 ---
 
-Yato kho, aggivessana, āraññako nāgo hatthidamakassa uṭṭhānanisajjāya vacanakaro hoti ovādappaṭikaro, tamenaṃ hatthidamako uttari āneñjaṃ nāma kāraṇaṃ kāreti, mahantassa phalakaṃ soṇḍāya upanibandhati, tomarahattho ca puriso uparigīvāya nisinno hoti, samantato ca tomarahatthā purisā parivāretvā ṭhitā honti, hatthidamako ca dīghatomarayaṭṭhiṃ gahetvā purato ṭhito hoti. So āneñjaṃ kāraṇaṃ kāriyamāno neva purime pāde copeti na pacchime pāde copeti, na purimakāyaṃ copeti na pacchimakāyaṃ copeti, na sīsaṃ copeti, na kaṇṇe copeti, na dante copeti, na naṅguṭṭhaṃ copeti, na soṇḍaṃ copeti. So hoti āraññako nāgo khamo sattippahārānaṃ asippahārānaṃ usuppahārānaṃ sarapattappahārānaṃ bheripaṇavavaṃsasaṅkhaḍiṇḍimaninnādasaddānaṃ sabbavaṅkadosanihitaninnītakasāvo rājāraho rājabhoggo rañño aṅganteva saṅkhaṃ gacchati.
+Yato kho, aggivessana, āraññako nāgo hatthidamakassa uṭṭhānanisajjāya vacanakaro hoti ovādappaṭikaro, tamenaṃ hatthidamako uttari āneñjaṃ nāma kāraṇaṃ kāreti, mahantassa phalakaṃ soṇḍāya upanibandhati, tomarahattho ca puriso uparigīvāya nisinno hoti, samantato ca tomarahatthā purisā parivāretvā ṭhitā honti, hatthidamako ca dīghatomarayaṭṭhiṃ gahetvā purato ṭhito hoti.
 
-When, Aggivessana, the king's elephant is obedient to the elephant tamer and acts on his instructions to get up and sit down, then the elephant tamer makes him do a further task; known as 'standing your ground': he ties a shield to the great beast's trunk; a man holding a lance is sitting on his neck, and men holding lances are standing surrounding him on all sides; and the elephant tamer, holding a lance with a long shaft, is standing in front. While he is doing the task of 'standing your ground' he does not move a fore-leg nor does he move a hind-leg, nor does he move the forepart of his body, nor does he move the hindpart of his body, nor does he move his head, nor does he move an ear, nor does he move a tusk, nor does he move his tail, nor does he move his trunk. A king's elephant is one who endures blows of sword, axe, arrow, hatchet, and the resounding din of drum and kettle-drum, conch and tam-tam, he is [like] purified gold purged of all its dross and impurities, fit for a king, a royal possession and reckoned as a kingly attribute.
+When, Aggivessana, the king's elephant is obedient to the elephant tamer and acts on his instructions to get up and sit down, then the elephant tamer makes him do a further task; known as 'standing your ground': he ties a shield to the great beast's trunk; a man holding a lance is sitting on his neck, and men holding lances are standing surrounding him on all sides; and the elephant tamer, holding a lance with a long shaft, is standing in front.
 
-阿其威色那！當林野的象聽從馴象師的教誡起來、坐下時，馴象師更進一步隨訓練牠不動：在象鼻上綁大木板，手拿矛的男子坐在脖子上，以及手拿矛的男子們完全包圍牠站立，馴象師拿取長矛棍後站在牠前面。當訓練牠不動時，前腳既不移動，後腳也不移動，前身也不移動，後身也不移動，頭也不移動，耳朵也不移動，象牙也不移動，尾巴也不移動，象鼻也不移動，那林野的象能容忍矛的打擊、刀劍的打擊、弓箭的打擊、箭羽的打擊，大鼓、小鼓、法螺、鑵鼓的響亮聲音，一切彎曲與缺點已放下，濁穢已淨除，為適合國王的、國王使用的、名為國王肢體的一部分。
+阿其威色那！當林野的象聽從馴象師的教誡起來、坐下時，馴象師更進一步隨訓練牠不動：在象鼻上綁大木板，手拿矛的男子坐在脖子上，以及手拿矛的男子們完全包圍牠站立，馴象師拿取長矛棍後站在牠前面。
 
-阿奇耶沙那！王象，對於調象師之命令而行起、坐，從於教授故，調象師對彼，更名為不動之所作。以大楯縛象之鼻，而手持槍之士夫，坐於頭上，且周圍手持槍之眾人，為環而立，調象師持長柄槍立於前，為彼不動之所作，前足不許動，後足立不許動，前身不許動，後身亦不許動，頭不許動，身亦不許動，牙不許動，尾不許動，鼻亦不許動。彼王象，雖刀、劍、弓、矢之飛來，他人之襲來，大鼓、小鼓、螺貝等種種之聲，亦善堪忍，棄一切之曲過、缺點適於王而為王之使用，至稱為王之支分。
+阿奇耶沙那！王象，對於調象師之命令而行起、坐，從於教授故，調象師對彼，更名為不動之所作。以大楯縛象之鼻，而手持槍之士夫，坐於頭上，且周圍手持槍之眾人，為環而立，調象師持長柄槍立於前，
+
+---
+
+So āneñjaṃ kāraṇaṃ kāriyamāno neva purime pāde copeti na pacchime pāde copeti, na purimakāyaṃ copeti na pacchimakāyaṃ copeti, na sīsaṃ copeti, na kaṇṇe copeti, na dante copeti, na naṅguṭṭhaṃ copeti, na soṇḍaṃ copeti. So hoti āraññako nāgo khamo sattippahārānaṃ asippahārānaṃ usuppahārānaṃ sarapattappahārānaṃ bheripaṇavavaṃsasaṅkhaḍiṇḍimaninnādasaddānaṃ sabbavaṅkadosanihitaninnītakasāvo rājāraho rājabhoggo rañño aṅganteva saṅkhaṃ gacchati.
+
+While he is doing the task of 'standing your ground' he does not move a fore-leg nor does he move a hind-leg, nor does he move the forepart of his body, nor does he move the hindpart of his body, nor does he move his head, nor does he move an ear, nor does he move a tusk, nor does he move his tail, nor does he move his trunk. A king's elephant is one who endures blows of sword, axe, arrow, hatchet, and the resounding din of drum and kettle-drum, conch and tam-tam, he is [like] purified gold purged of all its dross and impurities, fit for a king, a royal possession and reckoned as a kingly attribute.
+
+當訓練牠不動時，前腳既不移動，後腳也不移動，前身也不移動，後身也不移動，頭也不移動，耳朵也不移動，象牙也不移動，尾巴也不移動，象鼻也不移動，那林野的象能容忍矛的打擊、刀劍的打擊、弓箭的打擊、箭羽的打擊，大鼓、小鼓、法螺、鑵鼓的響亮聲音，一切彎曲與缺點已放下，濁穢已淨除，為適合國王的、國王使用的、名為國王肢體的一部分。
+
+為彼不動之所作，前足不許動，後足立不許動，前身不許動，後身亦不許動，頭不許動，身亦不許動，牙不許動，尾不許動，鼻亦不許動。彼王象，雖刀、劍、弓、矢之飛來，他人之襲來，大鼓、小鼓、螺貝等種種之聲，亦善堪忍，棄一切之曲過、缺點適於王而為王之使用，至稱為王之支分。
 
 ---
 
@@ -358,13 +408,23 @@ Even so, Aggivessana, does a Tathagata arise here in the world, a perfected one,
 
 ---
 
-So imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. So dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti. Taṃ dhammaṃ suṇāti gahapati vā gahapatiputto vā aññatarasmiṃ vā kule paccājāto. So taṃ dhammaṃ sutvā tathāgate saddhaṃ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: ‘sambādho gharāvāso rajāpatho, abbhokāso pabbajjā. Nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekantaparipuṇṇaṃ ekantaparisuddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ. Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.
+So imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. So dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti. Taṃ dhammaṃ suṇāti gahapati vā gahapatiputto vā aññatarasmiṃ vā kule paccājāto.
 
-He makes known this world with the devas, with Mara, with Brahma, the creation with its recluses and brahmans, its devas and men, having realized them by his own super-knowledge. He teaches dhamma which is lovely at the beginning, lovely in the middle, lovely at the ending, with the spirit and the letters; he proclaims the Brahma-faring, wholly fulfilled, quite purified. A householder or a householder's son or one born in another family hears that dhamma. Having heard that dhamma he gains faith in the Tathagata. Endowed with this faith that he has acquired, he reflects in this way: 'The household life is confined and dusty, going forth is in the open; it is not easy for one who lives in a house to fare the Brahma-faring wholly fulfilled, wholly pure, polished like a conch-shell. Suppose now that I, having cut off hair and beard, having put on saffron robes, should go forth from home into homelessness?'
+He makes known this world with the devas, with Mara, with Brahma, the creation with its recluses and brahmans, its devas and men, having realized them by his own super-knowledge. He teaches dhamma which is lovely at the beginning, lovely in the middle, lovely at the ending, with the spirit and the letters; he proclaims the Brahma-faring, wholly fulfilled, quite purified. A householder or a householder's son or one born in another family hears that dhamma.
 
-他以證智自作證後，為這包括天、魔、梵的世界；包括沙門、婆羅門的世代；包括諸天、人宣說，他教導開頭是善、中間是善、終結是善；意義正確、辭句正確的法，他說明唯獨圓滿、遍清淨的梵行。屋主、屋主之子或在其它族姓中出生者聽聞那個法。聽聞那個法後，他於如來處獲得信，具備那獲得的信，他像這樣深慮：『居家生活是障礙，是塵垢之路；出家是露地，住在家中，這是不容易行一向圓滿、一向清淨的磨亮海螺之梵行，讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』
+他以證智自作證後，為這包括天、魔、梵的世界；包括沙門、婆羅門的世代；包括諸天、人宣說，他教導開頭是善、中間是善、終結是善；意義正確、辭句正確的法，他說明唯獨圓滿、遍清淨的梵行。屋主、屋主之子或在其它族姓中出生者聽聞那個法。
 
 ......〔參照中部經典一、二四六～二四七頁〕......
+
+---
+
+So taṃ dhammaṃ sutvā tathāgate saddhaṃ paṭilabhati. So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: ‘sambādho gharāvāso rajāpatho, abbhokāso pabbajjā. Nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekantaparipuṇṇaṃ ekantaparisuddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ. Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.
+
+Having heard that dhamma he gains faith in the Tathagata. Endowed with this faith that he has acquired, he reflects in this way: 'The household life is confined and dusty, going forth is in the open; it is not easy for one who lives in a house to fare the Brahma-faring wholly fulfilled, wholly pure, polished like a conch-shell. Suppose now that I, having cut off hair and beard, having put on saffron robes, should go forth from home into homelessness?'
+
+聽聞那個法後，他於如來處獲得信，具備那獲得的信，他像這樣深慮：『居家生活是障礙，是塵垢之路；出家是露地，住在家中，這是不容易行一向圓滿、一向清淨的磨亮海螺之梵行，讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』
+
+......
 
 ---
 
@@ -388,13 +448,23 @@ But, Aggivessana, devas and mankind have this longing, that is to say, for the f
 
 ---
 
-Yato kho, aggivessana, ariyasāvako sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, tamenaṃ tathāgato uttariṃ vineti: ‘ehi tvaṃ, bhikkhu, indriyesu guttadvāro hohi, cakkhunā rūpaṃ disvā mā nimittaggāhī ... pe ... (yathā gaṇakamoggallānasuttante, evaṃ vitthāretabbāni.)
+Yato kho, aggivessana, ariyasāvako sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, tamenaṃ tathāgato uttariṃ vineti: ‘ehi tvaṃ, bhikkhu, indriyesu guttadvāro hohi, cakkhunā rūpaṃ disvā mā nimittaggāhī ... pe ... (yathā gaṇakamoggallānasuttante, evaṃ vitthāretabbāni.)...
 
-And when, Aggivessana, the ariyan disciple is moral, lives controlled by the control..., undertaking them, trains himself in the rules of training, then the Tathagata disciplines him further, saying: 'Come you, monk, be guarded as to the doors of the sense-organs. Having seen a having seen a material shape with the eye, do not be entranced with the general appearance, do not be entranced with the detail; for if one dwells with the organ of sight uncontrolled, covetousness and dejection, evil, unskillful states of mind, may flow in. So fare along controlling it, guard the organ of sight, achieve control over the organ of sight. Having heard a sound with the ear... Having smelt a smell with the nose... Having savored a taste with the tongue... Having felt a touch with the body... Having cognized a mental state with the mind, be not entranced by the general appearance, be not entranced by the detail. For if you dwell with the organ of mind uncontrolled, covetousness and dejection, evil unskillful states of mind, might flow in. So fare along with its control, guard the organ of mind, achieve control over the organ of the mind.'
+And when, Aggivessana, the ariyan disciple is moral, lives controlled by the control..., undertaking them, trains himself in the rules of training, then the Tathagata disciplines him further, saying: 'Come you, monk, be guarded as to the doors of the sense-organs. Having seen a material shape with the eye, do not be entranced with the general appearance, do not be entranced with the detail; for if one dwells with the organ of sight uncontrolled, covetousness and dejection, evil, unskillful states of mind, may flow in. So fare along controlling it, guard the organ of sight, achieve control over the organ of sight.
 
-阿其威色那！當聖弟子成為持戒者，住於被波羅提木叉的自制所防護，具足正行與行境，在微罪中看見可怕，在學處上受持後學習時，如來更進一步調伏他：『來！比丘！你要成為守護根門者：以眼見色後，不要成為相的執取者、......（中略）（應該如會計師目犍連經[按：MN107/MA144]那樣使之詳細）......
+阿其威色那！當聖弟子成為持戒者，住於被波羅提木叉的自制所防護，具足正行與行境，在微罪中看見可怕，在學處上受持後學習時，如來更進一步調伏他：『來！比丘！你要成為守護根門者：以眼見色後，不要成為相的執取者、......（中略）......（應該如會計師目犍連經[按：MN107/MA144]那樣使之詳細）......
 
-阿奇耶沙那！聖弟子為持戒者，護持別解脫律儀，具正行與正處住，見微罪亦怖畏，於學處，受持而學故，如來對彼，更調御曰：『嗚呼！比丘！汝護於諸根門。雖以眼見色，勿取相，勿取細相。凡不護此眼根而住者，當流注於貪、憂、惡、不善法故，為此等之防護而行道，應入護眼根，為眼根之防護。身聞聲已、鼻嗅香已、舌味味已、身觸觸已、意識法已、而勿取相，勿取細相。凡不防護此意根而住者，當流注於貪、憂、惡、不善法故，為此之防護而行道，應入護意根，為意根之防護。』
+阿奇耶沙那！聖弟子為持戒者，護持別解脫律儀，具正行與正處住，見微罪亦怖畏，於學處，受持而學故，如來對彼，更調御曰：『嗚呼！比丘！汝護於諸根門。雖以眼見色，勿取相，勿取細相。凡不護此眼根而住者，當流注於貪、憂、惡、不善法故，為此等之防護而行道，應入護眼根，為眼根之防護。
+
+---
+
+...
+
+Having heard a sound with the ear... Having smelt a smell with the nose... Having savored a taste with the tongue... Having felt a touch with the body... Having cognized a mental state with the mind, be not entranced by the general appearance, be not entranced by the detail. For if you dwell with the organ of mind uncontrolled, covetousness and dejection, evil unskillful states of mind, might flow in. So fare along with its control, guard the organ of mind, achieve control over the organ of the mind.'
+
+......
+
+耳聞聲已、鼻嗅香已、舌味味已、身觸觸已、意識法已、而勿取相，勿取細相。凡不防護此意根而住者，當流注於貪、憂、惡、不善法故，為此之防護而行道，應入護意根，為意根之防護。』
 
 ---
 
@@ -488,23 +558,53 @@ The Tathagata then disciplines him further, saying: 'Come you, monk, fare along 
 
 ---
 
-So vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ ... tatiyaṃ jhānaṃ ... catutthaṃ jhānaṃ upasampajja viharati.
+So vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ ...
 
-He by allaying initial thought and discursive thought, with the mind subjectively tranquilized and fixed on one point, enters on and abides in the second meditation which is devoid of initial and discursive thought, is born of concentration and is rapturous and joyful. By the fading out of rapture, he dwells with equanimity, attentive and clearly conscious, and experiences in his person that joy of which the ariyans say: 'Joyful lives he who has equanimity and is mindful,' and he enters and abides in the third meditation. By getting rid of joy, by getting rid of anguish, by the going down of his former pleasures and sorrows, he enters and abides in the fourth meditation which has neither anguish nor joy, and which is entirely purified by equanimity and mindfulness.
+He by allaying initial thought and discursive thought, with the mind subjectively tranquilized and fixed on one point, enters on and abides in the second meditation which is devoid of initial and discursive thought, is born of concentration and is rapturous and joyful.
 
-他以尋與伺的平息，自信，一心，進入後住於無尋、無伺，定而生喜、樂的第二禪......（中略）第三禪......（中略）進入後住於不苦不樂，由平靜而正念遍淨的第四禪。
+他以尋與伺的平息，自信，一心，進入後住於無尋、無伺，定而生喜、樂的第二禪......
 
-彼為止息尋與伺內心成為安靜，有心一趣性，無尋無伺，由定生喜、樂具足第二禪、第三禪而住。
+彼為止息尋與伺內心成為安靜，有心一趣性，無尋無伺，由定生喜、樂具足第二禪、......
 
 ---
 
-So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ abhininnāmeti. So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo ... pe ... iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.
+... tatiyaṃ jhānaṃ ...
 
-Then with the mind composed thus, quite purified, quite clarified, without blemish, without defilement, grown pliant and workable, fixed, immovable, he directs his mind to the knowledge and recollection of former habitation: he remembers a variety of former habitations, thus: one birth, two births, three... four... five... ten... twenty... thirty... forty... fifty... a hundred... a thousand... a hundred thousand births, and many an eon of integration and many an eon of disintegration and many an eon of integration-disintegration: 'Such a one was I by name, having such a clan, such and such a color, so was I nourished, such and such pleasant and painful experiences were mine, so did the span of life end. Passing from this, I came to be in another state where such a one was I by name, having such and such a clan, such and such a color, so was I nourished, such and such pleasant and painful experiences were mine, so did the span of life end. Passing from this, I arose here.' Thus he remembers divers former habitations in all their modes and details.
+By the fading out of rapture, he dwells with equanimity, attentive and clearly conscious, and experiences in his person that joy of which the ariyans say: 'Joyful lives he who has equanimity and is mindful,' and he enters and abides in the third meditation.
 
-當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他使心轉向許多前世住處回憶之智。他回憶起許多前世住處，即：一生、二生、......（中略）像這樣，他回憶起許多前世住處有這樣的行相與境遇。
+......（中略）第三禪......
+
+......第三禪而住。
+
+---
+
+... catutthaṃ jhānaṃ upasampajja viharati.
+
+By getting rid of joy, by getting rid of anguish, by the going down of his former pleasures and sorrows, he enters and abides in the fourth meditation which has neither anguish nor joy, and which is entirely purified by equanimity and mindfulness.
+
+......（中略）進入後住於不苦不樂，由平靜而正念遍淨的第四禪。
+
+......
+
+---
+
+So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ abhininnāmeti. So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo ...
+
+Then with the mind composed thus, quite purified, quite clarified, without blemish, without defilement, grown pliant and workable, fixed, immovable, he directs his mind to the knowledge and recollection of former habitation: he remembers a variety of former habitations, thus: one birth, two births, three... four... five... ten... twenty... thirty... forty... fifty... a hundred... a thousand...
+
+當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他使心轉向許多前世住處回憶之智。他回憶起許多前世住處，即：一生、二生、......（中略）
 
 彼如是心，等持之時......
+
+---
+
+... pe ... iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.
+
+...a hundred thousand births, and many an eon of integration and many an eon of disintegration and many an eon of integration-disintegration: 'Such a one was I by name, having such a clan, such and such a color, so was I nourished, such and such pleasant and painful experiences were mine, so did the span of life end. Passing from this, I came to be in another state where such a one was I by name, having such and such a clan, such and such a color, so was I nourished, such and such pleasant and painful experiences were mine, so did the span of life end. Passing from this, I arose here.' Thus he remembers divers former habitations in all their modes and details.
+
+......像這樣，他回憶起許多前世住處有這樣的行相與境遇。
+
+......〔參照第五十一乾陀羅伽經〕......
 
 ---
 
@@ -514,7 +614,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的之時，他使心轉向眾生死亡與往生之智，他以清淨、超越人的天眼，看見當眾生死時、往生時，......（中略）了知眾生依業流轉。
 
-......〔參照第五十一乾陀羅伽經〕......
+......
 
 ---
 
