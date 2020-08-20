@@ -238,13 +238,23 @@ Even so, Aggivessana, that Prince Jayasena, living as he does in the midst of se
 
 ---
 
-Seyyathāpi, aggivessana, gāmassa vā nigamassa vā avidūre mahāpabbato. Tamenaṃ dve sahāyakā tamhā gāmā vā nigamā vā nikkhamitvā hatthavilaṅghakena yena so pabbato tenupasaṅkameyyuṃ; upasaṅkamitvā eko sahāyako heṭṭhā pabbatapāde tiṭṭheyya, eko sahāyako uparipabbataṃ āroheyya. Tamenaṃ heṭṭhā pabbatapāde ṭhito sahāyako uparipabbate ṭhitaṃ sahāyakaṃ evaṃ vadeyya: ‘yaṃ, samma, kiṃ tvaṃ passasi uparipabbate ṭhito’ti? So evaṃ vadeyya: ‘passāmi kho ahaṃ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti. So evaṃ vadeyya: ‘aṭṭhānaṃ kho etaṃ, samma, anavakāso yaṃ tvaṃ uparipabbate ṭhito passeyyāsi ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti.
+Seyyathāpi, aggivessana, gāmassa vā nigamassa vā avidūre mahāpabbato. Tamenaṃ dve sahāyakā tamhā gāmā vā nigamā vā nikkhamitvā hatthavilaṅghakena yena so pabbato tenupasaṅkameyyuṃ; upasaṅkamitvā eko sahāyako heṭṭhā pabbatapāde tiṭṭheyya, eko sahāyako uparipabbataṃ āroheyya. Tamenaṃ heṭṭhā pabbatapāde ṭhito sahāyako uparipabbate ṭhitaṃ sahāyakaṃ evaṃ vadeyya: ‘yaṃ, samma, kiṃ tvaṃ passasi uparipabbate ṭhito’ti?
 
-It is as if, Aggivessana, there were a great mountain slope near a village or a market-town which two friends, coming hand in hand from that village or market-town might approach; having approached the mountain slope one friend might remain at the foot while the other might climb to the top. Then the friend standing at the foot of the mountain slope might speak thus to the one standing on the top: 'My dear, what do you see as you stand on the top of the mountain slope?' He might reply: 'As I stand on the top of the mountain slope I, my dear, see delightful parks, delightful woods, delightful stretches of level ground delightful ponds.' But the other might speak thus: 'This is impossible, it cannot come to pass, my dear, that, as you stand on the top of the mountain slope, you should see... delightful ponds.'
+It is as if, Aggivessana, there were a great mountain slope near a village or a market-town which two friends, coming hand in hand from that village or market-town might approach; having approached the mountain slope one friend might remain at the foot while the other might climb to the top. Then the friend standing at the foot of the mountain slope might speak thus to the one standing on the top: 'My dear, what do you see as you stand on the top of the mountain slope?'
 
-阿其威色那！猶如在村落或市鎮不遠處有大山，有兩位朋友從那村落或市鎮出發後，會攜手走向那座山。抵達後，如果一位朋友站在山腳下而另一位朋友登上山上，如果站在山腳下的朋友對站在山上的朋友這麼說：『親愛的！你站在山上看見什麼？』他會這麼回答：『親愛的！我站在山上看見能令人愉悅的園林、能令人愉悅的森林、能令人愉悅的土地、能令人愉悅的蓮花池。』他會這麼說：『親愛的朋友！你站在山上能看見能令人愉悅的園林、能令人愉悅的森林、能令人愉悅的土地、能令人愉悅的蓮花池，這是不可能的。』
+阿其威色那！猶如在村落或市鎮不遠處有大山，有兩位朋友從那村落或市鎮出發後，會攜手走向那座山。抵達後，如果一位朋友站在山腳下而另一位朋友登上山上，如果站在山腳下的朋友對站在山上的朋友這麼說：『親愛的！你站在山上看見什麼？』
 
-「阿奇耶沙那！譬喻村或鎮之近處有大山，此山有兩友，從彼村鎮出，以手契示而近彼山，近已，一友立於山麓，一友登於山上。立彼山麓之友，如是言立於山上之友曰：『友！汝立於山上見何耶？』彼如是曰：『友！我立於山上，見美麗之林園、美麗之森林、美麗之土地、美麗之水池。』彼〔立於山麓之友〕如是言：『汝立於山上見美麗之林園、美麗之森林、美麗之水池者無處亦無容（無是事）。』
+「阿奇耶沙那！譬喻村或鎮之近處有大山，此山有兩友，從彼村鎮出，以手契示而近彼山，近已，一友立於山麓，一友登於山上。立彼山麓之友，如是言立於山上之友曰：『友！汝立於山上見何耶？』
+
+---
+
+So evaṃ vadeyya: ‘passāmi kho ahaṃ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti. So evaṃ vadeyya: ‘aṭṭhānaṃ kho etaṃ, samma, anavakāso yaṃ tvaṃ uparipabbate ṭhito passeyyāsi ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti.
+
+He might reply: 'As I stand on the top of the mountain slope I, my dear, see delightful parks, delightful woods, delightful stretches of level ground delightful ponds.' But the other might speak thus: 'This is impossible, it cannot come to pass, my dear, that, as you stand on the top of the mountain slope, you should see... delightful ponds.'
+
+他會這麼回答：『親愛的！我站在山上看見能令人愉悅的園林、能令人愉悅的森林、能令人愉悅的土地、能令人愉悅的蓮花池。』他會這麼說：『親愛的朋友！你站在山上能看見能令人愉悅的園林、能令人愉悅的森林、能令人愉悅的土地、能令人愉悅的蓮花池，這是不可能的。』
+
+彼如是曰：『友！我立於山上，見美麗之林園、美麗之森林、美麗之土地、美麗之水池。』彼〔立於山麓之友〕如是言：『汝立於山上見美麗之林園、美麗之森林、美麗之水池者無處亦無容（無是事）。』
 
 ---
 
@@ -256,7 +266,7 @@ Then the friend who had been standing on top of the mountain slope having come d
 
 立彼山上之友下山麓，拉彼友之腕，令登山上，暫時休息已，向彼友言：『友！汝於山上見何耶？』
 
---
+---
 
 So evaṃ vadeyya: ‘passāmi kho ahaṃ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti.
 
@@ -266,7 +276,7 @@ He might speak thus: 'I, my dear, as I stand on the top of the mountain slope, s
 
 彼如是曰：『友！我立於山上，見美麗之林園、美麗之森林、美麗之土地、美麗之水池。』
 
---
+---
 
 So evaṃ vadeyya: ‘idāneva kho te, samma, bhāsitaṃ—mayaṃ evaṃ ājānāma—aṭṭhānaṃ kho etaṃ samma, anavakāso yaṃ tvaṃ uparipabbate ṭhito passeyyāsi ārāmarāmaṇeyyakaṃ vanarāmaṇeyyakaṃ bhūmirāmaṇeyyakaṃ pokkharaṇīrāmaṇeyyakan’ti.
 
@@ -460,11 +470,21 @@ And when, Aggivessana, the ariyan disciple is moral, lives controlled by the con
 
 ...
 
-Having heard a sound with the ear... Having smelt a smell with the nose... Having savored a taste with the tongue... Having felt a touch with the body... Having cognized a mental state with the mind, be not entranced by the general appearance, be not entranced by the detail. For if you dwell with the organ of mind uncontrolled, covetousness and dejection, evil unskillful states of mind, might flow in. So fare along with its control, guard the organ of mind, achieve control over the organ of the mind.'
+Having heard a sound with the ear... Having smelt a smell with the nose... Having savored a taste with the tongue... Having felt a touch with the body... Having cognized a mental state with the mind, be not entranced by the general appearance, be not entranced by the detail.
 
 ......
 
-耳聞聲已、鼻嗅香已、舌味味已、身觸觸已、意識法已、而勿取相，勿取細相。凡不防護此意根而住者，當流注於貪、憂、惡、不善法故，為此之防護而行道，應入護意根，為意根之防護。』
+耳聞聲已、鼻嗅香已、舌味味已、身觸觸已、意識法已、而勿取相，勿取細相。
+
+---
+
+...
+
+For if you dwell with the organ of mind uncontrolled, covetousness and dejection, evil unskillful states of mind, might flow in. So fare along with its control, guard the organ of mind, achieve control over the organ of the mind.'
+
+......
+
+凡不防護此意根而住者，當流注於貪、憂、惡、不善法故，為此之防護而行道，應入護意根，為意根之防護。』
 
 ---
 
@@ -490,11 +510,21 @@ When, Aggivessana, the ariyan disciple is moderate in eating, the Tathagata disc
 
 ...
 
-And when, Aggivessana, the ariyan disciple is intent on vigilance, then the Tathagata disciplines him further, saying: 'Come you, monk, be possessed of mindfulness and clear consciousness, acting with clear consciousness whether you are approaching or departing, acting with clear consciousness whether you are looking ahead or looking round, acting with clear consciousness whether you are bending in or stretching out [the arms], acting with clear consciousness whether you are carrying the outer cloak, the bowl or robe, acting with clear consciousness whether you are eating, drinking, munching, savoring, acting with clear consciousness whether you are obeying the calls of nature, acting with clear consciousness whether you are walking, standing, sitting, asleep, awake, talking or being silent.'
+And when, Aggivessana, the ariyan disciple is intent on vigilance, then the Tathagata disciplines him further, saying: 'Come you, monk, be possessed of mindfulness and clear consciousness, acting with clear consciousness whether you are approaching or departing, acting with clear consciousness whether you are looking ahead or looking round,
 
 ......
 
-阿奇耶沙那！聖弟子專為警寤而住，如來對彼，更調御曰：『嗚呼！比丘！汝應具念、正知；往、返亦具正知者；見前，見後亦具正知者；要屈要伸亦具正知者；持僧伽梨衣及鉢、衣亦具正知者，行大小便亦具正知者；或行、或立、或坐、或眠、或寤、或語、或黑、亦具正知者。』
+阿奇耶沙那！聖弟子專為警寤而住，如來對彼，更調御曰：『嗚呼！比丘！汝應具念、正知；往、返亦具正知者；見前，見後亦具正知者；
+
+---
+
+...
+
+acting with clear consciousness whether you are bending in or stretching out [the arms], acting with clear consciousness whether you are carrying the outer cloak, the bowl or robe, acting with clear consciousness whether you are eating, drinking, munching, savoring, acting with clear consciousness whether you are obeying the calls of nature, acting with clear consciousness whether you are walking, standing, sitting, asleep, awake, talking or being silent.'
+
+......
+
+要屈要伸亦具正知者；持僧伽梨衣及鉢、衣亦具正知者，行大小便亦具正知者；或行、或立、或坐、或眠、或寤、或語、或黑、亦具正知者。』
 
 ---
 
@@ -510,11 +540,21 @@ And when, Aggivessana, the ariyan disciple is possessed of mindfulness and clear
 
 ...
 
-Returning from alms-gathering, after the meal, he sits down cross-legged, holding the back erect, having made mindfulness rise up in front of him, he, by getting rid of coveting for the world, dwells with a mind devoid of coveting, he purifies the mind of coveting. By getting rid of the taint of ill-will, he dwells benevolent in mind, compassionate for the welfare of all creatures and beings, he purifies the mind of the taint of ill-will. By getting rid of sloth and torpor, he dwells devoid of sloth and torpor; perceiving the light, mindful, clearly conscious, he purifies the mind of sloth and torpor. By getting rid of restlessness and worry, he dwells calmly the mind subjectively tranquilized, he purifies the mind of restlessness and worry. By getting rid of doubt, he dwells doubt-crossed, unperplexed as to the states that are skillful, he purifies the mind of doubt.
+Returning from alms-gathering, after the meal, he sits down cross-legged, holding the back erect, having made mindfulness rise up in front of him, he, by getting rid of coveting for the world, dwells with a mind devoid of coveting, he purifies the mind of coveting. By getting rid of the taint of ill-will, he dwells benevolent in mind, compassionate for the welfare of all creatures and beings, he purifies the mind of the taint of ill-will.
 
 ......
 
-彼食後，由行乞歸，結跏而坐，端正身體，現前安立念。彼對世間斷貪愛，離貪心而住。由貪愛令心清淨，斷瞋恚、無瞋恚而住，饒益憐愍一切生類而由瞋恚令心清淨，斷惛沈睡眠，遠離惛沈睡眠而住。有光明想，有念、正知由惛沈、睡眠令心清淨；斷掉舉、惡作、無掉舉而住。內靜息有心，由掉舉令心清淨；斷疑、超越疑而住，無猶豫、對諸善法由疑令心清淨。
+彼食後，由行乞歸，結跏而坐，端正身體，現前安立念。彼對世間斷貪愛，離貪心而住。由貪愛令心清淨，斷瞋恚、無瞋恚而住，饒益憐愍一切生類而由瞋恚令心清淨，
+
+---
+
+...
+
+By getting rid of sloth and torpor, he dwells devoid of sloth and torpor; perceiving the light, mindful, clearly conscious, he purifies the mind of sloth and torpor. By getting rid of restlessness and worry, he dwells calmly the mind subjectively tranquilized, he purifies the mind of restlessness and worry. By getting rid of doubt, he dwells doubt-crossed, unperplexed as to the states that are skillful, he purifies the mind of doubt.
+
+......
+
+斷惛沈睡眠，遠離惛沈睡眠而住。有光明想，有念、正知由惛沈、睡眠令心清淨；斷掉舉、惡作、無掉舉而住。內靜息有心，由掉舉令心清淨；斷疑、超越疑而住，無猶豫、對諸善法由疑令心清淨。
 
 ---
 
@@ -648,13 +688,23 @@ That monk is able to endure heat, cold, hunger, thirst, the touch of mosquitoes,
 
 ---
 
-Mahallako cepi, aggivessana, rañño nāgo adanto avinīto kālaṃ karoti, ‘adantamaraṇaṃ mahallako rañño nāgo kālaṅkato’tveva saṅkhaṃ gacchati; majjhimo cepi, aggivessana, rañño nāgo. Daharo cepi, aggivessana, rañño nāgo adanto avinīto kālaṃ karoti, ‘adantamaraṇaṃ daharo rañño nāgo kālaṅkato’tveva saṅkhaṃ gacchati; evameva kho, aggivessana, thero cepi bhikkhu akhīṇāsavo kālaṃ karoti, ‘adantamaraṇaṃ thero bhikkhu kālaṅkato’tveva saṅkhaṃ gacchati; majjhimo cepi, aggivessana, bhikkhu. Navo cepi, aggivessana, bhikkhu akhīṇāsavo kālaṃ karoti, ‘adantamaraṇaṃ navo bhikkhu kālaṅkato’tveva saṅkhaṃ gacchati.
+Mahallako cepi, aggivessana, rañño nāgo adanto avinīto kālaṃ karoti, ‘adantamaraṇaṃ mahallako rañño nāgo kālaṅkato’tveva saṅkhaṃ gacchati; majjhimo cepi, aggivessana, rañño nāgo. Daharo cepi, aggivessana, rañño nāgo adanto avinīto kālaṃ karoti, ‘adantamaraṇaṃ daharo rañño nāgo kālaṅkato’tveva saṅkhaṃ gacchati;
 
-If, Aggivessana, a king's elephant dies in old age, untamed, untrained, the king's old elephant that has died is reckoned as one that has died untamed: And so, Aggivessana, of a king's elephant that is middle-aged. And too, Aggivessana, if a king's elephant dies young, untamed, untrained, the king's young elephant that has died is reckoned as one that has died untamed. Even so, Aggivessana, if a monk who is an elder dies with the cankers not destroyed, the monk who is an elder that has died is reckoned as one that has died untamed. And so of a monk of middle standing. And too, Aggivessana, if a newly ordained monk dies with the cankers not destroyed, the newly ordained monk that has died is reckoned as one that has died untamed.
+If, Aggivessana, a king's elephant dies in old age, untamed, untrained, the king's old elephant that has died is reckoned as one that has died untamed: And so, Aggivessana, of a king's elephant that is middle-aged. And too, Aggivessana, if a king's elephant dies young, untamed, untrained, the king's young elephant that has died is reckoned as one that has died untamed.
 
-阿其威色那！如果國王的象未被調御、未被教導高齡而死，就名為：『已死的高齡國王象是未被調御的死。』阿其威色那！如果國王的象未被調御、未被教導中齡而死，就名為：『已死的中齡國王象是未被調御的死。』阿其威色那！如果國王的象未被調御、未被教導年輕而死，就名為：『已死的年輕國王象是未被調御的死。』同樣的，阿其威色那！如果上座比丘煩惱未滅盡而死，就名為：『已死的上座比丘是未被調御的死。』如果中座比丘煩惱未滅盡而死，就名為：『已死的中座比丘是未被調御的死。』如果新比丘煩惱未滅盡而死，就名為：『已死的新比丘是未被調御的死。』
+阿其威色那！如果國王的象未被調御、未被教導高齡而死，就名為：『已死的高齡國王象是未被調御的死。』阿其威色那！如果國王的象未被調御、未被教導中齡而死，就名為：『已死的中齡國王象是未被調御的死。』阿其威色那！如果國王的象未被調御、未被教導年輕而死，就名為：『已死的年輕國王象是未被調御的死。』
 
-阿奇耶沙那！若老野象之不受調御、不受調練而死者，稱為：『老野象以死不調御之死。』阿奇耶沙那！若中年野象之〔......〕，阿奇耶沙那！若青年野象之不受調御，不受調練而死者，稱為：『青年野象以死不調御之死。』恰如是，阿奇耶沙那！若長老比丘不漏盡而死者，稱為：『長老比丘以死不調御之死。』阿奇耶沙那！若中年比丘之〔......〕，阿奇耶沙那！若新學比丘之不漏盡而死者，稱為『新學比丘以死不調御之死。』
+阿奇耶沙那！若老野象之不受調御、不受調練而死者，稱為：『老野象以死不調御之死。』阿奇耶沙那！若中年野象之〔......〕，阿奇耶沙那！若青年野象之不受調御，不受調練而死者，稱為：『青年野象以死不調御之死。』
+
+---
+
+evameva kho, aggivessana, thero cepi bhikkhu akhīṇāsavo kālaṃ karoti, ‘adantamaraṇaṃ thero bhikkhu kālaṅkato’tveva saṅkhaṃ gacchati; majjhimo cepi, aggivessana, bhikkhu. Navo cepi, aggivessana, bhikkhu akhīṇāsavo kālaṃ karoti, ‘adantamaraṇaṃ navo bhikkhu kālaṅkato’tveva saṅkhaṃ gacchati.
+
+Even so, Aggivessana, if a monk who is an elder dies with the cankers not destroyed, the monk who is an elder that has died is reckoned as one that has died untamed. And so of a monk of middle standing. And too, Aggivessana, if a newly ordained monk dies with the cankers not destroyed, the newly ordained monk that has died is reckoned as one that has died untamed.
+
+同樣的，阿其威色那！如果上座比丘煩惱未滅盡而死，就名為：『已死的上座比丘是未被調御的死。』如果中座比丘煩惱未滅盡而死，就名為：『已死的中座比丘是未被調御的死。』如果新比丘煩惱未滅盡而死，就名為：『已死的新比丘是未被調御的死。』
+
+恰如是，阿奇耶沙那！若長老比丘不漏盡而死者，稱為：『長老比丘以死不調御之死。』阿奇耶沙那！若中年比丘之〔......〕，阿奇耶沙那！若新學比丘之不漏盡而死者，稱為『新學比丘以死不調御之死。』
 
 ---
 
