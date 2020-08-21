@@ -760,10 +760,6 @@ Even so, Aggivessana, if a monk who is an elder dies with the cankers not destro
 
 Mahallako cepi, aggivessana, rañño nāgo sudanto suvinīto kālaṃ karoti, ‘dantamaraṇaṃ mahallako rañño nāgo kālaṅkato’tveva saṅkhaṃ gacchati; majjhimo cepi, aggivessana, rañño nāgo ... daharo cepi, aggivessana, rañño nāgo sudanto suvinīto kālaṃ karoti, ‘dantamaraṇaṃ daharo rañño nāgo kālaṅkato’tveva saṅkhaṃ gacchati;
 
----
-
-evameva kho, aggivessana, thero cepi bhikkhu khīṇāsavo kālaṃ karoti, ‘dantamaraṇaṃ thero bhikkhu kālaṅkato’tveva saṅkhaṃ gacchati; majjhimo cepi, aggivessana, bhikkhu. Navo cepi, aggivessana, bhikkhu khīṇāsavo kālaṃ karoti, ‘dantamaraṇaṃ navo bhikkhu kālaṅkato’tveva saṅkhaṃ gacchatī”ti.
-
 If, Aggivessana, a king’s elephant dies in old age, well tamed, well trained, the king’s old elephant that has died is reckoned as one that has died tamed. And so, Aggivessana of a king’s elephant that is middle-aged. And too, Aggivessana, if a king’s elephant dies young, well tamed, well trained, the king’s young elephant that has died is reckoned as one that has died tamed.
 
 阿其威色那！如果國王的象已被善調御、已被善教導高齡而死，就名為：『已死的高齡國王象是已被調御的死。』阿其威色那！如果國王的象已被善調御、已被善教導中齡而死，就名為：『已死的中齡國王象是已被調御的死。』阿其威色那！如果國王的象已被善調御、已被善教導年輕而死，就名為：『已死的年輕國王象是已被調御的死。』
@@ -771,6 +767,8 @@ If, Aggivessana, a king’s elephant dies in old age, well tamed, well trained, 
 阿奇耶沙那！若老野象之善受調御、善受調練而死者，稱為『老野象以死調御之死。』阿奇耶沙那！若中年野象之〔......〕，阿奇耶沙那！若青年野之善受調御、善受調練而死者，稱為『青年野象以死調御之死。』
 
 ---
+
+evameva kho, aggivessana, thero cepi bhikkhu khīṇāsavo kālaṃ karoti, ‘dantamaraṇaṃ thero bhikkhu kālaṅkato’tveva saṅkhaṃ gacchati; majjhimo cepi, aggivessana, bhikkhu. Navo cepi, aggivessana, bhikkhu khīṇāsavo kālaṃ karoti, ‘dantamaraṇaṃ navo bhikkhu kālaṅkato’tveva saṅkhaṃ gacchatī”ti.
 
 Even so, Aggivessana, if a monk who is an elder dies with the cankers destroyed, the monk who is an elder that has died is reckoned as one that has died tamed. And so, Aggivessana, of a monk of middle standing. And too, Aggivessana, if a newly ordained monk dies with cankers destroyed, the newly ordained monk that has died is reckoned as one that has died tamed.”
 
