@@ -578,13 +578,23 @@ He fares along contemplating the feelings... the mind... the mental states in me
 
 ---
 
-Seyyathāpi, aggivessana, hatthidamako mahantaṃ thambhaṃ pathaviyaṃ nikhaṇitvā āraññakassa nāgassa gīvāyaṃ upanibandhati āraññakānañceva sīlānaṃ abhinimmadanāya āraññakānañceva sarasaṅkappānaṃ abhinimmadanāya āraññakānañceva darathakilamathapariḷāhānaṃ abhinimmadanāya gāmante abhiramāpanāya manussakantesu sīlesu samādapanāya; evameva kho, aggivessana, ariyasāvakassa ime cattāro satipaṭṭhānā cetaso upanibandhanā honti gehasitānañceva sīlānaṃ abhinimmadanāya gehasitānañceva sarasaṅkappānaṃ abhinimmadanāya gehasitānañceva darathakilamathapariḷāhānaṃ abhinimmadanāya ñāyassa adhigamāya nibbānassa sacchikiriyāya.
+Seyyathāpi, aggivessana, hatthidamako mahantaṃ thambhaṃ pathaviyaṃ nikhaṇitvā āraññakassa nāgassa gīvāyaṃ upanibandhati āraññakānañceva sīlānaṃ abhinimmadanāya āraññakānañceva sarasaṅkappānaṃ abhinimmadanāya āraññakānañceva darathakilamathapariḷāhānaṃ abhinimmadanāya gāmante abhiramāpanāya manussakantesu sīlesu samādapanāya;
 
-As, Aggivessana, an elephant tamer, driving a great post into the ground, ties a forest elephant to it by his neck so as to subdue his forest ways, so as to subdue his forest aspirations, and so as to subdue his distress, his fretting and fever for the forest, so as to make him pleased with villages and accustom him to human ways — even so, Aggivessana, these four applications of mindfulness are ties of the mind so as to subdue the ways of householders and to subdue the aspirations of householders and to subdue the distress, the fretting and fever of householders; they are for leading to the right path, for realizing nibbana.
+As, Aggivessana, an elephant tamer, driving a great post into the ground, ties a forest elephant to it by his neck so as to subdue his forest ways, so as to subdue his forest aspirations, and so as to subdue his distress, his fretting and fever for the forest, so as to make him pleased with villages and accustom him to human ways —
 
-阿其威色那！猶如馴象師回答剎帝利灌頂王後，為了征服林野的習性、為了征服林野的念與思惟、為了征服林野的不安與疲勞及熱惱、為了使之歡喜村落、為了勸導樂愛人的習性而在地上埋一根大柱子，在林野象的脖子上綁住。同樣的，阿其威色那！這四念住是聖弟子心的羈束：為了征服依賴家的習性、為了征服依賴家的念與思惟、為了征服依賴家的不安與疲勞及熱惱、為了方法的獲得、為了涅槃的作證。
+阿其威色那！猶如馴象師回答剎帝利灌頂王後，為了征服林野的習性、為了征服林野的念與思惟、為了征服林野的不安與疲勞及熱惱、為了使之歡喜村落、為了勸導樂愛人的習性而在地上埋一根大柱子，在林野象的脖子上綁住。
 
-阿奇耶沙那！猶如調象師，掘地立大柱，繫野象之首以除其野性、野之憶念、思惟、野之憂、疲、熱惱、樂於村鎮中，令熟人之習慣，恰如是，阿奇耶沙那！此等之四念處繫聖弟子之心，除在欲〔生活〕之習，除在俗〔生活〕之思惟，除在俗〔生活〕之憂、疲、熱惱、逮得正理以證涅槃。
+阿奇耶沙那！猶如調象師，掘地立大柱，繫野象之首以除其野性、野之憶念、思惟、野之憂、疲、熱惱、樂於村鎮中，令熟人之習慣，
+
+---
+
+evameva kho, aggivessana, ariyasāvakassa ime cattāro satipaṭṭhānā cetaso upanibandhanā honti gehasitānañceva sīlānaṃ abhinimmadanāya gehasitānañceva sarasaṅkappānaṃ abhinimmadanāya gehasitānañceva darathakilamathapariḷāhānaṃ abhinimmadanāya ñāyassa adhigamāya nibbānassa sacchikiriyāya.
+
+— even so, Aggivessana, these four applications of mindfulness are ties of the mind so as to subdue the ways of householders and to subdue the aspirations of householders and to subdue the distress, the fretting and fever of householders; they are for leading to the right path, for realizing nibbana.
+
+同樣的，阿其威色那！這四念住是聖弟子心的羈束：為了征服依賴家的習性、為了征服依賴家的念與思惟、為了征服依賴家的不安與疲勞及熱惱、為了方法的獲得、為了涅槃的作證。
+
+恰如是，阿奇耶沙那！此等之四念處繫聖弟子之心，除在欲〔生活〕之習，除在俗〔生活〕之思惟，除在俗〔生活〕之憂、疲、熱惱、逮得正理以證涅槃。
 
 ---
 
@@ -648,21 +658,61 @@ Then with the mind composed thus, quite purified, quite clarified, without blemi
 
 ---
 
-So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ abhininnāmeti. So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate ... pe ... yathākammūpage satte pajānāti.
+So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ abhininnāmeti. So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate ... pe ...
 
-“Then with the mind composed, quite purified, quite clarified, without blemish, without defilement, grown pliant and workable, fixed, immovable, he directs his mind to the knowledge of the passing hence and the arising of beings. With the purified deva-vision surpassing that of men, he sees beings as they pass hence or come to be; he comprehends that beings are mean, excellent, comely, ugly, well-going, ill-going, according to the consequence of their deeds, the he thinks: Indeed these worthy beings who were possessed of wrong conduct in body, who were possessed of wrong conduct in speech, who were possessed of wrong conduct of thought, scoffers at the ariyans, holding a wrong view, incurring deeds consequent on a wrong view — these, at the breaking up of the body after dying, have arisen in a sorrowful state, a bad bourn, the abyss, Niraya hell. But these worthy beings who were possessed of good conduct in body, who were possessed of good conduct in speech, who were possessed of good conduct in thought, who did not scoff at the ariyans, holding a right view, incurring deeds consequent on a right view — these, at the breaking up of the body, after dying, have arisen in a good bourn, a heaven world.
+“Then with the mind composed, quite purified, quite clarified, without blemish, without defilement, grown pliant and workable, fixed, immovable, he directs his mind to the knowledge of the passing hence and the arising of beings. With the purified deva-vision surpassing that of men, he sees beings as they pass hence or come to be; he comprehends that beings are mean, excellent, comely, ugly, well-going, ill-going, according to the consequence of their deeds,
 
-當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的之時，他使心轉向眾生死亡與往生之智，他以清淨、超越人的天眼，看見當眾生死時、往生時，......（中略）了知眾生依業流轉。
+當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的之時，他使心轉向眾生死亡與往生之智，他以清淨、超越人的天眼，看見當眾生死時、往生時，......（中略）......
 
 ......
 
 ---
 
-So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmeti. So ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti; ‘ime āsavā’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Tassa evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccati, bhavāsavāpi cittaṃ vimuccati, avijjāsavāpi cittaṃ vimuccati.
+...
 
-“Then with the mind composed... immovable, he directs his mind to the knowledge of the destruction of the cankers. He understands as it really is: This is anguish, this is the arising of anguish, this is the stopping of anguish, this is the course leading to the stopping of anguish. He understands as it really is: These are the cankers, this is the arising of the cankers, this is the stopping of the cankers, this is the course leading to the stopping of the cankers. Knowing thus, seeing thus, his mind is freed from the canker of sense pleasures, is freed from the canker of becoming, freed from the canker of ignorance.
+then he thinks: Indeed these worthy beings who were possessed of wrong conduct in body, who were possessed of wrong conduct in speech, who were possessed of wrong conduct of thought, scoffers at the ariyans, holding a wrong view, incurring deeds consequent on a wrong view — these, at the breaking up of the body after dying, have arisen in a sorrowful state, a bad bourn, the abyss, Niraya hell.
 
-當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的之時，他使心轉向煩惱之滅盡智。他如實了知：『這是苦。』如實了知：『這是苦集。』如實了知：『這是苦滅。』如實了知：『這是導向苦滅道跡。』如實了知：『這些是煩惱。』如實了知：『這是煩惱集。』如實了知：『這是煩惱滅。』如實了知：『這是導向煩惱滅道跡。』當他這麼知、這麼見時，心從欲的煩惱解脫，心從有的煩惱解脫，心從無明的煩惱解脫。
+......
+
+......
+
+---
+
+... yathākammūpage satte pajānāti.
+
+But these worthy beings who were possessed of good conduct in body, who were possessed of good conduct in speech, who were possessed of good conduct in thought, who did not scoff at the ariyans, holding a right view, incurring deeds consequent on a right view — these, at the breaking up of the body, after dying, have arisen in a good bourn, a heaven world.
+
+......了知眾生依業流轉。
+
+......
+
+---
+
+So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhininnāmeti.
+
+“Then with the mind composed... immovable, he directs his mind to the knowledge of the destruction of the cankers.
+
+當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的之時，他使心轉向煩惱之滅盡智。
+
+......
+
+---
+
+So ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti; ‘ime āsavā’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti.
+
+He understands as it really is: This is anguish, this is the arising of anguish, this is the stopping of anguish, this is the course leading to the stopping of anguish. He understands as it really is: These are the cankers, this is the arising of the cankers, this is the stopping of the cankers, this is the course leading to the stopping of the cankers.
+
+他如實了知：『這是苦。』如實了知：『這是苦集。』如實了知：『這是苦滅。』如實了知：『這是導向苦滅道跡。』如實了知：『這些是煩惱。』如實了知：『這是煩惱集。』如實了知：『這是煩惱滅。』如實了知：『這是導向煩惱滅道跡。』
+
+......
+
+---
+
+Tassa evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccati, bhavāsavāpi cittaṃ vimuccati, avijjāsavāpi cittaṃ vimuccati.
+
+Knowing thus, seeing thus, his mind is freed from the canker of sense pleasures, is freed from the canker of becoming, freed from the canker of ignorance.
+
+當他這麼知、這麼見時，心從欲的煩惱解脫，心從有的煩惱解脫，心從無明的煩惱解脫。
 
 ......
 
@@ -708,13 +758,25 @@ Even so, Aggivessana, if a monk who is an elder dies with the cankers not destro
 
 ---
 
-Mahallako cepi, aggivessana, rañño nāgo sudanto suvinīto kālaṃ karoti, ‘dantamaraṇaṃ mahallako rañño nāgo kālaṅkato’tveva saṅkhaṃ gacchati; majjhimo cepi, aggivessana, rañño nāgo ... daharo cepi, aggivessana, rañño nāgo sudanto suvinīto kālaṃ karoti, ‘dantamaraṇaṃ daharo rañño nāgo kālaṅkato’tveva saṅkhaṃ gacchati; evameva kho, aggivessana, thero cepi bhikkhu khīṇāsavo kālaṃ karoti, ‘dantamaraṇaṃ thero bhikkhu kālaṅkato’tveva saṅkhaṃ gacchati; majjhimo cepi, aggivessana, bhikkhu. Navo cepi, aggivessana, bhikkhu khīṇāsavo kālaṃ karoti, ‘dantamaraṇaṃ navo bhikkhu kālaṅkato’tveva saṅkhaṃ gacchatī”ti.
+Mahallako cepi, aggivessana, rañño nāgo sudanto suvinīto kālaṃ karoti, ‘dantamaraṇaṃ mahallako rañño nāgo kālaṅkato’tveva saṅkhaṃ gacchati; majjhimo cepi, aggivessana, rañño nāgo ... daharo cepi, aggivessana, rañño nāgo sudanto suvinīto kālaṃ karoti, ‘dantamaraṇaṃ daharo rañño nāgo kālaṅkato’tveva saṅkhaṃ gacchati;
 
-If, Aggivessana, a king’s elephant dies in old age, well tamed, well trained, the king’s old elephant that has died is reckoned as one that has died tamed. And so, Aggivessana of a king’s elephant that is middle-aged. And too, Aggivessana, if a king’s elephant dies young, well tamed, well trained, the king’s young elephant that has died is reckoned as one that has died tamed. Even so, Aggivessana, if a monk who is an elder dies with the cankers destroyed, the monk who is an elder that has died is reckoned as one that has died tamed. And so, Aggivessana, of a monk of middle standing. And too, Aggivessana, if a newly ordained monk dies with cankers destroyed, the newly ordained monk that has died is reckoned as one that has died tamed.”
+---
 
-阿其威色那！如果國王的象已被善調御、已被善教導高齡而死，就名為：『已死的高齡國王象是已被調御的死。』阿其威色那！如果國王的象已被善調御、已被善教導中齡而死，就名為：『已死的中齡國王象是已被調御的死。』阿其威色那！如果國王的象已被善調御、已被善教導年輕而死，就名為：『已死的年輕國王象是已被調御的死。』同樣的，阿其威色那！如果上座比丘煩惱已滅盡而死，就名為：『已死的上座比丘是已被調御的死。』如果中座比丘煩惱已滅盡而死，就名為：『已死的中座比丘是已被調御的死。』如果新比丘煩惱已滅盡而死，就名為：『已死的新比丘是已被調御的死。』」
+evameva kho, aggivessana, thero cepi bhikkhu khīṇāsavo kālaṃ karoti, ‘dantamaraṇaṃ thero bhikkhu kālaṅkato’tveva saṅkhaṃ gacchati; majjhimo cepi, aggivessana, bhikkhu. Navo cepi, aggivessana, bhikkhu khīṇāsavo kālaṃ karoti, ‘dantamaraṇaṃ navo bhikkhu kālaṅkato’tveva saṅkhaṃ gacchatī”ti.
 
-阿奇耶沙那！若老野象之善受調御、善受調練而死者，稱為『老野象以死調御之死。』阿奇耶沙那！若中年野象之〔......〕，阿奇耶沙那！若青年野之善受調御、善受調練而死者，稱為『青年野象以死調御之死。』恰如是，阿奇耶沙那！若長老比丘之漏盡而死者，稱為『長老比丘以死於調御之死。』阿奇耶沙那！若中年比丘之〔......〕，阿奇耶沙那！若新學比丘之漏盡而死者，稱為『新學比丘以死於調御之死。』」
+If, Aggivessana, a king’s elephant dies in old age, well tamed, well trained, the king’s old elephant that has died is reckoned as one that has died tamed. And so, Aggivessana of a king’s elephant that is middle-aged. And too, Aggivessana, if a king’s elephant dies young, well tamed, well trained, the king’s young elephant that has died is reckoned as one that has died tamed.
+
+阿其威色那！如果國王的象已被善調御、已被善教導高齡而死，就名為：『已死的高齡國王象是已被調御的死。』阿其威色那！如果國王的象已被善調御、已被善教導中齡而死，就名為：『已死的中齡國王象是已被調御的死。』阿其威色那！如果國王的象已被善調御、已被善教導年輕而死，就名為：『已死的年輕國王象是已被調御的死。』
+
+阿奇耶沙那！若老野象之善受調御、善受調練而死者，稱為『老野象以死調御之死。』阿奇耶沙那！若中年野象之〔......〕，阿奇耶沙那！若青年野之善受調御、善受調練而死者，稱為『青年野象以死調御之死。』
+
+---
+
+Even so, Aggivessana, if a monk who is an elder dies with the cankers destroyed, the monk who is an elder that has died is reckoned as one that has died tamed. And so, Aggivessana, of a monk of middle standing. And too, Aggivessana, if a newly ordained monk dies with cankers destroyed, the newly ordained monk that has died is reckoned as one that has died tamed.”
+
+同樣的，阿其威色那！如果上座比丘煩惱已滅盡而死，就名為：『已死的上座比丘是已被調御的死。』如果中座比丘煩惱已滅盡而死，就名為：『已死的中座比丘是已被調御的死。』如果新比丘煩惱已滅盡而死，就名為：『已死的新比丘是已被調御的死。』」
+
+恰如是，阿奇耶沙那！若長老比丘之漏盡而死者，稱為『長老比丘以死於調御之死。』阿奇耶沙那！若中年比丘之〔......〕，阿奇耶沙那！若新學比丘之漏盡而死者，稱為『新學比丘以死於調御之死。』」
 
 ---
 
