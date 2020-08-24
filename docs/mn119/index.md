@@ -78,13 +78,33 @@ There is the case where a monk — having gone to the wilderness, to the shade o
 
 ---
 
-dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti, dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ti pajānāti; rassaṃ vā assasanto ‘rassaṃ assasāmī’ti pajānāti, rassaṃ vā passasanto ‘rassaṃ passasāmī’ti pajānāti; ‘sabbakāyapaṭisaṃvedī assasissāmī’ti sikkhati, ‘sabbakāyapaṭisaṃvedī passasissāmī’ti sikkhati; ‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’ti sikkhati. Tassa evaṃ appamattassa ātāpino pahitattassa viharato ye gehasitā sarasaṅkappā te pahīyanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati. Evaṃ, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti, dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ti pajānāti; rassaṃ vā assasanto ‘rassaṃ assasāmī’ti pajānāti, rassaṃ vā passasanto ‘rassaṃ passasāmī’ti pajānāti;
 
-Breathing in long, he discerns, ‘I am breathing in long’; or breathing out long, he discerns, ‘I am breathing out long.’ Or breathing in short, he discerns, ‘I am breathing in short’; or breathing out short, he discerns, ‘I am breathing out short.’ He trains himself, ‘I will breathe in sensitive to the entire body.’ He trains himself, ‘I will breathe out sensitive to the entire body.’ He trains himself, ‘I will breathe in calming bodily fabrication.’ He trains himself, ‘I will breathe out calming bodily fabrication.’ And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+Breathing in long, he discerns, ‘I am breathing in long’; or breathing out long, he discerns, ‘I am breathing out long.’ Or breathing in short, he discerns, ‘I am breathing in short’; or breathing out short, he discerns, ‘I am breathing out short.’
 
-當吸氣長時，他了知：『我吸氣長。』或當呼氣長時，他了知：『我呼氣長。』當吸氣短時，他了知：『我吸氣短。』或當呼氣短時，他了知：『我呼氣短。』他學習：『感受著一切身，我將吸氣。』他學習：『感受著一切身，我將呼氣。』他學習：『使身行寧靜著，我將吸氣。』他學習：『使身行寧靜著，我將呼氣。』當他住於這樣不放逸、熱心、自我努力時，則那些依著家居[生活]的憶念與意向被捨斷，以那些的捨斷而內心住立、安靜下來、成為統一、入定，比丘們！比丘這樣修習身至念。
+當吸氣長時，他了知：『我吸氣長。』或當呼氣長時，他了知：『我呼氣長。』當吸氣短時，他了知：『我吸氣短。』或當呼氣短時，他了知：『我呼氣短。』
 
-或長入息，知『我長入息』；或長出息，知『我長出息』；或短入息，知『我短入息』；或短出息，知『我短出息』。學『我覺受全身正在入息』，學『我覺受全身正在出息』。學『我靜寂身行正在入息』，學『我靜寂身行正在出息』。斯如是不放逸、專精勤住者，凡，令斷此等世俗之念、思惟，為斷此等，於內心安立、安定、專一於等定。諸比丘！如是始為比丘修身行之念。
+或長入息，知『我長入息』；或長出息，知『我長出息』；或短入息，知『我短入息』；或短出息，知『我短出息』。
+
+---
+
+‘sabbakāyapaṭisaṃvedī assasissāmī’ti sikkhati, ‘sabbakāyapaṭisaṃvedī passasissāmī’ti sikkhati; ‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’ti sikkhati.
+
+He trains himself, ‘I will breathe in sensitive to the entire body.’ He trains himself, ‘I will breathe out sensitive to the entire body.’ He trains himself, ‘I will breathe in calming bodily fabrication.’ He trains himself, ‘I will breathe out calming bodily fabrication.’
+
+他學習：『感受著一切身，我將吸氣。』他學習：『感受著一切身，我將呼氣。』他學習：『使身行寧靜著，我將吸氣。』他學習：『使身行寧靜著，我將呼氣。』
+
+學『我覺受全身正在入息』，學『我覺受全身正在出息』。學『我靜寂身行正在入息』，學『我靜寂身行正在出息』。
+
+---
+
+Tassa evaṃ appamattassa ātāpino pahitattassa viharato ye gehasitā sarasaṅkappā te pahīyanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati. Evaṃ, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+
+And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+
+當他住於這樣不放逸、熱心、自我努力時，則那些依著家居[生活]的憶念與意向被捨斷，以那些的捨斷而內心住立、安靜下來、成為統一、入定，比丘們！比丘這樣修習身至念。
+
+斯如是不放逸、專精勤住者，凡，令斷此等世俗之念、思惟，為斷此等，於內心安立、安定、專一於等定。諸比丘！如是始為比丘修身行之念。
 
 ---
 
@@ -118,13 +138,33 @@ Furthermore, the monk reflects on this very body from the soles of the feet on u
 
 ---
 
-Seyyathāpi, bhikkhave, ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa, seyyathidaṃ—sālīnaṃ vīhīnaṃ muggānaṃ māsānaṃ tilānaṃ taṇḍulānaṃ, tamenaṃ cakkhumā puriso muñcitvā paccavekkheyya: ‘ime sālī ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā’ti; evameva kho, bhikkhave, bhikkhu imameva kāyaṃ uddhaṃ pādatalā adho kesamatthakā tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati: ‘atthi imasmiṃ kāye kesā lomā nakhā dantā taco maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ antaguṇaṃ udariyaṃ karīsaṃ pittaṃ semhaṃ pubbo lohitaṃ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttan’ti. Tassa evaṃ appamattassa ātāpino pahitattassa viharato ye gehasitā sarasaṅkappā te pahīyanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati. Evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+Seyyathāpi, bhikkhave, ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa, seyyathidaṃ—sālīnaṃ vīhīnaṃ muggānaṃ māsānaṃ tilānaṃ taṇḍulānaṃ, tamenaṃ cakkhumā puriso muñcitvā paccavekkheyya: ‘ime sālī ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā’ti;
 
-Just as if a sack with openings at both ends were full of various kinds of grain — wheat, rice, mung beans, kidney beans, sesame seeds, husked rice — and a man with good eyesight, pouring it out, were to reflect, ‘This is wheat. This is rice. These are mung beans. These are kidney beans. These are sesame seeds. This is husked rice’; in the same way, the monk reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin and full of various kinds of unclean things: ‘In this body there are head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, pleura, spleen, lungs, large intestines, small intestines, gorge, feces, bile, phlegm, pus, blood, sweat, fat, tears, skin-oil, saliva, mucus, fluid in the joints, urine.’ And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+Just as if a sack with openings at both ends were full of various kinds of grain — wheat, rice, mung beans, kidney beans, sesame seeds, husked rice — and a man with good eyesight, pouring it out, were to reflect, ‘This is wheat. This is rice. These are mung beans. These are kidney beans. These are sesame seeds. This is husked rice’;
 
-比丘們！猶如兩邊有[開]口的袋子放置滿滿的種種穀物，即：山米、紅米、綠豆，豌豆，胡麻，白米，有眼的男子倒出它後能觀察：『這些是山米，這些是紅米，這些是綠豆，這些是豌豆，這些是胡麻，這些是白米。』同樣的，比丘們！比丘觀察此身：從腳掌底往上，髮梢往下，皮膚所包覆充滿種種不淨的：『此身有頭髮、體毛、指甲、牙齒、皮膚、肌肉、筋腱、骨骼、骨髓、腎臟、心臟、肝臟、肋膜、脾臟、肺臟、腸子、腸間膜、胃、糞便、膽汁、痰、膿、血、汗、脂肪、眼淚、油脂、唾液、鼻涕、關節液、尿。』當他住於這樣不放逸、熱心、自我努力時，則那些依著家居[生活]的憶念與意向被捨斷，以那些的捨斷而內心住立、安靜下來、成為統一、入定，比丘們！比丘這樣修習身至念。
+比丘們！猶如兩邊有[開]口的袋子放置滿滿的種種穀物，即：山米、紅米、綠豆，豌豆，胡麻，白米，有眼的男子倒出它後能觀察：『這些是山米，這些是紅米，這些是綠豆，這些是豌豆，這些是胡麻，這些是白米。』
 
-諸比丘！譬如，有兩口之穀袋，充入種種離多之穀類，謂：『稻、粳、綠豆、豆顆、胡麻、糙米等。』如有眼士夫之解觀察此：『此等是稻、此等是粳，此等是綠豆，此等是豆顆，此等是胡麻，此等是糙米也。』恰如是，諸比丘！只要此身被此等物從足底以上頭髮以下之皮膚所圍，以觀察充滿諸類之不淨：『於此身中，是髮、毛、爪、齒、膚、肉、筋、骨、骨髓、腎、心、肝、肋、脾、肺、大小腸、胃、糞、膽汁、痰、膿、血、汗、脂、淚、肪、唾、洟、關節骨液、尿。』如是不放逸，而專精勤住者，令斷此等世俗之念、思惟，為斷此等，內心安立、安定、專一於等定。諸比丘！如是始是比丘修身行之念。
+諸比丘！譬如，有兩口之穀袋，充入種種離多之穀類，謂：『稻、粳、綠豆、豆顆、胡麻、糙米等。』如有眼士夫之解觀察此：『此等是稻、此等是粳，此等是綠豆，此等是豆顆，此等是胡麻，此等是糙米也。』
+
+---
+
+evameva kho, bhikkhave, bhikkhu imameva kāyaṃ uddhaṃ pādatalā adho kesamatthakā tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati: ‘atthi imasmiṃ kāye kesā lomā nakhā dantā taco maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ antaguṇaṃ udariyaṃ karīsaṃ pittaṃ semhaṃ pubbo lohitaṃ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttan’ti.
+
+And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+
+同樣的，比丘們！比丘觀察此身：從腳掌底往上，髮梢往下，皮膚所包覆充滿種種不淨的：『此身有頭髮、體毛、指甲、牙齒、皮膚、肌肉、筋腱、骨骼、骨髓、腎臟、心臟、肝臟、肋膜、脾臟、肺臟、腸子、腸間膜、胃、糞便、膽汁、痰、膿、血、汗、脂肪、眼淚、油脂、唾液、鼻涕、關節液、尿。』
+
+恰如是，諸比丘！只要此身被此等物從足底以上頭髮以下之皮膚所圍，以觀察充滿諸類之不淨：『於此身中，是髮、毛、爪、齒、膚、肉、筋、骨、骨髓、腎、心、肝、肋、脾、肺、大小腸、胃、糞、膽汁、痰、膿、血、汗、脂、淚、肪、唾、洟、關節骨液、尿。』
+
+---
+
+Tassa evaṃ appamattassa ātāpino pahitattassa viharato ye gehasitā sarasaṅkappā te pahīyanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati. Evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+
+in the same way, the monk reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin and full of various kinds of unclean things: ‘In this body there are head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, pleura, spleen, lungs, large intestines, small intestines, gorge, feces, bile, phlegm, pus, blood, sweat, fat, tears, skin-oil, saliva, mucus, fluid in the joints, urine.’
+
+當他住於這樣不放逸、熱心、自我努力時，則那些依著家居[生活]的憶念與意向被捨斷，以那些的捨斷而內心住立、安靜下來、成為統一、入定，比丘們！比丘這樣修習身至念。
+
+如是不放逸，而專精勤住者，令斷此等世俗之念、思惟，為斷此等，內心安立、安定、專一於等定。諸比丘！如是始是比丘修身行之念。
 
 ---
 
@@ -138,13 +178,23 @@ Furthermore, the monk contemplates this very body — however it stands, however
 
 ---
 
-Seyyathāpi, bhikkhave, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā catumahāpathe bilaso vibhajitvā nisinno assa; evameva kho, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati: ‘atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti. Tassa evaṃ appamattassa ātāpino pahitattassa viharato ye gehasitā sarasaṅkappā te pahīyanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati. Evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+Seyyathāpi, bhikkhave, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā catumahāpathe bilaso vibhajitvā nisinno assa; evameva kho, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati: ‘atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti.
 
-Just as a skilled butcher or his apprentice, having killed a cow, would sit at a crossroads cutting it up into pieces, the monk contemplates this very body — however it stands, however it is disposed — in terms of properties: ‘In this body there is the earth property, the liquid property, the fire property, & the wind property.’ And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+Just as a skilled butcher or his apprentice, having killed a cow, would sit at a crossroads cutting it up into pieces, the monk contemplates this very body — however it stands, however it is disposed — in terms of properties: ‘In this body there is the earth property, the liquid property, the fire property, & the wind property.’
 
-比丘們！猶如熟練的屠牛夫或屠牛夫的徒弟，殺牛後，一片一片地分解，然後會坐在大的十字路口。同樣的，比丘們！比丘就此如其住立、如其志向、有界之身觀察：『在這身體中有地界、水界、火界、風界。』當他住於這樣不放逸、熱心、自我努力時，則那些依著家居[生活]的憶念與意向被捨斷，以那些的捨斷而內心住立、安靜下來、成為統一、入定，比丘們！比丘這樣修習身至念。
+比丘們！猶如熟練的屠牛夫或屠牛夫的徒弟，殺牛後，一片一片地分解，然後會坐在大的十字路口。同樣的，比丘們！比丘就此如其住立、如其志向、有界之身觀察：『在這身體中有地界、水界、火界、風界。』
 
-諸比丘！譬如善巧屠牛者或屠牛者之弟子屠牝牛於四衢之大街，分分割截如在坐。諸比丘！恰如是，比丘如此身之所立、所願，從界觀察：『於此身中，有地界、水界、火界、風界。』彼如是不放逸，而專精勤住者，令斷此等世俗之念、思惟，內心安立、安定、專一於等定。諸比丘！如是始是比丘修身行之念。
+諸比丘！譬如善巧屠牛者或屠牛者之弟子屠牝牛於四衢之大街，分分割截如在坐。諸比丘！恰如是，比丘如此身之所立、所願，從界觀察：『於此身中，有地界、水界、火界、風界。』
+
+---
+
+Tassa evaṃ appamattassa ātāpino pahitattassa viharato ye gehasitā sarasaṅkappā te pahīyanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati sannisīdati ekodi hoti samādhiyati. Evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+
+And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+
+當他住於這樣不放逸、熱心、自我努力時，則那些依著家居[生活]的憶念與意向被捨斷，以那些的捨斷而內心住立、安靜下來、成為統一、入定，比丘們！比丘這樣修習身至念。
+
+彼如是不放逸，而專精勤住者，令斷此等世俗之念、思惟，內心安立、安定、專一於等定。諸比丘！如是始是比丘修身行之念。
 
 ---
 
@@ -208,43 +258,83 @@ And as he remains thus heedful, ardent, & resolute, any memories & resolves rela
 
 ---
 
-Puna caparaṃ, bhikkhave, bhikkhu vivicceva kāmehi ... pe ... paṭhamaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti. Seyyathāpi, bhikkhave, dakkho nhāpako vā nhāpakantevāsī vā kaṃsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṃ paripphosakaṃ sanneyya, sāyaṃ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā phuṭā snehena na ca pagghariṇī; evameva kho, bhikkhave, bhikkhu imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati; nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti. Tassa evaṃ appamattassa ... pe ... evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+Puna caparaṃ, bhikkhave, bhikkhu vivicceva kāmehi ... pe ... paṭhamaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti. Seyyathāpi, bhikkhave, dakkho nhāpako vā nhāpakantevāsī vā kaṃsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṃ paripphosakaṃ sanneyya, sāyaṃ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā phuṭā snehena na ca pagghariṇī;
 
-Furthermore, quite withdrawn from sensuality, withdrawn from unskillful mental qualities, he enters & remains in the first jhana: rapture & pleasure born from withdrawal, accompanied by directed thought & evaluation. He permeates & pervades, suffuses & fills this very body with the rapture & pleasure born from withdrawal. Just as if a skilled bathman or bathman’s apprentice would pour bath powder into a brass basin and knead it together, sprinkling it again & again with water, so that his ball of bath powder — saturated, moisture-laden, permeated within & without — would nevertheless not drip; even so, the monk permeates... this very body with the rapture & pleasure born of withdrawal. There is nothing of his entire body unpervaded by rapture & pleasure born from withdrawal. And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+Furthermore, quite withdrawn from sensuality, withdrawn from unskillful mental qualities, he enters & remains in the first jhana: rapture & pleasure born from withdrawal, accompanied by directed thought & evaluation. He permeates & pervades, suffuses & fills this very body with the rapture & pleasure born from withdrawal. Just as if a skilled bathman or bathman’s apprentice would pour bath powder into a brass basin and knead it together, sprinkling it again & again with water, so that his ball of bath powder — saturated, moisture-laden, permeated within & without — would nevertheless not drip;
 
-再者，比丘們！比丘從離欲、離不善法後，進入後住於有尋、有伺，離而生喜、樂的初禪，他以離而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離而生喜、樂遍滿。比丘們！猶如熟練的澡堂師傅或澡堂師傅的徒弟在銅皿中撒佈沐浴粉後，與水充分攪拌，沐浴粉團隨之濕潤、來到濕潤、內外被滲透濕潤而無遺漏。同樣的，比丘們！比丘以離而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離而生喜、樂遍滿。當他住於這樣不放逸、......（中略）比丘們！比丘這樣修習身至念。
+再者，比丘們！比丘從離欲、離不善法後，進入後住於有尋、有伺，離而生喜、樂的初禪，他以離而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離而生喜、樂遍滿。比丘們！猶如熟練的澡堂師傅或澡堂師傅的徒弟在銅皿中撒佈沐浴粉後，與水充分攪拌，沐浴粉團隨之濕潤、來到濕潤、內外被滲透濕潤而無遺漏。
 
-復次，諸比丘！比丘之離諸欲，離諸不善法，有尋、有伺，由離生喜、樂、成就初禪而住。彼離此身者、由離生喜、樂勝滿、徧滿徧溢，以舉彼之全身，由離生喜樂，令無不普洽。諸比丘！譬喻巧浴師，或浴師之弟子，以撒浴粉於金屬性之皿，注水而混之，彼浴粉塊，是水分隨行，水分行亘，令內外皆充實水分如無流滴。又如是，諸比丘！比丘亦以此身，由離生喜、樂勝滿、徧滿徧溢，舉彼之全身，由離生喜、樂，令無不普洽。彼如是不放逸，而修......念。
-
----
-
-Puna caparaṃ, bhikkhave, bhikkhu vitakkavicārānaṃ vūpasamā ... pe ... dutiyaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati; nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti. Seyyathāpi, bhikkhave, udakarahado gambhīro ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṃ na pacchimāya disāya udakassa āyamukhaṃ na uttarāya disāya udakassa āyamukhaṃ na dakkhiṇāya disāya udakassa āyamukhaṃ; devo ca na kālena kālaṃ sammā dhāraṃ anuppaveccheyya; atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṃ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṃ assa; evameva kho, bhikkhave, bhikkhu imameva kāyaṃ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti. Tassa evaṃ appamattassa ... pe ... evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
-
-And furthermore, with the stilling of directed thoughts & evaluations, he enters & remains in the second jhana: rapture & pleasure born of composure, unification of awareness free from directed thought & evaluation — internal assurance. He permeates & pervades, suffuses & fills this very body with the rapture & pleasure born of composure. Just like a lake with spring-water welling up from within, having no inflow from the east, west, north, or south, and with the skies supplying abundant showers time & again, so that the cool fount of water welling up from within the lake would permeate & pervade, suffuse & fill it with cool waters, there being no part of the lake unpervaded by the cool waters; even so, the monk permeates... this very body with the rapture & pleasure born of composure. There is nothing of his entire body unpervaded by rapture & pleasure born of composure. And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
-
-再者，比丘們！比丘以尋與伺的平息，......（中略）進入後住於第二禪，他以定而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被定而生喜、樂遍滿。比丘們！猶如有湧泉的深水池，其在東方無進水口，在西方無進水口，在北方無進水口，在南方無進水口，天又不能經常給予正確的水流，而那水池的冷水保持湧出後，那水池會被冷水潤澤、遍流、充滿、遍滿，全水池沒有任何地方不會被冷水遍滿。同樣的，比丘們！比丘以定而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被定而生喜、樂遍滿。當他住於這樣不放逸、......（中略）比丘們！比丘這樣修習身至念。
-
-復次，諸比丘！比丘以滅尋、伺，而內心靜、安，心有一趣性，無尋、無伺，由定生喜、樂，成就第二禪而住。彼亦以此身，由定生喜、樂勝滿、徧滿徧溢；舉彼之全身，由定生喜、樂，令無不普洽。諸比丘！譬喻有水之水池、水泉，而且，東方無水之入口，西方無水之入口，北方無水之入口，南方無水之入口，而天時時惠於驟雨者；其時，由其水池涌出，其水池勝滿、徧滿徧溢泠水，舉其全水池，如令冷水無不普洽。如是，諸比丘！比丘亦以此身，由定生喜、樂勝滿、徧滿徧充，徧溢；舉彼之全身，由定生喜、樂、而令無不普洽。彼，如是不放逸，而修......念。
+復次，諸比丘！比丘之離諸欲，離諸不善法，有尋、有伺，由離生喜、樂、成就初禪而住。彼離此身者、由離生喜、樂勝滿、徧滿徧溢，以舉彼之全身，由離生喜樂，令無不普洽。諸比丘！譬喻巧浴師，或浴師之弟子，以撒浴粉於金屬性之皿，注水而混之，彼浴粉塊，是水分隨行，水分行亘，令內外皆充實水分如無流滴。
 
 ---
 
-Puna caparaṃ, bhikkhave, bhikkhu pītiyā ca virāgā ... pe ... tatiyaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti. Seyyathāpi, bhikkhave, uppaliniyaṃ vā paduminiyaṃ vā puṇḍarīkiniyaṃ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṃvaḍḍhāni udakānuggatāni antonimuggaposīni, tāni yāva caggā yāva ca mūlā sītena vārinā abhisannāni parisannāni paripūrāni paripphuṭāni, nāssa kiñci sabbāvataṃ uppalānaṃ vā padumānaṃ vā puṇḍarīkānaṃ vā sītena vārinā apphuṭaṃ assa; evameva kho, bhikkhave, bhikkhu imameva kāyaṃ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti. Tassa evaṃ appamattassa ... pe ... evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+evameva kho, bhikkhave, bhikkhu imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati; nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti. Tassa evaṃ appamattassa ... pe ... evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
 
-And furthermore, with the fading of rapture, he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhana, of which the Noble Ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ He permeates & pervades, suffuses & fills this very body with the pleasure divested of rapture. Just as in a lotus pond, some of the lotuses, born & growing in the water, stay immersed in the water and flourish without standing up out of the water, so that they are permeated & pervaded, suffused & filled with cool water from their roots to their tips, and nothing of those lotuses would be unpervaded with cool water; even so, the monk permeates... this very body with the pleasure divested of rapture. There is nothing of his entire body unpervaded with pleasure divested of rapture. And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+even so, the monk permeates... this very body with the rapture & pleasure born of withdrawal. There is nothing of his entire body unpervaded by rapture & pleasure born from withdrawal. And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
 
-再者，比丘們！比丘以喜的褪去......（中略）進入後住於[這聖弟子宣說：『他是平靜、專注、住於樂者』的]第三禪，他以離喜之樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離喜之樂遍滿。比丘們！猶如在青蓮池、紅蓮池、白蓮池中，一些青蓮、紅蓮、白蓮生在水中，長在水中，依止於水面下，沈在水下生長，從其頂點到根被冷水潤澤、遍流、充滿、遍滿，全青蓮、紅蓮、白蓮沒有任何地方不會被冷水遍滿。同樣的，比丘們！比丘以離喜之樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離喜之樂遍滿。當他住於這樣不放逸、......（中略）比丘們！比丘這樣修習身至念。
+同樣的，比丘們！比丘以離而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離而生喜、樂遍滿。當他住於這樣不放逸、......（中略）比丘們！比丘這樣修習身至念。
 
-復次，諸比丘！比丘之脫喜而住捨，有念，有正知，而由身覺受樂，彼諸聖說：『捨而有念為樂住。』成就第三禪而住。彼以此身，離喜之樂，勝滿徧滿、徧充徧溢，舉彼之全身，離喜之樂，令無不普洽。諸比丘！譬如，於青蓮華池，或紅蓮華池，或白蓮華池，幾何之青蓮華、或紅蓮華、或白蓮華之發生於水中，生長於水中，不出水面，全沈而養，此等從頂至根，勝滿徧滿、徧勝徧充、徧益泠水，如舉彼全體之青蓮華，或紅蓮華，或白蓮華，水無不普洽。諸比丘！比丘如是此身離喜之樂，勝滿徧滿、徧充、徧溢，舉彼之全身，令離喜之樂，無不普洽。彼如是不放逸，修......念。
+又如是，諸比丘！比丘亦以此身，由離生喜、樂勝滿、徧滿徧溢，舉彼之全身，由離生喜、樂，令無不普洽。彼如是不放逸，而修......念。
 
 ---
 
-Puna caparaṃ, bhikkhave, bhikkhu sukhassa ca pahānā ... pe ... catutthaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ parisuddhena cetasā pariyodātena pharitvā nisinno hoti; nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti. Seyyathāpi, bhikkhave, puriso odātena vatthena sasīsaṃ pārupitvā nisinno assa, nāssa kiñci sabbāvato kāyassa odātena vatthena apphuṭaṃ assa; evameva kho, bhikkhave, bhikkhu imameva kāyaṃ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti. Tassa evaṃ appamattassa ātāpino pahitattassa viharato ye gehasitā sarasaṅkappā te pahīyanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati, sannisīdati ekodi hoti samādhiyati. Evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+Puna caparaṃ, bhikkhave, bhikkhu vitakkavicārānaṃ vūpasamā ... pe ... dutiyaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati; nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti. Seyyathāpi, bhikkhave, udakarahado gambhīro ubbhidodako. Tassa nevassa puratthimāya disāya udakassa āyamukhaṃ na pacchimāya disāya udakassa āyamukhaṃ na uttarāya disāya udakassa āyamukhaṃ na dakkhiṇāya disāya udakassa āyamukhaṃ; devo ca na kālena kālaṃ sammā dhāraṃ anuppaveccheyya; atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṃ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṃ assa;
 
-And furthermore, with the abandoning of pleasure & pain — as with the earlier disappearance of elation & distress — he enters & remains in the fourth jhana: purity of equanimity & mindfulness, neither-pleasure-nor-pain. He sits, permeating the body with a pure, bright awareness. Just as if a man were sitting covered from head to foot with a white cloth so that there would be no part of his body to which the white cloth did not extend; even so, the monk sits, permeating the body with a pure, bright awareness. There is nothing of his entire body unpervaded by pure, bright awareness. And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+And furthermore, with the stilling of directed thoughts & evaluations, he enters & remains in the second jhana: rapture & pleasure born of composure, unification of awareness free from directed thought & evaluation — internal assurance. He permeates & pervades, suffuses & fills this very body with the rapture & pleasure born of composure. Just like a lake with spring-water welling up from within, having no inflow from the east, west, north, or south, and with the skies supplying abundant showers time & again, so that the cool fount of water welling up from within the lake would permeate & pervade, suffuse & fill it with cool waters, there being no part of the lake unpervaded by the cool waters;
 
-再者，比丘們！比丘以樂的捨斷......（中略）進入後住於[不苦不樂，由平靜而正念遍淨的]第四禪，他以遍淨、皎潔之心遍滿此身後而坐，全身沒有任何地方不被遍淨、皎潔之心遍滿。比丘們！猶如男子會以白衣包含頭裹上後而坐，全身沒有任何地方不會被白衣遍滿。同樣的，比丘們！比丘以遍淨、皎潔之心遍滿此身後而坐，全身沒有任何地方不被遍淨、皎潔之心遍滿。當他住於這樣不放逸、熱心、自我努力時，則那些依著家居[生活]的憶念與意向被捨斷，以那些的捨斷而內心住立、安靜下來、成為統一、入定，比丘們！比丘這樣修習身至念。
+再者，比丘們！比丘以尋與伺的平息，......（中略）進入後住於第二禪，他以定而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被定而生喜、樂遍滿。比丘們！猶如有湧泉的深水池，其在東方無進水口，在西方無進水口，在北方無進水口，在南方無進水口，天又不能經常給予正確的水流，而那水池的冷水保持湧出後，那水池會被冷水潤澤、遍流、充滿、遍滿，全水池沒有任何地方不會被冷水遍滿。
 
-復次，諸比丘！比丘之捨離樂、捨離苦，又滅以前所有之喜悅、憂惱，而不苦不樂，捨念清淨，成就第四禪而住。彼以此身令滿徧淨、徧純之心而住，彼舉全身，徧淨遍純之心，令無不普洽。諸比丘！譬喻有人以白布蓋頭而坐，舉彼之全身，白布無不普洽。諸比丘！如是又比丘亦以此身，蓋以徧淨徧純之心而坐，舉彼之全身，徧淨徧純之心，無不普洽。彼，如是不放逸，修......念。
+復次，諸比丘！比丘以滅尋、伺，而內心靜、安，心有一趣性，無尋、無伺，由定生喜、樂，成就第二禪而住。彼亦以此身，由定生喜、樂勝滿、徧滿徧溢；舉彼之全身，由定生喜、樂，令無不普洽。諸比丘！譬喻有水之水池、水泉，而且，東方無水之入口，西方無水之入口，北方無水之入口，南方無水之入口，而天時時惠於驟雨者；其時，由其水池涌出，其水池勝滿、徧滿徧溢泠水，舉其全水池，如令冷水無不普洽。
+
+---
+
+evameva kho, bhikkhave, bhikkhu imameva kāyaṃ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti. Tassa evaṃ appamattassa ... pe ... evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+
+even so, the monk permeates... this very body with the rapture & pleasure born of composure. There is nothing of his entire body unpervaded by rapture & pleasure born of composure. And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+
+同樣的，比丘們！比丘以定而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被定而生喜、樂遍滿。當他住於這樣不放逸、......（中略）比丘們！比丘這樣修習身至念。
+
+如是，諸比丘！比丘亦以此身，由定生喜、樂勝滿、徧滿徧充，徧溢；舉彼之全身，由定生喜、樂、而令無不普洽。彼，如是不放逸，而修......念。
+
+---
+
+Puna caparaṃ, bhikkhave, bhikkhu pītiyā ca virāgā ... pe ... tatiyaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti. Seyyathāpi, bhikkhave, uppaliniyaṃ vā paduminiyaṃ vā puṇḍarīkiniyaṃ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṃvaḍḍhāni udakānuggatāni antonimuggaposīni, tāni yāva caggā yāva ca mūlā sītena vārinā abhisannāni parisannāni paripūrāni paripphuṭāni, nāssa kiñci sabbāvataṃ uppalānaṃ vā padumānaṃ vā puṇḍarīkānaṃ vā sītena vārinā apphuṭaṃ assa;
+
+And furthermore, with the fading of rapture, he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhana, of which the Noble Ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ He permeates & pervades, suffuses & fills this very body with the pleasure divested of rapture. Just as in a lotus pond, some of the lotuses, born & growing in the water, stay immersed in the water and flourish without standing up out of the water, so that they are permeated & pervaded, suffused & filled with cool water from their roots to their tips, and nothing of those lotuses would be unpervaded with cool water;
+
+再者，比丘們！比丘以喜的褪去......（中略）進入後住於[這聖弟子宣說：『他是平靜、專注、住於樂者』的]第三禪，他以離喜之樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離喜之樂遍滿。比丘們！猶如在青蓮池、紅蓮池、白蓮池中，一些青蓮、紅蓮、白蓮生在水中，長在水中，依止於水面下，沈在水下生長，從其頂點到根被冷水潤澤、遍流、充滿、遍滿，全青蓮、紅蓮、白蓮沒有任何地方不會被冷水遍滿。
+
+復次，諸比丘！比丘之脫喜而住捨，有念，有正知，而由身覺受樂，彼諸聖說：『捨而有念為樂住。』成就第三禪而住。彼以此身，離喜之樂，勝滿徧滿、徧充徧溢，舉彼之全身，離喜之樂，令無不普洽。諸比丘！譬如，於青蓮華池，或紅蓮華池，或白蓮華池，幾何之青蓮華、或紅蓮華、或白蓮華之發生於水中，生長於水中，不出水面，全沈而養，此等從頂至根，勝滿徧滿、徧勝徧充、徧益泠水，如舉彼全體之青蓮華，或紅蓮華，或白蓮華，水無不普洽。
+
+---
+
+evameva kho, bhikkhave, bhikkhu imameva kāyaṃ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti. Tassa evaṃ appamattassa ... pe ... evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+
+even so, the monk permeates... this very body with the pleasure divested of rapture. There is nothing of his entire body unpervaded with pleasure divested of rapture. And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+
+同樣的，比丘們！比丘以離喜之樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離喜之樂遍滿。當他住於這樣不放逸、......（中略）比丘們！比丘這樣修習身至念。
+
+諸比丘！比丘如是此身離喜之樂，勝滿徧滿、徧充、徧溢，舉彼之全身，令離喜之樂，無不普洽。彼如是不放逸，修......念。
+
+---
+
+Puna caparaṃ, bhikkhave, bhikkhu sukhassa ca pahānā ... pe ... catutthaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ parisuddhena cetasā pariyodātena pharitvā nisinno hoti; nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti. Seyyathāpi, bhikkhave, puriso odātena vatthena sasīsaṃ pārupitvā nisinno assa, nāssa kiñci sabbāvato kāyassa odātena vatthena apphuṭaṃ assa;
+
+And furthermore, with the abandoning of pleasure & pain — as with the earlier disappearance of elation & distress — he enters & remains in the fourth jhana: purity of equanimity & mindfulness, neither-pleasure-nor-pain. He sits, permeating the body with a pure, bright awareness. Just as if a man were sitting covered from head to foot with a white cloth so that there would be no part of his body to which the white cloth did not extend;
+
+再者，比丘們！比丘以樂的捨斷......（中略）進入後住於[不苦不樂，由平靜而正念遍淨的]第四禪，他以遍淨、皎潔之心遍滿此身後而坐，全身沒有任何地方不被遍淨、皎潔之心遍滿。比丘們！猶如男子會以白衣包含頭裹上後而坐，全身沒有任何地方不會被白衣遍滿。
+
+復次，諸比丘！比丘之捨離樂、捨離苦，又滅以前所有之喜悅、憂惱，而不苦不樂，捨念清淨，成就第四禪而住。彼以此身令滿徧淨、徧純之心而住，彼舉全身，徧淨遍純之心，令無不普洽。諸比丘！譬喻有人以白布蓋頭而坐，舉彼之全身，白布無不普洽。
+
+---
+
+evameva kho, bhikkhave, bhikkhu imameva kāyaṃ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti. Tassa evaṃ appamattassa ātāpino pahitattassa viharato ye gehasitā sarasaṅkappā te pahīyanti. Tesaṃ pahānā ajjhattameva cittaṃ santiṭṭhati, sannisīdati ekodi hoti samādhiyati. Evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+
+even so, the monk sits, permeating the body with a pure, bright awareness. There is nothing of his entire body unpervaded by pure, bright awareness. And as he remains thus heedful, ardent, & resolute, any memories & resolves related to the household life are abandoned, and with their abandoning his mind gathers & settles inwardly, grows unified & centered. This is how a monk develops mindfulness immersed in the body.
+
+同樣的，比丘們！比丘以遍淨、皎潔之心遍滿此身後而坐，全身沒有任何地方不被遍淨、皎潔之心遍滿。當他住於這樣不放逸、熱心、自我努力時，則那些依著家居[生活]的憶念與意向被捨斷，以那些的捨斷而內心住立、安靜下來、成為統一、入定，比丘們！比丘這樣修習身至念。
+
+諸比丘！如是又比丘亦以此身，蓋以徧淨徧純之心而坐，舉彼之全身，徧淨徧純之心，無不普洽。彼，如是不放逸，修......念。
 
 ---
 
