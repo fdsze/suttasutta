@@ -8,9 +8,9 @@ pageClass: mn
 
 ---
 
-[Source](https://suttacentral.net/pi/mn119)
+[Source](https://suttacentral.net/mn119/pli/ms)
 
-[Thanissaro Bhikkhu Translation](http://www.accesstoinsight.org/tipitaka/mn/mn.049.than.html)
+[Thanissaro Bhikkhu Translation](https://www.accesstoinsight.org/tipitaka/mn/mn.119.than.html)
 
 [莊春江 譯](http://agama.buddhason.org/MN/MN119.htm)
 
