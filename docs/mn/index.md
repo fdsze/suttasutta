@@ -605,7 +605,7 @@ The Buddha explains that the concept of a self comes from the process of percept
 ---
 
 ##### [MN119](/mn119/)
-### MN119 Kāyagatāsati Sutta / Mindfulness Immersed in the Body / 中部一一九 身行念經
+### [MN119 Kāyagatāsati Sutta / Mindfulness Immersed in the Body / 中部一一九 身行念經](/mn119)
 
 ---
 

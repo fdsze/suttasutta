@@ -1,10 +1,10 @@
 ---
-title: MN119 / Kāyagatāsati Sutta / Mindfulness Immersed in the Body / 中部一一九 身至念經
+title: MN119 / Kāyagatāsati Sutta / Mindfulness Immersed in the Body / 中部一一九 身行念經
 slug: mn119
 pageClass: mn
 ---
 
-# MN119 / Kāyagatāsati Sutta / Mindfulness Immersed in the Body / 中部一一九 身至念經
+# MN119 / Kāyagatāsati Sutta / Mindfulness Immersed in the Body / 中部一一九 身行念經
 
 ---
 
