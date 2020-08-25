@@ -228,13 +228,33 @@ Tassa evaṃ appamattassa ... pe ... evampi, bhikkhave, bhikkhu kāyagatāsati�
 
 ---
 
-Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikasaṅkhalikaṃ samaṃsalohitaṃ nhārusambandhaṃ ... pe ... aṭṭhikasaṅkhalikaṃ nimmaṃsalohitamakkhitaṃ nhārusambandhaṃ ... pe ... aṭṭhikasaṅkhalikaṃ apagatamaṃsalohitaṃ nhārusambandhaṃ ... pe ... aṭṭhikāni apagatasambandhāni disāvidisāvikkhittāni aññena hatthaṭṭhikaṃ aññena pādaṭṭhikaṃ aññena gopphakaṭṭhikaṃ aññena jaṅghaṭṭhikaṃ aññena ūruṭṭhikaṃ aññena kaṭiṭṭhikaṃ aññena phāsukaṭṭhikaṃ aññena piṭṭhiṭṭhikaṃ aññena khandhaṭṭhikaṃ aññena gīvaṭṭhikaṃ aññena hanukaṭṭhikaṃ aññena dantaṭṭhikaṃ aññena sīsakaṭāhaṃ. So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti. Tassa evaṃ appamattassa ... pe ... evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti. (8–11.)
+Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikasaṅkhalikaṃ samaṃsalohitaṃ nhārusambandhaṃ ... pe ... aṭṭhikasaṅkhalikaṃ nimmaṃsalohitamakkhitaṃ nhārusambandhaṃ ... pe ... aṭṭhikasaṅkhalikaṃ apagatamaṃsalohitaṃ nhārusambandhaṃ ... pe ...
 
-a skeleton smeared with flesh & blood, connected with tendons... a fleshless skeleton smeared with blood, connected with tendons... a skeleton without flesh or blood, connected with tendons... bones detached from their tendons, scattered in all directions — here a hand bone, there a foot bone, here a shin bone, there a thigh bone, here a hip bone, there a back bone, here a rib, there a breast bone, here a shoulder bone, there a neck bone, here a jaw bone, there a tooth, here a skull...
+...a skeleton smeared with flesh & blood, connected with tendons... a fleshless skeleton smeared with blood, connected with tendons... a skeleton without flesh or blood, connected with tendons...
 
-再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：有血肉、連著筋的骨鎖，......（中略）無肉、沾血、連著筋的骨鎖，......（中略）無血肉、連著筋的骨鎖，......（中略）骨散亂地離散四處：手骨一處，腳骨一處，腳踝骨一處，小腿骨一處，大腿骨一處，腰骨一處，肋骨一處，脊椎骨一處，肩骨一處，頸骨一處，顎骨一處，齒骨一處，頭蓋骨一處，他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』當他住於這樣不放逸、......（中略）比丘們！比丘這樣修習身至念。
+再者，比丘們！猶如比丘如果看見被捨棄在墓地的遺骸：有血肉、連著筋的骨鎖，......（中略）無肉、沾血、連著筋的骨鎖，......（中略）無血肉、連著筋的骨鎖，......（中略）......
 
-復次，諸比丘！譬喻比丘之如見被投棄墓場之身體：〔或〕骨相連而有肉、血、亦有筋之繫，〔或〕骨雖相連，無肉血淋，而有筋之繫，〔或〕骨雖相連，血、肉已無，而有筋之繫，〔或〕諸骨〔已〕去連繫而散在諸處：手骨、足骨、脚骨、腿骨、腰骨、脊骨、頭蓋骨等為各別矣。彼集視斯身者：『此身亦如是者，有如是性，難免如是！』彼，如是不放逸，專精勤住者，令斷此等世俗之念、思惟。為斷此等，內心安立、安一、專一於等定。諸比丘！如是始是比丘修身行之念。
+復次，諸比丘！譬喻比丘之如見被投棄墓場之身體：〔或〕骨相連而有肉、血、亦有筋之繫，〔或〕骨雖相連，無肉血淋，而有筋之繫，〔或〕骨雖相連，血、肉已無，而有筋之繫，
+
+---
+
+...aṭṭhikāni apagatasambandhāni disāvidisāvikkhittāni aññena hatthaṭṭhikaṃ aññena pādaṭṭhikaṃ aññena gopphakaṭṭhikaṃ aññena jaṅghaṭṭhikaṃ aññena ūruṭṭhikaṃ aññena kaṭiṭṭhikaṃ aññena phāsukaṭṭhikaṃ aññena piṭṭhiṭṭhikaṃ aññena khandhaṭṭhikaṃ aññena gīvaṭṭhikaṃ aññena hanukaṭṭhikaṃ aññena dantaṭṭhikaṃ aññena sīsakaṭāhaṃ.
+
+...bones detached from their tendons, scattered in all directions — here a hand bone, there a foot bone, here a shin bone, there a thigh bone, here a hip bone, there a back bone, here a rib, there a breast bone, here a shoulder bone, there a neck bone, here a jaw bone, there a tooth, here a skull...
+
+......骨散亂地離散四處：手骨一處，腳骨一處，腳踝骨一處，小腿骨一處，大腿骨一處，腰骨一處，肋骨一處，脊椎骨一處，肩骨一處，頸骨一處，顎骨一處，齒骨一處，頭蓋骨一處，
+
+〔或〕諸骨〔已〕去連繫而散在諸處：手骨、足骨、脚骨、腿骨、腰骨、脊骨、頭蓋骨等為各別矣。
+
+---
+
+So imameva kāyaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti. Tassa evaṃ appamattassa ... pe ... evampi, bhikkhave, bhikkhu kāyagatāsatiṃ bhāveti.
+
+...
+
+他就此身聯想：『此身也有這樣的法，將成為這樣，未跨越這樣。』當他住於這樣不放逸、......（中略）比丘們！比丘這樣修習身至念。
+
+彼集視斯身者：『此身亦如是者，有如是性，難免如是！』彼，如是不放逸，專精勤住者，令斷此等世俗之念、思惟。為斷此等，內心安立、安一、專一於等定。諸比丘！如是始是比丘修身行之念。
 
 ---
 
@@ -688,33 +708,83 @@ Dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti di
 
 ---
 
-Parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti. Sarāgaṃ vā cittaṃ ‘sarāgaṃ cittan’ti pajānāti, vītarāgaṃ vā cittaṃ ... pe ... sadosaṃ vā cittaṃ ... vītadosaṃ vā cittaṃ ... samohaṃ vā cittaṃ ... vītamohaṃ vā cittaṃ ... saṅkhittaṃ vā cittaṃ ... vikkhittaṃ vā cittaṃ ... mahaggataṃ vā cittaṃ ... amahaggataṃ vā cittaṃ ... sauttaraṃ vā cittaṃ ... anuttaraṃ vā cittaṃ ... samāhitaṃ vā cittaṃ ... asamāhitaṃ vā cittaṃ ... vimuttaṃ vā cittaṃ ... avimuttaṃ vā cittaṃ ‘avimuttaṃ cittan’ti pajānāti.
+Parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti. Sarāgaṃ vā cittaṃ ‘sarāgaṃ cittan’ti pajānāti, vītarāgaṃ vā cittaṃ ... pe ... sadosaṃ vā cittaṃ ... vītadosaṃ vā cittaṃ ... samohaṃ vā cittaṃ ... vītamohaṃ vā cittaṃ ...
 
-“He knows the awareness of other beings, other individuals, having encompassed it with his own awareness. He discerns a mind with passion as a mind with passion, and a mind without passion as a mind without passion. He discerns a mind with aversion as a mind with aversion, and a mind without aversion as a mind without aversion. He discerns a mind with delusion as a mind with delusion, and a mind without delusion as a mind without delusion. He discerns a restricted mind as a restricted mind, and a scattered mind as a scattered mind. He discerns an enlarged mind as an enlarged mind, and an unenlarged mind as an unenlarged mind. He discerns an excelled mind as an excelled mind, and an unexcelled mind as an unexcelled mind. He discerns a concentrated mind as a concentrated mind, and an unconcentrated mind as an unconcentrated mind. He discerns a released mind as a released mind, and an unreleased mind as an unreleased mind.
+“He knows the awareness of other beings, other individuals, having encompassed it with his own awareness. He discerns a mind with passion as a mind with passion, and a mind without passion as a mind without passion. He discerns a mind with aversion as a mind with aversion, and a mind without aversion as a mind without aversion. He discerns a mind with delusion as a mind with delusion, and a mind without delusion as a mind without delusion.
 
-他以心熟知心後，了知其他眾生、其他個人：有貪的心了知為『有貪的心』，離貪的心......（中略）有瞋的心......離瞋的心......有癡的心......離癡的心......收斂的心......散亂的心......廣大的心......未廣大的心......更上的心......無更上的心......得定的心......未得定的心......已解脫的心......未解脫的心了知為『未解脫的心』。
+他以心熟知心後，了知其他眾生、其他個人：有貪的心了知為『有貪的心』，離貪的心......（中略）有瞋的心......離瞋的心......有癡的心......離癡的心......
 
-心知其他諸有情、他人之心。有貪心以知有貪心；離貪心以知離貪心；有瞋心以知有瞋心；離瞋心以知離瞋心；有癡心以知有癡心；離癡心以知離癡心；略心以知略心；廣心以知廣心；大心以知大心；非大心以知非大心；有上心以知有上心；無上心以知無上心；定心以知定心；非定心以知非定心；解脫心以知解脫心。
+心知其他諸有情、他人之心。有貪心以知有貪心；離貪心以知離貪心；有瞋心以知有瞋心；離瞋心以知離瞋心；有癡心以知有癡心；離癡心以知離癡心；
 
 ---
 
-So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo ... pe ... iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.
+... saṅkhittaṃ vā cittaṃ ... vikkhittaṃ vā cittaṃ ... mahaggataṃ vā cittaṃ ... amahaggataṃ vā cittaṃ ... sauttaraṃ vā cittaṃ ... anuttaraṃ vā cittaṃ ... samāhitaṃ vā cittaṃ ... asamāhitaṃ vā cittaṃ ... vimuttaṃ vā cittaṃ ... avimuttaṃ vā cittaṃ ‘avimuttaṃ cittan’ti pajānāti.
 
-“He recollects his manifold past lives (lit: previous homes), i.e., one birth, two births, three births, four, five, ten, twenty, thirty, forty, fifty, one hundred, one thousand, one hundred thousand, many aeons of cosmic contraction, many aeons of cosmic expansion, many aeons of cosmic contraction & expansion, [recollecting], ‘There I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure & pain, such the end of my life. Passing away from that state, I re-arose there. There too I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure & pain, such the end of my life. Passing away from that state, I re-arose here.’ Thus he remembers his manifold past lives in their modes & details.
+He discerns a restricted mind as a restricted mind, and a scattered mind as a scattered mind. He discerns an enlarged mind as an enlarged mind, and an unenlarged mind as an unenlarged mind. He discerns an excelled mind as an excelled mind, and an unexcelled mind as an unexcelled mind. He discerns a concentrated mind as a concentrated mind, and an unconcentrated mind as an unconcentrated mind. He discerns a released mind as a released mind, and an unreleased mind as an unreleased mind.
 
-他回憶起許多前世住處，即：一生、二生、......（中略）像這樣，他回憶起許多前世住處有這樣的行相與境遇。
+......收斂的心......散亂的心......廣大的心......未廣大的心......更上的心......無更上的心......得定的心......未得定的心......已解脫的心......未解脫的心了知為『未解脫的心』。
 
-隨念無量之宿住。即一生、二生......乃至......如是以并其事情及境遇隨念無量之宿住。
+略心以知略心；廣心以知廣心；大心以知大心；非大心以知非大心；有上心以知有上心；無上心以知無上心；定心以知定心；非定心以知非定心；解脫心以知解脫心。
+
+---
+
+So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo ... pe ...
+
+“He recollects his manifold past lives (lit: previous homes), i.e., one birth, two births, three births, four, five, ten, twenty, thirty, forty, fifty, one hundred, one thousand, one hundred thousand, many aeons of cosmic contraction, many aeons of cosmic expansion, many aeons of cosmic contraction & expansion,
+
+他回憶起許多前世住處，即：一生、二生、......（中略）......
+
+隨念無量之宿住。即一生、二生......乃至......
+
+---
+
+...iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.
+
+[recollecting], ‘There I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure & pain, such the end of my life. Passing away from that state, I re-arose there. There too I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure & pain, such the end of my life. Passing away from that state, I re-arose here.’ Thus he remembers his manifold past lives in their modes & details.
+
+......像這樣，他回憶起許多前世住處有這樣的行相與境遇。
+
+......如是以并其事情及境遇隨念無量之宿住。
 
 ---
 
 Dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate yathākammūpage satte pajānāti.
 
-“He sees — by means of the divine eye, purified & surpassing the human — beings passing away & re-appearing, and he discerns how they are inferior & superior, beautiful & ugly, fortunate & unfortunate in accordance with their kamma: ‘These beings — who were endowed with bad conduct of body, speech, & mind, who reviled the noble ones, held wrong views and undertook actions under the influence of wrong views — with the break-up of the body, after death, have re-appeared in the plane of deprivation, the bad destination, the lower realms, in hell. But these beings — who were endowed with good conduct of body, speech, & mind, who did not revile the noble ones, who held right views and undertook actions under the influence of right views — with the break-up of the body, after death, have re-appeared in the good destinations, in the heavenly world.’ Thus — by means of the divine eye, purified & surpassing the human — he sees beings passing away & re-appearing, and he discerns how they are inferior & superior, beautiful & ugly, fortunate & unfortunate in accordance with their kamma.
+“He sees — by means of the divine eye, purified & surpassing the human — beings passing away & re-appearing, and he discerns how they are inferior & superior, beautiful & ugly, fortunate & unfortunate in accordance with their kamma:
 
 他以清淨、超越人的天眼，看見當眾生死時、往生時，在下劣、勝妙，美、醜，幸、不幸中，了知眾生依業流轉。
 
 以超人清淨之天眼見諸眾生於善趣、惡趣之死、生、卑、尊、美、醜，知隨業而趣之諸眾生。
+
+---
+
+(N/A)
+
+‘These beings — who were endowed with bad conduct of body, speech, & mind, who reviled the noble ones, held wrong views and undertook actions under the influence of wrong views — with the break-up of the body, after death, have re-appeared in the plane of deprivation, the bad destination, the lower realms, in hell.
+
+(無對應經文)
+
+(無對應經文)
+
+---
+
+(N/A)
+
+But these beings — who were endowed with good conduct of body, speech, & mind, who did not revile the noble ones, who held right views and undertook actions under the influence of right views — with the break-up of the body, after death, have re-appeared in the good destinations, in the heavenly world.’
+
+(無對應經文)
+
+(無對應經文)
+
+---
+
+(N/A)
+
+Thus — by means of the divine eye, purified & surpassing the human — he sees beings passing away & re-appearing, and he discerns how they are inferior & superior, beautiful & ugly, fortunate & unfortunate in accordance with their kamma.
+
+(無對應經文)
+
+(無對應經文)
 
 ---
 
