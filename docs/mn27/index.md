@@ -4,8 +4,6 @@ slug: mn27
 pageClass: mn
 ---
 
-(Working in progress / 建設中)
-
 # Cūḷa Hatthipadopama Sutta / The Shorter Elephant Footprint Simile / 中部二七 象跡喻小經
 
 ---
