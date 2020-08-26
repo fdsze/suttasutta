@@ -1,7 +1,7 @@
 ---
 title: Aṅguttara Nikāya (AN) Content / 增支部目錄
 slug: an
-pageClass: content-page
+pageClass: toc-page
 ---
 
 # Aṅguttara Nikāya (AN) Content / 增支部目錄

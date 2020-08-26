@@ -1,7 +1,7 @@
 ---
 title: Majjhima Nikāya (MN) Content / 中部目錄
 slug: mn
-pageClass: content-page
+pageClass: toc-page
 ---
 
 # Majjhima Nikāya (MN) Content / 中部目錄

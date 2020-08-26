@@ -1,7 +1,7 @@
 ---
 title: Saṃyutta Nikāya (SN) Content / 相應部目錄
 slug: sn
-pageClass: content-page
+pageClass: toc-page
 ---
 
 # Saṃyutta Nikāya (SN) Content / 相應部目錄

@@ -184,7 +184,7 @@ export default {
   }
 }
 
-#{$contentClass}:not(.custom) {
+.markdown-content:not(.custom) {
     // @extend .wrapper;
   > *:first-child {
     // margin-top: $navbarHeight;
@@ -205,7 +205,7 @@ export default {
   }
 }
 
-#{$contentClass}.custom {
+.markdown-content.custom {
   padding: 0;
   margin: 0;
 
@@ -216,14 +216,14 @@ export default {
 
 .theme-container {
   &.no-navbar {
-    #{$contentClass}:not(.custom) > h1, h2, h3, h4, h5, h6 {
+    .markdonw-content:not(.custom) > h1, h2, h3, h4, h5, h6 {
       padding-top: 0;
     }
   }
 }
 
 @media (max-width: $MQMobileNarrow) {
-  #{$contentClass} {
+  .markdonw-content {
     div[class*="language-"] {
       margin: 0.85rem -1.5rem;
       border-radius: 0;
