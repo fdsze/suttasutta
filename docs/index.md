@@ -5,7 +5,7 @@ pageClass: home
 
 # Pāli Sutta Pitaka Content / 巴利文經藏目錄
 
-### [Dīgha Nikāya (DN) Content / 長部目錄](/dn/) 
+### [Dīgha Nikāya (DN) Content / 長部目錄](/dn/)
 
 ### [Majjhima Nikāya (MN) Content / 中部目錄](/mn/)
 

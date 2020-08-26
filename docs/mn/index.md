@@ -109,8 +109,8 @@ The Buddha explains that the concept of a self comes from the process of percept
 
 ---
 
-##### [MN20](/mn20/)
-### MN20 Vitakkasaṇṭhāna Sutta / The Removal of Distracting Thoughts / 中部二十 想念止息經
+##### [MN20](/mn20)
+### [MN20 Vitakkasaṇṭhāna Sutta / The Removal of Distracting Thoughts / 中部二十 想念止息經](/mn20)
 
 ---
 
@@ -144,8 +144,8 @@ The Buddha explains that the concept of a self comes from the process of percept
 
 ---
 
-##### [MN27](/mn27/)
-### MN27 Cūḷahatthipadopama Sutta / The Shorter Elephant Footprint Simile / 中部二七 象跡喻小經
+##### [MN27](/mn27)
+### [MN27 Cūḷahatthipadopama Sutta / The Shorter Elephant Footprint Simile / 中部二七 象跡喻小經](/mn27)
 
 ---
 
@@ -255,7 +255,7 @@ The Buddha explains that the concept of a self comes from the process of percept
 ---
 
 ##### [MN49](/mn49/)
-### MN49 Brahmanimantanika Sutta / The Invitation Of A Brahma / 中部四九 梵天請經
+### [MN49 Brahmanimantanika Sutta / The Invitation Of A Brahma / 中部四九 梵天請經](/mn49)
 
 ---
 
@@ -605,7 +605,7 @@ The Buddha explains that the concept of a self comes from the process of percept
 ---
 
 ##### [MN119](/mn119/)
-### MN119 Kāyagatāsati Sutta / Mindfulness Immersed in the Body / 中部一一九 身行念經
+### [MN119 Kāyagatāsati Sutta / Mindfulness Immersed in the Body / 中部一一九 身行念經](/mn119)
 
 ---
 
@@ -635,7 +635,7 @@ The Buddha explains that the concept of a self comes from the process of percept
 ---
 
 ##### [MN125](/mn125/)
-### MN125 Dantabhūmi Sutta / The Discourse on the "Tamed Stage" / 中部一二五 調御地經
+### [MN125 Dantabhūmi Sutta / On Tamed Stage / 中部一二五 調御地經](/mn125)
 
 ---
 

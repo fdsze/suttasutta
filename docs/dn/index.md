@@ -16,16 +16,16 @@ pageClass: toc-page
 ---
 
 ##### [DN2](/dn2)
-### [DN2 Samaññaphala Sutta / The Fruits of Recluseship / 長部二 沙門果經](/dn2/)
+### [DN2 Samaññaphala Sutta / The Fruits of Recluseship / 長部二 沙門果經](/dn2)
 
 King Ajātasattu, son of the great lay devotee King Bimbisāra, consults the Buddha for ways to calm down the mind, and asks the Buddha about the benefits brought by renunciation and spiritual practice. 
 
-頻毘娑羅王之子阿闍世王，詢問佛陀能使心寂靜的方法，以及有關出家與修行帶來之利益
+頻毘娑羅王之子阿闍世王，請教佛陀如何靜心，以及出家與修行之利益
 
 ---
 
 ##### [DN3](/dn3)
-### DN3 Ambaṭṭha Sutta / To Ambaṭṭha / 長部三 阿摩晝經
+### [DN3 Ambaṭṭha Sutta / To Ambaṭṭha / 長部三 阿摩晝經](/dn3)
 
 A Young Brahman’s Rudeness
 
@@ -134,7 +134,7 @@ Conduct, Concentration, And Intellect
 ---
 
 ##### [DN22](/dn22)
-### DN22 Mahasatipaṭṭhāna Sutta / The Long Discourse about the Ways of Attending to Mindfulness / 長部二一 大念處經
+### [DN22 Mahasatipaṭṭhāna Sutta / The Long Discourse about the Ways of Attending to Mindfulness / 長部二一 大念處經](/dn22/)
 
 ---
 
