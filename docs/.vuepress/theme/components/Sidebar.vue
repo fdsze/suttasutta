@@ -49,7 +49,7 @@ export default {
   }
 
   .home &,
-  .content-page &,
+  .toc-page &,
   .theme-container.no-sidebar & {
     display: none;
 

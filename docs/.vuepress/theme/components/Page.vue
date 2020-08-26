@@ -2,58 +2,25 @@
   <main class="page">
     <slot name="top"/>
 
-    <Content class="theme-default-content sutta-content"/>
-
-    <!-- <footer class="page-edit">
-      <div
-        class="edit-link"
-        v-if="editLink"
-      >
-        <a
-          :href="editLink"
-          target="_blank"
-          rel="noopener noreferrer"
-        >{{ editLinkText }}</a>
-        <OutboundLink/>
-      </div>
-
-      <div
-        class="last-updated"
-        v-if="lastUpdated"
-      >
-        <span class="prefix">{{ lastUpdatedText }}: </span>
-        <span class="time">{{ lastUpdated }}</span>
-      </div>
-    </footer> -->
+    <Content class="markdown-content"/>
 
     <div class="page-nav" v-if="prev || next">
       <p class="inner">
-        <span
+        <router-link
           v-if="prev"
           class="prev"
+          :to="prev.path"
         >
-          ←
-          <router-link
-            v-if="prev"
-            class="prev"
-            :to="prev.path"
-          >
-            {{ prev.title || prev.path }}
-          </router-link>
-        </span>
+          ← <span v-text="prev.title || prev.path" />
+        </router-link>
 
-        <span
+        <router-link
           v-if="next"
           class="next"
+          :to="next.path"
         >
-          <router-link
-            v-if="next"
-            :to="next.path"
-          >
-            {{ next.title || next.path }}
-          </router-link>
-          →
-        </span>
+          {{ next.title || next.path }} →
+        </router-link>
       </p>
     </div>
 
@@ -217,150 +184,153 @@ function flatten (items, res) {
     }
   }
 
-  .content-page & .sutta-content h1:first-child {
+  .toc-page & .markdown-content h1:first-child {
     margin-top: 3rem;
   }
 
-  h1 {
-    font-size: 1.3rem;
-    font-weight: 400;
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    clear: both;
 
-    @media (max-width: $MQMobile) {
-      margin-left: 25px;
-      margin-right: 25px;
-    }
-  }
-
-  h3 {
-    font-size: 1.3rem;
-    font-weight: 400;
-
-    a.header-anchor {
-      float: none;
-    }
-  }
-
-  p a {
-    color: $textColor;
-    font-weight: 400;
-    border-bottom: 1px solid $darkborderColor;
-    transition: border-bottom-color 0.15s ease-in-out;
-
-    &:hover {
-      border-bottom: 1px solid $accentColor;      
-    }
-  }
-
-  h3,
-  p {
-    text-align: center;
-    max-width: $contentWidth;
-    margin-left: auto;
-    margin-right: auto;
-
-    @media (max-width: $MQMobile) {
-      margin-left: 25px;
-      margin-right: 25px;
-    }
-  }
-
-  hr,
-  h5 {
-    & + p,
-    & + p + p,
-    & + p + p + p,
-    & + p + p + p + p {
-      text-align: left;
-      width: calc(25% - 20px);
-      float: left;
-      margin-left: 10px;
-      margin-right: 10px;
-
-      @media (max-width: $MQMobile) {
-        float: none;
-        width: auto;
-        margin-left: 25px;
-        margin-right: 25px;
-      }
-
-      &::before {
-        @media (max-width: $MQMobile) {
-          display: table;
-          margin-bottom: 5px;
-          color: lighten(desaturate($accentColor, 30%), 20%);
-          border: 1px solid $borderColor;
-          font-size: 12px;
-          font-weight: 700;
-          text-transform: uppercase;
-          padding: 0px 4px;
-        }
-      }
-    }
-
-    & + p::before {
-      @media (max-width: $MQMobile) {
-        content: 'Pāli';
-      }
-    }
-
-    & + p + p::before {
-      @media (max-width: $MQMobile) {
-        content: 'Eng';
-      }
-    }
-
-    & + p + p + p::before {
-      @media (max-width: $MQMobile) {
-        content: '白';
-      }
-    }
-
-    & + p + p + p + p::before {
-      @media (max-width: $MQMobile) {
-        content: '文';
-      }
-    }
-  }
-
-  h5 {
-    margin-left: 10px; 
-
-    @media (max-width: $MQMobile) {
-      margin-left: 25px;
-      margin-right: 25px;
-    }
-  }
-
-  hr {
-    display: block;
-    clear: both;
-  }
-
-  h3 + hr {
-    margin-top: 1rem;
-  }
-
-  .sutta-content {
+  .markdown-content {
     max-width: none;
     margin-left: -10px;
     margin-right: $sidebarWidth - 20px;
     padding-left: 0;
     padding-right: 0;
 
-    h1:first-child {
+    @media (max-width: $MQMobile) {
+      margin-right: -10px; 
+    }
+
+    h3,
+    p {
+      text-align: center;
+      max-width: $contentWidth;
+      margin-left: auto;
+      margin-right: auto;
+
+      @media (max-width: $MQMobile) {
+        margin-left: 25px;
+        margin-right: 25px;
+      }
+    }
+
+    hr,
+    h5 {
+      & + p,
+      & + p + p,
+      & + p + p + p,
+      & + p + p + p + p {
+        text-align: left;
+        width: calc(25% - 20px);
+        float: left;
+        margin-left: 10px;
+        margin-right: 10px;
+
+        @media (max-width: $MQMobile) {
+          float: none;
+          width: auto;
+          margin-left: 25px;
+          margin-right: 25px;
+        }
+
+        &::before {
+          @media (max-width: $MQMobile) {
+            display: table;
+            margin-bottom: 5px;
+            color: lighten(desaturate($accentColor, 30%), 20%);
+            border: 1px solid $borderColor;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            padding: 0px 4px;
+          }
+        }
+      }
+
+      & + p::before {
+        @media (max-width: $MQMobile) {
+          content: 'Pāli';
+        }
+      }
+
+      & + p + p::before {
+        @media (max-width: $MQMobile) {
+          content: 'Eng';
+        }
+      }
+
+      & + p + p + p::before {
+        @media (max-width: $MQMobile) {
+          content: '白';
+        }
+      }
+
+      & + p + p + p + p::before {
+        @media (max-width: $MQMobile) {
+          content: '文';
+        }
+      }
+    }
+
+    h1 {
+      font-size: 1.3rem;
+      font-weight: 400;
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      clear: both;
+
+      @media (max-width: $MQMobile) {
+        margin-left: 25px;
+        margin-right: 25px;
+      }
+
+      &:first-child {
+        margin-top: 1rem;
+      }
+    }
+
+    h3 {
+      font-size: 1.3rem;
+      font-weight: 400;
+
+      a.header-anchor {
+        float: none;
+      }
+    }
+
+    h5 {
+      margin-left: 10px;
+
+      @media (max-width: $MQMobile) {
+        margin-left: 25px;
+        margin-right: 25px;
+      }
+    }
+
+    p {
+      a {
+        color: $textColor;
+        font-weight: 400;
+        border-bottom: 1px solid $darkborderColor;
+        transition: border-bottom-color 0.15s ease-in-out;
+
+        &:hover {
+          border-bottom: 1px solid $accentColor;
+        }
+      }
+    }
+
+    hr {
+      display: block;
+      clear: both;
+    }
+
+    h3 + hr {
       margin-top: 1rem;
     }
 
     .no-sidebar & {
       margin-right: -10px;
-    }
-
-    @media (max-width: $MQMobile) {
-      margin-right: -10px; 
     }
   }
 
@@ -369,41 +339,8 @@ function flatten (items, res) {
   }
 }
 
-// .page-edit {
-//   @extend .wrapper;
-
-//   padding-top: 1rem;
-//   padding-bottom: 1rem;
-//   overflow: auto;
-  
-//   .edit-link {
-//     display: inline-block;
-
-//     a {
-//       color: lighten($textColor, 25%);
-//       margin-right: 0.25rem;
-//     }
-//   }
-
-//   .last-updated {
-//     float: right;
-//     font-size: 0.9em;
-
-//     .prefix {
-//       font-weight: 500;
-//       color: lighten($textColor, 25%);
-//     }
-      
-//     .time {
-//       font-weight: 400;
-//       color: #aaa;
-//     }
-//   }
-// }
-
 .page-nav {
   // @extend .wrapper;
-  
   width: calc(100% + 20px);
   margin-left: -10px;
   margin-right: -10px;
@@ -416,16 +353,44 @@ function flatten (items, res) {
   }
 
   .inner {
+    text-align: left;
     max-width: none;
     min-height: 2rem;
     margin-top: 0;
+    margin-right: 66px;
     border-top: 1px solid $borderColor;
     padding-top: 1rem;
     overflow: auto; // clear float
-  }
 
-  .next {
-    float: right;
+    @media (max-width: $MQMobile) {
+      margin-right: 0;
+    }
+
+    a {
+      color: $textColor;
+      border-bottom: 1px solid $darkborderColor;
+      transition: border-bottom-color 0.15s ease-in-out;
+
+      &:hover {
+        border-bottom: 1px solid $accentColor;
+      }
+
+      &.prev {
+        margin-left: 10px;
+
+        @media (max-width: $MQMobile) {
+          margin-left: 25px;
+        }
+      }
+
+      &.next {
+        float: right;
+
+        @media (max-width: $MQMobile) {
+          margin-right: 25px;
+        }
+      }
+    }
   }
 }
 
@@ -472,7 +437,7 @@ a.sidebar-link {
   }
 }
 
-.content-page {
+.toc-page {
   h5 {
     height: 0;
     overflow: hidden;
