@@ -202,7 +202,8 @@ function flatten (items, res) {
 
     h3,
     p {
-      text-align: center;
+      text-align: justify;
+      text-align-last: center;
       max-width: $contentWidth;
       margin-left: auto;
       margin-right: auto;
@@ -220,6 +221,7 @@ function flatten (items, res) {
       & + p + p + p,
       & + p + p + p + p {
         text-align: left;
+        text-align-last: left;
         width: calc(25% - 20px);
         float: left;
         margin-left: 10px;
@@ -292,6 +294,7 @@ function flatten (items, res) {
     h3 {
       font-size: 1.3rem;
       font-weight: 400;
+      text-align: center;
 
       a.header-anchor {
         float: none;
