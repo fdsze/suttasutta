@@ -1,10 +1,10 @@
 ---
-title: DN3 Ambaṭṭha Sutta / With Ambaṭṭha / 安玻德經 / 長部三 阿摩晝經
+title: DN3 Ambaṭṭha Sutta / With Ambaṭṭha / 長部三 阿摩晝經
 slug: dn3
-pageClass: dn3
+pageClass: dn
 ---
 
-# DN3 Ambaṭṭha Sutta / With Ambaṭṭha / 安玻德經 / 長部三 阿摩晝經
+# DN3 Ambaṭṭha Sutta / With Ambaṭṭha / 長部三 阿摩晝經
 
 ---
 
