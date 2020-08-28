@@ -20,7 +20,7 @@ pageClass: dn
 
 ##### 1.1.
 
-Evaṃ me sutaṃ —​ ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi yena icchānaṅgalaṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari. Tatra sudaṃ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe.
+Evaṃ me sutaṃ — ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi yena icchānaṅgalaṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari. Tatra sudaṃ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe.
 
 So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of around five hundred mendicants when he arrived at a village of the Kosalan brahmins named Icchānaṅgala. He stayed on in a forest near Icchānaṅgala.
 
@@ -30,7 +30,7 @@ So I have heard. At one time the Buddha was wandering in the land of the Kosalan
 
 ---
 
-Tena kho pana samayena brāhmaṇo pokkharasāti ukkaṭṭhaṃ ajjhāvasati sattussadaṃ satiṇakaṭṭhodakaṃ sadhaññaṃ rājabhoggaṃ raññā pasenadinā kosalena dinnaṃ rājadāyaṃ brahmadeyyaṃ. 
+Tena kho pana samayena brāhmaṇo pokkharasāti ukkaṭṭhaṃ ajjhāvasati sattussadaṃ satiṇakaṭṭhodakaṃ sadhaññaṃ rājabhoggaṃ raññā pasenadinā kosalena dinnaṃ rājadāyaṃ brahmadeyyaṃ.
 
 Now at that time the brahmin Pokkharasāti was living in Ukkaṭṭhā. It was a crown property given by King Pasenadi of Kosala, teeming with living creatures, full of hay, wood, water, and grain, a royal endowment of the highest quality.
 
@@ -42,9 +42,9 @@ Now at that time the brahmin Pokkharasāti was living in Ukkaṭṭhā. It was a
 
 ##### 1.2.
 
-Assosi kho brāhmaṇo pokkharasāti: 
+Assosi kho brāhmaṇo pokkharasāti:
 
-Pokkharasāti heard: 
+Pokkharasāti heard:
 
 玻科勒沙低婆羅門聽聞：
 
@@ -52,9 +52,9 @@ Pokkharasāti heard:
 
 ---
 
-“samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito kosalesu cārikaṃ caramāno mahatā bhikkhusaṃghena saddhiṃ pañcamattehi bhikkhusatehi icchānaṅgalaṃ anuppatto icchānaṅgale viharati icchānaṅgalavanasaṇḍe. Taṃ kho pana bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’. 
+“samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito kosalesu cārikaṃ caramāno mahatā bhikkhusaṃghena saddhiṃ pañcamattehi bhikkhusatehi icchānaṅgalaṃ anuppatto icchānaṅgale viharati icchānaṅgalavanasaṇḍe. Taṃ kho pana bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’.
 
-“It seems the ascetic Gotama—a Sakyan, gone forth from a Sakyan family—has arrived at Icchānaṅgala and is staying in a forest nearby. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ 
+“It seems the ascetic Gotama—a Sakyan, gone forth from a Sakyan family—has arrived at Icchānaṅgala and is staying in a forest nearby. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’
 
 「先生！釋迦人之子、從釋迦族出家的沙門喬達摩，與五百位比丘的大比丘僧團一起在憍薩羅國進行遊行，已到達一奢能伽羅，住在一奢能伽羅的一奢能伽羅叢林中，又，那位喬達摩尊師有這樣的好名聲被傳播著：『像這樣，那位世尊是阿羅漢、遍正覺者、明與行具足者、善逝、世間知者、應該被調御人的無上調御者、人天之師、佛陀、世尊。』
 
@@ -86,9 +86,9 @@ Now at that time Pokkharasāti had a student named Ambaṭṭha. He was one who 
 
 ##### 1.4.
 
-Atha kho brāhmaṇo pokkharasāti ambaṭṭhaṃ māṇavaṃ āmantesi: 
+Atha kho brāhmaṇo pokkharasāti ambaṭṭhaṃ māṇavaṃ āmantesi:
 
-Then Pokkharasāti addressed Ambaṭṭha: 
+Then Pokkharasāti addressed Ambaṭṭha:
 
 那時，玻科勒沙低婆羅門召喚安玻德學生婆羅門：
 
@@ -118,9 +118,9 @@ Then Pokkharasāti addressed Ambaṭṭha:
 
 ---
 
-“Āgatāni kho, tāta ambaṭṭha, amhākaṃ mantesu dvattiṃsa mahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveyeva gatiyo bhavanti anaññā. Sace agāraṃ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. 
+“Āgatāni kho, tāta ambaṭṭha, amhākaṃ mantesu dvattiṃsa mahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveyeva gatiyo bhavanti anaññā. Sace agāraṃ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato.
 
-“Dear Ambaṭṭha, the thirty-two marks of a great man have been handed down in our hymns. A great man who possesses these has only two possible destinies, no other. If he stays at home he becomes a king, a wheel-turning monarch, a just and principled king. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures. 
+“Dear Ambaṭṭha, the thirty-two marks of a great man have been handed down in our hymns. A great man who possesses these has only two possible destinies, no other. If he stays at home he becomes a king, a wheel-turning monarch, a just and principled king. His dominion extends to all four sides, he achieves stability in the country, and he possesses the seven treasures.
 
 「親愛的安玻德！三十二大丈夫相被記載在我們的經典中，凡具備大丈夫相者，只有二個趣處而無其它的：如果他住於俗家，他是轉輪王，如法的法王，征服四方，達成國土安定，具備七寶。
 
@@ -140,9 +140,9 @@ He has the following seven treasures: the wheel, the elephant, the horse, the je
 
 ##### 1.6.
 
-“Evaṃ, bho”ti kho ambaṭṭho māṇavo brāhmaṇassa pokkharasātissa paṭissutvā uṭṭhāyāsanā brāhmaṇaṃ pokkharasātiṃ abhivādetvā padakkhiṇaṃ katvā vaḷavārathamāruyha sambahulehi māṇavakehi saddhiṃ yena icchānaṅgalavanasaṇḍo tena pāyāsi. Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova ārāmaṃ pāvisi. 
+“Evaṃ, bho”ti kho ambaṭṭho māṇavo brāhmaṇassa pokkharasātissa paṭissutvā uṭṭhāyāsanā brāhmaṇaṃ pokkharasātiṃ abhivādetvā padakkhiṇaṃ katvā vaḷavārathamāruyha sambahulehi māṇavakehi saddhiṃ yena icchānaṅgalavanasaṇḍo tena pāyāsi. Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova ārāmaṃ pāvisi.
 
-“Yes, sir,” replied Ambaṭṭha. He got up from his seat, bowed, and respectfully circled Pokkharasāti, keeping him to his right. He mounted a mare-drawn chariot and, together with several students, set out for the forest near Icchānaṅgala. He went by carriage as far as the terrain allowed, then descended and entered the monastery on foot. 
+“Yes, sir,” replied Ambaṭṭha. He got up from his seat, bowed, and respectfully circled Pokkharasāti, keeping him to his right. He mounted a mare-drawn chariot and, together with several students, set out for the forest near Icchānaṅgala. He went by carriage as far as the terrain allowed, then descended and entered the monastery on foot.
 
 「是的，先生！」安玻德學生婆羅門回答玻科勒沙低婆羅門後，起座向玻科勒沙低婆羅門問訊，然後作右繞，接著登上騾馬車，與許多學生婆羅門一起向一奢能伽羅叢林出發。以車輛一直到車輛能通行之處，然後下車步行，進入園林。
 
@@ -202,9 +202,9 @@ So the Buddha said to him: “Ambaṭṭha, is this how you hold a discussion wi
 
 ---
 
-“No hidaṃ, bho gotama. Gacchanto vā hi, bho gotama, gacchantena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati, ṭhito vā hi, bho gotama, ṭhitena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati, nisinno vā hi, bho gotama, nisinnena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati, sayāno vā hi, bho gotama, sayānena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati. Ye ca kho te, bho gotama, muṇḍakā samaṇakā ibbhā kaṇhā bandhupādāpaccā, tehipi me saddhiṃ evaṃ kathāsallāpo hoti, yathariva bhotā gotamenā”ti. 
+“No hidaṃ, bho gotama. Gacchanto vā hi, bho gotama, gacchantena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati, ṭhito vā hi, bho gotama, ṭhitena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati, nisinno vā hi, bho gotama, nisinnena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati, sayāno vā hi, bho gotama, sayānena brāhmaṇo brāhmaṇena saddhiṃ sallapitumarahati. Ye ca kho te, bho gotama, muṇḍakā samaṇakā ibbhā kaṇhā bandhupādāpaccā, tehipi me saddhiṃ evaṃ kathāsallāpo hoti, yathariva bhotā gotamenā”ti.
 
-“No, Master Gotama. For it is proper for one brahmin to converse with another while both are walking, standing, sitting, or lying down. But as to these shavelings, fake ascetics, riffraff, black spawn from the feet of our Kinsman, I converse with them as I do with Master Gotama.” 
+“No, Master Gotama. For it is proper for one brahmin to converse with another while both are walking, standing, sitting, or lying down. But as to these shavelings, fake ascetics, riffraff, black spawn from the feet of our Kinsman, I converse with them as I do with Master Gotama.”
 
 「不，喬達摩先生！喬達摩先生！婆羅門應該行走著與行走的婆羅門一起講話；喬達摩先生！婆羅門應該站立著與站立的婆羅門一起講話；喬達摩先生！婆羅門應該坐著與坐著的婆羅門一起講話；喬達摩先生！婆羅門應該臥著與臥著的婆羅門一起講話，但，喬達摩先生！凡那些卑賤、黑色、親族腳子孫的禿頭假沙門，我與他們的交談才是這樣，如與喬達摩尊師這般。」
 
@@ -228,7 +228,7 @@ So the Buddha said to him: “Ambaṭṭha, is this how you hold a discussion wi
 
 Atha kho ambaṭṭho māṇavo bhagavatā avusitavādena vuccamāno kupito anattamano bhagavantaṃyeva khuṃsento bhagavantaṃyeva vambhento bhagavantaṃyeva upavadamāno: “samaṇo ca me bho gotamo pāpito bhavissatī”ti bhagavantaṃ etadavoca: “caṇḍā, bho gotama, sakyajāti; pharusā, bho gotama, sakyajāti; lahusā, bho gotama, sakyajāti; bhassā, bho gotama, sakyajāti; ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṃ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyanti. Tayidaṃ, bho gotama, nacchannaṃ, tayidaṃ nappatirūpaṃ, yadime sakyā ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṃ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyantī”ti.
 
-When he said this, Ambaṭṭha became angry and upset with the Buddha because of being described as unqualified. He even attacked and badmouthed the Buddha himself, saying: “The ascetic Gotama will be worsted!” He said to the Buddha: “Master Gotama, the Sakyan clan are rude, harsh, touchy, and argumentative. Riffraff they are, and riffraff they remain! They don’t honor, respect, revere, worship, or venerate brahmins. It is neither proper nor appropriate that the Sakyans—riffraff that they are—don’t honor, respect, revere, worship, or venerate brahmins.” 
+When he said this, Ambaṭṭha became angry and upset with the Buddha because of being described as unqualified. He even attacked and badmouthed the Buddha himself, saying: “The ascetic Gotama will be worsted!” He said to the Buddha: “Master Gotama, the Sakyan clan are rude, harsh, touchy, and argumentative. Riffraff they are, and riffraff they remain! They don’t honor, respect, revere, worship, or venerate brahmins. It is neither proper nor appropriate that the Sakyans—riffraff that they are—don’t honor, respect, revere, worship, or venerate brahmins.”
 
 那時，當安玻德學生婆羅門被世尊以未完成論述說時，他生氣、不悅地斥責世尊、侮蔑世尊、責備世尊[並心想]：「先生！沙門喬達摩對我應該是邪惡的。」他對世尊這麼說：「喬達摩先生！釋迦族出生者是兇惡的；喬達摩先生！釋迦族出生者是粗暴的；喬達摩先生！釋迦族出生者是輕率的；喬達摩先生！釋迦族出生者是饒舌的，他們卑賤地存在，當卑賤地存在時，他們對婆羅門不恭敬、對婆羅門不尊重、對婆羅門不尊敬、對婆羅門不崇敬、對婆羅門不敬重，喬達摩先生！這些釋迦族人卑賤地存在，當卑賤地存在時，他們對婆羅門不恭敬、對婆羅門不尊重、對婆羅門不尊敬、對婆羅門不崇敬、對婆羅門不敬重，這是不適合的，這是不適當的。」
 
@@ -248,7 +248,7 @@ And that’s how Ambaṭṭha denigrated the Sakyans with the word “riffraff�
 
 ##### 1.13.
 
-“Kiṃ pana te, ambaṭṭha, sakyā aparaddhun”ti? 
+“Kiṃ pana te, ambaṭṭha, sakyā aparaddhun”ti?
 
 “But Ambaṭṭha, how have the Sakyans wronged you?”
 
@@ -258,9 +258,9 @@ And that’s how Ambaṭṭha denigrated the Sakyans with the word “riffraff�
 
 ---
 
-“Ekamidāhaṃ, bho gotama, samayaṃ ācariyassa brāhmaṇassa pokkharasātissa kenacideva karaṇīyena kapilavatthuṃ agamāsiṃ. Yena sakyānaṃ sandhāgāraṃ tenupasaṅkamiṃ. Tena kho pana samayena sambahulā sakyā ceva sakyakumārā ca sandhāgāre uccesu āsanesu nisinnā honti aññamaññaṃ aṅgulipatodakehi sañjagghantā saṅkīḷantā, aññadatthu mamaññeva maññe anujagghantā, na maṃ koci āsanenapi nimantesi. Tayidaṃ, bho gotama, nacchannaṃ, tayidaṃ nappatirūpaṃ, yadime sakyā ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṃ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyantī”ti. 
+“Ekamidāhaṃ, bho gotama, samayaṃ ācariyassa brāhmaṇassa pokkharasātissa kenacideva karaṇīyena kapilavatthuṃ agamāsiṃ. Yena sakyānaṃ sandhāgāraṃ tenupasaṅkamiṃ. Tena kho pana samayena sambahulā sakyā ceva sakyakumārā ca sandhāgāre uccesu āsanesu nisinnā honti aññamaññaṃ aṅgulipatodakehi sañjagghantā saṅkīḷantā, aññadatthu mamaññeva maññe anujagghantā, na maṃ koci āsanenapi nimantesi. Tayidaṃ, bho gotama, nacchannaṃ, tayidaṃ nappatirūpaṃ, yadime sakyā ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṃ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyantī”ti.
 
-“This one time, Master Gotama, my teacher, the brahmin Pokkharasāti, went to Kapilavatthu on some business. He approached the Sakyans in their meeting hall. Now at that time several Sakyans and Sakyan princes were sitting on high seats, poking each other with their fingers, giggling and playing together. In fact, they even presumed to giggle at me, and didn’t invite me to a seat. It is neither proper nor appropriate that the Sakyans—riffraff that they are—don’t honor, respect, revere, worship, or venerate brahmins.” 
+“This one time, Master Gotama, my teacher, the brahmin Pokkharasāti, went to Kapilavatthu on some business. He approached the Sakyans in their meeting hall. Now at that time several Sakyans and Sakyan princes were sitting on high seats, poking each other with their fingers, giggling and playing together. In fact, they even presumed to giggle at me, and didn’t invite me to a seat. It is neither proper nor appropriate that the Sakyans—riffraff that they are—don’t honor, respect, revere, worship, or venerate brahmins.”
 
 「喬達摩先生！這裡，有一次，我為老師玻科勒沙低婆羅門以某些必須作的事去迦毘羅衛，到釋迦族的集會所，當時，眾多釋迦族人與釋迦族童子坐在高座位上相互以手指戳刺嬉戲、咯嘎笑，我想一定就是嘲笑我，也不以任何座位招待我，喬達摩先生！這些釋迦族人卑賤地存在，當卑賤地存在時，他們對婆羅門不恭敬、對婆羅門不尊重、對婆羅門不尊敬、對婆羅門不崇敬、對婆羅門不敬重，這是不適合的，這是不適當的。」
 
@@ -280,7 +280,7 @@ And that’s how Ambaṭṭha denigrated the Sakyans with the word “riffraff�
 
 ##### 1.14.
 
-“Laṭukikāpi kho, ambaṭṭha, sakuṇikā sake kulāvake kāmalāpinī hoti. Sakaṃ kho panetaṃ, ambaṭṭha, sakyānaṃ yadidaṃ kapilavatthuṃ, nārahatāyasmā ambaṭṭho imāya appamattāya abhisajjitun”ti. 
+“Laṭukikāpi kho, ambaṭṭha, sakuṇikā sake kulāvake kāmalāpinī hoti. Sakaṃ kho panetaṃ, ambaṭṭha, sakyānaṃ yadidaṃ kapilavatthuṃ, nārahatāyasmā ambaṭṭho imāya appamattāya abhisajjitun”ti.
 
 “Even a little quail, Ambaṭṭha, speaks as she likes in her own nest. Kapilavatthu is the Sakyans own place, Ambaṭṭha. It’s not worthy of the Venerable Ambaṭṭha to lose his temper over such a small thing.”
 
@@ -292,9 +292,9 @@ And that’s how Ambaṭṭha denigrated the Sakyans with the word “riffraff�
 
 ##### 1.15.
 
-“Cattārome, bho gotama, vaṇṇā— khattiyā brāhmaṇā vessā suddā. Imesañhi, bho gotama, catunnaṃ vaṇṇānaṃ tayo vaṇṇā— khattiyā ca vessā ca suddā ca— aññadatthu brāhmaṇasseva paricārakā sampajjanti. Tayidaṃ, bho gotama, nacchannaṃ, tayidaṃ nappatirūpaṃ, yadime sakyā ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṃ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyantī”ti. 
+“Cattārome, bho gotama, vaṇṇā— khattiyā brāhmaṇā vessā suddā. Imesañhi, bho gotama, catunnaṃ vaṇṇānaṃ tayo vaṇṇā— khattiyā ca vessā ca suddā ca— aññadatthu brāhmaṇasseva paricārakā sampajjanti. Tayidaṃ, bho gotama, nacchannaṃ, tayidaṃ nappatirūpaṃ, yadime sakyā ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṃ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyantī”ti.
 
-“Master Gotama, there are these four castes: aristocrats, brahmins, merchants, and workers. Three of these castes— aristocrats, merchants, and workers— in fact succeed only in serving the brahmins. It is neither proper nor appropriate that the Sakyans—riffraff that they are—don’t honor, respect, revere, worship, or venerate brahmins.” 
+“Master Gotama, there are these four castes: aristocrats, brahmins, merchants, and workers. Three of these castes— aristocrats, merchants, and workers— in fact succeed only in serving the brahmins. It is neither proper nor appropriate that the Sakyans—riffraff that they are—don’t honor, respect, revere, worship, or venerate brahmins.”
 
 「喬達摩先生！有這四種階級：剎帝利、婆羅門、毘舍、首陀羅，喬達摩先生！屬於這四種階級中的三種：剎帝利、毘舍、首陀羅，他們必然是婆羅門的侍者，喬達摩先生！這些釋迦族人卑賤地存在，當卑賤地存在時，他們對婆羅門不恭敬、對婆羅門不尊重、對婆羅門不尊敬、對婆羅門不崇敬、對婆羅門不敬重，這是不適合的，這是不適當的。」
 
@@ -316,7 +316,7 @@ And that’s how Ambaṭṭha denigrated the Sakyans with the word “riffraff�
 
 Atha kho bhagavato etadahosi: “atibāḷhaṃ kho ayaṃ ambaṭṭho māṇavo sakyesu ibbhavādena nimmādeti, yannūnāhaṃ gottaṃ puccheyyan”ti. Atha kho bhagavā ambaṭṭhaṃ māṇavaṃ etadavoca:
 
-Then it occurred to the Buddha: “This Ambaṭṭha puts the Sakyans down too much by calling them riffraff. Why don’t I ask him about his own clan?” So the Buddha said to him: 
+Then it occurred to the Buddha: “This Ambaṭṭha puts the Sakyans down too much by calling them riffraff. Why don’t I ask him about his own clan?” So the Buddha said to him:
 
 那時，世尊這麼想：「這位安玻德學生婆羅門過於激烈地以卑賤說侵害釋迦族人，讓我質問[他的]姓氏。」那時，世尊對安玻德學生婆羅門這麼說：
 
@@ -324,9 +324,9 @@ Then it occurred to the Buddha: “This Ambaṭṭha puts the Sakyans down too m
 
 ---
 
-“kathaṃ gottosi, ambaṭṭhā”ti? 
+“kathaṃ gottosi, ambaṭṭhā”ti?
 
-“What is your clan, Ambaṭṭha?” 
+“What is your clan, Ambaṭṭha?”
 
 「安玻德！你的姓氏是什麼？」
 
@@ -334,9 +334,9 @@ Then it occurred to the Buddha: “This Ambaṭṭha puts the Sakyans down too m
 
 ---
 
-“Kaṇhāyanohamasmi, bho gotamā”ti. 
+“Kaṇhāyanohamasmi, bho gotamā”ti.
 
-“I am a Kaṇhāyana, Master Gotama.” 
+“I am a Kaṇhāyana, Master Gotama.”
 
 「喬達摩先生！我是黑路。」
 
@@ -354,9 +354,9 @@ Then it occurred to the Buddha: “This Ambaṭṭha puts the Sakyans down too m
 
 ---
 
-Bhūtapubbaṃ, ambaṭṭha, rājā okkāko yā sā mahesī piyā manāpā, tassā puttassa rajjaṃ pariṇāmetukāmo jeṭṭhakumāre raṭṭhasmā pabbājesi— okkāmukhaṃ karakaṇḍaṃ hatthinikaṃ sinisūraṃ. Te raṭṭhasmā pabbājitā himavantapasse pokkharaṇiyā tīre mahāsākasaṇḍo, tattha vāsaṃ kappesuṃ. 
+Bhūtapubbaṃ, ambaṭṭha, rājā okkāko yā sā mahesī piyā manāpā, tassā puttassa rajjaṃ pariṇāmetukāmo jeṭṭhakumāre raṭṭhasmā pabbājesi— okkāmukhaṃ karakaṇḍaṃ hatthinikaṃ sinisūraṃ. Te raṭṭhasmā pabbājitā himavantapasse pokkharaṇiyā tīre mahāsākasaṇḍo, tattha vāsaṃ kappesuṃ.
 
-Once upon a time, King Okkāka, wishing to divert the royal succession to the son of his most beloved queen, banished the elder princes from the realm— Okkāmukha, Karakaṇḍa, Hatthinika, and Sinisūra. They made their home beside a lotus pond on the slopes of the Himalayas, where there was a large teak grove. 
+Once upon a time, King Okkāka, wishing to divert the royal succession to the son of his most beloved queen, banished the elder princes from the realm— Okkāmukha, Karakaṇḍa, Hatthinika, and Sinisūra. They made their home beside a lotus pond on the slopes of the Himalayas, where there was a large teak grove.
 
 安玻德！從前，歐葛葛王那位所愛的、合意的皇后想使她的兒子得到王位，從王國逐出年長王子們：歐葛木葛、葛勒耿達、哈低泥葛、西泥蘇勒，他們從王國被逐出，到喜瑪拉雅山邊蓮花池畔的大沙葛樹叢，在那裡，他們建造住所，
 
@@ -374,9 +374,9 @@ For fear of diluting their lineage, they slept with their own sisters.
 
 ---
 
-Atha kho, ambaṭṭha, rājā okkāko amacce pārisajje āmantesi: ‘kahaṃ nu kho, bho, etarahi kumārā sammantī’ti? 
+Atha kho, ambaṭṭha, rājā okkāko amacce pārisajje āmantesi: ‘kahaṃ nu kho, bho, etarahi kumārā sammantī’ti?
 
-Then King Okkāka addressed his ministers and counselors: ‘Where, sirs, have the princes settled now?’ 
+Then King Okkāka addressed his ministers and counselors: ‘Where, sirs, have the princes settled now?’
 
 安玻德！那時，歐葛葛王召喚隨從侍臣：『先生！現在親愛的王子們在何處呢？』
 
@@ -384,9 +384,9 @@ Then King Okkāka addressed his ministers and counselors: ‘Where, sirs, have t
 
 ---
 
-‘Atthi, deva, himavantapasse pokkharaṇiyā tīre mahāsākasaṇḍo, tatthetarahi kumārā sammanti. 
+‘Atthi, deva, himavantapasse pokkharaṇiyā tīre mahāsākasaṇḍo, tatthetarahi kumārā sammanti.
 
-‘Sire, there is a lotus pond on the slopes of the Himalayas, by a large grove of sāka, the teak tree. They’ve settled there. For fear of diluting their lineage, they are sleeping with their own (saka) sisters.’ 
+‘Sire, there is a lotus pond on the slopes of the Himalayas, by a large grove of sāka, the teak tree. They’ve settled there. For fear of diluting their lineage, they are sleeping with their own (saka) sisters.’
 
 『陛下！在喜瑪拉雅山邊蓮花池畔有大沙葛樹叢，現在親愛的王子們在那裡，他們以害怕混血而與自己的姊妹一起從事性交。』
 
@@ -404,9 +404,9 @@ Then, Ambaṭṭha, King Okkāka spoke these words of inspiration: ‘The prince
 
 ---
 
-Rañño kho pana, ambaṭṭha, okkākassa disā nāma dāsī ahosi. Sā kaṇhaṃ nāma janesi. Jāto kaṇho pabyāhāsi: ‘dhovatha maṃ, amma, nahāpetha maṃ amma, imasmā maṃ asucismā parimocetha, atthāya vo bhavissāmī’ti. 
+Rañño kho pana, ambaṭṭha, okkākassa disā nāma dāsī ahosi. Sā kaṇhaṃ nāma janesi. Jāto kaṇho pabyāhāsi: ‘dhovatha maṃ, amma, nahāpetha maṃ amma, imasmā maṃ asucismā parimocetha, atthāya vo bhavissāmī’ti.
 
-Now, King Okkāka had a female bondservant named Disā. She gave birth to a black boy. When he was born, Black Boy said: ‘Wash me, mum, bathe me! Get this filth off of me! I will be useful for you!’ 
+Now, King Okkāka had a female bondservant named Disā. She gave birth to a black boy. When he was born, Black Boy said: ‘Wash me, mum, bathe me! Get this filth off of me! I will be useful for you!’
 
 安玻德！又，歐葛葛王有位名叫方位的婢女，她生了名叫黑[的兒子]，當黑出生時，他就說話了：『媽咪！請你洗淨我，媽咪！請你沐浴我，請你使我從這不淨解脫，我將讓你們有利益。』
 
@@ -472,7 +472,7 @@ So the Buddha said to Ambaṭṭha: “Well, Ambaṭṭha, there’s a legitimat
 
 ---
 
-Evaṃ vutte, ambaṭṭho māṇavo tuṇhī ahosi. Dutiyampi kho bhagavā ambaṭṭhaṃ māṇavaṃ etadavoca: “taṃ kiṃ maññasi, ambaṭṭha, kinti te sutaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ kutopabhutikā kaṇhāyanā, ko ca kaṇhāyanānaṃ pubbapuriso”ti? Dutiyampi kho ambaṭṭho māṇavo tuṇhī ahosi. 
+Evaṃ vutte, ambaṭṭho māṇavo tuṇhī ahosi. Dutiyampi kho bhagavā ambaṭṭhaṃ māṇavaṃ etadavoca: “taṃ kiṃ maññasi, ambaṭṭha, kinti te sutaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ kutopabhutikā kaṇhāyanā, ko ca kaṇhāyanānaṃ pubbapuriso”ti? Dutiyampi kho ambaṭṭho māṇavo tuṇhī ahosi.
 
 When he said this, Ambaṭṭha kept silent. For a second time, the Buddha put the question, and for a second time Ambaṭṭha kept silent.
 
@@ -504,9 +504,9 @@ Now at that time the spirit Vajirapāṇi, holding a massive iron spear, burning
 
 ---
 
-Atha kho ambaṭṭho māṇavo bhīto saṃviggo lomahaṭṭhajāto bhagavantaṃyeva tāṇaṃ gavesī bhagavantaṃyeva leṇaṃ gavesī bhagavantaṃyeva saraṇaṃ gavesī upanisīditvā bhagavantaṃ etadavoca: 
+Atha kho ambaṭṭho māṇavo bhīto saṃviggo lomahaṭṭhajāto bhagavantaṃyeva tāṇaṃ gavesī bhagavantaṃyeva leṇaṃ gavesī bhagavantaṃyeva saraṇaṃ gavesī upanisīditvā bhagavantaṃ etadavoca:
 
-Ambaṭṭha was terrified, shocked, and awestruck. Looking to the Buddha for shelter, protection, and refuge, he sat down close by the Buddha and said: 
+Ambaṭṭha was terrified, shocked, and awestruck. Looking to the Buddha for shelter, protection, and refuge, he sat down close by the Buddha and said:
 
 那時，世尊與安玻德學生婆羅門都看見金剛手夜叉。那時，害怕、驚慌、身毛豎立的安玻德學生婆羅門求世尊為救護，求世尊為庇護，求世尊為歸依，坐近後，對世尊這麼說：
 
@@ -524,9 +524,9 @@ Ambaṭṭha was terrified, shocked, and awestruck. Looking to the Buddha for sh
 
 ---
 
-“Taṃ kiṃ maññasi, ambaṭṭha, kinti te sutaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ kutopabhutikā kaṇhāyanā, ko ca kaṇhāyanānaṃ pubbapuriso”ti? 
+“Taṃ kiṃ maññasi, ambaṭṭha, kinti te sutaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ kutopabhutikā kaṇhāyanā, ko ca kaṇhāyanānaṃ pubbapuriso”ti?
 
-“What do you think, Ambaṭṭha? According to what you have heard from elderly and senior brahmins, the teachers of teachers, what is the origin of the Kaṇhāyanas, and who is their founder?” 
+“What do you think, Ambaṭṭha? According to what you have heard from elderly and senior brahmins, the teachers of teachers, what is the origin of the Kaṇhāyanas, and who is their founder?”
 
 「安玻德！你怎麼想：你是否聽聞婆羅門的耆宿大老們；老師與老師的老師說：黑路的開始從哪裡來？誰是黑路的祖先呢？」
 
@@ -562,9 +562,9 @@ When he said this, those students made an uproar: “It turns out Ambaṭṭha i
 
 ##### 1.23.
 
-Atha kho bhagavato etadahosi: “atibāḷhaṃ kho ime māṇavakā ambaṭṭhaṃ māṇavaṃ dāsiputtavādena nimmādenti, yannūnāhaṃ parimoceyyan”ti. 
+Atha kho bhagavato etadahosi: “atibāḷhaṃ kho ime māṇavakā ambaṭṭhaṃ māṇavaṃ dāsiputtavādena nimmādenti, yannūnāhaṃ parimoceyyan”ti.
 
-Then it occurred to the Buddha: “These students put Ambaṭṭha down too much by calling him the son of a bondservant. Why don’t I get him out of this?” 
+Then it occurred to the Buddha: “These students put Ambaṭṭha down too much by calling him the son of a bondservant. Why don’t I get him out of this?”
 
 那時，世尊這麼想：「這些學生婆羅門過於激烈地以婢女之子說侵害安玻德學生婆羅門，讓我使之解脫(解圍)。」
 
@@ -582,9 +582,9 @@ So the Buddha said to the students: “Students, please don’t put Ambaṭṭha
 
 ---
 
-Atha kho, māṇavakā, amaccā pārisajjā kaṇhaṃ isiṃ upasaṅkamitvā etadavocuṃ: ‘sotthi, bhaddante, hotu rañño; sotthi, bhaddante, hotu rañño’ti. 
+Atha kho, māṇavakā, amaccā pārisajjā kaṇhaṃ isiṃ upasaṅkamitvā etadavocuṃ: ‘sotthi, bhaddante, hotu rañño; sotthi, bhaddante, hotu rañño’ti.
 
-Then the ministers and counselors approached the sage Black Boy and said: ‘Spare the king, sir, spare him!’ 
+Then the ministers and counselors approached the sage Black Boy and said: ‘Spare the king, sir, spare him!’
 
 學生婆羅門們！那時，隨從侍臣去見黑仙人後，這麼說：『尊師！請讓國王平安，尊師！請讓國王平安。』
 
@@ -592,9 +592,9 @@ Then the ministers and counselors approached the sage Black Boy and said: ‘Spa
 
 ---
 
-‘Sotthi bhavissati rañño, api ca rājā yadi adho khurappaṃ muñcissati, yāvatā rañño vijitaṃ, ettāvatā pathavī undriyissatī’ti. 
+‘Sotthi bhavissati rañño, api ca rājā yadi adho khurappaṃ muñcissati, yāvatā rañño vijitaṃ, ettāvatā pathavī undriyissatī’ti.
 
-‘The king will be safe. But if he shoots the arrow downwards, there will be an earthquake across the entire realm.’ 
+‘The king will be safe. But if he shoots the arrow downwards, there will be an earthquake across the entire realm.’
 
 『國王將會平安，但當國王向下射出箭時，直到國王的領土之所及，在那裡，土地將破碎。』
 
@@ -602,9 +602,9 @@ Then the ministers and counselors approached the sage Black Boy and said: ‘Spa
 
 ---
 
-‘Sotthi, bhaddante, hotu rañño, sotthi janapadassā’ti. 
+‘Sotthi, bhaddante, hotu rañño, sotthi janapadassā’ti.
 
-‘Spare the king, sir, and spare the country!’ 
+‘Spare the king, sir, and spare the country!’
 
 『尊師！請讓國王平安、地方平安。』
 
@@ -612,9 +612,9 @@ Then the ministers and counselors approached the sage Black Boy and said: ‘Spa
 
 ---
 
-‘Sotthi bhavissati rañño, sotthi janapadassa, api ca rājā yadi uddhaṃ khurappaṃ muñcissati, yāvatā rañño vijitaṃ, ettāvatā satta vassāni devo na vassissatī’ti. 
+‘Sotthi bhavissati rañño, sotthi janapadassa, api ca rājā yadi uddhaṃ khurappaṃ muñcissati, yāvatā rañño vijitaṃ, ettāvatā satta vassāni devo na vassissatī’ti.
 
-‘Both king and country will be safe. But if he shoots the arrow upwards, there will be no rain in the entire realm for seven years.’ 
+‘Both king and country will be safe. But if he shoots the arrow upwards, there will be no rain in the entire realm for seven years.’
 
 『國王將會平安、地方平安，但當國王向上射出箭時，直到國王的領土之所及，在那裡，天空將會七年不下雨。』
 
@@ -622,9 +622,9 @@ Then the ministers and counselors approached the sage Black Boy and said: ‘Spa
 
 ---
 
-‘Sotthi, bhaddante, hotu rañño sotthi janapadassa devo ca vassatū’ti. 
+‘Sotthi, bhaddante, hotu rañño sotthi janapadassa devo ca vassatū’ti.
 
-‘Spare the king, sir, spare the country, and let there be rain!’ 
+‘Spare the king, sir, spare the country, and let there be rain!’
 
 『尊師！請讓國王平安、地方平安、天空下雨。』
 
@@ -632,9 +632,9 @@ Then the ministers and counselors approached the sage Black Boy and said: ‘Spa
 
 ---
 
-‘Sotthi bhavissati rañño sotthi janapadassa devo ca vassissati, api ca rājā jeṭṭhakumāre khurappaṃ patiṭṭhāpetu, sotthi kumāro pallomo bhavissatī’ti. 
+‘Sotthi bhavissati rañño sotthi janapadassa devo ca vassissati, api ca rājā jeṭṭhakumāre khurappaṃ patiṭṭhāpetu, sotthi kumāro pallomo bhavissatī’ti.
 
-‘Both king and country will be safe, and the rain will fall. And if the king aims the arrow at the crown prince, he will be safe and untouched.’ 
+‘Both king and country will be safe, and the rain will fall. And if the king aims the arrow at the crown prince, he will be safe and untouched.’
 
 『國王將會平安、地方平安、天空下雨，但當國王讓箭住立在年長王子上時，王子將會是平安、安心的。』
 
@@ -642,9 +642,9 @@ Then the ministers and counselors approached the sage Black Boy and said: ‘Spa
 
 ---
 
-Atha kho, māṇavakā, amaccā okkākassa ārocesuṃ: ‘okkāko jeṭṭhakumāre khurappaṃ patiṭṭhāpetu. 
+Atha kho, māṇavakā, amaccā okkākassa ārocesuṃ: ‘okkāko jeṭṭhakumāre khurappaṃ patiṭṭhāpetu.
 
-So the ministers said to Okkāka: ‘Okkāka must aim the arrow at the crown prince. He will be safe and untouched.’ 
+So the ministers said to Okkāka: ‘Okkāka must aim the arrow at the crown prince. He will be safe and untouched.’
 
 學生婆羅門們！那時，隨從告知國王：『請國王讓箭住立在年長王子上，王子將會是平安、安心的。』
 
@@ -668,9 +668,9 @@ So King Okkāka aimed the arrow at the crown prince. And he was safe and untouch
 
 ##### 1.24.
 
-Atha kho bhagavā ambaṭṭhaṃ māṇavaṃ āmantesi: 
+Atha kho bhagavā ambaṭṭhaṃ māṇavaṃ āmantesi:
 
-Then the Buddha addressed Ambaṭṭha: 
+Then the Buddha addressed Ambaṭṭha:
 
 那時，世尊召喚安玻德學生婆羅門：
 
@@ -678,9 +678,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Taṃ kiṃ maññasi, ambaṭṭha, idha khattiyakumāro brāhmaṇakaññāya saddhiṃ saṃvāsaṃ kappeyya, tesaṃ saṃvāsamanvāya putto jāyetha. Yo so khattiyakumārena brāhmaṇakaññāya putto uppanno, api nu so labhetha brāhmaṇesu āsanaṃ vā udakaṃ vā”ti? 
+“Taṃ kiṃ maññasi, ambaṭṭha, idha khattiyakumāro brāhmaṇakaññāya saddhiṃ saṃvāsaṃ kappeyya, tesaṃ saṃvāsamanvāya putto jāyetha. Yo so khattiyakumārena brāhmaṇakaññāya putto uppanno, api nu so labhetha brāhmaṇesu āsanaṃ vā udakaṃ vā”ti?
 
-“What do you think, Ambaṭṭha? Suppose an aristocrat boy was to sleep with a brahmin girl, and they had a son. Would he receive a seat and water from the brahmins?” 
+“What do you think, Ambaṭṭha? Suppose an aristocrat boy was to sleep with a brahmin girl, and they had a son. Would he receive a seat and water from the brahmins?”
 
 「安玻德！你怎麼想：這裡，如果剎帝利少年與婆羅門少女一起從事性交，他們性交後生下兒子，那剎帝利少年與婆羅門少女所生的兒子，他是否能在婆羅門中得到座位或水呢？」
 
@@ -688,7 +688,7 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Labhetha, bho gotama”. 
+“Labhetha, bho gotama”.
 
 “He would, Master Gotama.”
 
@@ -698,7 +698,7 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nu naṃ brāhmaṇā bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā”ti? 
+“Api nu naṃ brāhmaṇā bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā”ti?
 
 “And would the brahmins feed him at an offering of food for ancestors, an offering of a dish of milk-rice, a sacrifice, or a feast for guests?”
 
@@ -708,7 +708,7 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Bhojeyyuṃ, bho gotama”. 
+“Bhojeyyuṃ, bho gotama”.
 
 “They would.”
 
@@ -718,7 +718,7 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nu naṃ brāhmaṇā mante vāceyyuṃ vā no vā”ti? 
+“Api nu naṃ brāhmaṇā mante vāceyyuṃ vā no vā”ti?
 
 “And would the brahmins teach him the hymns or not?”
 
@@ -728,7 +728,7 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Vāceyyuṃ, bho gotama”. 
+“Vāceyyuṃ, bho gotama”.
 
 “They would.”
 
@@ -738,7 +738,7 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nussa itthīsu āvaṭaṃ vā assa anāvaṭaṃ vā”ti? 
+“Api nussa itthīsu āvaṭaṃ vā assa anāvaṭaṃ vā”ti?
 
 “And would he be kept from the women or not?”
 
@@ -748,9 +748,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Anāvaṭaṃ hissa, bho gotama”. 
+“Anāvaṭaṃ hissa, bho gotama”.
 
-“He would not.” 
+“He would not.”
 
 「喬達摩先生！不被隔離。」
 
@@ -758,7 +758,7 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nu naṃ khattiyā khattiyābhisekena abhisiñceyyun”ti? 
+“Api nu naṃ khattiyā khattiyābhisekena abhisiñceyyun”ti?
 
 “And would the aristocrats anoint him as king?”
 
@@ -782,7 +782,7 @@ Then the Buddha addressed Ambaṭṭha:
 
 “Taṃ kiṃ maññasi, ambaṭṭha, idha brāhmaṇakumāro khattiyakaññāya saddhiṃ saṃvāsaṃ kappeyya, tesaṃ saṃvāsamanvāya putto jāyetha. Yo so brāhmaṇakumārena khattiyakaññāya putto uppanno, api nu so labhetha brāhmaṇesu āsanaṃ vā udakaṃ vā”ti?
 
-“What do you think, Ambaṭṭha? Suppose a brahmin boy was to sleep with an aristocrat girl, and they had a son. Would he receive a seat and water from the brahmins?” 
+“What do you think, Ambaṭṭha? Suppose a brahmin boy was to sleep with an aristocrat girl, and they had a son. Would he receive a seat and water from the brahmins?”
 
 「安玻德！你怎麼想：這裡，如果婆羅門少年與剎帝利少女一起從事性交，他們性交後生下兒子，那位婆羅門少年與剎帝利少女所生的兒子，他是否能在婆羅門中得到座位或水呢？」
 
@@ -790,9 +790,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Labhetha, bho gotama”. 
+“Labhetha, bho gotama”.
 
-“He would, Master Gotama.” 
+“He would, Master Gotama.”
 
 「喬達摩先生！他能得到。」
 
@@ -800,7 +800,7 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nu naṃ brāhmaṇā bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā”ti? 
+“Api nu naṃ brāhmaṇā bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā”ti?
 
 “And would the brahmins feed him at an offering of food for ancestors, an offering of a dish of milk-rice, a sacrifice, or a feast for guests?”
 
@@ -810,9 +810,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Bhojeyyuṃ, bho gotama”. 
+“Bhojeyyuṃ, bho gotama”.
 
-“They would.” 
+“They would.”
 
 「喬達摩先生！會宴請。」
 
@@ -820,9 +820,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nu naṃ brāhmaṇā mante vāceyyuṃ vā no vā”ti? 
+“Api nu naṃ brāhmaṇā mante vāceyyuṃ vā no vā”ti?
 
-“And would the brahmins teach him the hymns or not?” 
+“And would the brahmins teach him the hymns or not?”
 
 「婆羅門們是否教導他經典，或不呢？」
 
@@ -830,9 +830,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Vāceyyuṃ, bho gotama”. 
+“Vāceyyuṃ, bho gotama”.
 
-“They would.” 
+“They would.”
 
 「喬達摩先生！會教導。」
 
@@ -840,9 +840,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nussa itthīsu āvaṭaṃ vā assa anāvaṭaṃ vā”ti? 
+“Api nussa itthīsu āvaṭaṃ vā assa anāvaṭaṃ vā”ti?
 
-“And would he be kept from the women or not?” 
+“And would he be kept from the women or not?”
 
 「在女子中是否會被隔離或不被隔離呢？」
 
@@ -850,9 +850,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Anāvaṭaṃ hissa, bho gotama”. 
+“Anāvaṭaṃ hissa, bho gotama”.
 
-“He would not.” 
+“He would not.”
 
 「喬達摩先生！不會被隔離。」
 
@@ -860,9 +860,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nu naṃ khattiyā khattiyābhisekena abhisiñceyyun”ti? 
+“Api nu naṃ khattiyā khattiyābhisekena abhisiñceyyun”ti?
 
-“And would the aristocrats anoint him as king?” 
+“And would the aristocrats anoint him as king?”
 
 「剎帝利們是否會以剎帝利的灌頂灌頂他呢？」
 
@@ -882,9 +882,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ##### 1.26.
 
-“Iti kho, ambaṭṭha, itthiyā vā itthiṃ karitvā purisena vā purisaṃ karitvā khattiyāva seṭṭhā, hīnā brāhmaṇā. Taṃ kiṃ maññasi, ambaṭṭha, idha brāhmaṇā brāhmaṇaṃ kismiñcideva pakaraṇe khuramuṇḍaṃ karitvā bhassapuṭena vadhitvā raṭṭhā vā nagarā vā pabbājeyyuṃ. Api nu so labhetha brāhmaṇesu āsanaṃ vā udakaṃ vā”ti? 
+“Iti kho, ambaṭṭha, itthiyā vā itthiṃ karitvā purisena vā purisaṃ karitvā khattiyāva seṭṭhā, hīnā brāhmaṇā. Taṃ kiṃ maññasi, ambaṭṭha, idha brāhmaṇā brāhmaṇaṃ kismiñcideva pakaraṇe khuramuṇḍaṃ karitvā bhassapuṭena vadhitvā raṭṭhā vā nagarā vā pabbājeyyuṃ. Api nu so labhetha brāhmaṇesu āsanaṃ vā udakaṃ vā”ti?
 
-“And so, Ambaṭṭha, the aristocrats are superior and the brahmins inferior, whether comparing women with women or men with men. What do you think, Ambaṭṭha? Suppose the brahmins for some reason were to shave a brahmin’s head, inflict him with a sack of ashes, and banish him from the nation or the city. Would he receive a seat and water from the brahmins?” 
+“And so, Ambaṭṭha, the aristocrats are superior and the brahmins inferior, whether comparing women with women or men with men. What do you think, Ambaṭṭha? Suppose the brahmins for some reason were to shave a brahmin’s head, inflict him with a sack of ashes, and banish him from the nation or the city. Would he receive a seat and water from the brahmins?”
 
 「安玻德！像這樣，女子比女子，男子比男子後，剎帝利是最勝的，婆羅門是下劣的。安玻德！你怎麼想：這裡，如果任何婆羅門被婆羅門們執行剃光頭、撒灰後，令從王國或城鎮逐出，他是否能在婆羅門中得到座位或水呢？」
 
@@ -892,9 +892,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“No hidaṃ, bho gotama”. 
+“No hidaṃ, bho gotama”.
 
-“No, Master Gotama.” 
+“No, Master Gotama.”
 
 「不，喬達摩先生！」
 
@@ -902,9 +902,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nu naṃ brāhmaṇā bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā”ti? 
+“Api nu naṃ brāhmaṇā bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā”ti?
 
-“And would the brahmins feed him at an offering of food for ancestors, an offering of a dish of milk-rice, a sacrifice, or a feast for guests?” 
+“And would the brahmins feed him at an offering of food for ancestors, an offering of a dish of milk-rice, a sacrifice, or a feast for guests?”
 
 「婆羅門們是否會在亡者供養會中，或祭食中，或犧牲祭中，或饗宴中宴請他呢？」
 
@@ -912,9 +912,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“No hidaṃ, bho gotama”. 
+“No hidaṃ, bho gotama”.
 
-“No, Master Gotama.” 
+“No, Master Gotama.”
 
 「不，喬達摩先生！」
 
@@ -922,9 +922,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nu naṃ brāhmaṇā mante vāceyyuṃ vā no vā”ti? 
+“Api nu naṃ brāhmaṇā mante vāceyyuṃ vā no vā”ti?
 
-“And would the brahmins teach him the hymns or not?” 
+“And would the brahmins teach him the hymns or not?”
 
 「婆羅門們是否教導他經典，或不呢？」
 
@@ -932,9 +932,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“No hidaṃ, bho gotama”. 
+“No hidaṃ, bho gotama”.
 
-“No, Master Gotama.” 
+“No, Master Gotama.”
 
 「不，喬達摩先生！」
 
@@ -942,9 +942,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nussa itthīsu āvaṭaṃ vā assa anāvaṭaṃ vā”ti? 
+“Api nussa itthīsu āvaṭaṃ vā assa anāvaṭaṃ vā”ti?
 
-“And would he be kept from the women or not?” 
+“And would he be kept from the women or not?”
 
 「在女子中是否會被隔離或不被隔離呢？」
 
@@ -964,9 +964,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ##### 1.27.
 
-“Taṃ kiṃ maññasi, ambaṭṭha, idha khattiyā khattiyaṃ kismiñcideva pakaraṇe khuramuṇḍaṃ karitvā bhassapuṭena vadhitvā raṭṭhā vā nagarā vā pabbājeyyuṃ. Api nu so labhetha brāhmaṇesu āsanaṃ vā udakaṃ vā”ti? 
+“Taṃ kiṃ maññasi, ambaṭṭha, idha khattiyā khattiyaṃ kismiñcideva pakaraṇe khuramuṇḍaṃ karitvā bhassapuṭena vadhitvā raṭṭhā vā nagarā vā pabbājeyyuṃ. Api nu so labhetha brāhmaṇesu āsanaṃ vā udakaṃ vā”ti?
 
-“What do you think, Ambaṭṭha? Suppose the aristocrats for some reason were to shave an aristocrat’s head, inflict him with a sack of ashes, and banish him from the nation or the city. Would he receive a seat and water from the brahmins?” 
+“What do you think, Ambaṭṭha? Suppose the aristocrats for some reason were to shave an aristocrat’s head, inflict him with a sack of ashes, and banish him from the nation or the city. Would he receive a seat and water from the brahmins?”
 
 「安玻德！你怎麼想：這裡，如果任何剎帝利被剎帝利們執行剃光頭、撒灰後，令從王國或城鎮逐出，是否能在婆羅門中得到座位或水呢？」
 
@@ -974,7 +974,7 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Labhetha, bho gotama”. 
+“Labhetha, bho gotama”.
 
 “He would, Master Gotama.”
 
@@ -984,7 +984,7 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nu naṃ brāhmaṇā bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā”ti? 
+“Api nu naṃ brāhmaṇā bhojeyyuṃ saddhe vā thālipāke vā yaññe vā pāhune vā”ti?
 
 “And would the brahmins feed him at an offering of food for ancestors, an offering of a dish of milk-rice, a sacrifice, or a feast for guests?”
 
@@ -994,9 +994,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Bhojeyyuṃ, bho gotama”. 
+“Bhojeyyuṃ, bho gotama”.
 
-“They would.” 
+“They would.”
 
 「喬達摩先生！會宴請。」
 
@@ -1004,9 +1004,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nu naṃ brāhmaṇā mante vāceyyuṃ vā no vā”ti? 
+“Api nu naṃ brāhmaṇā mante vāceyyuṃ vā no vā”ti?
 
-“And would the brahmins teach him the hymns or not?” 
+“And would the brahmins teach him the hymns or not?”
 
 「婆羅門們是否教導他經典，或不呢？」
 
@@ -1014,9 +1014,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Vāceyyuṃ, bho gotama”. 
+“Vāceyyuṃ, bho gotama”.
 
-“They would.” 
+“They would.”
 
 「喬達摩先生！會教導。」
 
@@ -1024,9 +1024,9 @@ Then the Buddha addressed Ambaṭṭha:
 
 ---
 
-“Api nussa itthīsu āvaṭaṃ vā assa anāvaṭaṃ vā”ti? 
+“Api nussa itthīsu āvaṭaṃ vā assa anāvaṭaṃ vā”ti?
 
-“And would he be kept from the women or not?” 
+“And would he be kept from the women or not?”
 
 「在女子中是否會被隔離或不被隔離呢？」
 
@@ -1120,9 +1120,9 @@ But one accomplished in knowledge and conduct is best of gods and humans.”
 
 ---
 
-“Katamaṃ pana taṃ, bho gotama, caraṇaṃ, katamā ca pana sā vijjā”ti? 
+“Katamaṃ pana taṃ, bho gotama, caraṇaṃ, katamā ca pana sā vijjā”ti?
 
-“But what, Master Gotama, is that conduct, and what is that knowledge?” 
+“But what, Master Gotama, is that conduct, and what is that knowledge?”
 
 「喬達摩先生！但，什麼是那個行？什麼是那個明？」
 
@@ -1150,9 +1150,9 @@ But one accomplished in knowledge and conduct is best of gods and humans.”
 
 ---
 
-“Katamaṃ pana taṃ, bho gotama, caraṇaṃ, katamā ca sā vijjā”ti? 
+“Katamaṃ pana taṃ, bho gotama, caraṇaṃ, katamā ca sā vijjā”ti?
 
-“But what, Master Gotama, is that conduct, and what is that knowledge?” 
+“But what, Master Gotama, is that conduct, and what is that knowledge?”
 
 「喬達摩先生！但，什麼是那個行？什麼是那個明？」
 
@@ -1266,9 +1266,9 @@ Furthermore, take some ascetic or brahmin who, not managing to obtain this supre
 
 ---
 
-Puna caparaṃ, ambaṭṭha, idhekacco samaṇo vā brāhmaṇo vā imaṃ ceva anuttaraṃ vijjācaraṇasampadaṃ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kandamūlaphalabhojanatañca anabhisambhuṇamāno aggipāricariyañca anabhisambhuṇamāno cātumahāpathe catudvāraṃ agāraṃ karitvā acchati: ‘yo imāhi catūhi disāhi āgamissati samaṇo vā brāhmaṇo vā, tamahaṃ yathāsatti yathābalaṃ paṭipūjessāmī’ti. So aññadatthu vijjācaraṇasampannasseva paricārako sampajjati. Imāya kho, ambaṭṭha, anuttarāya vijjācaraṇasampadāya idaṃ catutthaṃ apāyamukhaṃ bhavati. 
+Puna caparaṃ, ambaṭṭha, idhekacco samaṇo vā brāhmaṇo vā imaṃ ceva anuttaraṃ vijjācaraṇasampadaṃ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kandamūlaphalabhojanatañca anabhisambhuṇamāno aggipāricariyañca anabhisambhuṇamāno cātumahāpathe catudvāraṃ agāraṃ karitvā acchati: ‘yo imāhi catūhi disāhi āgamissati samaṇo vā brāhmaṇo vā, tamahaṃ yathāsatti yathābalaṃ paṭipūjessāmī’ti. So aññadatthu vijjācaraṇasampannasseva paricārako sampajjati. Imāya kho, ambaṭṭha, anuttarāya vijjācaraṇasampadāya idaṃ catutthaṃ apāyamukhaṃ bhavati.
 
-Furthermore, take some ascetic or brahmin who, not managing to obtain this supreme knowledge and conduct, or to get by eating fallen fruit, or to get by eating tubers and fruit, or to serve the sacred flame, sets up a fire chamber in the central square and dwells there, thinking: ‘When an ascetic or brahmin comes from the four quarters, I will honor them as best I can.’ In fact they succeed only in serving someone accomplished in knowledge and conduct. This is the fourth drain that affects this supreme knowledge and conduct. 
+Furthermore, take some ascetic or brahmin who, not managing to obtain this supreme knowledge and conduct, or to get by eating fallen fruit, or to get by eating tubers and fruit, or to serve the sacred flame, sets up a fire chamber in the central square and dwells there, thinking: ‘When an ascetic or brahmin comes from the four quarters, I will honor them as best I can.’ In fact they succeed only in serving someone accomplished in knowledge and conduct. This is the fourth drain that affects this supreme knowledge and conduct.
 
 再者，安玻德！這裡，某位沙門、婆羅門不能得到這無上明與行具足、不能成為以落果為食者、不能成為以球根果為食者、不能成為火的侍奉者，在十字路口建有四門的家屋後住止[而想]：『凡將從這四方來的沙門、婆羅門，我將隨分隨力地尊敬他。』他必然只變成明與行具足者的侍奉者。
 
@@ -1288,9 +1288,9 @@ These are the four drains that affect this supreme knowledge and conduct.
 
 ##### 2.4.
 
-Taṃ kiṃ maññasi, ambaṭṭha, api nu tvaṃ imāya anuttarāya vijjācaraṇasampadāya sandissasi sācariyako”ti? 
+Taṃ kiṃ maññasi, ambaṭṭha, api nu tvaṃ imāya anuttarāya vijjācaraṇasampadāya sandissasi sācariyako”ti?
 
-What do you think, Ambaṭṭha? Is this supreme knowledge and conduct seen in your own tradition?” 
+What do you think, Ambaṭṭha? Is this supreme knowledge and conduct seen in your own tradition?”
 
 安玻德！你怎麼想：你連同你的老師是否存在這無上明與行具足呢？」
 
@@ -1308,9 +1308,9 @@ What do you think, Ambaṭṭha? Is this supreme knowledge and conduct seen in y
 
 ---
 
-“Taṃ kiṃ maññasi, ambaṭṭha, api nu tvaṃ imañceva anuttaraṃ vijjācaraṇasampadaṃ anabhisambhuṇamāno khārividhamādāya araññavanamajjhogāhasi sācariyako: ‘pavattaphalabhojano bhavissāmī’”ti? 
+“Taṃ kiṃ maññasi, ambaṭṭha, api nu tvaṃ imañceva anuttaraṃ vijjācaraṇasampadaṃ anabhisambhuṇamāno khārividhamādāya araññavanamajjhogāhasi sācariyako: ‘pavattaphalabhojano bhavissāmī’”ti?
 
-“What do you think, Ambaṭṭha? Since you’re not managing to obtain this supreme knowledge and conduct, have you with your tradition plunged into a wilderness region carrying your stuff with a shoulder-pole, thinking you will get by eating fallen fruit?” 
+“What do you think, Ambaṭṭha? Since you’re not managing to obtain this supreme knowledge and conduct, have you with your tradition plunged into a wilderness region carrying your stuff with a shoulder-pole, thinking you will get by eating fallen fruit?”
 
 「安玻德！你怎麼想：你連同你的老師是否不能得到這無上明與行具足，擔著一佉梨重的東西進入林野處[而想]：『我將是以落果為食者。』呢？」
 
@@ -1328,7 +1328,7 @@ What do you think, Ambaṭṭha? Is this supreme knowledge and conduct seen in y
 
 ---
 
-“Taṃ kiṃ maññasi, ambaṭṭha, api nu tvaṃ imañceva anuttaraṃ vijjācaraṇasampadaṃ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kudālapiṭakaṃ ādāya araññavanamajjhogāhasi sācariyako: ‘kandamūlaphalabhojano bhavissāmī’”ti? 
+“Taṃ kiṃ maññasi, ambaṭṭha, api nu tvaṃ imañceva anuttaraṃ vijjācaraṇasampadaṃ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kudālapiṭakaṃ ādāya araññavanamajjhogāhasi sācariyako: ‘kandamūlaphalabhojano bhavissāmī’”ti?
 
 “What do you think, Ambaṭṭha? Have you with your tradition … plunged into a wilderness region carrying a spade and basket, thinking you will get by eating tubers and fruit?”
 
@@ -1348,9 +1348,9 @@ What do you think, Ambaṭṭha? Is this supreme knowledge and conduct seen in y
 
 ---
 
-“Taṃ kiṃ maññasi, ambaṭṭha, api nu tvaṃ imañceva anuttaraṃ vijjācaraṇasampadaṃ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kandamūlaphalabhojanatañca anabhisambhuṇamāno gāmasāmantaṃ vā nigamasāmantaṃ vā agyāgāraṃ karitvā aggiṃ paricaranto acchasi sācariyako”ti? 
+“Taṃ kiṃ maññasi, ambaṭṭha, api nu tvaṃ imañceva anuttaraṃ vijjācaraṇasampadaṃ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kandamūlaphalabhojanatañca anabhisambhuṇamāno gāmasāmantaṃ vā nigamasāmantaṃ vā agyāgāraṃ karitvā aggiṃ paricaranto acchasi sācariyako”ti?
 
-“What do you think, Ambaṭṭha? Have you with your tradition … set up a fire chamber in the neighborhood of a village or town and dwelt there serving the sacred flame?” 
+“What do you think, Ambaṭṭha? Have you with your tradition … set up a fire chamber in the neighborhood of a village or town and dwelt there serving the sacred flame?”
 
 「安玻德！你怎麼想：你連同你的老師是否不能得到這無上明與行具足、不能成為以落果為食者、不能成為以球根果為食者，建村落周邊或市鎮周邊的聖火堂後，住止而侍奉著火呢？」
 
@@ -1368,9 +1368,9 @@ What do you think, Ambaṭṭha? Is this supreme knowledge and conduct seen in y
 
 ---
 
-“Taṃ kiṃ maññasi, ambaṭṭha, api nu tvaṃ imañceva anuttaraṃ vijjācaraṇasampadaṃ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kandamūlaphalabhojanatañca anabhisambhuṇamāno aggipāricariyañca anabhisambhuṇamāno cātumahāpathe catudvāraṃ agāraṃ karitvā acchasi sācariyako: ‘yo imāhi catūhi disāhi āgamissati samaṇo vā brāhmaṇo vā, taṃ mayaṃ yathāsatti yathābalaṃ paṭipūjessāmā’”ti? 
+“Taṃ kiṃ maññasi, ambaṭṭha, api nu tvaṃ imañceva anuttaraṃ vijjācaraṇasampadaṃ anabhisambhuṇamāno pavattaphalabhojanatañca anabhisambhuṇamāno kandamūlaphalabhojanatañca anabhisambhuṇamāno aggipāricariyañca anabhisambhuṇamāno cātumahāpathe catudvāraṃ agāraṃ karitvā acchasi sācariyako: ‘yo imāhi catūhi disāhi āgamissati samaṇo vā brāhmaṇo vā, taṃ mayaṃ yathāsatti yathābalaṃ paṭipūjessāmā’”ti?
 
-“What do you think, Ambaṭṭha? Have you with your tradition … set up a fire chamber in the central square and dwelt there, thinking: ‘When an ascetic or brahmin comes from the four quarters, I will honor them as best I can’?” 
+“What do you think, Ambaṭṭha? Have you with your tradition … set up a fire chamber in the central square and dwelt there, thinking: ‘When an ascetic or brahmin comes from the four quarters, I will honor them as best I can’?”
 
 「安玻德！你怎麼想：你連同你的老師是否不能得到這無上明與行具足、不能成為以落果為食者、不能成為以球根果為食者、不能成為火的侍奉者，在十字路口建有四門的家屋後住止[而想]：『凡將從這四方來的沙門、婆羅門，我將隨分隨力地尊敬他。』呢？」
 
@@ -1414,9 +1414,9 @@ But Pokkharasāti lives off an endowment provided by King Pasenadi of Kosala. Bu
 
 ##### 2.7.
 
-Taṃ kiṃ maññasi, ambaṭṭha, idha rājā pasenadi kosalo hatthigīvāya vā nisinno assapiṭṭhe vā nisinno rathūpatthare vā ṭhito uggehi vā rājaññehi vā kiñcideva mantanaṃ manteyya. So tamhā padesā apakkamma ekamantaṃ tiṭṭheyya. Atha āgaccheyya suddo vā suddadāso vā, tasmiṃ padese ṭhito tadeva mantanaṃ manteyya: ‘evampi rājā pasenadi kosalo āha, evampi rājā pasenadi kosalo āhā’ti. Api nu so rājabhaṇitaṃ vā bhaṇati rājamantanaṃ vā manteti? Ettāvatā so assa rājā vā rājamatto vā”ti? 
+Taṃ kiṃ maññasi, ambaṭṭha, idha rājā pasenadi kosalo hatthigīvāya vā nisinno assapiṭṭhe vā nisinno rathūpatthare vā ṭhito uggehi vā rājaññehi vā kiñcideva mantanaṃ manteyya. So tamhā padesā apakkamma ekamantaṃ tiṭṭheyya. Atha āgaccheyya suddo vā suddadāso vā, tasmiṃ padese ṭhito tadeva mantanaṃ manteyya: ‘evampi rājā pasenadi kosalo āha, evampi rājā pasenadi kosalo āhā’ti. Api nu so rājabhaṇitaṃ vā bhaṇati rājamantanaṃ vā manteti? Ettāvatā so assa rājā vā rājamatto vā”ti?
 
-What do you think, Ambaṭṭha? Suppose King Pasenadi was holding consultations with warrior-chiefs or chieftains while sitting on an elephant’s neck or on horseback, or while standing on the mat in a chariot. And suppose he’d get down from that place and stand aside. Then along would come a worker or their bondservant, who’d stand in the same place and continue the consultation: ‘This is what King Pasenadi says, and this too is what the king says.’ Though he spoke the king’s words and gave the king’s advice, does that qualify him to be the king or the king’s minister?” 
+What do you think, Ambaṭṭha? Suppose King Pasenadi was holding consultations with warrior-chiefs or chieftains while sitting on an elephant’s neck or on horseback, or while standing on the mat in a chariot. And suppose he’d get down from that place and stand aside. Then along would come a worker or their bondservant, who’d stand in the same place and continue the consultation: ‘This is what King Pasenadi says, and this too is what the king says.’ Though he spoke the king’s words and gave the king’s advice, does that qualify him to be the king or the king’s minister?”
 
 安玻德！你怎麼想：這裡，坐在象頸部或坐在馬背上或站在車子地毯上的憍薩羅國波斯匿王，如果與高官或王族商量任何商量，如果他離開該處站在一旁，那時，如果首陀羅或首陀羅的奴僕走來，站在該處商量那商量[的事而說]：『憍薩羅國波斯匿王這麼說；憍薩羅國波斯匿王這麼說。』是否他說了國王所說或商量了國王的商量呢？只這樣他會是國王或國王[相當]的程度嗎？」
 
@@ -1448,9 +1448,9 @@ What do you think, Ambaṭṭha? Suppose King Pasenadi was holding consultations
 
 ##### 2.9.
 
-Taṃ kiṃ maññasi, ambaṭṭha, kinti te sutaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ— ye te ahesuṃ brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro, yesamidaṃ etarahi brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ, tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti, seyyathidaṃ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, evaṃ su te sunhātā suvilittā kappitakesamassū āmukkamaṇikuṇḍalābharaṇā odātavatthavasanā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārenti, seyyathāpi tvaṃ etarahi sācariyako”ti? 
+Taṃ kiṃ maññasi, ambaṭṭha, kinti te sutaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ— ye te ahesuṃ brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro, yesamidaṃ etarahi brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ, tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti, seyyathidaṃ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, evaṃ su te sunhātā suvilittā kappitakesamassū āmukkamaṇikuṇḍalābharaṇā odātavatthavasanā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārenti, seyyathāpi tvaṃ etarahi sācariyako”ti?
 
-What do you think, Ambaṭṭha? According to what you have heard from elderly and senior brahmins, the teachers of teachers, did those brahmin seers of the past —nicely bathed and anointed, with hair and beard dressed, bedecked with jewels, earrings, and bracelets, dressed in white—amuse themselves, supplied and provided with the five kinds of sensual stimulation, like you do today in your tradition?” 
+What do you think, Ambaṭṭha? According to what you have heard from elderly and senior brahmins, the teachers of teachers, did those brahmin seers of the past —nicely bathed and anointed, with hair and beard dressed, bedecked with jewels, earrings, and bracelets, dressed in white—amuse themselves, supplied and provided with the five kinds of sensual stimulation, like you do today in your tradition?”
 
 安玻德！你怎麼想：你是否聽聞婆羅門的耆宿大老們；老師與老師的老師說：凡那些從前的婆羅門仙人們：經典創造者、經典轉起者，他們往昔唱誦、教說、合集的聖句，仍被今天的婆羅門們傳唱、跟隨著說、隨說所說的、復誦令誦的者，即：阿桃葛、襪碼葛、襪碼跌挖、威沙咪跌、亞瑪得其、安其勒色、婆羅墮若、襪謝德、迦葉、玻古，他們這麼被善浴、善塗油，整理好髮鬚，穿上白衣，具有、具足五種欲自娛，猶如現在的你連同你的老師呢？」
 
@@ -1470,9 +1470,9 @@ What do you think, Ambaṭṭha? According to what you have heard from elderly a
 
 ##### 2.10.
 
-“… pe … Evaṃ su te sālīnaṃ odanaṃ sucimaṃsūpasecanaṃ vicitakāḷakaṃ anekasūpaṃ anekabyañjanaṃ paribhuñjanti, seyyathāpi tvaṃ etarahi sācariyako”ti? 
+“… pe … Evaṃ su te sālīnaṃ odanaṃ sucimaṃsūpasecanaṃ vicitakāḷakaṃ anekasūpaṃ anekabyañjanaṃ paribhuñjanti, seyyathāpi tvaṃ etarahi sācariyako”ti?
 
-“Did they eat boiled fine rice, garnished with clean meat, with the dark grains picked out, served with many soups and sauces, like you do today in your tradition?” 
+“Did they eat boiled fine rice, garnished with clean meat, with the dark grains picked out, served with many soups and sauces, like you do today in your tradition?”
 
 「……（中略）他們這麼吃已去除黑粒、撒布淨肉之米飯與種種湯汁、種種咖哩，猶如現在的你連同你的老師呢？」
 
@@ -1490,9 +1490,9 @@ What do you think, Ambaṭṭha? According to what you have heard from elderly a
 
 ---
 
-“… pe … Evaṃ su te veṭhakanatapassāhi nārīhi paricārenti, seyyathāpi tvaṃ etarahi sācariyako”ti? 
+“… pe … Evaṃ su te veṭhakanatapassāhi nārīhi paricārenti, seyyathāpi tvaṃ etarahi sācariyako”ti?
 
-“Did they amuse themselves with girls wearing thongs that show off their curves, like you do today in your tradition?” 
+“Did they amuse themselves with girls wearing thongs that show off their curves, like you do today in your tradition?”
 
 「……（中略）他們這麼以包纏下垂到腹脅[打扮]的婦女自娛，猶如現在的你連同你的老師呢？」
 
@@ -1510,9 +1510,9 @@ What do you think, Ambaṭṭha? According to what you have heard from elderly a
 
 ---
 
-“… pe … Evaṃ su te kuttavālehi vaḷavārathehi dīghāhi patodalaṭṭhīhi vāhane vitudentā vipariyāyanti, seyyathāpi tvaṃ etarahi sācariyako”ti? 
+“… pe … Evaṃ su te kuttavālehi vaḷavārathehi dīghāhi patodalaṭṭhīhi vāhane vitudentā vipariyāyanti, seyyathāpi tvaṃ etarahi sācariyako”ti?
 
-“Did they drive about in chariots drawn by mares with plaited manes, whipping and lashing them onward with long goads, like you do today in your tradition?” 
+“Did they drive about in chariots drawn by mares with plaited manes, whipping and lashing them onward with long goads, like you do today in your tradition?”
 
 「……（中略）他們這麼以尾毛已被整理的騾馬車、以長刺棒打駕駛交通工具，猶如現在的你連同你的老師呢？」
 
@@ -1530,9 +1530,9 @@ What do you think, Ambaṭṭha? According to what you have heard from elderly a
 
 ---
 
-“… pe … Evaṃ su te ukkiṇṇaparikhāsu okkhittapalighāsu nagarūpakārikāsu dīghāsivudhehi purisehi rakkhāpenti, seyyathāpi tvaṃ etarahi sācariyako”ti? 
+“… pe … Evaṃ su te ukkiṇṇaparikhāsu okkhittapalighāsu nagarūpakārikāsu dīghāsivudhehi purisehi rakkhāpenti, seyyathāpi tvaṃ etarahi sācariyako”ti?
 
-“Did they get men with long swords to guard them in fortresses with moats dug and barriers in place, like you do today in your tradition?” 
+“Did they get men with long swords to guard them in fortresses with moats dug and barriers in place, like you do today in your tradition?”
 
 「……（中略）他們這麼在已挖掘護城河、門閂已閂、有資助者的城鎮中被拿著長劍武器男子守護，猶如現在的你連同你的老師呢？」
 
@@ -1582,9 +1582,9 @@ Then the Buddha came out of his dwelling and proceeded to begin walking meditati
 
 ##### 2.12.
 
-Atha kho bhagavato etadahosi: “passati kho me ayaṃ ambaṭṭho māṇavo dvattiṃsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati— kosohite ca vatthaguyhe pahūtajivhatāya cā”ti. Atha kho bhagavā tathārūpaṃ iddhābhisaṅkhāraṃ abhisaṅkhāsi. Yathā addasa ambaṭṭho māṇavo bhagavato kosohitaṃ vatthaguyhaṃ. Atha kho bhagavā jivhaṃ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi, ubhopi nāsikasotāni anumasi paṭimasi, kevalampi nalāṭamaṇḍalaṃ jivhāya chādesi. 
+Atha kho bhagavato etadahosi: “passati kho me ayaṃ ambaṭṭho māṇavo dvattiṃsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati— kosohite ca vatthaguyhe pahūtajivhatāya cā”ti. Atha kho bhagavā tathārūpaṃ iddhābhisaṅkhāraṃ abhisaṅkhāsi. Yathā addasa ambaṭṭho māṇavo bhagavato kosohitaṃ vatthaguyhaṃ. Atha kho bhagavā jivhaṃ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi, ubhopi nāsikasotāni anumasi paṭimasi, kevalampi nalāṭamaṇḍalaṃ jivhāya chādesi.
 
-Then it occurred to the Buddha: “This brahmin student Ambaṭṭha sees all the marks except for two, which he has doubts about: whether the private parts are retracted, and the largeness of the tongue.” Then the Buddha used his psychic power to will that Ambaṭṭha would see his retracted private parts. And he stuck out his tongue and stroked back and forth on his ear holes and nostrils, and covered his entire forehead with his tongue. 
+Then it occurred to the Buddha: “This brahmin student Ambaṭṭha sees all the marks except for two, which he has doubts about: whether the private parts are retracted, and the largeness of the tongue.” Then the Buddha used his psychic power to will that Ambaṭṭha would see his retracted private parts. And he stuck out his tongue and stroked back and forth on his ear holes and nostrils, and covered his entire forehead with his tongue.
 
 那時，世尊這麼想：「這位安玻德學生婆羅門在我的身上看見大部分三十二大丈夫相，確定後，缺二項。他在二個大丈夫相上懷疑、猶豫，不勝解、不確信：在隱藏入鞘的陰部與廣長舌上。」那時，世尊作出像那樣的神通作為，使安玻德學生婆羅門看見世尊隱藏入鞘的陰部，然後吐出舌頭碰到兩邊耳孔、兩邊鼻孔後，以舌頭覆蓋整個前額。
 
@@ -1592,9 +1592,9 @@ Then it occurred to the Buddha: “This brahmin student Ambaṭṭha sees all th
 
 ---
 
-Atha kho ambaṭṭhassa māṇavassa etadahosi: “samannāgato kho samaṇo gotamo dvattiṃsamahāpurisalakkhaṇehi paripuṇṇehi, no aparipuṇṇehī”ti. 
+Atha kho ambaṭṭhassa māṇavassa etadahosi: “samannāgato kho samaṇo gotamo dvattiṃsamahāpurisalakkhaṇehi paripuṇṇehi, no aparipuṇṇehī”ti.
 
-Then Ambaṭṭha thought: “The ascetic Gotama possesses the thirty-two marks completely, lacking none.” 
+Then Ambaṭṭha thought: “The ascetic Gotama possesses the thirty-two marks completely, lacking none.”
 
 那時，安玻德學生婆羅門這麼想：「沙門喬達摩完全具備三十二大丈夫相，非不完全。」
 
@@ -1602,9 +1602,9 @@ Then Ambaṭṭha thought: “The ascetic Gotama possesses the thirty-two marks 
 
 ---
 
-Bhagavantaṃ etadavoca: “handa ca dāni mayaṃ, bho gotama, gacchāma, bahukiccā mayaṃ bahukaraṇīyā”ti. 
+Bhagavantaṃ etadavoca: “handa ca dāni mayaṃ, bho gotama, gacchāma, bahukiccā mayaṃ bahukaraṇīyā”ti.
 
-He said to the Buddha: “Well, now, sir, I must go. I have many duties, and much to do.” 
+He said to the Buddha: “Well, now, sir, I must go. I have many duties, and much to do.”
 
 他對世尊這麼說：「喬達摩先生！好啦，現在，我們應該走了，我們是有許多該做之事的忙人。」
 
@@ -1612,9 +1612,9 @@ He said to the Buddha: “Well, now, sir, I must go. I have many duties, and muc
 
 ---
 
-“Yassadāni tvaṃ, ambaṭṭha, kālaṃ maññasī”ti. 
+“Yassadāni tvaṃ, ambaṭṭha, kālaṃ maññasī”ti.
 
-“Please, Ambaṭṭha, go at your convenience.” 
+“Please, Ambaṭṭha, go at your convenience.”
 
 「安玻德！現在，你考量適當的時間。」
 
@@ -1634,9 +1634,9 @@ Then Ambaṭṭha mounted his mare-drawn chariot and left.
 
 ##### 2.13.
 
-Tena kho pana samayena brāhmaṇo pokkharasāti ukkaṭṭhāya nikkhamitvā mahatā brāhmaṇagaṇena saddhiṃ sake ārāme nisinno hoti ambaṭṭhaṃyeva māṇavaṃ paṭimānento. Atha kho ambaṭṭho māṇavo yena sako ārāmo tena pāyāsi. Yāvatikā yānassa bhūmi, yānena gantvā yānā paccorohitvā pattikova yena brāhmaṇo pokkharasāti tenupasaṅkami; upasaṅkamitvā brāhmaṇaṃ pokkharasātiṃ abhivādetvā ekamantaṃ nisīdi. 
+Tena kho pana samayena brāhmaṇo pokkharasāti ukkaṭṭhāya nikkhamitvā mahatā brāhmaṇagaṇena saddhiṃ sake ārāme nisinno hoti ambaṭṭhaṃyeva māṇavaṃ paṭimānento. Atha kho ambaṭṭho māṇavo yena sako ārāmo tena pāyāsi. Yāvatikā yānassa bhūmi, yānena gantvā yānā paccorohitvā pattikova yena brāhmaṇo pokkharasāti tenupasaṅkami; upasaṅkamitvā brāhmaṇaṃ pokkharasātiṃ abhivādetvā ekamantaṃ nisīdi.
 
-Now at that time the brahmin Pokkharasāti had come out from Ukkaṭṭhā together with a large group of brahmins and was sitting in his own park just waiting for Ambaṭṭha. Then Ambaṭṭha entered the park. He went by carriage as far as the terrain allowed, then descended and approached the brahmin Pokkharasāti on foot. 
+Now at that time the brahmin Pokkharasāti had come out from Ukkaṭṭhā together with a large group of brahmins and was sitting in his own park just waiting for Ambaṭṭha. Then Ambaṭṭha entered the park. He went by carriage as far as the terrain allowed, then descended and approached the brahmin Pokkharasāti on foot.
 
 當時，玻科勒沙低婆羅門從巫葛德離開，與大婆羅門群眾一起坐在自己的園林等待安玻德學生婆羅門。那時，安玻德學生婆羅門往自己的園林出發，以車輛一直到車輛能通行之處，然後下車步行，去見玻科勒沙低婆羅門。抵達後，向玻科勒沙低婆羅門問訊，接著在一旁坐下。
 
@@ -1648,7 +1648,7 @@ Now at that time the brahmin Pokkharasāti had come out from Ukkaṭṭhā toget
 
 Ekamantaṃ nisinnaṃ kho ambaṭṭhaṃ māṇavaṃ brāhmaṇo pokkharasāti etadavoca: “kacci, tāta ambaṭṭha, addasa taṃ bhavantaṃ gotaman”ti?
 
-He bowed and sat down to one side, and Pokkharasāti said to him: “I hope, dear Ambaṭṭha, you saw the Master Gotama?” 
+He bowed and sat down to one side, and Pokkharasāti said to him: “I hope, dear Ambaṭṭha, you saw the Master Gotama?”
 
 在一旁坐好後，玻科勒沙低婆羅門對安玻德學生婆羅門這麼說：「親愛的安玻德！你是否看見那位喬達摩尊師呢？」
 
@@ -1656,9 +1656,9 @@ He bowed and sat down to one side, and Pokkharasāti said to him: “I hope, dea
 
 ---
 
-“Addasāma kho mayaṃ, bho, taṃ bhavantaṃ gotaman”ti. 
+“Addasāma kho mayaṃ, bho, taṃ bhavantaṃ gotaman”ti.
 
-“I saw him, sir.” 
+“I saw him, sir.”
 
 「先生！我們看見了那位喬達摩尊師。」
 
@@ -1666,9 +1666,9 @@ He bowed and sat down to one side, and Pokkharasāti said to him: “I hope, dea
 
 ---
 
-“Kacci, tāta ambaṭṭha, taṃ bhavantaṃ gotamaṃ tathā santaṃyeva saddo abbhuggato no aññathā; kacci pana so bhavaṃ gotamo tādiso no aññādiso”ti? 
+“Kacci, tāta ambaṭṭha, taṃ bhavantaṃ gotamaṃ tathā santaṃyeva saddo abbhuggato no aññathā; kacci pana so bhavaṃ gotamo tādiso no aññādiso”ti?
 
-“Well, does he live up to his reputation or not?” 
+“Well, does he live up to his reputation or not?”
 
 「親愛的安玻德！那位喬達摩尊師是否有如此好名聲被傳播，或者不是；那位喬達摩尊師是否像那樣的，或者不是像那樣的呢？」
 
@@ -1676,9 +1676,9 @@ He bowed and sat down to one side, and Pokkharasāti said to him: “I hope, dea
 
 ---
 
-“Tathā santaṃyeva, bho, taṃ bhavantaṃ gotamaṃ saddo abbhuggato no aññathā, tādisova so bhavaṃ gotamo no aññādiso. Samannāgato ca so bhavaṃ gotamo dvattiṃsamahāpurisalakkhaṇehi paripuṇṇehi no aparipuṇṇehī”ti. 
+“Tathā santaṃyeva, bho, taṃ bhavantaṃ gotamaṃ saddo abbhuggato no aññathā, tādisova so bhavaṃ gotamo no aññādiso. Samannāgato ca so bhavaṃ gotamo dvattiṃsamahāpurisalakkhaṇehi paripuṇṇehi no aparipuṇṇehī”ti.
 
-“He does, sir. Master Gotama possesses the thirty-two marks completely, lacking none.” 
+“He does, sir. Master Gotama possesses the thirty-two marks completely, lacking none.”
 
 「先生！那位喬達摩尊師有如此好名聲被傳播，不相異；那位喬達摩尊師是像那樣的，不相異，那位喬達摩尊師完全具備三十二大丈夫相，非不完全。」
 
@@ -1686,9 +1686,9 @@ He bowed and sat down to one side, and Pokkharasāti said to him: “I hope, dea
 
 ---
 
-“Ahu pana te, tāta ambaṭṭha, samaṇena gotamena saddhiṃ kocideva kathāsallāpo”ti? 
+“Ahu pana te, tāta ambaṭṭha, samaṇena gotamena saddhiṃ kocideva kathāsallāpo”ti?
 
-“And did you have some discussion with him?” 
+“And did you have some discussion with him?”
 
 「親愛的安玻德！你與沙門喬達摩一起有任何交談嗎？」
 
@@ -1696,9 +1696,9 @@ He bowed and sat down to one side, and Pokkharasāti said to him: “I hope, dea
 
 ---
 
-“Ahu kho me, bho, samaṇena gotamena saddhiṃ kocideva kathāsallāpo”ti. 
+“Ahu kho me, bho, samaṇena gotamena saddhiṃ kocideva kathāsallāpo”ti.
 
-“I did.” 
+“I did.”
 
 「先生！我與沙門喬達摩一起有一些交談。」
 
@@ -1706,9 +1706,9 @@ He bowed and sat down to one side, and Pokkharasāti said to him: “I hope, dea
 
 ---
 
-“Yathā kathaṃ pana te, tāta ambaṭṭha, ahu samaṇena gotamena saddhiṃ kocideva kathāsallāpo”ti? 
+“Yathā kathaṃ pana te, tāta ambaṭṭha, ahu samaṇena gotamena saddhiṃ kocideva kathāsallāpo”ti?
 
-“And what kind of discussion did you have with him?” 
+“And what kind of discussion did you have with him?”
 
 「親愛的安玻德！你與沙門喬達摩一起有像怎樣的交談呢？」
 
@@ -1728,9 +1728,9 @@ Then Ambaṭṭha informed Pokkharasāti of all they had discussed.
 
 ##### 2.15.
 
-Evaṃ vutte, brāhmaṇo pokkharasāti ambaṭṭhaṃ māṇavaṃ etadavoca: 
+Evaṃ vutte, brāhmaṇo pokkharasāti ambaṭṭhaṃ māṇavaṃ etadavoca:
 
-Then Pokkharasāti said to Ambaṭṭha: 
+Then Pokkharasāti said to Ambaṭṭha:
 
 當這麼說時，玻科勒沙低婆羅門對安玻德學生婆羅門這麼說：
 
@@ -1758,9 +1758,9 @@ Then Pokkharasāti said to Ambaṭṭha:
 
 ##### 2.16.
 
-Atha kho te brāhmaṇā brāhmaṇaṃ pokkharasātiṃ etadavocuṃ: “ativikālo kho, bho, ajja samaṇaṃ gotamaṃ dassanāya upasaṅkamituṃ. Svedāni bhavaṃ pokkharasāti samaṇaṃ gotamaṃ dassanāya upasaṅkamissatī”ti. 
+Atha kho te brāhmaṇā brāhmaṇaṃ pokkharasātiṃ etadavocuṃ: “ativikālo kho, bho, ajja samaṇaṃ gotamaṃ dassanāya upasaṅkamituṃ. Svedāni bhavaṃ pokkharasāti samaṇaṃ gotamaṃ dassanāya upasaṅkamissatī”ti.
 
-Then those brahmins said to Pokkharasāti: “It’s much too late to visit the ascetic Gotama today. You can visit him tomorrow.” 
+Then those brahmins said to Pokkharasāti: “It’s much too late to visit the ascetic Gotama today. You can visit him tomorrow.”
 
 那時，那些婆羅門對玻科勒沙低婆羅門這麼說：「先生！現在去見沙門喬達摩極非時機，現在，[請]玻科勒沙低尊師明天去見沙門喬達摩。」
 
@@ -1768,9 +1768,9 @@ Then those brahmins said to Pokkharasāti: “It’s much too late to visit the 
 
 ---
 
-Atha kho brāhmaṇo pokkharasāti sake nivesane paṇītaṃ khādanīyaṃ bhojanīyaṃ paṭiyādāpetvā yāne āropetvā ukkāsu dhāriyamānāsu ukkaṭṭhāya niyyāsi, yena icchānaṅgalavanasaṇḍo tena pāyāsi. Yāvatikā yānassa bhūmi yānena gantvā, yānā paccorohitvā pattikova yena bhagavā tenupasaṅkami. upasaṅkamitvā bhagavatā saddhiṃ sammodi, sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. 
+Atha kho brāhmaṇo pokkharasāti sake nivesane paṇītaṃ khādanīyaṃ bhojanīyaṃ paṭiyādāpetvā yāne āropetvā ukkāsu dhāriyamānāsu ukkaṭṭhāya niyyāsi, yena icchānaṅgalavanasaṇḍo tena pāyāsi. Yāvatikā yānassa bhūmi yānena gantvā, yānā paccorohitvā pattikova yena bhagavā tenupasaṅkami. upasaṅkamitvā bhagavatā saddhiṃ sammodi, sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi.
 
-So Pokkharasāti had a variety of delicious foods prepared in his own home. Then he mounted a carriage and, with attendants carrying torches, set out from Ukkaṭṭhā for the forest near Icchānaṅgala. He went by carriage as far as the terrain allowed, then descended and entered the monastery on foot. He went up to the Buddha and exchanged greetings with him. 
+So Pokkharasāti had a variety of delicious foods prepared in his own home. Then he mounted a carriage and, with attendants carrying torches, set out from Ukkaṭṭhā for the forest near Icchānaṅgala. He went by carriage as far as the terrain allowed, then descended and entered the monastery on foot. He went up to the Buddha and exchanged greetings with him.
 
 那時，玻科勒沙低婆羅門在自己的住處準備勝妙的硬食與軟食後，登上車乘，然後令持著火炬，從巫葛德離開，向一奢能伽羅叢林出發。以車輛一直到車輛能通行之處，然後下車步行，去見世尊。抵達後，與世尊互相歡迎。歡迎與寒暄後，在一旁坐下。
 
@@ -1790,9 +1790,9 @@ When the greetings and polite conversation were over, he sat down to one side an
 
 ##### 2.17.
 
-“āgamā nu khvidha, bho gotama, amhākaṃ antevāsī ambaṭṭho māṇavo”ti? 
+“āgamā nu khvidha, bho gotama, amhākaṃ antevāsī ambaṭṭho māṇavo”ti?
 
-“Master Gotama, has my pupil, the student Ambaṭṭha, come here?” 
+“Master Gotama, has my pupil, the student Ambaṭṭha, come here?”
 
 「喬達摩先生！我們的徒弟安玻德學生婆羅門來過嗎？」
 
@@ -1800,9 +1800,9 @@ When the greetings and polite conversation were over, he sat down to one side an
 
 ---
 
-“Āgamā kho te, brāhmaṇa, antevāsī ambaṭṭho māṇavo”ti. 
+“Āgamā kho te, brāhmaṇa, antevāsī ambaṭṭho māṇavo”ti.
 
-“Yes he has, brahmin.” 
+“Yes he has, brahmin.”
 
 「婆羅門！你的徒弟安玻德學生婆羅門來過。」
 
@@ -1810,9 +1810,9 @@ When the greetings and polite conversation were over, he sat down to one side an
 
 ---
 
-“Ahu pana te, bho gotama, ambaṭṭhena māṇavena saddhiṃ kocideva kathāsallāpo”ti? 
+“Ahu pana te, bho gotama, ambaṭṭhena māṇavena saddhiṃ kocideva kathāsallāpo”ti?
 
-“And did you have some discussion with him?” 
+“And did you have some discussion with him?”
 
 「喬達摩先生！又，你與安玻德學生婆羅門一起有任何交談嗎？」
 
@@ -1820,9 +1820,9 @@ When the greetings and polite conversation were over, he sat down to one side an
 
 ---
 
-“Ahu kho me, brāhmaṇa, ambaṭṭhena māṇavena saddhiṃ kocideva kathāsallāpo”ti. 
+“Ahu kho me, brāhmaṇa, ambaṭṭhena māṇavena saddhiṃ kocideva kathāsallāpo”ti.
 
-“I did.” 
+“I did.”
 
 「婆羅門！我與安玻德學生婆羅門一起有一些交談。」
 
@@ -1830,9 +1830,9 @@ When the greetings and polite conversation were over, he sat down to one side an
 
 ---
 
-“Yathākathaṃ pana te, bho gotama, ahu ambaṭṭhena māṇavena saddhiṃ kocideva kathāsallāpo”ti? 
+“Yathākathaṃ pana te, bho gotama, ahu ambaṭṭhena māṇavena saddhiṃ kocideva kathāsallāpo”ti?
 
-“And what kind of discussion did you have with him?” 
+“And what kind of discussion did you have with him?”
 
 「喬達摩先生！你與安玻德學生婆羅門一起有像怎樣的交談呢？」
 
@@ -1840,9 +1840,9 @@ When the greetings and polite conversation were over, he sat down to one side an
 
 ---
 
-Atha kho bhagavā yāvatako ahosi ambaṭṭhena māṇavena saddhiṃ kathāsallāpo, taṃ sabbaṃ brāhmaṇassa pokkharasātissa ārocesi. 
+Atha kho bhagavā yāvatako ahosi ambaṭṭhena māṇavena saddhiṃ kathāsallāpo, taṃ sabbaṃ brāhmaṇassa pokkharasātissa ārocesi.
 
-Then the Buddha informed Pokkharasāti of all they had discussed. 
+Then the Buddha informed Pokkharasāti of all they had discussed.
 
 那時，世尊將與安玻德學生婆羅門一起的交談全部告訴玻科勒沙低婆羅門。
 
@@ -1850,9 +1850,9 @@ Then the Buddha informed Pokkharasāti of all they had discussed.
 
 ---
 
-Evaṃ vutte, brāhmaṇo pokkharasāti bhagavantaṃ etadavoca: “bālo, bho gotama, ambaṭṭho māṇavo, khamatu bhavaṃ gotamo ambaṭṭhassa māṇavassā”ti. 
+Evaṃ vutte, brāhmaṇo pokkharasāti bhagavantaṃ etadavoca: “bālo, bho gotama, ambaṭṭho māṇavo, khamatu bhavaṃ gotamo ambaṭṭhassa māṇavassā”ti.
 
-Then Pokkharasāti said to the Buddha: “Ambaṭṭha is a fool, Master Gotama. Please forgive him.” 
+Then Pokkharasāti said to the Buddha: “Ambaṭṭha is a fool, Master Gotama. Please forgive him.”
 
 當這麼說時，玻科勒沙低婆羅門對世尊這麼說：「喬達摩先生！安玻德學生婆羅門是愚癡者，請喬達摩尊師原諒安玻德學生婆羅門。」
 
@@ -1914,9 +1914,9 @@ Pokkharasāti thought: “The ascetic Gotama possesses the thirty-two marks comp
 
 ---
 
-Atha kho brāhmaṇo pokkharasāti bhagavato adhivāsanaṃ viditvā bhagavato kālaṃ ārocesi: “kālo, bho gotama, niṭṭhitaṃ bhattan”ti. 
+Atha kho brāhmaṇo pokkharasāti bhagavato adhivāsanaṃ viditvā bhagavato kālaṃ ārocesi: “kālo, bho gotama, niṭṭhitaṃ bhattan”ti.
 
-Then, knowing that the Buddha had accepted, Pokkharasāti announced the time to him: “Itʼs time, Master Gotama, the meal is ready.” 
+Then, knowing that the Buddha had accepted, Pokkharasāti announced the time to him: “Itʼs time, Master Gotama, the meal is ready.”
 
 那時，玻科勒沙低婆羅門知道世尊同意後，時候到時通知世尊：「喬達摩先生！時候已到，飲食已[準備]完成。」
 
@@ -1936,9 +1936,9 @@ Then the Buddha robed up in the morning and, taking his bowl and robe, went to t
 
 ##### 2.21.
 
-Ekamantaṃ nisinnassa kho brāhmaṇassa pokkharasātissa bhagavā anupubbiṃ kathaṃ kathesi, seyyathidaṃ—dānakathaṃ sīlakathaṃ saggakathaṃ; kāmānaṃ ādīnavaṃ okāraṃ saṅkilesaṃ, nekkhamme ānisaṃsaṃ pakāsesi. 
+Ekamantaṃ nisinnassa kho brāhmaṇassa pokkharasātissa bhagavā anupubbiṃ kathaṃ kathesi, seyyathidaṃ—dānakathaṃ sīlakathaṃ saggakathaṃ; kāmānaṃ ādīnavaṃ okāraṃ saṅkilesaṃ, nekkhamme ānisaṃsaṃ pakāsesi.
 
-Then the Buddha taught him step by step, with a talk on giving, ethical conduct, and heaven. He explained the drawbacks of sensual pleasures, so sordid and corrupt, and the benefit of renunciation. 
+Then the Buddha taught him step by step, with a talk on giving, ethical conduct, and heaven. He explained the drawbacks of sensual pleasures, so sordid and corrupt, and the benefit of renunciation.
 
 那時，世尊對坐在一旁的玻科勒沙低婆羅門說次第說，即：布施說、戒說、天界說；說明欲的過患、卑下、雜染，離欲的效益。
 
@@ -1958,7 +1958,7 @@ And when the Buddha knew that Pokkharasāti’s mind was ready, pliable, rid of 
 
 ##### 2.22.
 
-Atha kho brāhmaṇo pokkharasāti diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṃkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṃ etadavoca: 
+Atha kho brāhmaṇo pokkharasāti diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṃkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṃ etadavoca:
 
 Then Pokkharasāti saw, attained, understood, and fathomed the Dhamma. He went beyond doubt, got rid of indecision, and became self-assured and independent of others regarding the Teacher’s instructions. He said to the Buddha:
 
@@ -1968,9 +1968,9 @@ Then Pokkharasāti saw, attained, understood, and fathomed the Dhamma. He went b
 
 ---
 
-“abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito. Esāhaṃ, bho gotama, saputto sabhariyo sapariso sāmacco bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṃghañca. Upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gataṃ. Yathā ca bhavaṃ gotamo ukkaṭṭhāya aññāni upāsakakulāni upasaṅkamati, evameva bhavaṃ gotamo pokkharasātikulaṃ upasaṅkamatu. Tattha ye te māṇavakā vā māṇavikā vā bhavantaṃ gotamaṃ abhivādessanti vā paccuṭṭhissanti vā āsanaṃ vā udakaṃ vā dassanti cittaṃ vā pasādessanti, tesaṃ taṃ bhavissati dīgharattaṃ hitāya sukhāyā”ti. 
+“abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito. Esāhaṃ, bho gotama, saputto sabhariyo sapariso sāmacco bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṃghañca. Upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gataṃ. Yathā ca bhavaṃ gotamo ukkaṭṭhāya aññāni upāsakakulāni upasaṅkamati, evameva bhavaṃ gotamo pokkharasātikulaṃ upasaṅkamatu. Tattha ye te māṇavakā vā māṇavikā vā bhavantaṃ gotamaṃ abhivādessanti vā paccuṭṭhissanti vā āsanaṃ vā udakaṃ vā dassanti cittaṃ vā pasādessanti, tesaṃ taṃ bhavissati dīgharattaṃ hitāya sukhāyā”ti.
 
-“Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, just so has Master Gotama made the Teaching clear in many ways. Together with my children, wives, retinue, and ministers, I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life. Just as Master Gotama visits other devoted families in Ukkaṭṭhā, may he visit mine. The brahmin boys and girls there will bow to you, rise in your presence, give you a seat and water, and gain confidence in their hearts. That will be for their lasting welfare and happiness.” 
+“Excellent, Master Gotama! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with good eyes can see what’s there, just so has Master Gotama made the Teaching clear in many ways. Together with my children, wives, retinue, and ministers, I go for refuge to Master Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may Master Gotama remember me as a lay follower who has gone for refuge for life. Just as Master Gotama visits other devoted families in Ukkaṭṭhā, may he visit mine. The brahmin boys and girls there will bow to you, rise in your presence, give you a seat and water, and gain confidence in their hearts. That will be for their lasting welfare and happiness.”
 
 「太偉大了，喬達摩先生！太偉大了，喬達摩先生！喬達摩先生！猶如能扶正顛倒的，能顯現被隱藏的，能告知迷途者的路，能在黑暗中持燈火：『有眼者看得見諸色』。同樣的，法被喬達摩尊師以種種法門說明。喬達摩先生！我與兒子、妻子、[自己的]群眾、隨從歸依喬達摩尊師、法、比丘僧團，請喬達摩尊師記得我為優婆塞，從今天起終生歸依，請喬達摩尊師如到巫葛德的優婆塞家、優婆夷家那樣到玻科勒沙低家，在那裡，凡那些學生婆羅門或女學生婆羅門都將對喬達摩尊師問訊，或起立迎接，或給與座位或水，或使心變得淨信，那將對他們有長久的利益與安樂。」
 
