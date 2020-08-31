@@ -18,7 +18,7 @@ pageClass: toc-page
 ##### [DN2](/dn2)
 ### [DN2 Samaññaphala Sutta / The Fruits of Recluseship / 長部二 沙門果經](/dn2)
 
-King Ajātasattu, son of the great lay devotee King Bimbisāra, consults the Buddha for ways to calm down the mind, and asks the Buddha about the benefits brought by renunciation and spiritual practice. 
+King Ajātasattu, son of the great lay devotee King Bimbisāra, consults the Buddha for ways to calm down the mind, and asks the Buddha about the benefits brought by renunciation and spiritual practice.
 
 頻毘娑羅王之子阿闍世王，請教佛陀如何靜心，以及出家與修行之利益
 
@@ -114,7 +114,7 @@ Conduct, Concentration, And Intellect
 ---
 
 ##### [DN18](/dn18)
-### DN18 Janavasabha Sutta / With Jana­vasabha / 闍尼沙經
+### DN18 Janavasabha Sutta / With Janavasabha / 闍尼沙經
 
 ---
 
