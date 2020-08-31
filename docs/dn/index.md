@@ -136,6 +136,8 @@ Conduct, Concentration, And Intellect
 ##### [DN22](/dn22)
 ### [DN22 Mahasatipaṭṭhāna Sutta / The Long Discourse about the Ways of Attending to Mindfulness / 長部二一 大念處經](/dn22/)
 
+This is the long version of sutta MN10 in which the Buddha describes the setting up of the mind for mindfulness meditation, by using the meditation object of body, sense experience, mental states and the Dhamma.
+
 ---
 
 ##### [DN23](/dn23)
