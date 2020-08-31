@@ -3,7 +3,23 @@ title: Pāli Sutta Pitaka Content / 巴利文經藏目錄
 pageClass: home
 ---
 
-# Pāli Sutta Pitaka / 巴利文經藏
+# Content / 目錄
+
+### [Dīgha Nikāya (DN) / Long Discourses Content / 長部目錄](/dn/)
+
+### [Majjhima Nikāya (MN) / Middle Length Discourses Content / 中部目錄](/mn/)
+
+### [Saṃyutta Nikāya (SN) / Connected Discourses Content / 相應部目錄](/sn/)
+
+### [Aṅguttara Nikāya (AN) / Numbered Discourses Content / 增支部目錄](/an/)
+
+#
+
+---
+
+#
+
+# About Pāli Sutta Pitaka / 關於巴利文經藏
 
 The Pāli Canon is the standard collection of scriptures in the Theravada Buddhist tradition, as preserved in the Pāli language. It is the most complete extant early Buddhist canon. The Pāli Canon falls into three general categories, called pitaka (from Pali piṭaka, meaning "basket", referring to the receptacles in which the palm-leaf manuscripts were kept). Because of this, the canon is traditionally known as the Tipiṭaka ("three baskets"). The Sutta Pitaka is the second of the three divisions of the Tripitaka. It contains the discourses and sermons of Buddha, and some poetry. (text extracted from Wikipedia [[1]](https://en.wikipedia.org/wiki/Pāli_Canon) [[2]](https://en.wikipedia.org/wiki/Sutta_Piṭaka))
 
@@ -15,12 +31,8 @@ The Pāli Canon is the standard collection of scriptures in the Theravada Buddhi
 
 #
 
-# Content / 目錄
+# Contribution / 參與協助
 
-### [Dīgha Nikāya (DN) / Long Discourses Content / 長部目錄](/dn/)
+Contributions are welcomed and needed because of the large amount of texts. Please contact [suttasuttam@gmail.com](mailto:suttasuttam@gmail.com)
 
-### [Majjhima Nikāya (MN) / Middle Length Discourses Content / 中部目錄](/mn/)
-
-### [Saṃyutta Nikāya (SN) / Connected Discourses Content / 相應部目錄](/sn/)
-
-### [Aṅguttara Nikāya (AN) / Numbered Discourses Content / 增支部目錄](/an/)
+因為有大量的文字需要處理，我們歡迎及需要人手協助。請聯繫 [suttasuttam@gmail.com](mailto:suttasuttam@gmail.com)
