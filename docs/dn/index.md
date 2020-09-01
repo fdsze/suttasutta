@@ -20,14 +20,16 @@ pageClass: toc-page
 
 King Ajātasattu, son of the great lay devotee King Bimbisāra, consults the Buddha for ways to calm down the mind, and asks the Buddha about the benefits brought by renunciation and spiritual practice.
 
-頻毘娑羅王之子阿闍世王，請教佛陀如何靜心，以及出家與修行之利益
+頻毘娑羅王之子阿闍世王，請教佛陀如何靜心，以及出家與修行之利益。
 
 ---
 
 ##### [DN3](/dn3)
 ### [DN3 Ambaṭṭha Sutta / To Ambaṭṭha / 長部三 阿摩晝經](/dn3)
 
-A Young Brahman’s Rudeness
+A young brahmin attacks the Buddha’s caste, and the Buddha used the opportunity to express his disregard for the caste system. The Buddha explains what one should be respected for is one‘s virtue, but not birth, occupation, or social status.
+
+一位年輕婆羅門詆毀佛陀本人的種姓，而佛陀藉此機會表達種姓並不重要。佛陀認為判辨某人是否值得尊重時，應該基於德行，而不是出生，職業，或社會地位。
 
 ---
 
@@ -136,7 +138,9 @@ Conduct, Concentration, And Intellect
 ##### [DN22](/dn22)
 ### [DN22 Mahasatipaṭṭhāna Sutta / The Long Discourse about the Ways of Attending to Mindfulness / 長部二一 大念處經](/dn22/)
 
-This is the long version of sutta MN10 in which the Buddha describes the setting up of the mind for mindfulness meditation, by using the meditation object of body, sense experience, mental states and the Dhamma.
+A long version of the Satipaṭṭhāna Sutta ([MN10](/mn/#mn10)) in which the Buddha describes the applications of mindfulness meditation, by using the meditation object of body, sense experience, mental states and the Dhamma.
+
+此經是念處經([MN10](/mn/#mn10))之長版，內容是佛陀描述正念禪修的具體運用，分為身、受、心、法四方面。
 
 ---
 
