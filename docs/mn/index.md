@@ -291,6 +291,10 @@ The Buddha describes five levels of technique to stop unwholesome thoughts.
 ##### [MN49](/mn49/)
 ### [MN49 Brahmanimantanika Sutta / The Invitation Of A Brahma / 中部四九 梵天請經](/mn49)
 
+The Buddha visited the brahma heavenly realm and engaged in a psychic power contest with Baka Brahma, who had come to believe he is eternal and all-powerful. The Buddha corrected Baka Brahma’s view.
+
+佛陀來到梵天界，與自認為是永有和全能的巴迦梵天進行神通比試。佛陀糾正了巴迦梵天的見解。
+
 ---
 
 ##### [MN50](/mn50/)
