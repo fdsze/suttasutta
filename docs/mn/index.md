@@ -181,6 +181,10 @@ The Buddha describes five levels of technique to stop unwholesome thoughts.
 ##### [MN27](/mn27)
 ### [MN27 Cūḷahatthipadopama Sutta / The Shorter Elephant Footprint Simile / 中部二七 象跡喻小經](/mn27)
 
+The Buddha teaches the brahmin Janussoni how to confidently deduce a teacher’s spiritual accomplishments, using and extending the simile of the elephant tracker’s steps to track an elephant. The Buddha presents the full training steps of a monastic, from laymen to arahant in great details.
+
+佛陀教導婆羅門若奴索尼如何準確地推斷一位老師的靈修成就，並以捕象師追尋大象的步驟及後續比喻此一推斷過程。佛陀具體描術一位僧人從凡夫到阿羅漢的修行階段。
+
 ---
 
 ##### [MN28](/mn28/)
