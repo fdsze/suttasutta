@@ -649,6 +649,10 @@ The Buddha visited the brahma heavenly realm and engaged in a psychic power cont
 ##### [MN119](/mn119/)
 ### [MN119 Kāyagatāsati Sutta / Mindfulness Immersed in the Body / 中部一一九 身行念經](/mn119)
 
+The Buddha talks about mindfulness on the body, which is equivalent to the body section in the Satipatthana Suttas ([DN22](/dn22), [MN10](/mn10)), but without the breath part. The sutta shows that this practice alone brings great benefits and leads to Nibbana.
+
+佛陀在此經教導身體上的正念，相當於其他念處經([長部二二](/dn22)、[中部十](/mn10))關於身體的段落，但去除了呼吸的部份。此經教導即使只修習身體上的正念都會帶來大效果及可以達至涅槃。
+
 ---
 
 ##### [MN120](/mn120/)
