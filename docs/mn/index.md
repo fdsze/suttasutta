@@ -297,7 +297,7 @@ The Buddha teaches the brahmin Janussoni how to confidently deduce a teacher’s
 
 The Buddha visited the brahma heavenly realm and engaged in a psychic power contest with Baka Brahma, who had come to believe he is eternal and all-powerful. The Buddha corrected Baka Brahma’s view.
 
-佛陀來到梵天界，與自認為是永有和全能的巴迦梵天進行神通比試。佛陀糾正了巴迦梵天的見解。
+佛陀來到梵天界，與自認為是永有和全能的巴迦梵天進行神通比試，並糾正了巴迦梵天的見解。
 
 ---
 
@@ -684,6 +684,8 @@ The Buddha talks about mindfulness on the body, which is equivalent to the body 
 ### [MN125 Dantabhūmi Sutta / On Tamed Stage / 中部一二五 調御地經](/mn125)
 
 The novice monk Aciravata (addressed as Aggivessana in the sutta) was unable to convince Prince Jayasena that the one-pointedness of mind is achievable through practice. The Buddha came up with the simile of two friends hiking and the simile of training an elephant, that if heard by the prince then he would have gained faith in the Dhamma.
+
+沙彌阿基勒哇大(在經中又被稱為阿其威色那)未能說服若雅謝那王子關於心一境性能通過練習而觸達。佛陀先後舉了兩位朋友一起登山的比喻，和調御大象的比喻，並說如果若雅謝那王子聽到這兩個比喻就會對佛法生起信心。
 
 ---
 
