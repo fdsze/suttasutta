@@ -1,10 +1,10 @@
 ---
-title: Majjhima Nikāya (MN) Content / 中部目錄
+title: Majjhima Nikāya (MN) / Middle Length Discourses Content / 中部目錄
 slug: mn
 pageClass: toc-page
 ---
 
-# Majjhima Nikāya (MN) Content / 中部目錄
+# Majjhima Nikāya (MN) / Middle Length Discourses Content / 中部目錄
 
 [MN1](/mn/#mn1)  [MN2](/mn/#mn2)  [MN3](/mn/#mn3)  [MN4](/mn/#mn4)  [MN5](/mn/#mn5)  
 [MN6](/mn/#mn6)  [MN7](/mn/#mn7)  [MN8](/mn/#mn8)  [MN9](/mn/#mn9)  [MN10](/mn/#mn10)  

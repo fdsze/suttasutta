@@ -1,10 +1,10 @@
 ---
-title: Dīgha Nikāya (DN) Content / 長部目錄
+title: Dīgha Nikāya (DN) / Long Discourses Content / 長部目錄
 slug: dn
 pageClass: toc-page
 ---
 
-# Dīgha Nikāya (DN) Content / 長部目錄
+# Dīgha Nikāya (DN) / Long Discourses Content / 長部目錄
 
 [DN1](/dn/#dn1) [DN2](/dn/#dn2) [DN3](/dn/#dn3) [DN4](/dn/#dn4) [DN5](/dn/#dn5) [DN6](/dn/#dn6) [DN7](/dn/#dn7) [DN8](/dn/#dn8) [DN9](/dn/#dn9) [DN10](/dn/#dn10) [DN11](/dn/#dn11) [DN12](/dn/#dn12) [DN13](/dn/#dn13) [DN14](/dn/#dn14) [DN15](/dn/#dn15) [DN16](/dn/#dn16) [DN17](/dn/#dn17) [DN18](/dn/#dn18) [DN19](/dn/#dn19) [DN20](/dn/#dn20) [DN21](/dn/#dn21) [DN22](/dn/#dn22) [DN23](/dn/#dn23) [DN24](/dn/#dn24) [DN25](/dn/#dn25) [DN26](/dn/#dn26) [DN27](/dn/#dn27) [DN28](/dn/#dn28) [DN29](/dn/#dn29) [DN30](/dn/#dn30) [DN31](/dn/#dn31) [DN32](/dn/#dn32) [DN33](/dn/#dn33) [DN34](/dn/#dn34)
 

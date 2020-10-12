@@ -1,10 +1,10 @@
 ---
-title: Saṃyutta Nikāya (SN) Content / 相應部目錄
+title: Saṃyutta Nikāya (SN) / Connected Discourses Content / 相應部目錄
 slug: sn
 pageClass: toc-page
 ---
 
-# Saṃyutta Nikāya (SN) Content / 相應部目錄
+# Saṃyutta Nikāya (SN) / Connected Discourses Content / 相應部目錄
 
 [SN1](/sn/#sn1) [SN2](/sn/#sn2) [SN3](/sn/#sn3) [SN4](/sn/#sn4) [SN5](/sn/#sn5) [SN6](/sn/#sn6) [SN7](/sn/#sn7) [SN8](/sn/#sn8) [SN9](/sn/#sn9) [SN10](/sn/#sn10) [SN11](/sn/#sn11) [SN12](/sn/#sn12) [SN13](/sn/#sn13) [SN14](/sn/#sn14) [SN15](/sn/#sn15) [SN16](/sn/#sn16) [SN17](/sn/#sn17) [SN18](/sn/#sn18) [SN19](/sn/#sn19) [SN20](/sn/#sn20) [SN21](/sn/#sn21) [SN22](/sn/#sn22) [SN23](/sn/#sn23) [SN24](/sn/#sn24) [SN25](/sn/#sn25) [SN26](/sn/#sn26) [SN27](/sn/#sn27) [SN28](/sn/#sn28) [SN29](/sn/#sn29) [SN30](/sn/#sn30) [SN31](/sn/#sn31) [SN32](/sn/#sn32) [SN33](/sn/#sn33) [SN34](/sn/#sn34) [SN35](/sn/#sn35) [SN36](/sn/#sn36) [SN37](/sn/#sn37) [SN38](/sn/#sn38) [SN39](/sn/#sn39) [SN40](/sn/#sn40) [SN41](/sn/#sn41) [SN42](/sn/#sn42) [SN43](/sn/#sn43) [SN44](/sn/#sn44) [SN45](/sn/#sn45) [SN46](/sn/#sn46) [SN47](/sn/#sn47) [SN48](/sn/#sn48) [SN49](/sn/#sn49) [SN50](/sn/#sn50) [SN51](/sn/#sn51) [SN52](/sn/#sn52) [SN53](/sn/#sn53) [SN54](/sn/#sn54) [SN55](/sn/#sn55) [SN56](/sn/#sn56)
 
