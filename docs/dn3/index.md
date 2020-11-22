@@ -186,10 +186,6 @@ So he approached the Buddha’s dwelling and knocked, and the Buddha opened the 
 
 ---
 
-
-
----
-
 ##### 1.10.
 
 Atha kho bhagavā ambaṭṭhaṃ māṇavaṃ etadavoca: “evaṃ nu te, ambaṭṭha, brāhmaṇehi vuddhehi mahallakehi ācariyapācariyehi saddhiṃ kathāsallāpo hoti, yathayidaṃ caraṃ tiṭṭhaṃ nisinnena mayā kiñci kiñci kathaṃ sāraṇīyaṃ vītisāretī”ti?
@@ -544,10 +540,6 @@ Ambaṭṭha was terrified, shocked, and awestruck. Looking to the Buddha for sh
 
 ---
 
-
-
----
-
 ##### 1.22.
 
 Evaṃ vutte, te māṇavakā unnādino uccāsaddamahāsaddā ahesuṃ: “dujjāto kira, bho, ambaṭṭho māṇavo; akulaputto kira, bho, ambaṭṭho māṇavo; dāsiputto kira, bho, ambaṭṭho māṇavo sakyānaṃ. Ayyaputtā kira, bho, ambaṭṭhassa māṇavassa sakyā bhavanti. Dhammavādiṃyeva kira mayaṃ samaṇaṃ gotamaṃ apasādetabbaṃ amaññimhā”ti.
@@ -659,10 +651,6 @@ So King Okkāka aimed the arrow at the crown prince. And he was safe and untouch
 那時，國王讓箭住立在年長王子上，王子是平安、安心的。那時，害怕、驚慌、身毛豎立的歐葛葛王以恐懼梵罰，給了他的女兒瑪達露碧。學生婆羅門！你們不要過於激烈地以婢女之子說侵害安玻德學生婆羅門，那位黑是個偉大的仙人。」
 
 時，甘蔗王向第一王子立箭，王子〔真是〕平安，身毛不動。時，王怖畏，戰慄於天罰，而與之王女庫達盧比。青年婆羅門等！汝等勿以下婢子孫之語，攻擊阿摩晝青年婆羅門，此有過酷，彼康哈是偉大仙人。」
-
----
-
-
 
 ---
 
@@ -1106,19 +1094,7 @@ But one accomplished in knowledge and conduct is best of gods and humans.”
 
 ---
 
-
-
----
-
-2.1
-
-2.1
-
-2.1
-
-2.1
-
----
+##### 2.1.
 
 “Katamaṃ pana taṃ, bho gotama, caraṇaṃ, katamā ca pana sā vijjā”ti?
 
@@ -1140,15 +1116,7 @@ But one accomplished in knowledge and conduct is best of gods and humans.”
 
 ---
 
-2.2
-
-2.2
-
-2.2
-
-2.2
-
----
+##### 2.2.
 
 “Katamaṃ pana taṃ, bho gotama, caraṇaṃ, katamā ca sā vijjā”ti?
 
@@ -1227,10 +1195,6 @@ This mendicant is said to be ‘accomplished in knowledge’, and also ‘accomp
 安玻德！這被稱為『明具足』、『行具足』、『明與行具足』的比丘，安玻德！沒有其它明具足、行具足比這個明具足、行具足更優勝或勝妙的了。
 
 阿摩晝！如是之比丘，稱為智成就、德行成就。阿摩晝！比此智、德成就更高超，或優勝此智、德更成就者，皆未曾有。
-
----
-
-
 
 ---
 
@@ -1560,15 +1524,7 @@ What do you think, Ambaṭṭha? According to what you have heard from elderly a
 
 ---
 
-2.11
-
-2.11
-
-2.11
-
-2.11
-
----
+##### 2.11.
 
 Atha kho bhagavā vihārā nikkhamma caṅkamaṃ abbhuṭṭhāsi. Ambaṭṭhopi māṇavo vihārā nikkhamma caṅkamaṃ abbhuṭṭhāsi. Atha kho ambaṭṭho māṇavo bhagavantaṃ caṅkamantaṃ anucaṅkamamāno bhagavato kāye dvattiṃsamahāpurisalakkhaṇāni samannesi. Addasā kho ambaṭṭho māṇavo bhagavato kāye dvattiṃsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati— kosohite ca vatthaguyhe pahūtajivhatāya ca.
 
@@ -1748,14 +1704,6 @@ Then Pokkharasāti said to Ambaṭṭha:
 
 ---
 
-
-
----
-
-
-
----
-
 ##### 2.16.
 
 Atha kho te brāhmaṇā brāhmaṇaṃ pokkharasātiṃ etadavocuṃ: “ativikālo kho, bho, ajja samaṇaṃ gotamaṃ dassanāya upasaṅkamituṃ. Svedāni bhavaṃ pokkharasāti samaṇaṃ gotamaṃ dassanāya upasaṅkamissatī”ti.
@@ -1904,15 +1852,7 @@ Pokkharasāti thought: “The ascetic Gotama possesses the thirty-two marks comp
 
 ---
 
-2.20
-
-2.20
-
-2.20
-
-2.20
-
----
+##### 2.20.
 
 Atha kho brāhmaṇo pokkharasāti bhagavato adhivāsanaṃ viditvā bhagavato kālaṃ ārocesi: “kālo, bho gotama, niṭṭhitaṃ bhattan”ti.
 
