@@ -303,6 +303,7 @@ function flatten (items, res) {
 
     h5 {
       margin-left: 10px;
+      margin-bottom: 0;
 
       @media (max-width: $MQMobile) {
         margin-left: 25px;
