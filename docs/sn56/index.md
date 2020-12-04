@@ -28,7 +28,7 @@ pageClass: sn
 
 ##### 1.
 
-Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. 
+Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye.
 
 I have heard that on one occasion the Blessed One was staying at Varanasi in the Game Refuge at Isipatana.
 
@@ -50,7 +50,7 @@ There he addressed the group of five monks:
 
 ---
 
-“Dveme, bhikkhave, antā pabbajitena na sevitabbā. Katame dve? 
+“Dveme, bhikkhave, antā pabbajitena na sevitabbā. Katame dve?
 
 “There are these two extremes that are not to be indulged in by one who has gone forth. Which two?
 
@@ -62,7 +62,7 @@ There he addressed the group of five monks:
 
 ##### 3.
 
-Yo cāyaṃ kāmesu kāma­su­khal­li­kānu­yogo hīno gammo pothujjaniko anariyo anatthasaṃhito, yo cāyaṃ atta­kila­mathā­nuyogo dukkho anariyo anatthasaṃhito. Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.
+Yo cāyaṃ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṃhito, yo cāyaṃ attakilamathānuyogo dukkho anariyo anatthasaṃhito. Ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.
 
 That which is devoted to sensual pleasure with reference to sensual objects: base, vulgar, common, ignoble, unprofitable; and that which is devoted to self-affliction: painful, ignoble, unprofitable. Avoiding both of these extremes, the middle way realized by the Tathagata — producing vision, producing knowledge — leads to calm, to direct knowledge, to self-awakening, to Unbinding.
 
@@ -86,7 +86,7 @@ Katamā ca sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cak
 
 ##### 5.
 
-Idaṃ kho pana, bhikkhave, dukkhaṃ ariyasaccaṃ—jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṃ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṃ na labhati tampi dukkhaṃ—saṃkhittena pañcu­pādā­nak­khan­dhā dukkhā. 
+Idaṃ kho pana, bhikkhave, dukkhaṃ ariyasaccaṃ—jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṃ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṃ na labhati tampi dukkhaṃ—saṃkhittena pañcupādānakkhandhā dukkhā.
 
 “Now this, monks, is the noble truth of stress: Birth is stressful, aging is stressful, death is stressful; sorrow, lamentation, pain, distress, & despair are stressful; association with the unbeloved is stressful, separation from the loved is stressful, not getting what is wanted is stressful. In short, the five clinging-aggregates are stressful.
 
@@ -98,7 +98,7 @@ Idaṃ kho pana, bhikkhave, dukkhaṃ ariyasaccaṃ—jātipi dukkhā, jarāpi d
 
 ##### 6.
 
-Idaṃ kho pana, bhikkhave, duk­kha­sa­muda­yaṃ ariyasaccaṃ—yāyaṃ taṇhā ponobbhavikā nandi­rāga­saha­gatā tatra­tat­rā­bhinan­dinī, seyyathidaṃ—kāmataṇhā, bhavataṇhā, vibhavataṇhā. 
+Idaṃ kho pana, bhikkhave, dukkhasamudayaṃ ariyasaccaṃ—yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī, seyyathidaṃ—kāmataṇhā, bhavataṇhā, vibhavataṇhā.
 
 “And this, monks, is the noble truth of the origination of stress: the craving that makes for further becoming — accompanied by passion & delight, relishing now here & now there — i.e., craving for sensual pleasure, craving for becoming, craving for non-becoming.
 
@@ -110,7 +110,7 @@ Idaṃ kho pana, bhikkhave, duk­kha­sa­muda­yaṃ ariyasaccaṃ—yāyaṃ t
 
 ##### 7.
 
-Idaṃ kho pana, bhikkhave, dukkhanirodhaṃ ariyasaccaṃ—yo tassāyeva taṇhāya asesa­virāga­nirodho cāgo paṭinissaggo mutti anālayo.
+Idaṃ kho pana, bhikkhave, dukkhanirodhaṃ ariyasaccaṃ—yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo.
 
 “And this, monks, is the noble truth of the cessation of stress: the remainderless fading & cessation, renunciation, relinquishment, release, & letting go of that very craving.
 
@@ -122,7 +122,7 @@ Idaṃ kho pana, bhikkhave, dukkhanirodhaṃ ariyasaccaṃ—yo tassāyeva taṇ
 
 ##### 8.
 
-Idaṃ kho pana, bhikkhave, duk­kha­nirodha­gāminī paṭipadā ariyasaccaṃ— ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ—sammādiṭṭhi ... pe ... sammāsamādhi.
+Idaṃ kho pana, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṃ— ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ—sammādiṭṭhi ... pe ... sammāsamādhi.
 
 “And this, monks, is the noble truth of the way of practice leading to the cessation of stress: precisely this Noble Eightfold Path — right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
 
@@ -146,7 +146,7 @@ Idaṃ kho pana, bhikkhave, duk­kha­nirodha­gāminī paṭipadā ariyasacca�
 
 ##### 10.
 
-‘Idaṃ duk­kha­sa­muda­yaṃ ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Taṃ kho panidaṃ duk­kha­sa­muda­yaṃ ariyasaccaṃ pahātabban’ti me, bhikkhave, pubbe ... pe ... udapādi. ‘Taṃ kho panidaṃ duk­kha­sa­muda­yaṃ ariyasaccaṃ pahīnan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
+‘Idaṃ dukkhasamudayaṃ ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Taṃ kho panidaṃ dukkhasamudayaṃ ariyasaccaṃ pahātabban’ti me, bhikkhave, pubbe ... pe ... udapādi. ‘Taṃ kho panidaṃ dukkhasamudayaṃ ariyasaccaṃ pahīnan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
 
 “Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: ‘This is the noble truth of the origination of stress’... ‘This noble truth of the origination of stress is to be abandoned’ ... ‘This noble truth of the origination of stress has been abandoned.’
 
@@ -170,9 +170,9 @@ Idaṃ kho pana, bhikkhave, duk­kha­nirodha­gāminī paṭipadā ariyasacca�
 
 ##### 12.
 
-‘Idaṃ duk­kha­nirodha­gāminī paṭipadā ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Taṃ kho panidaṃ duk­kha­nirodha­gāminī paṭipadā ariyasaccaṃ bhāvetabban’ti me, bhikkhave, pubbe ... pe ... udapādi. ‘Taṃ kho panidaṃ duk­kha­nirodha­gāminī paṭipadā ariyasaccaṃ bhāvitan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
+‘Idaṃ dukkhanirodhagāminī paṭipadā ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvetabban’ti me, bhikkhave, pubbe ... pe ... udapādi. ‘Taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvitan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
 
-“Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: ‘This is the noble truth of the way of practice leading to the cessation of stress’... ‘This noble truth of the way of practice leading to the cessation of stress is to be developed’... ‘This noble truth of the way of practice leading to the cessation of stress has been developed.’ 
+“Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: ‘This is the noble truth of the way of practice leading to the cessation of stress’... ‘This noble truth of the way of practice leading to the cessation of stress is to be developed’... ‘This noble truth of the way of practice leading to the cessation of stress has been developed.’
 
 『這是導向苦滅道跡聖諦』：比丘們！在以前所不曾聽過的法上，我的眼生起，智生起，慧生起，明生起，光生起。『這導向苦滅道跡聖諦應該被修習』：比丘們！在以前所不曾聽過的法上，我的眼生起，智生起，慧生起，明生起，光生起。『這導向苦滅道跡聖諦已被修習』：比丘們！在以前所不曾聽過的法上，我的眼生起，智生起，慧生起，明生起，光生起。
 
@@ -182,9 +182,9 @@ Idaṃ kho pana, bhikkhave, duk­kha­nirodha­gāminī paṭipadā ariyasacca�
 
 ##### 13.
 
-Yāvakīvañca me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi, neva tāvāhaṃ, bhikkhave, sadevake loke samārake sabrahmake ­sassama­ṇab­rāhma­ṇiyā pajāya sade­va­manus­sāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ.
+Yāvakīvañca me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi, neva tāvāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ.
 
-“And, monks, as long as this — my three-round, twelve-permutation knowledge & vision concerning these four noble truths as they have come to be — was not pure, I did not claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its deities, Maras, & Brahmas, with its contemplatives & brahmans, its royalty & commonfolk. 
+“And, monks, as long as this — my three-round, twelve-permutation knowledge & vision concerning these four noble truths as they have come to be — was not pure, I did not claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its deities, Maras, & Brahmas, with its contemplatives & brahmans, its royalty & commonfolk.
 
 比丘們！只要我對這四聖諦三轉、十二行相沒有這麼已善清淨的如實智見，我在這包括天、魔、梵的世間；包括沙門、婆羅門、天、人的世代中，不自稱『已現正覺無上遍正覺』。
 
@@ -194,9 +194,9 @@ Yāvakīvañca me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭa�
 
 ##### 14.
 
-Yato ca kho me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ suvisuddhaṃ ahosi, athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake ­sassama­ṇab­rāhma­ṇiyā pajāya sade­va­manus­sāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ. 
+Yato ca kho me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ suvisuddhaṃ ahosi, athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ.
 
-But as soon as this — my three-round, twelve-permutation knowledge & vision concerning these four noble truths as they have come to be — was truly pure, then I did claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its deities, Maras & Brahmas, with its contemplatives & brahmans, its royalty & commonfolk. 
+But as soon as this — my three-round, twelve-permutation knowledge & vision concerning these four noble truths as they have come to be — was truly pure, then I did claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its deities, Maras & Brahmas, with its contemplatives & brahmans, its royalty & commonfolk.
 
 比丘們！但自從我對這四聖諦三轉、十二行相有這麼已善清淨的如實智見後，我在這包括天、魔、梵的世間；包括沙門、婆羅門、天、人的世代中，才自稱『已現正覺無上遍正覺』。
 
@@ -216,7 +216,7 @@ Knowledge & vision arose in me: ‘Unprovoked is my release. This is the last bi
 
 ##### 15.
 
-Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti. Imasmiñca pana vey­yāka­ra­ṇas­miṃ bhaññamāne āyasmato koṇḍaññassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi: “yaṃ kiñci samuda­ya­dhammaṃ sabbaṃ taṃ nirodhadhamman”ti.
+Idamavoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti. Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne āyasmato koṇḍaññassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi: “yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamman”ti.
 
 That is what the Blessed One said. Gratified, the group of five monks delighted at his words. And while this explanation was being given, there arose to Ven. Kondañña the dustless, stainless Dhamma eye: Whatever is subject to origination is all subject to cessation.
 
@@ -228,9 +228,9 @@ That is what the Blessed One said. Gratified, the group of five monks delighted 
 
 ##### 16.
 
-Pavattite ca pana bhagavatā dhammacakke bhummā devā sad­da­manus­sā­vesuṃ: 
+Pavattite ca pana bhagavatā dhammacakke bhummā devā saddamanussāvesuṃ:
 
-And when the Blessed One had set the Wheel of Dhamma in motion, the earth devas cried out: 
+And when the Blessed One had set the Wheel of Dhamma in motion, the earth devas cried out:
 
 而且，當法輪被世尊轉動了，諸地居天發聲道：
 
@@ -238,7 +238,7 @@ And when the Blessed One had set the Wheel of Dhamma in motion, the earth devas 
 
 ---
 
-“etaṃ bhagavatā bārāṇasiyaṃ isipatane migadāye anuttaraṃ dhammacakkaṃ pavattitaṃ appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin”ti. 
+“etaṃ bhagavatā bārāṇasiyaṃ isipatane migadāye anuttaraṃ dhammacakkaṃ pavattitaṃ appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin”ti.
 
 “At Varanasi, in the Game Refuge at Isipatana, the Blessed One has set in motion the unexcelled Wheel of Dhamma that cannot be stopped by brahman or contemplative, deva,Mara or God or anyone in the cosmos.”
 
@@ -250,9 +250,9 @@ And when the Blessed One had set the Wheel of Dhamma in motion, the earth devas 
 
 ##### 17.
 
-Bhummānaṃ devānaṃ saddaṃ sutvā cātumahārājikā devā sad­da­manus­sā­vesuṃ: 
+Bhummānaṃ devānaṃ saddaṃ sutvā cātumahārājikā devā saddamanussāvesuṃ:
 
-On hearing the earth devas’ cry, the devas of the Four Kings’ Heaven took up the cry... 
+On hearing the earth devas’ cry, the devas of the Four Kings’ Heaven took up the cry...
 
 聽到諸地居天的聲音後，四大天王之諸天也發聲道：
 
@@ -260,7 +260,7 @@ On hearing the earth devas’ cry, the devas of the Four Kings’ Heaven took up
 
 ---
 
-“etaṃ bhagavatā bārāṇasiyaṃ isipatane migadāye anuttaraṃ dhammacakkaṃ pavattitaṃ, appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin”ti. ­
+“etaṃ bhagavatā bārāṇasiyaṃ isipatane migadāye anuttaraṃ dhammacakkaṃ pavattitaṃ, appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin”ti.
 
 “At Varanasi, in the Game Refuge at Isipatana, the Blessed One has set in motion the unexcelled Wheel of Dhamma that cannot be stopped by brahman or contemplative, deva,Mara or God or anyone in the cosmos.”
 
@@ -272,7 +272,7 @@ On hearing the earth devas’ cry, the devas of the Four Kings’ Heaven took up
 
 ##### 18.
 
-Cātuma­hārāji­kānaṃ devānaṃ saddaṃ sutvā tāvatiṃsā devā ... pe ... yāmā devā ... pe ... tusitā devā ... pe ... nimmānaratī devā ... pe ... para­nimmita­vasavattī devā ... pe ... brahmakāyikā devā sad­da­manus­sā­vesuṃ: 
+Cātumahārājikānaṃ devānaṃ saddaṃ sutvā tāvatiṃsā devā ... pe ... yāmā devā ... pe ... tusitā devā ... pe ... nimmānaratī devā ... pe ... paranimmitavasavattī devā ... pe ... brahmakāyikā devā saddamanussāvesuṃ:
 
 the devas of the Thirty-three... the Yama devas... the Tusita devas... the Nimmanarati devas... the Paranimmita-vasavatti devas... the devas of Brahma’s retinue took up the cry:
 
@@ -294,7 +294,7 @@ the devas of the Thirty-three... the Yama devas... the Tusita devas... the Nimma
 
 ##### 19.
 
-Itiha tena khaṇena tena layena tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañca dasasa­has­siloka­dhātu saṅkampi sampakampi sampavedhi, appamāṇo ca uḷāro obhāso loke pāturahosi atikkamma devānaṃ devānubhāvanti.
+Itiha tena khaṇena tena layena tena muhuttena yāva brahmalokā saddo abbhuggacchi. Ayañca dasasahassilokadhātu saṅkampi sampakampi sampavedhi, appamāṇo ca uḷāro obhāso loke pāturahosi atikkamma devānaṃ devānubhāvanti.
 
 So in that moment, that instant, the cry shot right up to the Brahma worlds. And this ten-thousand fold cosmos shivered & quivered & quaked, while a great, measureless radiance appeared in the cosmos, surpassing the effulgence of the devas.
 
@@ -306,9 +306,9 @@ So in that moment, that instant, the cry shot right up to the Brahma worlds. And
 
 ##### 20.
 
-Atha kho bhagavā imaṃ udānaṃ udānesi: 
+Atha kho bhagavā imaṃ udānaṃ udānesi:
 
-Then the Blessed One exclaimed: 
+Then the Blessed One exclaimed:
 
 那時，世尊自說這優陀那：
 
@@ -316,9 +316,9 @@ Then the Blessed One exclaimed:
 
 ---
 
-“aññāsi vata bho, koṇḍañño, aññāsi vata bho, koṇḍañño”ti. 
+“aññāsi vata bho, koṇḍañño, aññāsi vata bho, koṇḍañño”ti.
 
-“So you really know, Kondañña? So you really know?” 
+“So you really know, Kondañña? So you really know?”
 
 「先生！憍陳如確實已了知，先生！憍陳如確實已了知了。」
 
