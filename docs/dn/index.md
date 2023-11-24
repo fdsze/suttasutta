@@ -111,32 +111,32 @@ Conduct, Concentration, And Intellect
 ---
 
 ##### [DN17](/dn17)
-### DN17 Mahasudassana Sutta / The Great King Of Glory / 長部十六 大善見王經
+### DN17 Mahasudassana Sutta / The Great King Of Glory / 長部十七 大善見王經
 
 ---
 
 ##### [DN18](/dn18)
-### DN18 Janavasabha Sutta / With Janavasabha / 闍尼沙經
+### DN18 Janavasabha Sutta / With Janavasabha / 長部十八 闍尼沙經
 
 ---
 
 ##### [DN19](/dn19)
-### DN19 Maha-Govinda Sutta / The Lord High Steward / 長部十八 大典尊經
+### DN19 Maha-Govinda Sutta / The Lord High Steward / 長部十九 大典尊經
 
 ---
 
 ##### [DN20](/dn20)
-### DN20 Mahasamaya Sutta / The Discourse on the Great Convention / 長部十九 大會經
+### DN20 Mahasamaya Sutta / The Discourse on the Great Convention / 長部二十 大會經
 
 ---
 
 ##### [DN21](/dn21)
-### DN21 Sakkapañha Sutta / The Questions of Sakka / 長部二十 帝釋所問經
+### DN21 Sakkapañha Sutta / The Questions of Sakka / 長部二一 帝釋所問經
 
 ---
 
 ##### [DN22](/dn22)
-### [DN22 Mahasatipaṭṭhāna Sutta / The Long Discourse about the Ways of Attending to Mindfulness / 長部二一 大念處經](/dn22/)
+### [DN22 Mahasatipaṭṭhāna Sutta / The Long Discourse about the Ways of Attending to Mindfulness / 長部二二 大念處經](/dn22/)
 
 A long version of the Satipaṭṭhāna Sutta ([MN10](/mn/#mn10)) in which the Buddha describes the applications of mindfulness meditation, by using the meditation object of body, sense experience, mental states and the Dhamma.
 
@@ -145,66 +145,66 @@ A long version of the Satipaṭṭhāna Sutta ([MN10](/mn/#mn10)) in which the B
 ---
 
 ##### [DN23](/dn23)
-### DN23 Pāyāsi Sutta / To Pāyāsi / 長部二二 弊宿經
+### DN23 Pāyāsi Sutta / To Pāyāsi / 長部二三 弊宿經
 
 Rebirth and Karma
 
 ---
 
 ##### [DN24](/dn24)
-### DN24 Pāṭika Sutta / Mystic Wonders and the Origin of Things / 長部二三 波梨經
+### DN24 Pāṭika Sutta / Mystic Wonders and the Origin of Things / 長部二四 波梨經
 
 ---
 
 ##### [DN25](/dn25)
-### DN25 Udumbarika Sihanada Sutta / The Lion’s Roar to the Udumbarikāns / 長部二四 優曇婆邏師子吼經
+### DN25 Udumbarika Sihanada Sutta / The Lion’s Roar to the Udumbarikāns / 長部二五 優曇婆邏師子吼經
 
 On Asceticism
 
 ---
 
 ##### [DN26](/dn26)
-### DN26 Cakkavatti Sihanada Sutta / The Lion-roar on the Turning of the Wheel / 長部二五 ### 轉輪聖王師子吼經
+### DN26 Cakkavatti Sihanada Sutta / The Lion-roar on the Turning of the Wheel / 長部二六 轉輪聖王師子吼經
 
 On War, Wickedness, and Wealth
 
 ---
 
 ##### [DN27](/dn27)
-### DN27 Aggañña Sutta / A Book of Genesis / 長部二六 起世因本經
+### DN27 Aggañña Sutta / A Book of Genesis / 長部二七 起世因本經
 
 ---
 
 ##### [DN28](/dn28)
-### DN28 Sampasādaniya Sutta / The Faith That Satisfied / 長部二七 自歡喜經
+### DN28 Sampasādaniya Sutta / The Faith That Satisfied / 長部二八 自歡喜經
 
 ---
 
 ##### [DN29](/dn29)
-### DN29 Pāsādika Sutta / The Delectable Discourse / 長部二八 清凈經
+### DN29 Pāsādika Sutta / The Delectable Discourse / 長部二九 清凈經
 
 ---
 
 ##### [DN30](/dn30)
-### DN30 Lakkhaṇa Sutta / The Marks of the Superman / 長部二九 三十二相經
+### DN30 Lakkhaṇa Sutta / The Marks of the Superman / 長部三十 三十二相經
 
 ---
 
 ##### [DN31](/dn31)
-### DN31 Sigalovada Sutta / The Buddha’s Advice to Sigālaka / 長部三十 教授屍迦羅越經
+### DN31 Sigalovada Sutta / The Buddha’s Advice to Sigālaka / 長部三一 教授屍迦羅越經
 
 ---
 
 ##### [DN32](/dn32)
-### DN32 Āṭānāṭiya Sutta / The Āṭānāṭiya Discourse / 長部三一 阿吒曩胝經
+### DN32 Āṭānāṭiya Sutta / The Āṭānāṭiya Discourse / 長部三二 阿吒曩胝經
 
 ---
 
 ##### [DN33](/dn33)
-### DN33 Saṅgāti Sutta / The Recital / 長部三二 等誦經
+### DN33 Saṅgāti Sutta / The Recital / 長部三三 等誦經
 
 ---
 
 ##### [DN34](/dn34)
-### DN34 Dasuttara Sutta / The Tenfold Series / 長部三三 十上經
+### DN34 Dasuttara Sutta / The Tenfold Series / 長部三四 十上經
 
