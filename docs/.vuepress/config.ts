@@ -13,7 +13,9 @@ export default {
       mdEnhance: {
         attrs: true,
       },
-    }
+    },
+    lastUpdated: false,
+    contributors: false
   }),
   head: [
     ['link', { rel: 'apple-touch-icon', sizes: '57x57', href: '/favicon/apple-icon-57x57.png'}],
