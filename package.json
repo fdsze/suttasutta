@@ -1,0 +1,27 @@
+{
+  "name": "suttasutta",
+  "version": "2.0.0",
+  "description": "Sutta·Sutta is a collection of parallel translations of the early Buddhist scriptures (also know as the Sutta Pitaka). This repo is the source of the https://suttasutta.org website.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdsze/suttasutta.git"
+  },
+  "author": "Freddie Sze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdsze/suttasutta/issues"
+  },
+  "homepage": "https://github.com/fdsze/suttasutta#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.0",
+    "vuepress-theme-hope": "^2.0.0-rc.5"
+  }
+}
