@@ -2,6 +2,7 @@
 title: Pāli Sutta Pitaka Content – 巴利文經藏目錄
 shortTitle: Pitaka Content – 經藏目錄
 pageClass: home
+permalink: '/'
 ---
 
 # Content – 目錄

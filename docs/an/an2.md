@@ -1,6 +1,7 @@
 ---
 title: AN2 Dukanipāta – Book of the Twos – 增支部 二集
 shortTitle: AN2 – 增支部 二集
+permalink: '/an2'
 containerClass: sutta
 toc: false
 ---

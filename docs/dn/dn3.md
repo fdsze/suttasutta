@@ -1,6 +1,7 @@
 ---
 title: DN3 Ambaṭṭha Sutta – With Ambaṭṭha – 長部三 阿摩晝經
 shortTitle: DN3 – 長部三
+permalink: '/dn3'
 containerClass: sutta
 toc: false
 ---

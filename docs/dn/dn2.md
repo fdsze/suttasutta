@@ -1,6 +1,7 @@
 ---
 title: DN2 – Samaññaphala Sutta – The Fruits of Recluseship – 長部二 沙門果經
 shortTitle: DN2 – 長部二
+permalink: '/dn2'
 containerClass: sutta
 toc: false
 ---
