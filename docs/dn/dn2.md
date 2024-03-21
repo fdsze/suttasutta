@@ -19,7 +19,8 @@ English – 英文
 [莊春江 譯](http://agama.buddhason.org/DN/DN02.htm) {.chi}
 
 中文  
-[通妙 譯](http://tripitaka.cbeta.org/N06n0004_002) {.chi}
+[蕭式球 譯](https://drive.google.com/file/d/1If0Mj5PeZOzsvbwkLV-TqfXSwSKDs6g1/view?usp=sharing) {.chi}
+(2022-11-04)
 
 ---
 
@@ -31,7 +32,7 @@ I have heard that on one occasion the Blessed One was staying at Rajagaha, in Ji
 
 我聽到這樣：有一次，世尊與一千二百五十位比丘的大比丘僧團一起住在王舍城養子耆婆的芒果園中。 {.chi}
 
-如是我聞。爾時，世尊與千二百五十人之大比丘眾俱，住王舍城小兒醫師耆婆之菴羅園。 {.chi}
+這是我所聽見的：有一次，世尊和一千二百五十人的比丘僧團一起，住在王舍城童子醫王耆婆1的芒果園。 {.chi}
 
 ---
 
@@ -41,7 +42,7 @@ Now at that time — it being the observance day, the full-moon night of the wat
 
 當時，在那第四個月的迦刺底迦月滿月日，十五布薩日的滿月夜晚，摩揭陀國阿闍世王韋提希子被大臣們圍繞著，到最高樓上坐下。 {.chi}
 
-其時，摩揭陀國王韋提希子阿闍世，於四月迦底迦之十五布薩日滿月之夜時，坐於殊勝之宮殿高樓，被諸大臣所圍繞。 {.chi}
+這時候是雨季第四個月的布薩日月圓之夜，摩揭陀王阿闍世。韋提希子和大臣一起坐在王宮的頂層。 {.chi}
 
 ---
 
@@ -51,7 +52,7 @@ Then he felt inspired to exclaim: {.eng}
 
 那時，摩揭陀國阿闍世王韋提希子在布薩日自說優陀那： {.chi}
 
-如是，摩揭陀國王韋提子阿闍世於布薩日，發感興而言： {.chi}
+阿闍世王在布薩日有感而發，說出感興語： {.chi}
 
 ---
 
@@ -61,7 +62,7 @@ Then he felt inspired to exclaim: {.eng}
 
 「先生！明月的夜晚確實是愉快的，先生！明月的夜晚確實是殊妙的，先生！明月的夜晚確實是好看的，先生！明月的夜晚確實是清淨的，先生！明月的夜晚確實是祥瑞的， {.chi}
 
-「嗯！真實可愛之明月夜！嗯！真實美麗之明月夜！嗯！真實和藹之明月夜！嗯！真實幸福之明月夜！ {.chi}
+「這個月夜真是怡人，真是美麗，真是好看，使人心生歡喜！ {.chi}
 
 ---
 
@@ -71,7 +72,7 @@ What brahman or contemplative should we visit tonight who might enlighten and br
 
 現在，我們應該訪問哪位沙門、婆羅門，當親近他們時，我們的心能被淨化呢？」 {.chi}
 
-今我等如何親近沙門、婆羅門，以親近能使我等之心得清淨愉悅耶？」 {.chi}
+在這個吉祥瑞相的月夜，我應拜訪哪位沙門婆羅門，使我心生敬信呢？」 {.chi}
 
 ---
 
@@ -83,7 +84,7 @@ When this was said, one of the ministers said to the king: {.eng}
 
 當這麼說時，某位大臣對摩揭陀國阿闍世王韋提希子這麼說： {.chi}
 
-於此，有一大臣，對摩揭陀國王韋提希子阿闍世奏言： {.chi}
+阿闍世王說了這番話後，一位大臣對他說： {.chi}
 
 ---
 
@@ -93,7 +94,7 @@ When this was said, one of the ministers said to the king: {.eng}
 
 「陛下！這位富蘭那迦葉有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
-「大王！茲有不蘭迦葉，彼是僧伽之主，教團之首領，一派之導師，智識廣博，名聞甚高，為一派之開祖，受眾人之尊敬，出家甚久，富有經驗之長老。 {.chi}
+「大王，富蘭那。迦葉擁有教團，擁有教派，是教派的老師，為人所認知，有名望，是宗派的創立人，受很多人推崇；他經驗豐富，出家久，年紀大。 {.chi}
 
 ---
 
@@ -103,7 +104,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 陛下！請親近那位富蘭那迦葉，或許當親近富蘭那迦葉時，陛下的心能被淨化。」 {.chi}
 
-大王親近彼不蘭迦葉，由於親近彼，能使大王之心得清淨愉悅。」 {.chi}
+大王，願你拜訪富蘭那。迦葉，拜訪富蘭那。迦葉會使大王心生敬信。」 {.chi}
 
 ---
 
@@ -113,7 +114,7 @@ When this was said, the king remained silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
-雖如是上奏，摩揭陀國王韋提希子阿闍世，默然〔不應〕。 {.chi}
+這位大臣說了這番話後，阿闍世王沉默不語。 {.chi}
 
 ---
 
@@ -135,7 +136,7 @@ Then another minister said to the king: {.eng}
 
 「陛下！這位末迦利瞿舍羅有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
-「大王！茲有末伽梨瞿舍利，是僧伽之主，教團之首領，一派之導師，智識廣博，名聞甚高，為一派之開祖，受眾人之尊敬，出家甚久，富有經驗之長老。 {.chi}
+另一位大臣對阿闍世王說：「大王，末伽梨。拘舍梨擁有教團，擁有教派，是教派的老師，為人所認知，有名望，是宗派的創立人，受很多人推崇；他經驗豐富，出家久，年紀大。 {.chi}
 
 ---
 
@@ -145,7 +146,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 陛下！請親近那位末迦利瞿舍羅，或許當親近末迦利瞿舍羅時，陛下的心能被淨化。」 {.chi}
 
-大王！親近彼末伽梨瞿舍羅，由於親近彼，能使大王之心得清淨愉悅。」 {.chi}
+大王，願你拜訪末伽梨。拘舍梨，拜訪末伽梨。拘舍梨會使大王心生敬信。」 {.chi}
 
 ---
 
@@ -155,7 +156,7 @@ When this was said, the king remained silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
-雖如是上奏，摩揭陀國王韋提希子阿闍世默然〔不應〕。 {.chi}
+這位大臣說了這番話後，阿闍世王沉默不語。 {.chi}
 
 ---
 
@@ -167,7 +168,7 @@ Then another minister said to the king: {.eng}
 
 另一位大臣也對摩揭陀國阿闍世王韋提希子這麼說： {.chi}
 
-其時，其他之大臣，亦對摩揭陀國王韋提希子阿闍世奏言： {.chi}
+另一位大臣對阿闍世王說： {.chi}
 
 ---
 
@@ -177,7 +178,7 @@ Then another minister said to the king: {.eng}
 
 「陛下！這位阿夷多翅舍欽婆羅有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
-「大王！茲有阿耆多翅舍欽婆羅，是僧伽之主，教團之首領，一派之導師，智識廣博，名聞甚高，為一派之開祖，受眾人所尊敬，出家甚久，富有經驗之長老。 {.chi}
+「大王，阿耆多。翅舍欽婆羅擁有教團，擁有教派，是教派的老師，為人所認知，有名望，是宗派的創立人，受很多人推崇；他經驗豐富，出家久，年紀大。 {.chi}
 
 ---
 
@@ -187,7 +188,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 陛下！請親近那位阿夷多翅舍欽婆羅，或許當親近阿夷多翅舍欽婆羅時，陛下的心能被淨化。」 {.chi}
 
-大王！親近阿耆多翅舍欽婆羅，由於親近彼，能使大王之心得清淨愉悅。」 {.chi}
+大王，願你拜訪阿耆多。翅舍欽婆羅，拜訪阿耆多。翅舍欽婆羅會使大王心生敬信。」 {.chi}
 
 ---
 
@@ -197,7 +198,7 @@ When this was said, the king remained silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
-雖如是奏上，摩揭陀國王韋提希子阿闍世默然〔不應〕。 {.chi}
+這位大臣說了這番話後，阿闍世王沉默不語。 {.chi}
 
 ---
 
@@ -209,7 +210,7 @@ Then another minister said to the king: {.eng}
 
 另一位大臣也對摩揭陀國阿闍世王韋提希子這麼說： {.chi}
 
-其時，其他之大臣，亦對摩揭陀國王韋提希子阿闍世奏言： {.chi}
+另一位大臣對阿闍世王說： {.chi}
 
 ---
 
@@ -219,7 +220,7 @@ Then another minister said to the king: {.eng}
 
 「陛下！這位浮陀迦旃延有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
-「大王！茲有婆浮陀迦旃延那，是僧伽之主，教團之首領，一派之導師，智識廣博，名聞甚高，為一派之開祖，受眾人之尊敬，出家甚久，富有經驗之長老， {.chi}
+「大王，波拘陀。迦旃延擁有教團，擁有教派，是教派的老師，為人所認知，有名望，是宗派的創立人，受很多人推崇；他經驗豐富，出家久，年紀大。 {.chi}
 
 ---
 
@@ -229,7 +230,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 陛下！請親近那位浮陀迦旃延，或許當親近浮陀迦旃延時，陛下的心能被淨化。」 {.chi}
 
-大王！親近婆浮陀迦旃延那，由於親近彼，能使大王之心得清淨愉悅。」 {.chi}
+大王，願你拜訪波拘陀。迦旃延，拜訪波拘陀。迦旃延會使大王心生敬信。」 {.chi}
 
 ---
 
@@ -239,7 +240,7 @@ When this was said, the king remained silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
-雖如是奏上，摩揭陀國王韋提希子阿闍世默然〔不應〕 {.chi}
+這位大臣說了這番話後，阿闍世王沉默不語。 {.chi}
 
 ---
 
@@ -251,7 +252,7 @@ Then another minister said to the king: {.eng}
 
 另一位大臣也對摩揭陀國阿闍世王韋提希子這麼說： {.chi}
 
-其時，其他之大臣，亦對摩揭陀國王韋提希子阿闍世奏言： {.chi}
+另一位大臣對阿闍世王說： {.chi}
 
 ---
 
@@ -261,7 +262,7 @@ Your majesty, there is Sañjaya Belatthaputta, the leader of a community, the le
 
 「陛下！這位散惹耶毘羅梨子有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
-「大王！茲有散若夷毘羅梨沸，是僧伽之主，教團之首領，一派之導師，智識廣博，名聞甚高，為一派之開祖，受眾人之尊敬，出家甚久，富有經驗之長老。 {.chi}
+「大王，散若耶。毗羅胝子擁有教團，擁有教派，是教派的老師，為人所認知，有名望，是宗派的創立人，受很多人推崇；他經驗豐富，出家久，年紀大。 {.chi}
 
 ---
 
@@ -271,7 +272,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 陛下！請親近那位散惹耶毘羅梨子，或許當親近散惹耶毘羅梨子時，陛下的心能被淨化。」 {.chi}
 
-大王！親近散若夷毘羅梨沸，由於親近彼，能使大王之心得清淨愉悅。」 {.chi}
+大王，願你拜訪散若耶。毗羅胝子，拜訪散若耶。毗羅胝子會使大王心生敬信。」 {.chi}
 
 ---
 
@@ -281,7 +282,7 @@ When this was said, the king remained silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
-雖如是奏上，摩揭陀國王韋提希子阿闍世默然〔不應〕。 {.chi}
+這位大臣說了這番話後，阿闍世王沉默不語。 {.chi}
 
 ---
 
@@ -293,7 +294,7 @@ Then another minister said to the king: {.eng}
 
 另一位大臣也對摩揭陀國阿闍世王韋提希子這麼說： {.chi}
 
-其時，其他之大臣，亦對摩揭陀國王韋提希子阿闍世奏言： {.chi}
+另一位大臣對阿闍世王說： {.chi}
 
 ---
 
@@ -303,7 +304,7 @@ Your majesty, there is Nigantha Nataputta, the leader of a community, the leader
 
 「陛下！這位尼乾陀若提子有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
-「大王！茲有尼乾子，是僧伽之主，教團之首領，一派之導師，智識廣博，名聞甚高，為一派之開祖，受眾人之尊敬，出家甚久，富有經驗之長老。 {.chi}
+「大王，尼乾陀。若提子擁有教團，擁有教派，是教派的老師，為人所認知，有名望，是宗派的創立人，受很多人推崇；他經驗豐富，出家久，年紀大。 {.chi}
 
 ---
 
@@ -313,7 +314,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 陛下！請親近那位尼乾陀若提子，或許當親近尼乾陀若提子時，陛下的心能被淨化。」 {.chi}
 
-大王！親近尼乾子，由於親近彼，能使大王之心得清淨愉悅。」 {.chi}
+大王，願你拜訪尼乾陀。若提子，拜訪尼乾陀。若提子會使大王心生敬信。」 {.chi}
 
 ---
 
@@ -323,7 +324,7 @@ When this was said, the king remained silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
-雖如是奏上，摩揭陀國王韋提希子阿闍世默然〔不應〕。 {.chi}
+這位大臣說了這番話後，阿闍世王沉默不語。 {.chi}
 
 ---
 
@@ -335,7 +336,7 @@ All this time Jivaka Komarabhacca was sitting silently not far from the king. {.
 
 當時，養子耆婆在摩揭陀國阿闍世王韋提希子不遠處沉默地坐著。 {.chi}
 
-其時，小兒科醫師耆婆，離於摩揭陀國王韋提子阿闍世不遠處，默然而坐。 {.chi}
+這時候，耆婆沉默地坐在阿闍世王附近。 {.chi}
 
 ---
 
@@ -345,7 +346,7 @@ So the king said to him, {.eng}
 
 那時，摩揭陀國阿闍世王韋提希子對養子耆婆這麼說： {.chi}
 
-如是摩揭陀國王韋提希子阿闍世言耆婆曰： {.chi}
+阿闍世王對耆婆說： {.chi}
 
 ---
 
@@ -355,7 +356,7 @@ So the king said to him, {.eng}
 
 「而，親愛的耆婆！你為何沉默？」 {.chi}
 
-「汝，是忠誠予之耆婆！汝今何故默然耶？」 {.chi}
+「耆婆賢友，你為什麼沉默不語呢？」 {.chi}
 
 ---
 
@@ -365,7 +366,7 @@ So the king said to him, {.eng}
 
 「陛下！這位世尊、阿羅漢、遍正覺者與一千二百五十位比丘的大比丘僧團一起住在我們的芒果園中。 {.chi}
 
-〔耆婆曰：〕「大王！茲有世尊、應供、等正覺者，與千二百五十人之大比丘眾俱，住我等之菴羅園。 {.chi}
+「大王，世尊。阿羅漢。等正覺和一千二百五十人的比丘僧團一起，住在我的芒果園。 {.chi}
 
 ---
 
@@ -375,7 +376,7 @@ Concerning this Blessed One, this admirable report has been spread: ‘Surely, t
 
 又，世尊有這樣的好名聲被傳播著：『像這樣，那位世尊是阿羅漢、遍正覺者、明與行具足者、善逝、世間知者、應該被調御人的無上調御者、人天之師、佛陀、世尊。』 {.chi}
 
-對世尊瞿曇起如是之稱譽：『彼世尊，實是應供、等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛陀、世尊。』 {.chi}
+喬答摩世尊有好名聲，這位世尊是阿羅漢。等正覺。明行具足。善逝。世間解。無上士。調御者。天人師。佛。世尊。 {.chi}
 
 ---
 
@@ -385,7 +386,7 @@ Your majesty should visit him. {.eng}
 
 陛下！請親近那位世尊， {.chi}
 
-大王！親近彼世尊， {.chi}
+大王，願你拜訪世尊， {.chi}
 
 ---
 
@@ -395,7 +396,7 @@ Perhaps, if you visited him, he would enlighten and bring peace to your mind.”
 
 或許當親近世尊時，陛下的心能被淨化。」 {.chi}
 
-由於親近，能使大王之心得清淨愉悅。」 {.chi}
+拜訪世尊會使大王心生敬信。」 {.chi}
 
 ---
 
@@ -405,7 +406,7 @@ Perhaps, if you visited him, he would enlighten and bring peace to your mind.”
 
 「那樣的話，親愛的耆婆！請你準備象乘。」 {.chi}
 
-〔大王曰：〕「然者，忠誠予之耆婆！預備眾乘！」 {.chi}
+「耆婆賢友，既然這樣，吩咐安排象騎吧。」 {.chi}
 
 ---
 
@@ -417,7 +418,7 @@ Having replied, “As you say, your majesty,” having had five hundred female e
 
 「是的，陛下！」養子耆婆回答摩揭陀國阿闍世王韋提希子後，準備五百頭母象與國王的坐騎龍象，然後告知摩揭陀國阿闍世王韋提希子： {.chi}
 
-小兒科醫師耆婆答王：「大王！如是。」以備五百牝象，及王自用之象乘，對王奏言： {.chi}
+「大王，遵命。」 耆婆回答阿闍世王後，便吩咐安排大約五百隻雌象和一隻御用的象騎，然後回稟阿闍世王： {.chi}
 
 ---
 
@@ -427,7 +428,7 @@ Having replied, “As you say, your majesty,” having had five hundred female e
 
 「陛下！那些是已準備好的象，現在，你考量適當的時間吧。」 {.chi}
 
-「大王！象乘已備，今思正舉措〔出發〕時。」 {.chi}
+「大王，象騎已經準備好了，如果你認為是時候的話，請便。」 {.chi}
 
 ---
 
@@ -437,7 +438,7 @@ Then the king, having had five hundred of his women mounted on the five hundred 
 
 那時，摩揭陀國阿闍世王韋提希子在五百頭母象上令每一頭一位女子登上後，[自己]登上龍象坐騎，然後令持著火炬，以國王的威勢盛況從王舍城出發，前往養子耆婆的芒果園 {.chi}
 
-其時，王，乘自己所乘之象乘，令彼等婦人各乘五百牝象，隨伴持炬者〔之照明〕，以大王之威嚴從王舍城出發，往小兒科醫師耆婆之菴羅園。 {.chi}
+於是五百妃子一一登上象騎，阿闍世王登上御用的象騎，在火炬手的照明下，以王者的威嚴，從王舍城出發，前往耆婆的芒果園。 {.chi}
 
 ---
 
@@ -459,7 +460,7 @@ Fearful, agitated, his hair standing on end, he said to Jivaka Komarabhacca: {.e
 
 那時，害怕、驚慌、身毛豎立的摩揭陀國阿闍世王韋提希子對養子耆婆這麼說： {.chi}
 
-充滿恐怖與敬愕而身毛豎立之摩揭陀國王韋提希子阿闍世言小兒科醫師耆婆曰： {.chi}
+當接近芒果園的時候，阿闍世王生起了恐懼、顫抖、驚慌。極度恐慌的阿闍世王對耆婆說： {.chi}
 
 ---
 
@@ -469,7 +470,7 @@ Fearful, agitated, his hair standing on end, he said to Jivaka Komarabhacca: {.e
 
 「親愛的耆婆！你該沒欺騙我吧？ {.chi}
 
-「忠誠我之耆婆！汝非謀害我耶？ {.chi}
+「耆婆賢友，你在欺騙我嗎？ {.chi}
 
 ---
 
@@ -479,7 +480,7 @@ You aren‘t betraying me, are you? {.eng}
 
 親愛的耆婆！你該沒欺瞞我吧？ {.chi}
 
-忠誠我之耆婆！汝非欺騙我耶？ {.chi}
+你在陷害我嗎？ {.chi}
 
 ---
 
@@ -489,7 +490,7 @@ You aren‘t turning me over to my enemies, are you? {.eng}
 
 親愛的耆婆！你該沒把我[出賣]給敵人吧？ {.chi}
 
-忠誠我之耆婆！汝非從我交與怨敵耶？ {.chi}
+你要把我交給敵人嗎？ {.chi}
 
 ---
 
@@ -499,7 +500,7 @@ How can there be such a large community of monks — 1,250 in all — with no so
 
 為什麼一千二百五十位比丘的大比丘僧團既沒有咳嗽聲，也沒清喉嚨聲，也沒喊叫？」 {.chi}
 
-實有千二百五十人之大比丘眾，而無任何之音聲，亦絕無嚏、咳之音，如何得有〔可能〕耶？」 {.chi}
+為什麼一千二百五十人的比丘僧團竟然一點人聲也沒有，即使噴嚏聲和咳嗽聲也沒有呢？」 {.chi}
 
 ---
 
@@ -509,7 +510,7 @@ How can there be such a large community of monks — 1,250 in all — with no so
 
 「大王！不要害怕！大王！不要害怕！ {.chi}
 
-「大王！勿恐怖！ {.chi}
+「大王，不要恐懼。 {.chi}
 
 ---
 
@@ -519,7 +520,7 @@ I‘m not deceiving you {.eng}
 
 陛下！我沒欺騙你， {.chi}
 
-大王！臣非謀害君、 {.chi}
+我沒有欺騙你， {.chi}
 
 ---
 
@@ -529,7 +530,7 @@ or betraying you {.eng}
 
 陛下！我沒欺瞞你， {.chi}
 
-非欺君、 {.chi}
+我沒有陷害你， {.chi}
 
 ---
 
@@ -539,7 +540,7 @@ or turning you over to your enemies. {.eng}
 
 陛下！我沒把你[出賣]給敵人， {.chi}
 
-非從君交與怨敵。 {.chi}
+我不是要把你交給敵人。 {.chi}
 
 ---
 
@@ -549,7 +550,7 @@ Go forward, great king, go forward! Those are lamps burning in the pavilion hall
 
 大王！請你前進，大王！請你前進，在圓形帳蓬處這些燈火燃燒[著]。」 {.chi}
 
-大王！前進，大王！前進。彼圓堂諸燈輝燃！ {.chi}
+大王，請前進。那邊有一間亮著燈光的圓形聚集堂。」 {.chi}
 
 ---
 
@@ -561,7 +562,7 @@ Then the king, going as far on his tusker as the ground would permit, dismounted
 
 那時，摩揭陀國阿闍世王韋提希子以龍象一直到龍象能通行之處，然後下龍象步行，去圓形帳蓬的入口。 {.chi}
 
-如是摩揭陀國王韋提希子阿闍世，進行其象乘能至之處，即下象乘而行近圓堂之門前， {.chi}
+象騎到了路的盡頭時，阿闍世王下象，徒步前往圓形聚集堂的門口。 {.chi}
 
 ---
 
@@ -571,7 +572,7 @@ On arrival, he asked Jivaka: {.eng}
 
 抵達後，對養子耆婆這麼說： {.chi}
 
-詣已而言耆婆曰： {.chi}
+他問耆婆： {.chi}
 
 ---
 
@@ -581,7 +582,7 @@ On arrival, he asked Jivaka: {.eng}
 
 「親愛的耆婆！然而，世尊在哪裡？」 {.chi}
 
-「忠誠我之耆婆！今，世尊在何處耶？ {.chi}
+「耆婆賢友，世尊在哪裏呢？」 {.chi}
 
 ---
 
@@ -591,7 +592,7 @@ On arrival, he asked Jivaka: {.eng}
 
 「大王！這是世尊，大王！靠著中央柱子面向東而坐，在比丘僧團前面的，這是世尊。」 {.chi}
 
-「大王！世尊在彼處，大王！世尊近中央柱面東，向比丘眾而坐。 {.chi}
+「大王，那位就是世尊了。大王，世尊靠在中央的柱，面向東方，向著比丘僧團坐。」 {.chi}
 
 ---
 
@@ -613,7 +614,7 @@ on reaching him, stood to one side. {.eng}
 
 抵達後，在一旁站立。 {.chi}
 
-詣已，坐於一面。 {.chi}
+阿闍世王前往世尊那裏，站在一邊。 {.chi}
 
 ---
 
@@ -623,7 +624,7 @@ As he was standing there — surveying the community of monks sitting in absolut
 
 在一旁站好後，觀察變得沈默、像清澈湖水的比丘僧團，然後自說優陀那： {.chi}
 
-坐於一面已，摩揭陀國王韋提子阿闍世，面視比丘眾默然靜坐，恰如清澄之湖水，感興而言曰： {.chi}
+他細看這個像清澄湖水那樣謐靜的比丘僧團，於是有感而發，說出感興語： {.chi}
 
 ---
 
@@ -633,7 +634,7 @@ As he was standing there — surveying the community of monks sitting in absolut
 
 「願我的男孩生賢具備現在這比丘僧團具備的寂靜。」 {.chi}
 
-「今比丘眾具如此之寂靜！予太子優陀夷跋陀亦願具此寂靜。」 {.chi}
+「這裏的比丘很寧靜，願我的優陀夷。跋陀王子也有這份寧靜。」 {.chi}
 
 ---
 
@@ -643,7 +644,7 @@ As he was standing there — surveying the community of monks sitting in absolut
 
 「大王！你想到親情了。」 {.chi}
 
-時，世尊告王曰：「大王！汝亦傾心於所好耶？」 {.chi}
+「大王，你心裏懷著一份父愛嗎？」 {.chi}
 
 ---
 
@@ -653,7 +654,7 @@ As he was standing there — surveying the community of monks sitting in absolut
 
 「大德！男孩生賢對我來說是可愛的， {.chi}
 
-「然，大德！予愛好太子優陀夷跋陀。 {.chi}
+「大德，我很疼愛優陀夷。跋陀王子， {.chi}
 
 ---
 
@@ -663,7 +664,7 @@ May he enjoy the same peace that this community of monks now enjoys!” {.eng}
 
 大德！願我的男孩生賢具備現在這比丘僧團具備的寂靜。」 {.chi}
 
-今比丘眾具如是寂靜，予太子優陀夷跋陀亦願具之。」 {.chi}
+所以說出這感興語。」 {.chi}
 
 ---
 
@@ -675,7 +676,7 @@ Then, bowing down to the Blessed One, and saluting the community of monks with h
 
 那時，摩揭陀國阿闍世王韋提希子向世尊問訊，接著向比丘僧團合掌，然後在一旁坐下。 {.chi}
 
-如是，摩揭陀國王韋提希子阿闍世恭敬頂禮世尊，合掌禮拜比丘眾， {.chi}
+阿闍世王對世尊作禮，對比丘僧團合掌， {.chi}
 
 ---
 
@@ -685,7 +686,7 @@ As he was sitting there, he said to the Blessed One: {.eng}
 
 在一旁坐好後，摩揭陀國阿闍世王韋提希子對世尊這麼說： {.chi}
 
-坐於一面，坐於一面已，白世尊曰： {.chi}
+坐在一邊，然後對世尊說： {.chi}
 
 ---
 
@@ -695,7 +696,7 @@ As he was sitting there, he said to the Blessed One: {.eng}
 
 「大德！我想問世尊一點[問題]，如果世尊允許為我的問題作解答的話。」 {.chi}
 
-「大德！若世尊准許予質問者，予欲請問。」 {.chi}
+「大德，我可否問世尊一些問題呢？世尊可否給我一個機會，解答我的問題呢？」 {.chi}
 
 ---
 
@@ -705,7 +706,7 @@ As he was sitting there, he said to the Blessed One: {.eng}
 
 「大王！問你想問的問題。」 {.chi}
 
-「大王！隨卿之所欲問。」 {.chi}
+「大王，請隨便問。」 {.chi}
 
 ---
 
@@ -717,7 +718,7 @@ As he was sitting there, he said to the Blessed One: {.eng}
 
 「大德！如這些種種技能之處，即：騎象兵、騎馬兵、戰車兵、弓箭兵、軍旗兵、參謀、伙食兵、尊貴王族戰士、突擊兵、大龍戰士、勇士、穿皮革的戰士、死忠奴隸兵、 {.chi}
 
-「大德！〔世間〕有種種技能職業〔者〕，如：調象師、調馬師、車術師、弓術師、軍旗手、元帥、戰士、高級武官、象力士、裝甲兵、奴隸出身者、 {.chi}
+「大德，人們以象伕、馬伕、車伕、弓箭手、旗兵、軍官、炊事兵、王子、戰士、大力士、勇士、盾兵、僕人、 {.chi}
 
 ---
 
@@ -727,7 +728,7 @@ confectioners, barbers, bath attendants, cooks, garland-makers, laundrymen, weav
 
 廚師、理髮師、澡堂師傅、作甜食者、作花環者、洗染匠、編織匠、蘆葦匠、製陶器者、會計師、查驗員，或凡其它像這樣有關種種技能之處， {.chi}
 
-廚師、理髮師、助浴者、製菓者、編髮者、漂白業、織師、製籠者、陶師、計算師、印相師。如是世間所知之種種技能職業者—— {.chi}
+廚師、理髮師、浴師、糖果師、花環師、漂染師、編織師、藤師、陶師、會計師、算師及其他各種工作技能來謀生。 {.chi}
 
 ---
 
@@ -737,7 +738,7 @@ They live off the fruits of their crafts, visible in the here and now. {.eng}
 
 他們在當生中依技能果生活，他們依此使自己快樂、滿足； {.chi}
 
-彼等於現世，享受彼等技能職業之成果，以令自己安樂幸福， {.chi}
+他們在現生之中享用工作的成果，得到快樂和滿足， {.chi}
 
 ---
 
@@ -747,7 +748,7 @@ They give pleasure and refreshment to themselves, to their parents, wives, and c
 
 使父母快樂、滿足；使妻兒快樂、滿足；使朋友與同僚快樂、滿足， {.chi}
 
-令父母安樂幸福，令妻子安樂幸福，令朋友安樂幸福。 {.chi}
+使父母、妻子、子女、親友得到快樂和滿足； {.chi}
 
 ---
 
@@ -757,7 +758,7 @@ They put in place an excellent presentation of offerings to brahmans and contemp
 
 對沙門、婆羅門建立目標崇高的、天的、安樂果報的、導向天界的供養， {.chi}
 
-以此，向沙門、婆羅門行布施，得尊勝天界安隱之福報。 {.chi}
+他們用工作的成果布施、護持沙門婆羅門，以得投生天上的快樂果報。 {.chi}
 
 ---
 
@@ -767,7 +768,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 同樣的，大德！你能告知當生直接可見的沙門果嗎？」 {.chi}
 
-大德！如是，得見沙門〔修行〕現世之果報耶？ {.chi}
+大德，你能否也解說一下，沙門在現生之中的成果呢？」 {.chi}
 
 ---
 
@@ -779,7 +780,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 「大王！你自證在其他沙門、婆羅門處問過這些問題嗎？」 {.chi}
 
-「大王！曾記憶以此質問其他之沙門、婆羅門否？」 {.chi}
+「大王，你曾否向其他沙門婆羅門問過這個問題呢？」 {.chi}
 
 ---
 
@@ -789,7 +790,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 「大德！我自證在其他沙門、婆羅門處問過這些問題。」 {.chi}
 
-「然，大德！予記憶曾以此質問其他沙門、婆羅門。」 {.chi}
+「大德，我記得曾經向其他沙門婆羅門問過這個問題。」 {.chi}
 
 ---
 
@@ -799,7 +800,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 「大王！但，他們怎麼解答呢？如果對你不麻煩的話，請說。」 {.chi}
 
-「然者，若大王不介意者，請依彼等所答而述之。」 {.chi}
+「大王，如果你不介意的話，可否告訴我他們怎樣解答呢？」 {.chi}
 
 ---
 
@@ -809,7 +810,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 「大德！對我不麻煩，當與世尊或像世尊這樣的人同坐時。」 {.chi}
 
-「大德！我不介意於世尊或在坐如世尊者之處說此。」 {.chi}
+「大德，我不介意告訴世尊或如世尊那樣的人。」 {.chi}
 
 ---
 
@@ -819,7 +820,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 「那樣的話，大王！請說。」 {.chi}
 
-「然，大王！請述之。」 {.chi}
+「大王，既然這樣，請你說吧。」 {.chi}
 
 ---
 
@@ -831,7 +832,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 「大德！這裡，有一次，我去見富蘭那迦葉。 {.chi}
 
-「大德！時，我詣訪不蘭迦葉， {.chi}
+「大德，有一次，我前往富蘭那。迦葉那裏， {.chi}
 
 ---
 
@@ -841,7 +842,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 抵達後與富蘭那迦葉互相歡迎，歡迎與寒暄後，在一旁坐下。 {.chi}
 
-詣已，與彼不蘭迦葉互相交談可感銘之語後，坐於一面。 {.chi}
+和富蘭那。迦葉互相問候，作了一番悅意的交談，坐在一邊， {.chi}
 
 ---
 
@@ -851,7 +852,7 @@ As I was sitting there I asked him: {.eng}
 
 在一旁坐好後，我對富蘭那迦葉這麼說： {.chi}
 
-坐於一面已，我如是言彼曰： {.chi}
+然後對富蘭那。迦葉說： {.chi}
 
 ---
 
@@ -861,7 +862,7 @@ As I was sitting there I asked him: {.eng}
 
 『迦葉先生！如這些種種技能之處，即：騎象兵、騎馬兵、戰車兵、弓箭兵、軍旗兵、參謀、伙食兵、尊貴王族戰士、突擊兵、大龍戰士、勇士、穿皮革的戰士、死忠奴隸兵、 {.chi}
 
-『迦葉！〔世間〕有種種技能職業〔者〕。如：調象師、調馬師、車術師、軍旗手、元帥、戰士、高級武官、象力士、裝甲兵、奴隸出身者、 {.chi}
+『迦葉賢者，人們以象伕、馬伕、車伕、弓箭手、旗兵、軍官、炊事兵、王子、戰士、大力士、勇士、盾兵、僕人、 {.chi}
 
 ---
 
@@ -871,7 +872,7 @@ As I was sitting there I asked him: {.eng}
 
 廚師、理髮師、澡堂師傅、作甜食者、作花環者、洗染匠、編織匠、蘆葦匠、製陶器者、會計師、查驗員，或凡其它像這樣有關種種技能之處， {.chi}
 
-廚師、理髮師、助浴者、製菓者、漂白業、織師、製籠者、陶師、計算師、印相師。如是世間所知之種種技能職業者—— {.chi}
+廚師、理髮師、浴師、糖果師、花環師、漂染師、編織師、藤師、陶師、會計師、算師及其他各種工作技能來謀生。 {.chi}
 
 ---
 
@@ -881,7 +882,7 @@ They live off the fruits of their crafts, visible in the here and now... {.eng}
 
 他們在當生中依技能果生活， {.chi}
 
-彼等於現世，享受彼等技能職業之成果， {.chi}
+他們在現生之中享用工作的成果， {.chi}
 
 ---
 
@@ -891,7 +892,7 @@ te tena attānaṃ sukhenti pīṇenti, mātāpitaro sukhenti pīṇenti, puttad
 
 他們依此使自己快樂、滿足；使父母快樂、滿足；使妻兒快樂、滿足；使朋友與同僚快樂、滿足，對沙門、婆羅門建立目標崇高的、天的、安樂果報的、導向天界的供養， {.chi}
 
-以令自己安樂幸福，令父母安樂幸福，令妻子安樂幸福，令朋友安樂幸福。以此，向沙門、婆羅門行布施，得尊勝天界安穩之福報。 {.chi}
+得到快樂和滿足，使父母、妻子、子女、親友得到快樂和滿足；他們用工作的成果布施、護持沙門婆羅門，以得投生天上的快樂果報。 {.chi}
 
 ---
 
@@ -901,7 +902,7 @@ Is it possible, venerable sir, to point out a similar fruit of the contemplative
 
 同樣地，迦葉先生！你能告知當生直接可見的沙門果嗎？』 {.chi}
 
-迦葉！得見沙門〔修行〕現世之果報耶？』 {.chi}
+迦葉賢者，你能否也解說一下，沙門在現生之中的成果呢？』 {.chi}
 
 ---
 
@@ -913,7 +914,7 @@ Evaṃ vutte, bhante, pūraṇo kassapo maṃ etadavoca: {.pali}
 
 大德！當這麼說時，富蘭那迦葉對我這麼說： {.chi}
 
-大德！如是問已，不蘭迦葉如次言我曰： {.chi}
+「大德，當我說了這番話後，富蘭那。迦葉對我說： {.chi}
 
 ---
 
@@ -923,7 +924,7 @@ Evaṃ vutte, bhante, pūraṇo kassapo maṃ etadavoca: {.pali}
 
 『大王！作、使他作，切斷、使他切斷，折磨拷打、使他折磨拷打，悲傷、使他悲傷，疲累、使他疲累，悸動、使他悸動， {.chi}
 
-『大王！實然，作者、令作者、斬人、令斬者、煎烤、令煎烤、悲惱、令悲惱、戰慄、令戰慄、 {.chi}
+『大王，自己親手做或教別人做以下的事情：斬殺、燒殺、使人悲傷、使人疲累、使人顫抖、 {.chi}
 
 ---
 
@@ -933,7 +934,7 @@ in taking life, taking what is not given, breaking into houses, plundering wealt
 
 殺生，未給予而取、入侵人家、奪走掠奪物、攔路搶劫，誘拐人妻，說虛妄：無惡被作， {.chi}
 
-令殺害生命、令取不與者、破墻串壁而入〔他家〕者、掠奪者、竊盜者、劫奪者、姦通他妻者、妄語者、〔自作教他作〕此等者，無犯何等罪惡。 {.chi}
+傷害生命、偷盜、搶劫、爆竊、攔途截劫、侵犯別人妻子、說妄語等都不是作惡。 {.chi}
 
 ---
 
@@ -943,7 +944,7 @@ If with a razor-edged disk one were to turn all the living beings on this earth 
 
 如果以剃刀輪周邊使在這大地上的生類成為一肉聚、一肉堆，從此因緣而無惡，無惡的[後果]傳來；  {.chi}
 
-若有人以尖銳之利刀，將此地上之眾生，作為一肉聚、一肉堆者，由此因緣，無罪惡、亦無罪惡之果報。 {.chi}
+即使在車輪邊緣裝上利刃到處行走，把地上的眾生切割成一堆堆肉，這也沒有惡的因緣，不會有惡報到來。 {.chi}
 
 ---
 
@@ -953,7 +954,7 @@ Even if one were to go along the right bank of the Ganges, killing and getting o
 
 如果走恒河的南岸，殺、屠殺，切斷、使他切斷，折磨拷打、使他折磨拷打，從此因緣而無惡，無惡的[後果]傳來； {.chi}
 
-若彼於恒河之南岸，行殺戮、又令殺戮、斬人、令斬者、煎烤、令煎烤者，由此因緣，無罪惡、無罪惡之果報。 {.chi}
+若去恆河南岸殺人、屠殺，斬殺、教別人斬殺，燒殺、教別人燒殺，這也沒有惡的因緣，不會有惡報到來； {.chi}
 
 ---
 
@@ -963,7 +964,7 @@ Even if one were to go along the left bank of the Ganges, giving and getting oth
 
 如果走恒河的北岸，布施、使他布施，供養、使他供養，從此因緣而無福德，無福德的[後果]傳來；  {.chi}
 
-若人於恒河之北岸，行布施、令布施、祭祀、令祭祀，由此因緣，無功德、無功德之果報。 {.chi}
+再去恆河北岸布施、教別人布施，祭祀、教別人祭祀，這也沒有福的因緣，不會有福報到來。 {.chi}
 
 ---
 
@@ -973,7 +974,7 @@ Through generosity, self-control, restraint, and truthful speech there is no mer
 
 依布施，依調御，依抑制，依說真實，從此因緣而無福德，無福德的[後果]傳來。』 {.chi}
 
-雖因布施、調御、禁戒、實語，由此因緣，無功德、無功德之果報。 {.chi}
+布施、自我調伏、自我節制、說真話等沒有福，不會有福報到來。』 {.chi}
 
 ---
 
@@ -985,7 +986,7 @@ Itthaṃ kho me, bhante, pūraṇo kassapo sandiṭṭhikaṃ sāmaññaphalaṃ
 
 大德！像這樣，當富蘭那迦葉被詢問直接可見的沙門果時，他回答我不作業。 {.chi}
 
-大德！如是，實問沙門〔修行〕現世之果報，不蘭迦葉，而答非業〔無作用。 {.chi}
+「大德，我問富蘭那。迦葉有關沙門現生成果的問題，但他卻向我解釋否定善惡業報的教理。 {.chi}
 
 ---
 
@@ -995,7 +996,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
-大德！猶如，問菴羅樹之果實，而答以羅孛闍（麵包樹）果。問羅孛闍樹之果實，而答以菴羅樹果。 {.chi}
+大德，就正如被問到芒果時卻解釋麵包果，或被問到麵包果時卻解釋芒果； {.chi}
 
 ---
 
@@ -1005,7 +1006,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 同樣的，大德！當富蘭那迦葉被詢問直接可見的沙門果時，他回答我不作業。 {.chi}
 
-大德！如是，實問沙門〔修行〕現世之果報，不蘭迦葉而答以非業。 {.chi}
+同樣地，我問富蘭那。迦葉有關沙門現生成果的問題，但他卻向我解釋否定善惡業報的教理。 {.chi}
 
 ---
 
@@ -1015,7 +1016,7 @@ The thought occurred to me: ‘How can anyone like me think of disparaging a bra
 
 大德！我這麼想：『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』 {.chi}
 
-然，大德！我生起如次之想念：『實如余者，對住我領內之沙門、婆羅門，應如何想與不愉快焉？ {.chi}
+我心想：『像我這樣的人為什麼也會對自己國土的沙門婆羅門心生厭惡呢？』 {.chi}
 
 ---
 
@@ -1025,7 +1026,7 @@ Yet I neither delighted in Purana Kassapa‘s words nor did I protest against th
 
 大德！我對那富蘭那迦葉所說既不歡喜，也沒苛責。 {.chi}
 
-大德！是故我對彼之言說，不稱讚亦不訶責。 {.chi}
+「大德，我對富蘭那。迦葉的話既不歡喜也不責難； {.chi}
 
 ---
 
@@ -1035,7 +1036,7 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
-不稱讚亦不訶責，而我內心甚抱不滿，不發任何不滿之言，平靜聽彼所說，不敬重此，起座而出 {.chi}
+我的內心不高興，但沒說不高興的話；我對富蘭那。迦葉的話不受持也不駁斥，之後起座離去。 {.chi}
 
 ---
 
@@ -1047,7 +1048,9 @@ Ekamidāhaṃ, bhante, samayaṃ yena makkhali gosālo tenupasaṅkamiṃ; upasa
 
 「大德！這裡，有一次，我去見末迦利瞿舍羅。抵達後與末迦利瞿舍羅互相歡迎， {.chi}
 
-大德！一時，我詣訪末伽梨瞿舍羅。 {.chi}
+「大德，有一次，我前往末伽梨。拘舍梨那裏，和末伽梨。拘舍梨互相問候，作了
+
+一番悅意的交談， {.chi}
 
 ---
 
@@ -1057,7 +1060,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 歡迎與寒暄後，在一旁坐下。 {.chi}
 
-詣已，與彼交談友誼之語後，坐於一面 {.chi}
+坐在一邊， {.chi}
 
 ---
 
@@ -1067,7 +1070,7 @@ As I was sitting there I asked him: {.eng}
 
 在一旁坐好後，我對末迦利瞿舍羅這麼說： {.chi}
 
-坐於一面已，我如是言彼曰： {.chi}
+然後對末伽梨。拘舍梨說： {.chi}
 
 ---
 
@@ -1089,7 +1092,7 @@ Evaṃ vutte, bhante, makkhali gosālo maṃ etadavoca: {.pali}
 
 大德！當這麼說時，末迦利瞿舍羅對我這麼說： {.chi}
 
-大德！如是問時，末伽梨瞿舍羅，如次言我曰： {.chi}
+「大德，當我說了這番話後，末伽梨。拘舍梨對我說： {.chi}
 
 ---
 
@@ -1099,7 +1102,7 @@ Evaṃ vutte, bhante, makkhali gosālo maṃ etadavoca: {.pali}
 
 『大王！對眾生的雜染來說，沒有因沒有緣，無因無緣眾生被污染； {.chi}
 
-『大王！諸有情之雜染是無因無緣，無因無緣諸有情而雜染。 {.chi}
+『大王，沒有因、沒有緣令眾生污染，眾生的污染是沒有因、沒有緣的； {.chi}
 
 ---
 
@@ -1119,7 +1122,7 @@ There is nothing self-caused, nothing other-caused, nothing human-caused. There 
 
 沒有自作者，沒有他作者，沒有力，沒有活力，沒有人的力量，沒有人的努力； {.chi}
 
-非自作、非他作、非餘人作，無力、無精進、無體力亦無氣力。 {.chi}
+沒有因、沒有緣令眾生清淨，眾生的清淨是沒有因、沒有緣的。沒有自己所作，沒有他人所作，沒有由人所作，沒有力，沒有精進，沒有人的奮勇，沒有人的進取。 {.chi}
 
 ---
 
@@ -1129,7 +1132,7 @@ All living beings, all life, all beings, all souls are powerless, devoid of stre
 
 一切眾生、一切生物類、一切生存類、一切生命無自在力，無力，無活力變化命運、本性的結合而在六等級中感受苦樂。 {.chi}
 
-一切之有情，一切之生物，一切之有類，一切之命者〔靈魂〕，無自在力、無力無精進，由〔自然〕之決定、結合、由自然之性質而互相變化，如是於六種階級感受苦樂。 {.chi}
+所有眾生、所有生命都沒有權、沒有力、沒有精進，一起命中注定地在六道之中生存，感受苦和樂。 {.chi}
 
 ---
 
@@ -1139,7 +1142,7 @@ Cuddasa kho panimāni yonipamukhasatasahassāni saṭṭhi ca satāni cha ca sat
 
 而有這一百四十萬最上首之胎，以及六千與六百，有五百種業、五種業、三種業、業、半業， {.chi}
 
-實於百四十萬種胎為首，及有六千六百種胎。有五百種業、五種業、三種業、一業、半業。 {.chi}
+「『有一百四十萬種、六千種和六百種主要的生命起源，五百種、五種、三種和半種業， {.chi}
 
 ---
 
@@ -1149,7 +1152,7 @@ There are 62 pathways, 62 sub-eons, six great classes of birth, eight classes of
 
 有六十二種之道跡，六十二種之中劫，六種之階級，八種之人地。四千九百種生業、四千九百遊行者、四千九百龍住處，二千根、三千地獄、三十六塵界、 {.chi}
 
-有六十二道、六十二中間劫、六等級、人之八地、四千九百種邪命外道、四千九百種遊行者、四千九百種龍之住所、二千根、三千地獄、三十六塵界、 {.chi}
+六十二種修習途徑，六十二種小劫，六種人，八種人生時期，四千九百種謀生方式，四千九百種遊方者，四千九百種龍的住處，二千種根，三千種地獄，三十六種塵界， {.chi}
 
 ---
 
@@ -1159,7 +1162,7 @@ seven spheres of percipient beings, seven spheres of non-percipient beings, seve
 
 七有想胎、七無想胎、七無結胎、七種天、七種人、七種惡鬼、七座湖、七種結節、七百種結節、七座斷崖又七百座斷崖、七種夢、七百種夢、八百四十萬大劫， {.chi}
 
-七想胎、七無想胎、七節胎、七天、七人、七鬼、七池、七林、七百林、七崖、七百崖、七夢，有八百四十萬大劫； {.chi}
+七種有想胎藏，七種無想胎藏，七種無結胎藏，七種天，七種人，七種毗舍遮鬼，七種湖，七種結，七百種結，七種懸崖，七百種懸崖，七種夢，七百種夢； {.chi}
 
 ---
 
@@ -1169,7 +1172,7 @@ Having transmigrated and wandered on through these, the wise and the foolish ali
 
 不論愚者或賢智者，流轉輪迴後，將得到苦的結束， {.chi}
 
-於此間，愚者、智者流轉輪迴已，為苦之終止。 {.chi}
+愚人和智者在當中八萬四千大劫輪迴生死，之後苦便會終結。 {.chi}
 
 ---
 
@@ -1179,7 +1182,7 @@ Tattha natthi “imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena v�
 
 在那裡，「我將不以這戒德、禁戒、苦行、梵行使未熟之業成熟，或者以體驗再體驗除去成熟之業。」 {.chi}
 
-於此期間，謂實無：「我以戒行、苦行、梵行，令成熟未熟業，或忍受已熟業以作滅盡。」 {.chi}
+「『發心修戒、苦行、梵行不能使未成熟的業得到成熟，不能使已成熟的業得到終結。 {.chi}
 
 ---
 
@@ -1189,7 +1192,7 @@ Pleasure and pain are measured out, the wandering-on is fixed in its limits. The
 
 樂與苦已分配，輪迴的界限已定，不減少或增加，不超前或落後， {.chi}
 
-如是，實以斗定量苦、樂，輪迴有終限，無盛、衰，無增、減。 {.chi}
+在輪迴中的苦和樂不可計量；輪迴是限定不變的，不會有延長或縮短，不會有提昇或下墮。 {.chi}
 
 ---
 
@@ -1199,7 +1202,7 @@ Just as a ball of string, when thrown, comes to its end simply by unwinding, in 
 
 猶如當線球投出，它逃離就被解開。同樣的，愚者或賢智者流轉輪迴後，將得到苦的結束。』  {.chi}
 
-猶如〔於高處執絲〕球，以擲下絲球，令解盡為止，愚者及智者，輪迴流轉已，當為苦之滅盡。』 {.chi}
+就正如執著繩頭來拋出一個繩球，當繩滾盡的時候便會停下來；同樣地，愚人和智者八萬四千大劫輪迴生死，之後苦便會終結。』 {.chi}
 
 ---
 
@@ -1209,7 +1212,7 @@ Itthaṃ kho me, bhante, makkhali gosālo sandiṭṭhikaṃ sāmaññaphalaṃ 
 
 大德！像這樣，當末迦利瞿舍羅被詢問直接可見的沙門果時，他回答我輪迴淨化。 {.chi}
 
-大德！如是問沙門〔修行〕現世之果報時，末伽梨瞿瞿舍羅，而答輪迴之淨化。 {.chi}
+「大德，我問末伽梨。拘舍梨有關沙門現生成果的問題，但他卻向我解釋輪迴達致清淨的教理。 {.chi}
 
 ---
 
@@ -1219,7 +1222,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
-大德！猶如問菴羅樹之果實，說明以羅孛闍果，問羅孛闍之果實，而答以菴羅果。 {.chi}
+大德，就正如被問到芒果時卻解釋麵包果，或被問到麵包果時卻解釋芒果； {.chi}
 
 ---
 
@@ -1229,7 +1232,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 同樣的，大德！當末迦利瞿舍羅被詢問直接可見的沙門果時，他回答我輪迴淨化。 {.chi}
 
-大德！如是，實問沙門〔修行〕現世之果報，而答以輪迴之淨化。 {.chi}
+同樣地，我問末伽梨。拘舍梨有關沙門現生成果的問題，但他卻向我解釋輪迴達致清淨的教理。 {.chi}
 
 ---
 
@@ -1241,7 +1244,7 @@ The thought occurred to me: ‘How can anyone like me think of disparaging a bra
 
 大德！我這麼想：『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』 {.chi}
 
-然，大德！我生如次之想念：『實如余者，對住我領內之沙門、婆羅門，應如何想與不愉快焉？』 {.chi}
+我心想：『像我這樣的人為什麼也會對自己國土的沙門婆羅門心生厭惡呢？』 {.chi}
 
 ---
 
@@ -1251,7 +1254,7 @@ Yet I neither delighted in Makkhali Gosala‘s words nor did I protest against t
 
 大德！我對那末迦利瞿舍羅所說既不歡喜，也沒苛責。 {.chi}
 
-大德！是故我對彼之言說，不稱讚亦不呵責。 {.chi}
+「大德，我對末伽梨。拘舍梨的話既不歡喜也不責難； {.chi}
 
 ---
 
@@ -1261,7 +1264,7 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
-不稱讚亦不呵責，而我內心甚抱不滿，不發任何不滿之言，平靜聽彼所說，不敬重此，起座而出。 {.chi}
+我的內心不高興，但沒說不高興的話；我對末伽梨。拘舍梨的話不受持也不駁斥，之後起座離去。 {.chi}
 
 ---
 
@@ -1273,7 +1276,7 @@ Ekamidāhaṃ, bhante, samayaṃ yena ajito kesakambalo tenupasaṅkamiṃ; {.pa
 
 「大德！這裡，有一次，我去見阿夷多翅舍欽婆羅。 {.chi}
 
-大德！一時，我詣訪阿耆多翅舍欽婆羅。 {.chi}
+「大德，有一次，我前往阿耆多。翅舍欽婆羅那裏， {.chi}
 
 ---
 
@@ -1283,7 +1286,7 @@ on arrival, exchanged courteous greetings with him. {.eng}
 
 抵達後與阿夷多翅舍欽婆羅互相歡迎， {.chi}
 
-詣已，與彼交談友誼之語， {.chi}
+和阿耆多。翅舍欽婆羅互相問候， {.chi}
 
 ---
 
@@ -1293,7 +1296,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 歡迎與寒暄後，在一旁坐下。 {.chi}
 
-與彼交談友誼之語後，坐於一面， {.chi}
+作了一番悅意的交談，坐在一邊， {.chi}
 
 ---
 
@@ -1303,7 +1306,7 @@ As I was sitting there I asked him: {.eng}
 
 在一旁坐好後，我對阿夷多翅舍欽婆羅這麼說： {.chi}
 
-坐於一面已，我如次言彼曰： {.chi}
+然後對阿耆多。翅舍欽婆羅說： {.chi}
 
 ---
 
@@ -1313,7 +1316,7 @@ As I was sitting there I asked him: {.eng}
 
 『阿夷多先生！如這些種種技能之處，……（中略）阿夷多先生！你能告知當生直接可見的沙門果嗎？』 {.chi}
 
-『阿耆多翅舍欽婆羅！〔世間〕有種種技能職業。……阿耆多翅舍欽婆羅！如是得見沙門〔修行〕現世之果報耶？』 {.chi}
+『阿耆多賢者，人們以象伕⋯⋯你能否也解說一下，沙門在現生之中的成果呢？』 {.chi}
 
 ---
 
@@ -1325,7 +1328,7 @@ Evaṃ vutte, bhante, ajito kesakambalo maṃ etadavoca: {.pali}
 
 大德！當這麼說時，阿夷多翅舍欽婆羅對我這麼說： {.chi}
 
-大德！如是問時，阿耆多翅舍欽婆羅，如次言我曰： {.chi}
+「大德，當我說了這番話後，阿耆多。翅舍欽婆羅對我說： {.chi}
 
 ---
 
@@ -1335,7 +1338,7 @@ Evaṃ vutte, bhante, ajito kesakambalo maṃ etadavoca: {.pali}
 
 『大王！無布施，無供養，無供物，無善作的、惡作的業之果與報，無此世，無他世，無母，無父，無化生眾生， {.chi}
 
-『大王！無布施、無供牲、無祭祀，無善、惡業之異熟果，無今世、無他世，無父、無母、無化生之有情， {.chi}
+『大王，沒有布施；沒有祭祀；沒有祭品；沒有苦樂業的果報；沒有今生；沒有他世；沒有父恩；沒有母恩；沒有化生的眾生； {.chi}
 
 ---
 
@@ -1345,7 +1348,7 @@ no brahmans or contemplatives who, faring rightly and practicing rightly, procla
 
 在世間中無正行的、正行道的沙門、婆羅門以證智自作證後而宣說此世、他世； {.chi}
 
-世間無有沙門、婆羅門之正住正行、自知、證知今世他世。 {.chi}
+在世上沒有進入正道、完滿修行的沙門婆羅門，親身以無比智證得有今生和他世。 {.chi}
 
 ---
 
@@ -1355,7 +1358,7 @@ A person is a composite of four primary elements. At death, the earth (in the bo
 
 當四大所成的人死時，地歸於並沒入地身， {.chi}
 
-人由四大種而成，死即地歸還於地身、 {.chi}
+「『人由四大組成，到了命終的時候，地歸還地， {.chi}
 
 ---
 
@@ -1365,7 +1368,7 @@ A person is a composite of four primary elements. At death, the earth (in the bo
 
 水歸於並沒入水身， {.chi}
 
-水歸還於水身、 {.chi}
+水歸還水， {.chi}
 
 ---
 
@@ -1375,7 +1378,7 @@ The fire returns to and merges with the external fire-substance. {.eng}
 
 火歸於並沒入火身， {.chi}
 
-火歸還於火身、 {.chi}
+火歸還火， {.chi}
 
 ---
 
@@ -1385,7 +1388,7 @@ The wind returns to and merges with the external wind-substance. {.eng}
 
 風歸於並沒入風身， {.chi}
 
-風歸還於風身， {.chi}
+風歸還風， {.chi}
 
 ---
 
@@ -1395,7 +1398,7 @@ The sense-faculties scatter into space. " {.eng}
 
 諸根轉入虛空， {.chi}
 
-諸根移入於虛空。 {.chi}
+六根返回虛空； {.chi}
 
 ---
 
@@ -1405,7 +1408,7 @@ Four men, with the bier as the fifth, carry the corpse. {.eng}
 
 [四]人與長椅為第五抬走死者， {.chi}
 
-〔四〕人以擔架為第五，從屍體運往至火葬止， {.chi}
+四個人抬著棺木，而亡者是第五人。 {.chi}
 
 ---
 
@@ -1415,7 +1418,7 @@ Its eulogies are sounded only as far as the charnel ground. {.eng}
 
 念詞一直伴隨到火葬場， {.chi}
 
-雖〔對死者言諸讚〕語，〔但被火化後〕， {.chi}
+到了火化的地方後，亡者的足跡便到此為止， {.chi}
 
 ---
 
@@ -1425,7 +1428,7 @@ The bones turn pigeon-colored. The offerings end in ashes. {.eng}
 
 骨頭成為灰白色，祭品落下， {.chi}
 
-骨成鴿色，供物變為灰。 {.chi}
+只留下白骨和祭品的灰燼。 {.chi}
 
 ---
 
@@ -1435,7 +1438,7 @@ Generosity is taught by idiots. {.eng}
 
 布施即是愚者的教說， {.chi}
 
-布施之說，唯對愚者之所設； {.chi}
+蠢人才會肯定布施等行為， {.chi}
 
 ---
 
@@ -1445,7 +1448,7 @@ The words of those who speak of existence after death are false, empty chatter. 
 
 凡任何說[布施之類]虛無論者，全是虛偽的、虛妄戲論， {.chi}
 
-若說人〔死後〕之存在，此為無根之妄言而已。 {.chi}
+這其實是沒有意義的、錯誤的、沒有用處的。 {.chi}
 
 ---
 
@@ -1455,7 +1458,7 @@ With the break-up of the body, the wise and the foolish alike are annihilated, d
 
 愚者與賢智者以身體的崩解而被斷滅、消失；死後就不存在了。』  {.chi}
 
-愚者及智者，身之死歿，即斷滅、消失，死後沒有任何物之存在。』 {.chi}
+愚人和智者在身壞命終之後便會斷滅，什麼也沒有；死後便不再存在。』 {.chi}
 
 ---
 
@@ -1467,7 +1470,7 @@ Itthaṃ kho me, bhante, ajito kesakambalo sandiṭṭhikaṃ sāmaññaphalaṃ
 
 大德！像這樣，當阿夷多翅舍欽婆羅被詢問直接可見的沙門果時，他回答我斷滅。 {.chi}
 
-大德！如是，實問沙門〔修行〕現世之果報，阿耆多翅舍欽婆羅，而答斷滅論。 {.chi}
+「大德，我問阿耆多。翅舍欽婆羅有關沙門現生成果的問題，但他卻向我解釋斷滅的教理。 {.chi}
 
 ---
 
@@ -1477,7 +1480,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
-大德！猶如問菴羅樹之果實，而答以羅孛闍果；問羅孛闍樹之果實，而答以菴羅樹果。 {.chi}
+大德，就正如被問到芒果時卻解釋麵包果，或被問到麵包果時卻解釋芒果； {.chi}
 
 ---
 
@@ -1487,7 +1490,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 同樣的，大德！當阿夷多翅舍欽婆羅被詢問直接可見的沙門果時，他回答我斷滅。 {.chi}
 
-大德！如是，實問沙門〔修行〕現世之果報，阿耆多翅舍欽婆羅，而答以斷滅論。 {.chi}
+同樣地，我問阿耆多。翅舍欽婆羅有關沙門現生成果的問題，但他卻向我解釋斷滅的教理。 {.chi}
 
 ---
 
@@ -1497,7 +1500,7 @@ The thought occurred to me: ‘How can anyone like me think of disparaging a bra
 
 大德！我這麼想：『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』  {.chi}
 
-然，大德！我生起如次之想念：『實如余者，對住我領內之沙門、婆羅門，應如何想與不愉快焉？』 {.chi}
+我心想：『像我這樣的人為什麼也會對自己國土的沙門婆羅門心生厭惡呢？』 {.chi}
 
 ---
 
@@ -1507,7 +1510,7 @@ Yet I neither delighted in Ajita Kesakambalin‘s words nor did I protest agains
 
 大德！我對那阿夷多翅舍欽婆羅所說既不歡喜，也沒苛責。 {.chi}
 
-大德！是故我對彼之言說，不稱讚亦不呵責。 {.chi}
+「大德，我對阿耆多。翅舍欽婆羅的話既不歡喜也不責難； {.chi}
 
 ---
 
@@ -1517,7 +1520,7 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
-不稱讚亦不呵責，而我內心甚抱不滿，不發任何不滿之言，平靜聽彼所說，不敬重此，起座而出。 {.chi}
+我的內心不高興，但沒說不高興的話；我對阿耆多。翅舍欽婆羅的話不受持也不駁斥，之後起座離去。 {.chi}
 
 ---
 
@@ -1529,7 +1532,7 @@ Ekamidāhaṃ, bhante, samayaṃ yena pakudho kaccāyano tenupasaṅkamiṃ; {.p
 
 「大德！這裡，有一次，我去見浮陀迦旃延。 {.chi}
 
-大德！一時，我詣訪婆浮陀迦旃延那。 {.chi}
+「大德，有一次，我前往波拘陀。迦旃延那裏， {.chi}
 
 ---
 
@@ -1539,7 +1542,7 @@ on arrival, exchanged courteous greetings with him. {.eng}
 
 抵達後與浮陀迦旃延互相歡迎， {.chi}
 
-詣已，與彼交談友誼之語， {.chi}
+和波拘陀。迦旃延互相問候， {.chi}
 
 ---
 
@@ -1549,7 +1552,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 歡迎與寒暄後，在一旁坐下。 {.chi}
 
-與彼交談友誼之語後，坐於一面， {.chi}
+作了一番悅意的交談，坐在一邊， {.chi}
 
 ---
 
@@ -1559,7 +1562,7 @@ As I was sitting there I asked him: {.eng}
 
 在一旁坐好後，我對浮陀迦旃延這麼說： {.chi}
 
-坐於一面已，我如是言彼曰： {.chi}
+然後對波拘陀。迦旃延說： {.chi}
 
 ---
 
@@ -1569,7 +1572,7 @@ As I was sitting there I asked him: {.eng}
 
 『迦旃延先生！如這些種種技能之處，……（中略）迦旃延先生！你能告知當生直接可見的沙門果嗎？』 {.chi}
 
-『婆浮陀迦旃延那！〔世間〕有種種職業者…… 〔詳如一六節〕……婆浮陀迦旃延那！如是得見沙門〔修行〕現世之果報耶？』 {.chi}
+『迦旃延賢者，人們以象伕⋯⋯你能否也解說一下，沙門在現生之中的成果呢？』 {.chi}
 
 ---
 
@@ -1581,7 +1584,7 @@ Evaṃ vutte, bhante, pakudho kaccāyano maṃ etadavoca: {.pali}
 
 大德！當這麼說時，浮陀迦旃延對我這麼說： {.chi}
 
-大德！如是問時，婆浮陀迦旃延那，如次言我曰： {.chi}
+「大德，當我說了這番話後，波拘陀。迦旃延對我說： {.chi}
 
 ---
 
@@ -1591,7 +1594,7 @@ Evaṃ vutte, bhante, pakudho kaccāyano maṃ etadavoca: {.pali}
 
 『大王！有這七身，是非被作的、非被作種類的、非被創造的、無創造者的、不孕的、如直立的山頂、如直立不動的石柱， {.chi}
 
-『大王！此等七身，非能作、非所作、非能創造、非所創造，無能生產任何物，常住如山頂直立不動之石柱。 {.chi}
+『大王，有七種聚集物，不由人造，不由人創，當中不會有繁衍，像深埋地下的柱那樣堅立不變。 {.chi}
 
 ---
 
@@ -1601,7 +1604,7 @@ that do not alter, do not change, do not interfere with one another, are incapab
 
 它們不動、不變易、不互相加害、不能夠互相[起]或樂或苦或樂與苦， {.chi}
 
-此等不動搖、不轉變、無互相侵害、不導致互相苦樂、亦苦亦樂。 {.chi}
+它們不動搖，不改變，互不妨礙，不會由此帶來苦或樂。 {.chi}
 
 ---
 
@@ -1611,7 +1614,7 @@ Which seven? The earth-substance, the liquid-substance, the fire-substance, the 
 
 哪七個呢？地身、水身、火身、風身、樂、苦，命為第七， {.chi}
 
-... {.chi}
+七種聚集物是什麼呢？就是地、水、火、風、苦、樂、命。 {.chi}
 
 ---
 
@@ -1641,7 +1644,7 @@ Tattha natthi hantā vā ghātetā vā, sotā vā sāvetā vā, viññātā vā 
 
 在那裡，無殺人者、屠殺者、聽者、使之聽者、所識者、使之識者， {.chi}
 
-是故無能殺者，亦無所殺者；無能聞者，無所聞者；無能識者亦無所識者。 {.chi}
+沒有殺生者，沒有教人殺生者；沒有聽聞者，沒有教人聽聞者；沒有知者，沒有教人知者。 {.chi}
 
 ---
 
@@ -1651,7 +1654,7 @@ When one cuts off [another person‘s] head, there is no one taking anyone‘s l
 
 即使以銳利的刀切斷頭，也沒有奪任何生命， {.chi}
 
-若人以利刀截斷他人之頭，無有何人奪何人之生命。 {.chi}
+如果用利劍斬下人頭都沒有殺生這回事， {.chi}
 
 ---
 
@@ -1661,7 +1664,7 @@ It is simply between the seven substances that the sword passes.’ {.eng}
 
 刀只這樣經七身旁邊的空隙進去。』 {.chi}
 
-唯刀劍揮過此七身之間隙而已。』 {.chi}
+這只不過是劍所佔的空間在七種聚集物之中穿過而已。』 {.chi}
 
 ---
 
@@ -1673,7 +1676,7 @@ Itthaṃ kho me, bhante, pakudho kaccāyano sandiṭṭhikaṃ sāmaññaphala�
 
 大德！像這樣，當浮陀迦旃延被詢問直接可見的沙門果時，他回答我無關的。 {.chi}
 
-大德！如是實問沙門〔修行〕現世之果報，婆浮陀迦旃延那，而答由異而異。 {.chi}
+「大德，我問波拘陀。迦旃延有關沙門現生成果的問題，但他卻向我解釋七種不同聚集物的教理。 {.chi}
 
 ---
 
@@ -1683,7 +1686,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
-大德！猶如問菴羅樹之果實，而答以羅孛闍果。 {.chi}
+大德，就正如被問到芒果時卻解釋麵包果，或被問到麵包果時卻解釋芒果； {.chi}
 
 ---
 
@@ -1693,7 +1696,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 同樣的，大德！當浮陀迦旃延被詢問直接可見的沙門果時，他回答我無關的。 {.chi}
 
-大德！如是，實問沙門〔修行〕現世之果報，婆浮陀迦旃延那，而答由異而異。 {.chi}
+同樣地，我問波拘陀。迦旃延有關沙門現生成果的問題，但他卻向我解釋七種不同聚集物的教理。 {.chi}
 
 ---
 
@@ -1703,7 +1706,7 @@ The thought occurred to me: {.eng}
 
 大德！我這麼想： {.chi}
 
-然，大德！我生起如次之想念： {.chi}
+我心想： {.chi}
 
 ---
 
@@ -1713,7 +1716,7 @@ The thought occurred to me: {.eng}
 
 『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』 {.chi}
 
-『實如余者，對住我領內之沙門、婆羅門，應如何想與不愉快焉？』 {.chi}
+『像我這樣的人為什麼也會對自己國土的沙門婆羅門心生厭惡呢？』 {.chi}
 
 ---
 
@@ -1723,7 +1726,7 @@ Yet I neither delighted in Pakudha Kaccayana‘s words nor did I protest against
 
 大德！我對那浮陀迦旃延所說既不歡喜，也沒苛責。 {.chi}
 
-大德！是故我對彼之言說，不稱讚亦不呵責。 {.chi}
+「大德，我對波拘陀。迦旃延的話既不歡喜也不責難； {.chi}
 
 ---
 
@@ -1733,7 +1736,7 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
-不稱讚亦不呵責，而我內心甚抱不滿，不發任何不滿之言，平靜聽彼所說，不敬重此，起座而出。 {.chi}
+我的內心不高興，但沒說不高興的話；我對波拘陀。迦旃延的話不受持也不駁斥，之後起座離去。 {.chi}
 
 ---
 
@@ -1745,7 +1748,7 @@ Ekamidāhaṃ, bhante, samayaṃ yena nigaṇṭho nāṭaputto tenupasaṅkami�
 
 「大德！這裡，有一次，我去見尼乾陀若提子。 {.chi}
 
-大德！一時，我詣訪尼乾子。 {.chi}
+「大德，有一次，我前往尼乾陀。若提子那裏， {.chi}
 
 ---
 
@@ -1755,7 +1758,7 @@ on arrival, exchanged courteous greetings with him. {.eng}
 
 抵達後與尼乾陀若提子互相歡迎， {.chi}
 
-詣已，與彼交換友誼之語， {.chi}
+和尼乾陀。若提子互相問候， {.chi}
 
 ---
 
@@ -1765,7 +1768,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 歡迎與寒暄後，在一旁坐下。 {.chi}
 
-與彼交換友誼之語後，坐於一面， {.chi}
+作了一番悅意的交談，坐在一邊， {.chi}
 
 ---
 
@@ -1775,7 +1778,7 @@ As I was sitting there I asked him: {.eng}
 
 在一旁坐好後，我對尼乾陀若提子這麼說： {.chi}
 
-坐於一面已，我如是言彼曰： {.chi}
+然後對尼乾陀。若提子說： {.chi}
 
 ---
 
@@ -1785,7 +1788,7 @@ As I was sitting there I asked him: {.eng}
 
 『阿基毘舍那先生！如這些種種技能之處，……（中略）阿基毘舍那先生！你能告知當生直接可見的沙門果嗎？』 {.chi}
 
-『尼乾子！〔世間〕有種種職業者……〔詳如一六節〕……尼乾子！如是得見沙門〔修行〕現世之果報耶？』 {.chi}
+『火種賢者，人們以象伕⋯⋯你能否也解說一下，沙門在現生之中的成果呢？』 {.chi}
 
 ---
 
@@ -1797,7 +1800,7 @@ Evaṃ vutte, bhante, nigaṇṭho nāṭaputto maṃ etadavoca: {.pali}
 
 大德！當這麼說時，尼乾陀若提子對我這麼說： {.chi}
 
-大德！如是問時，尼乾子，如次言我曰： {.chi}
+「大德，當我說了這番話後，尼乾陀。若提子對我說： {.chi}
 
 ---
 
@@ -1807,7 +1810,7 @@ Evaṃ vutte, bhante, nigaṇṭho nāṭaputto maṃ etadavoca: {.pali}
 
 『大王！這裡，尼乾陀有四種禁戒自制防護， {.chi}
 
-『大王！尼乾子〔離繁者〕行四種防護禁戒。 {.chi}
+『大王，尼乾陀是四種律儀的約束者。 {.chi}
 
 ---
 
@@ -1817,7 +1820,7 @@ And how is the Nigantha restrained with the fourfold restraint? {.eng}
 
 大王！尼乾陀如何有四種禁戒自制防護呢？ {.chi}
 
-大王！尼乾子，如何行四種防護禁戒耶？ {.chi}
+什麼是四種律儀的約束者呢？ {.chi}
 
 ---
 
@@ -1827,7 +1830,7 @@ There is the case where the Nigantha is obstructed by all waters, conjoined with
 
 大王！這裡，尼乾陀有以所有的防止防止，以所有的防止軛制，以所有的防止除去，以所有的防止遍滿， {.chi}
 
-大王！尼乾子，〔避〕一切水，以防（殺生之惡）；以〔避〕一切水，控制（殺生之）〔惡〕；以〔避〕一切水，抖落〔惡〕；以〔避〕一切水觸，達〔制惡〕。 {.chi}
+大王，尼乾陀禁止所有惡，尼乾陀離開所有惡，尼乾陀除去所有惡，尼乾陀不被所有惡所滲入。 {.chi}
 
 ---
 
@@ -1837,7 +1840,7 @@ This is how the Nigantha is restrained with the fourfold restraint. {.eng}
 
 大王！尼乾陀有這麼四種禁戒自制防護。 {.chi}
 
-大王！如是尼乾子行四種防護禁戒。 {.chi}
+尼乾陀因為是四種律儀的約束者， {.chi}
 
 ---
 
@@ -1847,7 +1850,7 @@ When the Nigantha — a knotless one — is restrained with such a fourfold rest
 
 大王！當尼乾陀有這麼四種禁戒自制防護時，大王！這被稱為已自我達成、已自我禁戒、已自我住立的尼乾陀。』 {.chi}
 
-大王！是故尼乾子被稱為心最高之自達、自抑制、自在者。』 {.chi}
+所以是一個無結者，自我提昇者，自我節制者，自我確立者。』 {.chi}
 
 ---
 
@@ -1859,7 +1862,7 @@ Itthaṃ kho me, bhante, nigaṇṭho nāṭaputto sandiṭṭhikaṃ sāmañña
 
 大德！像這樣，當尼乾陀若提子被詢問直接可見的沙門果時，他回答我四種禁戒自制防護。 {.chi}
 
-大德！如是實問沙門〔修行〕現世之果報，尼乾子，而答以四種禁戒。 {.chi}
+「大德，我問尼乾陀。若提子有關沙門現生成果的問題，但他卻向我解釋四種律儀的教理。 {.chi}
 
 ---
 
@@ -1869,7 +1872,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
-大德！猶如問菴羅樹之果實，而答以羅孛闍果。 {.chi}
+大德，就正如被問到芒果時卻解釋麵包果，或被問到麵包果時卻解釋芒果； {.chi}
 
 ---
 
@@ -1879,7 +1882,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 同樣的，大德！當尼乾陀若提子被詢問直接可見的沙門果時，他回答我四種禁戒自制防護。 {.chi}
 
-大德！如是，實問沙門〔修行〕現世之果報，尼乾子而答以四種禁戒。 {.chi}
+同樣地，我問尼乾陀。若提子有關沙門現生成果的問題，但他卻向我解釋四種律儀的教理。 {.chi}
 
 ---
 
@@ -1889,7 +1892,7 @@ The thought occurred to me: {.eng}
 
 大德！我這麼想： {.chi}
 
-然，大德！我生起如次之想念： {.chi}
+我心想： {.chi}
 
 ---
 
@@ -1899,7 +1902,7 @@ The thought occurred to me: {.eng}
 
 『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』 {.chi}
 
-『實如余者，對住我領內之沙門、婆羅門，應如何想與不愉快焉？』 {.chi}
+『像我這樣的人為什麼也會對自己國土的沙門婆羅門心生厭惡呢？』 {.chi}
 
 ---
 
@@ -1909,7 +1912,7 @@ Yet I neither delighted in Nigantha Nataputta‘s words nor did I protest agains
 
 大德！我對那尼乾陀若提子所說既不歡喜，也沒苛責。 {.chi}
 
-大德！是故我對彼之言說，不稱讚亦不訶責。 {.chi}
+「大德，我對尼乾陀。若提子的話既不歡喜也不責難； {.chi}
 
 ---
 
@@ -1919,7 +1922,7 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
-不稱讚亦不呵責，而我內心甚抱不滿，不發任何不滿之言，平靜聽彼所說，不敬重此，起座而出。 {.chi}
+我的內心不高興，但沒說不高興的話；我對尼乾陀。若提子的話不受持也不駁斥，之後起座離去。 {.chi}
 
 ---
 
@@ -1931,7 +1934,7 @@ Ekamidāhaṃ, bhante, samayaṃ yena sañcayo belaṭṭhaputto tenupasaṅkami
 
 「大德！這裡，有一次，我去見散惹耶毘羅梨子。 {.chi}
 
-大德！一時，我詣訪散若夷毘羅梨弗。 {.chi}
+「大德，有一次，我前往散若耶。毗羅胝子那裏， {.chi}
 
 ---
 
@@ -1941,7 +1944,7 @@ on arrival, exchanged courteous greetings with him. {.eng}
 
 抵達後與散惹耶毘羅梨子互相歡迎， {.chi}
 
-詣已，與彼交換友誼之語， {.chi}
+和散若耶。毗羅胝子互相問候， {.chi}
 
 ---
 
@@ -1951,7 +1954,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 歡迎與寒暄後，在一旁坐下。 {.chi}
 
-與彼交換友誼之語後，坐於一面， {.chi}
+作了一番悅意的交談，坐在一邊， {.chi}
 
 ---
 
@@ -1961,7 +1964,7 @@ As I was sitting there I asked him: {.eng}
 
 在一旁坐好後，我對散惹耶毘羅梨子這麼說： {.chi}
 
-坐於一面已。我如是言彼曰： {.chi}
+然後對散若耶。毗羅胝子說： {.chi}
 
 ---
 
@@ -1971,7 +1974,7 @@ As I was sitting there I asked him: {.eng}
 
 『散惹耶毘羅梨子先生！如這些種種技能之處，……（中略）迦旃延先生！你能告知當生直接可見的沙門果嗎？』 {.chi}
 
-『散若夷毘羅梨弗！〔世間〕有種種業者……〔詳如一六節〕……散若夷毘羅梨弗！如何得見沙門〔修行〕現世之果報耶？』 {.chi}
+『散若耶賢者，人們以象伕⋯⋯你能否也解說一下，沙門在現生之中的成果呢？』 {.chi}
 
 ---
 
@@ -1983,7 +1986,7 @@ Evaṃ vutte, bhante, sañcayo belaṭṭhaputto maṃ etadavoca: {.pali}
 
 大德！當這麼說時，散惹耶毘羅梨子對我這麼說： {.chi}
 
-大德！如是問時，散若夷毘羅梨弗，如次言我曰： {.chi}
+「大德，當我說了這番話後，散若耶。毗羅胝子對我說： {.chi}
 
 ---
 
@@ -1993,7 +1996,7 @@ Evaṃ vutte, bhante, sañcayo belaṭṭhaputto maṃ etadavoca: {.pali}
 
 『如果像這樣問我：「有他世嗎？」如果我像這樣想：「有他世。」我應該像這樣回答你：「有他世。」 {.chi}
 
-『汝若問我「他世有耶？」我若以為「他世有」者，當答汝「他世有。」 {.chi}
+『大王，如果你問我是否有來世；我認為有來世的話便說有來世， {.chi}
 
 ---
 
@@ -2003,7 +2006,7 @@ I don‘t think so. I don‘t think in that way. I don‘t think otherwise. I do
 
 但我不說：「是這樣。」我也不說：「是那樣。」我也不說：「是其他的。」我也不說：「不是。」我也不說：「非不是。」 {.chi}
 
-然，我不如是想、不想如此、亦不想其他、不想非如此、亦不想非非如此。 {.chi}
+但我不是這樣的想法，也不是其他的想法，我並非不是這樣的想法，也不是並非不是這樣的想法。 {.chi}
 
 ---
 
@@ -2013,7 +2016,7 @@ If you asked me if there isn‘t another world... both is and isn‘t... neither
 
 沒有他世……（中略）有且沒有他世……（中略）既非有也非沒有他世……（中略） {.chi}
 
-汝若問我：「他世無耶？」〔……乃至……〕「他世亦有亦無耶？」〔……乃至……〕「他世非有亦非無耶？」〔……乃至……〕。 {.chi}
+「『大王，如果你問我是否沒有來世⋯⋯「『大王，如果你問我是否既有也沒有來世⋯⋯「『大王，如果你問我是否既沒有也不是沒有來世⋯⋯ {.chi}
 
 ---
 
@@ -2023,7 +2026,7 @@ if there are beings who transmigrate... if there aren‘t... both are and aren�
 
 有化生眾生……（中略）沒有化生眾生……（中略）有且沒有化生眾生……（中略）既非有也非沒有化生眾生……（中略） {.chi}
 
-「有化生之有情耶？」〔……乃至……〕「無化生之有情耶？」〔……乃至……〕「化生之有情亦有亦無耶？」〔……乃至……〕「化生之有情非有亦非無耶？」〔……乃至……〕。 {.chi}
+「『大王，如果你問我是否有化生的眾生⋯⋯「『大王，如果你問我是否沒有化生的眾生⋯⋯「『大王，如果你問我是否既有也沒有化生的眾生⋯⋯『大王，如果你問我是否既沒有也不是沒有化生的眾生⋯⋯ {.chi}
 
 ---
 
@@ -2033,7 +2036,7 @@ atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko … pe … natthi sukat
 
 有善作的、惡作的業之果與報……（中略）沒有善作的、惡作的業之果與報……（中略）有且沒有善作的、惡作的業之果與報……（中略）既非有也非沒有善作的、惡作的業之果與報……（中略） {.chi}
 
-「有善惡業之異熟果耶？」〔……乃至……〕「無善惡業之異熟果耶？」〔……乃至……〕「善惡業之異熟果亦有亦無耶？」〔……乃至……〕「善惡業之異熟果非有非無耶？」〔……乃至……〕。 {.chi}
+「『大王，如果你問我是否有苦樂業的果報⋯⋯「『大王，如果你問我是否沒有苦樂業的果報⋯⋯「『大王，如果你問我是否既有也沒有苦樂業的果報⋯⋯「『大王，如果你問我是否既沒有也不是沒有苦樂業的果報⋯⋯ {.chi}
 
 ---
 
@@ -2043,7 +2046,7 @@ if the Tathagata exists after death... doesn‘t... both... neither exists nor d
 
 死後如來存在……（中略）死後如來不存在……（中略）死後如來存在且不存在……（中略）如果像這樣問我：「死後如來既非存在也非不存在嗎？」如果我像這樣想：「死後如來既非存在也非不存在。」我應該像這樣回答你：「死後如來既非存在也非不存在。」 {.chi}
 
-「如來死後存在耶？」〔……乃至……〕「如來死後非存在耶？」〔……乃至……〕「如來死後亦存在亦不存在耶？」〔……乃至……〕「如來死後非存在亦非不存在耶？」〔……乃至……〕。我若以為「如來死後非存在亦非不存在」者，我當答汝「如來死後非存在亦非不存在。」 {.chi}
+「『大王，如果你問我是否如來死後還存在⋯⋯「『大王，如果你問我是否如來死後不存在⋯⋯「『大王，如果你問我是否如來死後既存在也不存在⋯⋯「『大王，如果你問我是否如來死後既不存在也不是不存在；我認為如來死後既不存在也不是不存在的話便說如來死後既不存在也不是不存在， {.chi}
 
 ---
 
@@ -2053,7 +2056,7 @@ I don‘t think so. I don‘t think in that way. I don‘t think otherwise. I do
 
 但我不說：「是這樣。」我也不說：「是那樣。」我也不說：「是其他的。」我也不說：「不是。」我也不說：「非不是。」』 {.chi}
 
-然，我不如是想、不想如此、亦不想其他、不想非如此、亦不想非非如此。』 {.chi}
+但我不是這樣的想法，也不是其他的想法，我並非不是這樣的想法，也不是並非不是這樣的想法。』 {.chi}
 
 ---
 
@@ -2065,7 +2068,7 @@ Itthaṃ kho me, bhante, sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññ
 
 大德！像這樣，當散惹耶毘羅梨子被詢問直接可見的沙門果時，他回答我混亂。 {.chi}
 
-大德！如是實問沙門〔修行〕現世之果報，散若夷毘羅利弗，答以矯亂〔如鰻〕論。 {.chi}
+「大德，我問散若耶。毗羅胝子有關沙門現生成果的問題，但他卻向我解釋模稜兩可的教理。 {.chi}
 
 ---
 
@@ -2075,7 +2078,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
-大德！猶如問菴羅樹之果實，而答以羅孛闍果。 {.chi}
+大德，就正如被問到芒果時卻解釋麵包果，或被問到麵包果時卻解釋芒果； {.chi}
 
 ---
 
@@ -2085,7 +2088,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 同樣的，大德！當散惹耶毘羅梨子被詢問直接可見的沙門果時，他回答我混亂。 {.chi}
 
-/ {.chi}
+同樣地，我問散若耶。毗羅胝子有關沙門現生成果的問題，但他卻向我解釋模稜兩可的教理。 {.chi}
 
 ---
 
@@ -2095,7 +2098,7 @@ The thought occurred to me: {.eng}
 
 大德！我這麼想： {.chi}
 
-/ {.chi}
+⋯⋯ (無對應經文) ⋯⋯ {.chi}
 
 ---
 
@@ -2105,7 +2108,7 @@ The thought occurred to me: {.eng}
 
 『這位是屬於這些沙門、婆羅門[中]最愚癡、最愚昧的， {.chi}
 
-/ {.chi}
+⋯⋯ (無對應經文) ⋯⋯ {.chi}
 
 ---
 
@@ -2115,7 +2118,7 @@ How can he, when asked about a fruit of the contemplative life, visible here and
 
 當他被詢問直接可見的沙門果時，怎麼會回答我混亂呢？』 {.chi}
 
-/ {.chi}
+⋯⋯ (無對應經文) ⋯⋯ {.chi}
 
 ---
 
@@ -2125,7 +2128,7 @@ Still the thought occurred to me: {.eng}
 
 大德！我這麼想： {.chi}
 
-然，大德！我生起如次之想念： {.chi}
+我心想： {.chi}
 
 ---
 
@@ -2135,7 +2138,7 @@ Still the thought occurred to me: {.eng}
 
 『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』 {.chi}
 
-『實如余者，對住我領內之沙門、婆羅門，應如何想與不愉快焉？』 {.chi}
+『像我這樣的人為什麼也會對自己國土的沙門婆羅門心生厭惡呢？』 {.chi}
 
 ---
 
@@ -2145,7 +2148,7 @@ Yet I neither delighted in Sañjaya Belatthaputta‘s words nor did I protest ag
 
 大德！我對那散惹耶毘羅梨子所說既不歡喜，也沒苛責。 {.chi}
 
-大德！是故我對彼之言說，不稱讚亦不呵責。 {.chi}
+「大德，我對散若耶。毗羅胝子的話既不歡喜也不責難； {.chi}
 
 ---
 
@@ -2155,7 +2158,7 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
-不稱讚亦不呵責，而我內心甚抱不滿，不發任何不滿之言，平靜聽彼所說，不敬重此，起座而出。 {.chi}
+我的內心不高興，但沒說不高興的話；我對散若耶。毗羅胝子的話不受持也不駁斥，之後起座離去。 {.chi}
 
 ---
 
@@ -2167,7 +2170,7 @@ Sohaṃ, bhante, bhagavantampi pucchāmi: {.pali}
 
 大德！我問世尊： {.chi}
 
-大德！予對世尊問： {.chi}
+「大德，我現在問世尊： {.chi}
 
 ---
 
@@ -2177,7 +2180,7 @@ There are these common craftsmen: elephant-trainers, horse-trainers, charioteers
 
 『大德！如這些種種技能之處，即：騎象兵、騎馬兵、戰車兵、弓箭兵、軍旗兵、參謀、伙食兵、尊貴王族戰士、突擊兵、大龍戰士、勇士、穿皮革的戰士、死忠奴隸兵、 {.chi}
 
-『〔此世間〕有種種技能職業〔者〕，如：調象師、調馬師、車術師、弓術師、軍旗手、元帥、戰士、高級武官、象力士、裝甲兵、奴隸出身者、 {.chi}
+人們以象伕、馬伕、車伕、弓箭手、旗兵、軍官、炊事兵、王子、戰士、大力士、勇士、盾兵、僕人、 {.chi}
 
 ---
 
@@ -2187,7 +2190,7 @@ confectioners, barbers, bath attendants, cooks, garland-makers, laundrymen, weav
 
 廚師、理髮師、澡堂師傅、作甜食者、作花環者、洗染匠、編織匠、蘆葦匠、製陶器者、會計師、查驗員，或凡其它像這樣有關種種技能之處， {.chi}
 
-廚師、理髮師、助浴者、製菓者、編髮者、漂白業、織師、製籠者、陶師、計算師、印相師。如是世間所知之種種技能職業者—— {.chi}
+廚師、理髮師、浴師、糖果師、花環師、漂染師、編織師、藤師、陶師、會計師、算師及其他各種工作技能來謀生。 {.chi}
 
 ---
 
@@ -2197,7 +2200,7 @@ They live off the fruits of their crafts, visible in the here and now. {.eng}
 
 他們在當生中依技能果生活，他們依此使自己快樂、滿足； {.chi}
 
-彼等於現世，享受彼等技能職業之成果，以令自己安樂幸福， {.chi}
+他們在現生之中享用工作的成果，得到快樂和滿足， {.chi}
 
 ---
 
@@ -2207,7 +2210,7 @@ They give pleasure and refreshment to themselves, to their parents, wives, and c
 
 使父母快樂、滿足；使妻兒快樂、滿足；使朋友與同僚快樂、滿足， {.chi}
 
-令父母安樂幸福，令妻子安樂幸福，令朋友安樂幸福。 {.chi}
+使父母、妻子、子女、親友得到快樂和滿足； {.chi}
 
 ---
 
@@ -2217,7 +2220,7 @@ They put in place an excellent presentation of offerings to brahmans and contemp
 
 對沙門、婆羅門建立目標崇高的、天的、安樂果報的、導向天界的供養， {.chi}
 
-以此，向沙門、婆羅門行布施，得尊勝天界安隱之福報。 {.chi}
+他們用工作的成果布施、護持沙門婆羅門，以得投生天上的快樂果報。 {.chi}
 
 ---
 
@@ -2227,7 +2230,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 同樣的，大德！你能告知當生直接可見的沙門果嗎？』」 {.chi}
 
-大德！如是，得見沙門〔修行〕現世之果報耶？』」 {.chi}
+大德，你能否也解說一下，沙門在現生之中的成果呢？」 {.chi}
 
 ---
 
@@ -2237,7 +2240,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 「能，大王！那樣的話，大王！就這情況我要反問你，就依你認為妥當的來回答。 {.chi}
 
-〔世尊曰：〕「大王！我〔說此為〕可能。大王！我對此問卿，可隨汝所思而答之！ {.chi}
+「大王，可以的。既然這樣，我反問你，就隨你自己的意思來答吧。 {.chi}
 
 ---
 
@@ -2249,7 +2252,7 @@ Suppose there were a man of yours: your slave, your workman, rising in the morni
 
 大王！你怎麼想：這裡，如果男子是你的奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者， {.chi}
 
-大王！汝如何思惟耶？卿雇一奴僕，彼奉事於〔卿〕：晚睡早起、聽順卿之任何雜務、和顏悅色、言愛語、恭順可意之行為。 {.chi}
+「大王，你認為怎樣，一個替你工作的僕人，他要早起遲睡，要做各種工作，要令你滿意，要對你尊敬，要隨時聽候吩咐。 {.chi}
 
 ---
 
@@ -2259,7 +2262,7 @@ The thought would occur to him: ‘Isn‘t it amazing? Isn‘t it astounding? �
 
 他這麼想：『實在不可思議啊，先生！實在未曾有啊，先生！[真是]福德命、福德果報， {.chi}
 
-彼如是思惟：『成熟其功德之果報，實希有哉！未曾有哉！ {.chi}
+他心想：『真稀奇，真難以置信！竟有這麼好的福，竟有這麼好的報！ {.chi}
 
 ---
 
@@ -2269,7 +2272,7 @@ For this King Ajatasattu is a human being, and I, too, am a human being, {.eng}
 
 這位摩揭陀國阿闍世王韋提希子是人，我也是人， {.chi}
 
-此摩揭陀國王韋提希子阿闍世是人，我亦是人。 {.chi}
+阿闍世王是人，我也是人， {.chi}
 
 ---
 
@@ -2279,7 +2282,7 @@ yet King Ajatasattu enjoys himself supplied and replete with the five strings of
 
 這位摩揭陀國阿闍世王韋提希子具備、具有五種欲自娛，我想就像天神一樣， {.chi}
 
-然，此摩揭陀國王韋提希子阿闍世以具足持受五欲樂，想彼戲樂如神， {.chi}
+阿闍世王享受最高的五欲，就像天神那樣， {.chi}
 
 ---
 
@@ -2289,7 +2292,7 @@ while I am his slave, his workman... always watching for the look on his face. {
 
 而我是奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者， {.chi}
 
-我於此乃彼之奴僕，而奉事彼：晚睡早起，聽〔順王〕之任何雜務，和顏悅色、言愛語、恭順可意之行為。 {.chi}
+另一方面，我只是一個替他工作的僕人，要早起遲睡，要做各種工作，要令他滿意，要對他尊敬，要隨時聽候吩咐。 {.chi}
 
 ---
 
@@ -2299,7 +2302,7 @@ I, too, should do meritorious deeds. {.eng}
 
 我確實應該做那福德， {.chi}
 
-實彼我〔得為如此，〕乃彼我之福德。 {.chi}
+讓我也修福， {.chi}
 
 ---
 
@@ -2309,7 +2312,7 @@ What if I were to shave off my hair and beard, put on the ochre robes, and go fo
 
 讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』 {.chi}
 
-然，令我剃除鬚髮，著袈裟衣，出家而為無家者。』 {.chi}
+剃掉頭髮和鬍鬚，穿著袈裟衣，從家庭生活中出家，過沒有家庭的生活吧。』 {.chi}
 
 ---
 
@@ -2319,7 +2322,7 @@ So aparena samayena kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā a
 
 過些時候，他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。 {.chi}
 
-於彼而後，即剃除鬚髮，著袈裟衣，出家而為無家者。 {.chi}
+後來，他剃掉頭髮和鬍鬚，穿著袈裟衣，從家庭生活中出家，過沒有家庭的生活。 {.chi}
 
 ---
 
@@ -2329,7 +2332,7 @@ Having thus gone forth he lives restrained in body, speech, and mind, content wi
 
 當這樣出家時，他能住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜， {.chi}
 
-如是出家，彼防護身、口、意而住，以滿足最低限度之衣、食，樂於離世靜居。 {.chi}
+他成為一位出家人，約束身、口、意，滿足於簡單的食物和衣服，樂於過遠離的生活。 {.chi}
 
 ---
 
@@ -2339,7 +2342,7 @@ Then suppose one of your men were to inform you: {.eng}
 
 如果他們這麼告知你那位男子： {.chi}
 
-對彼，卿之諸臣奏言： {.chi}
+「如果有人告訴你： {.chi}
 
 ---
 
@@ -2349,7 +2352,7 @@ Then suppose one of your men were to inform you: {.eng}
 
 『真的，陛下！你應該知道，那位男子是你的奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者， {.chi}
 
-『願大王有知，彼人乃大王之奴僕，以奉事〔大王〕：晚睡早起、聽順〔王〕之任何雜務、和顏悅色、言愛語、恭順可意之行為。 {.chi}
+『大王，你認得這位出家人嗎？他曾是你的僕人。』⋯⋯ {.chi}
 
 ---
 
@@ -2359,7 +2362,7 @@ so, deva, kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā 
 
 陛下！他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。 {.chi}
 
-大王！而後，彼剃除鬚髮，著袈裟衣，出家而為無家者。 {.chi}
+⋯⋯ {.chi}
 
 ---
 
@@ -2369,7 +2372,7 @@ So evaṃ pabbajito samāno kāyena saṃvuto viharati, vācāya saṃvuto vihar
 
 當這樣出家時，他住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜。』 {.chi}
 
-如是出家，彼防護身、口、意而住，以滿足最低限度之衣、食，樂於離世靜居。』 {.chi}
+⋯⋯{.chi}
 
 ---
 
@@ -2379,7 +2382,7 @@ Would you, thus informed, say, ‘Bring that man back to me. Make him again be m
 
 你是否會這麼說：『令那位男子再回來成為我的奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者。』嗎？」 {.chi}
 
-彼時，卿能言：『令彼人還歸我處，再為奴僕，為我奉事，晚睡早起、聽順雜務、和顏悅色、言愛語、恭順可意之行為』耶？」 {.chi}
+這時你會不會叫這位出家人再做替你工作的僕人，要早起遲睡，要做各種工作，要令你滿意，要對你尊敬，要隨時聽候吩咐呢？」 {.chi}
 
 ---
 
@@ -2391,7 +2394,7 @@ Would you, thus informed, say, ‘Bring that man back to me. Make him again be m
 
 「不，大德！ {.chi}
 
-〔王曰：〕「大德！不然， {.chi}
+「大德，不會。 {.chi}
 
 ---
 
@@ -2401,7 +2404,7 @@ Rather, I am the one who should bow down to him, rise up out of respect for him,
 
 那時，我們只會問訊，或會起立以座位迎接， {.chi}
 
-我等可向彼問訊、起迎，與座請坐。 {.chi}
+我會對他作禮；我會起立，請他就坐； {.chi}
 
 ---
 
@@ -2411,7 +2414,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 或會邀請，或會招待他衣服、施食、住處、病人的需要物、醫藥必需品，或會如法地安排守護、防護、保護。」 {.chi}
 
-供彼衣、食、住宿及病之醫藥、用具，并如法保護、蓋護、守護彼。」 {.chi}
+我會供養他衣服、食物、住處、藥物及其他用品；我會如法保護他。」 {.chi}
 
 ---
 
@@ -2421,7 +2424,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 「大王！你怎麼想：當存在這樣時，是直接可見的沙門果嗎？」 {.chi}
 
-〔世尊曰：〕「大王！卿如何思惟耶？果然如是，得見沙門〔修行〕現世之果報，或不然耶？」 {.chi}
+「大王，你認為怎樣，這不就是沙門在現生之中的成果嗎？」 {.chi}
 
 ---
 
@@ -2431,7 +2434,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 「大德！當存在這樣時，確實是直接可見的沙門果。」 {.chi}
 
-〔王曰：〕「大德！確實如是，得見沙門〔修行〕現世之果報。」 {.chi}
+「大德，真的。這是沙門在現生之中的成果。」 {.chi}
 
 ---
 
@@ -2441,7 +2444,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 「大王！這是被我告知的第一個當生直接可見的沙門果。」 {.chi}
 
-〔世尊曰：〕「大王！此是我所施設於沙門〔修行〕現世之第一果報。」 {.chi}
+「大王，這就是我所解說的，第一種沙門在現生之中的成果。」 {.chi}
 
 ---
 
@@ -2453,7 +2456,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 「同樣的，大德！但，你能告知其它當生直接可見的沙門果嗎？」 {.chi}
 
-〔王曰：〕「大德！其他亦得有如是沙門〔修行〕現世果報之施設耶？」 {.chi}
+「大德，你能否解說一下，另一種沙門在現生之中的成果呢？」 {.chi}
 
 ---
 
@@ -2463,7 +2466,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 「能，大王！那樣的話，大王！就這情況我要反問你，就依你認為妥當的來回答。 {.chi}
 
-〔世尊曰：〕「大王！能〔為〕之。大王！然，我對此問卿，可隨汝所思而答之。 {.chi}
+「大王，可以的。既然這樣，我反問你，就隨你自己的意思來答吧。 {.chi}
 
 ---
 
@@ -2473,7 +2476,7 @@ Suppose there were a man of yours: a farmer, a householder, a taxpayer swelling 
 
 大王！你怎麼想：這裡，如果男子是你的農夫、屋主、工作者、司財者， {.chi}
 
-大王！對此如何思惟？於此，卿有一農夫，彼從事家業，納〔王〕租稅，增益卿之財寶。 {.chi}
+大王，你認為怎樣，一個你的農夫，他是一個居士，他支持宗教事務，交稅給國家。 {.chi}
 
 ---
 
@@ -2483,7 +2486,7 @@ The thought would occur to him: ‘Isn‘t it amazing? Isn‘t it astounding? �
 
 他這麼想：『實在不可思議啊，先生！實在未曾有啊，先生！[真是]福德命、福德果報， {.chi}
 
-一日，彼如是思惟：『希有哉！未曾有哉！ {.chi}
+他心想：『真稀奇，真難以置信！竟有這麼好的福，竟有這麼好的報！ {.chi}
 
 ---
 
@@ -2493,7 +2496,7 @@ For this King Ajatasattu is a human being, and I, too, am a human being, {.eng}
 
 這位摩揭陀國阿闍世王韋提希子是人，我也是人， {.chi}
 
-此摩揭陀國王韋提希子阿闍世是人，我亦是人。 {.chi}
+阿闍世王是人，我也是人， {.chi}
 
 ---
 
@@ -2503,7 +2506,7 @@ yet King Ajatasattu enjoys himself supplied and replete with the five strings of
 
 這位摩揭陀國阿闍世王韋提希子具備、具有五種欲自娛，我想就像天神一樣， {.chi}
 
-然，此摩揭陀國王韋提希子阿闍世，持受具足五欲樂，想彼戲樂如神， {.chi}
+阿闍世王享受最高的五欲，就像天神那樣， {.chi}
 
 ---
 
@@ -2513,7 +2516,7 @@ while I am a farmer, a householder, a taxpayer swelling the royal treasury. {.en
 
 而我是農夫、屋主、工作者、司財者， {.chi}
 
-我於此，乃彼之農夫，從事家業，納〔王〕租稅，增益彼之財寶。 {.chi}
+另一方面，我只是他的農夫，是一個居士，支持宗教事務，交稅給國家。 {.chi}
 
 ---
 
@@ -2533,7 +2536,7 @@ What if I were to shave off my hair and beard, put on the ochre robes, and go fo
 
 讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』  {.chi}
 
-然，令我剃除鬚髮，著袈裟衣，出家而為無家者。』 {.chi}
+讓我也修福，剃掉頭髮和鬍鬚，穿著袈裟衣，從家庭生活中出家，過沒有家庭的生活吧。』 {.chi}
 
 ---
 
@@ -2543,7 +2546,7 @@ So aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkh
 
 過些時候，他捨斷少量的財富聚集或捨斷大量的財富聚集後；捨斷少量的親屬圈或捨斷大量的親屬圈後，剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。 {.chi}
 
-於彼而後，捨棄財產、親族，剃除鬚髮，著袈裟衣，出家而為無家者。 {.chi}
+後來，他捨棄所有財富，捨棄所有親屬，剃掉頭髮和鬍鬚，穿著袈裟衣，從家庭生活中出家，過沒有家庭的生活。 {.chi}
 
 ---
 
@@ -2553,7 +2556,7 @@ Having thus gone forth he lives restrained in body, speech, and mind, content wi
 
 當這樣出家時，他能住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜， {.chi}
 
-如是出家，彼防護身、口、意而住，滿足最低限度之衣、食，樂於離世靜居。 {.chi}
+他成為一位出家人，約束身、口、意，滿足於簡單的食物和衣服，樂於過遠離的生活。 {.chi}
 
 ---
 
@@ -2563,7 +2566,7 @@ Then suppose one of your men were to inform you: ‘You should know, your majest
 
 如果他們這麼告知你那位男子：『真的，陛下！你應該知道，那位男子是你的農夫、屋主、工作者、司財者， {.chi}
 
-對彼，卿之諸臣奏言：『願大王有知，彼人乃大王之農夫，從事家業，納〔王〕租稅，增益大王之財寶。 {.chi}
+「如果有人告訴你：『大王，你認得這位出家人嗎？他曾是你的農夫。』⋯⋯ {.chi}
 
 ---
 
@@ -2573,7 +2576,7 @@ so deva kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā an
 
 陛下！他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。 {.chi}
 
-大王！而後彼剃除鬚髮，著袈裟衣，出家而為無家者。 {.chi}
+⋯⋯ {.chi}
 
 ---
 
@@ -2583,7 +2586,7 @@ content with the simplest food and shelter, delighting in solitude.’ {.eng}
 
 當這樣出家時，他住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜。』 {.chi}
 
-如是出家，彼防護身、口、意而住，滿足最低限度之衣、食，樂於離世靜居。』 {.chi}
+⋯⋯ {.chi}
 
 ---
 
@@ -2593,7 +2596,7 @@ Would you, thus informed, say, ‘Bring that man back to me. Make him again be a
 
 你是否會這麼說：『令那位男子再回來成為我的農夫、屋主、工作者、司財者。』嗎？」 {.chi}
 
-其時，卿能言：『令彼還歸我處，再為農夫，從事家業，以納租稅，增益我之財寶』耶？」 {.chi}
+這時你會不會叫這位出家人再做你的農夫，做一個居士，支持宗教事務，交稅給國家呢？」 {.chi}
 
 ---
 
@@ -2605,7 +2608,7 @@ Would you, thus informed, say, ‘Bring that man back to me. Make him again be a
 
 「不，大德！那時，我們只會問訊，或會起立以座位迎接， {.chi}
 
-〔王曰：〕「大德！不然。我等可向彼問訊，起迎，與座請坐， {.chi}
+「大德，不會。我會對他作禮；我會起立，請他就坐； {.chi}
 
 ---
 
@@ -2615,7 +2618,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 或會邀請，或會招待他衣服、施食、住處、病人的需要物、醫藥必需品，或會如法地安排守護、防護、保護。」 {.chi}
 
-供彼衣、食、住宿及病之醫藥、用具，并如法保護、蓋護、守護彼。」 {.chi}
+我會供養他衣服、食物、住處、藥物及其他用品；我會如法保護他。」 {.chi}
 
 ---
 
@@ -2625,7 +2628,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 「大王！你怎麼想：當存在這樣時，是直接可見的沙門果嗎？」 {.chi}
 
-〔世尊曰：〕「卿如何思惟耶？果然如是，得見沙門〔修行〕現世之果報，或不然耶？」 {.chi}
+〔世尊曰：〕「大王，你認為怎樣，這不就是沙門在現生之中的成果嗎？」 {.chi}
 
 ---
 
@@ -2635,7 +2638,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 「大德！當存在這樣時，確實是直接可見的沙門果。」 {.chi}
 
-〔王曰：〕「大德！確實如是，得見沙門〔修行〕現世之果報。」 {.chi}
+「大德，真的。這是沙門在現生之中的成果。」 {.chi}
 
 ---
 
@@ -2645,7 +2648,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 「大王！這是被我告知的第二個當生直接可見的沙門果。」 {.chi}
 
-〔世尊曰：〕「大王！此實我所施設於沙門〔修行〕現世之第二果報。」 {.chi}
+「大王，這就是我所解說的，第二種沙門在現生之中的成果。」 {.chi}
 
 ---
 
@@ -2657,7 +2660,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 「大德！但，你能告知比這些直接可見的沙門果更卓越、更勝妙，其它當生直接可見的沙門果嗎？」 {.chi}
 
-〔王曰：〕「大德！此兩種以外，更有如是沙門〔修行〕現世果報微妙殊勝之施設耶？」 {.chi}
+「大德，你能否解說一下，另一種沙門在現生之中更美妙、更優勝的成果呢？」 {.chi}
 
 ---
 
@@ -2667,7 +2670,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 「能，大王！那樣的話，大王！你要聽！你要好好作意！我要說了。」 {.chi}
 
-〔世尊曰：〕「大王！能〔為〕之。然，大王！諦聽善思念之，我當說。」 {.chi}
+「大王，可以的。既然這樣，留心聽，好好用心思量，我現在說了。」 {.chi}
 
 ---
 
@@ -2677,7 +2680,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 「是的，大德！」摩揭陀國阿闍世王韋提希子回答世尊。 {.chi}
 
-摩揭陀國王韋提希子阿闍世答世尊曰：「如是，世尊！」 {.chi}
+阿闍世王回答世尊：「大德，是的。」 {.chi}
 
 ---
 
@@ -2689,7 +2692,7 @@ Bhagavā etadavoca: “idha, mahārāja, tathāgato loke uppajjati arahaṃ samm
 
 世尊這麼說：「大王！這裡，如來、阿羅漢、遍正覺者、明與行具足者、善逝、世間知者、應該被調御人的無上調御者、人天之師、佛陀、世尊出現於世間， {.chi}
 
-世尊如次曰：「大王！如來出現於世，是應供、等正覺、明行足、善逝、世間解、無上士、調御丈夫，天人師、佛、世尊。 {.chi}
+世尊說：「大王，如來出現於世上，是一位阿羅漢．等正覺．明行具足．善逝．世間解．無上士．調御者．天人師．佛．世尊； {.chi}
 
 ---
 
@@ -2699,7 +2702,7 @@ He teaches the Dhamma admirable in its beginning, admirable in its middle, admir
 
 他以證智自作證後，為這包括天、魔、梵的世界；包括沙門、婆羅門的世代；包括諸天、人宣說， {.chi}
 
-如來是含括天界、魔界、梵天界、此世界、沙門、婆羅門、天、人之眾〔生〕，開示自己之證悟。 {.chi}
+親身證得無比智，然後在這個有天神、魔羅、梵天、沙門、婆羅門、國王、眾人的世間宣說法義； {.chi}
 
 ---
 
@@ -2709,7 +2712,7 @@ He proclaims the holy life both in its particulars and in its essence, entirely 
 
 他教導開頭是善、中間是善、終結是善；意義正確、辭句正確的法，他說明唯獨圓滿、遍清淨的梵行。 {.chi}
 
-如來宣說初善、中善、後亦善，具足文義之教法及無比圓滿清淨之梵行。 {.chi}
+所說的法義開首、中間、結尾都是善美的，有意義、有好的言辭、圓滿、清淨、開示梵行1。 {.chi}
 
 ---
 
@@ -2721,7 +2724,7 @@ Taṃ dhammaṃ suṇāti gahapati vā gahapatiputto vā aññatarasmiṃ vā ku
 
 屋主、屋主之子或在其它族姓中出生者聽聞那個法； {.chi}
 
-居士或居士子，或其他族姓子，聽聞如來之教法； {.chi}
+「居士或出身於各種種姓的人聽了這些法義之後， {.chi}
 
 ---
 
@@ -2731,7 +2734,7 @@ hearing the Dhamma, gains conviction in the Tathagata {.eng}
 
 聽聞那個法後，於如來處獲得信； {.chi}
 
-聽聞此法已，對如來得信仰， {.chi}
+對如來生起了敬信； {.chi}
 
 ---
 
@@ -2741,7 +2744,7 @@ and reflects: {.eng}
 
 由於具備那獲得的信，他像這樣深慮： {.chi}
 
-而彼如是熟慮： {.chi}
+有了這份敬信，他這樣反思： {.chi}
 
 ---
 
@@ -2751,7 +2754,7 @@ and reflects: {.eng}
 
 『居家生活是障礙，是塵垢之路；出家是露地。 {.chi}
 
-『在家多障礙、塵道，出家之生活是自由自在。 {.chi}
+『在家生活有很多障礙，是塵垢之道；出家生活有如空曠的地方那樣沒有障礙。 {.chi}
 
 ---
 
@@ -2761,7 +2764,7 @@ It is not easy living at home to practice the holy life totally perfect, totally
 
 住在家中，這是不容易行一向圓滿、一向清淨的磨亮海螺之梵行， {.chi}
 
-住在家者，不容易一向修圓滿清淨如螺細光耀之梵行。 {.chi}
+在家生活不易生活在圓滿、清淨、如螺那樣潔白的梵行之中。 {.chi}
 
 ---
 
@@ -2771,7 +2774,7 @@ What if I were to shave off my hair and beard, put on the ochre robes, and go fo
 
 讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』 {.chi}
 
-然，即令我剃除鬚髮，著袈裟衣，出家而為無家者。』 {.chi}
+讓我剃掉頭髮和鬍鬚，穿著袈裟衣，從家庭生活中出家，過沒有家庭的生活吧。』 {.chi}
 
 ---
 
@@ -2781,7 +2784,7 @@ So aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkh
 
 過些時候，他捨斷少量的財富聚集或捨斷大量的財富聚集後；捨斷少量的親屬圈或捨斷大量的親屬圈後， {.chi}
 
-而後，彼捨棄財產及親族， {.chi}
+後來，他捨棄所有財富，捨棄所有親屬， {.chi}
 
 ---
 
@@ -2791,7 +2794,7 @@ shaves off his hair and beard, puts on the ochre robes, and goes forth from the 
 
 剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。 {.chi}
 
-剃除鬚髮，著袈裟衣，出家而為無家者。 {.chi}
+剃掉頭髮和鬍鬚，穿著袈裟衣，從家庭生活中出家，過沒有家庭的生活。 {.chi}
 
 ---
 
@@ -2803,7 +2806,7 @@ So evaṃ pabbajito samāno pātimokkhasaṃvarasaṃvuto viharati ācāragocara
 
 當這樣出家時，他住於被波羅提木叉的自制所防護，具足正行和行境， {.chi}
 
-如是出家，依波羅提木叉之禁戒，持戒而住，精勤於正行， {.chi}
+「他成為一位出家人，在戒的學處之中修學：修習戒律儀，在戒律儀這片牧養德行的牧地而行， {.chi}
 
 ---
 
@@ -2811,9 +2814,9 @@ aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāyakam
 
 seeing danger in the slightest faults. Consummate in his virtue, {.eng}
 
-在微罪中看見可怕，在學處上受持後學習，他具備善的身業、語業，清淨的生活維持， {.chi}
+在微罪中看見可怕，在學處上受持後學習，他具備善的身業、語業，清淨的生活維持，戒具足， {.chi}
 
-見小罪亦恐怖，受學處而修學。具足清淨之身業語業，過清淨生活，戒具足， {.chi}
+即使細小的過錯也不會忽視。之後，他具有善的身業和口業，具有清淨的生活方式，具有戒行， {.chi}
 
 ---
 
@@ -2821,9 +2824,9 @@ indriyesu guttadvāro, satisampajaññena samannāgato, santuṭṭho. {.pali}
 
 he guards the doors of his senses, is possessed of mindfulness and alertness, and is content. {.eng}
 
-戒具足，守護根門，具備正念與正知，已知足。 {.chi}
+守護根門，具備正念與正知，已知足。 {.chi}
 
-守護諸根門，圓滿具足正念正智。 {.chi}
+守護根門，具有念和覺知，知足。 {.chi}
 
 ---
 
@@ -2835,7 +2838,7 @@ Kathañca, mahārāja, bhikkhu sīlasampanno hoti? {.pali}
 
 大王！比丘如何是戒具足者呢？ {.chi}
 
-大王！如何為比丘戒具足耶？ {.chi}
+「大王，什麼是比丘具有戒行呢？ {.chi}
 
 ---
 
@@ -2845,7 +2848,7 @@ Abandoning the taking of life, he abstains from the taking of life. {.eng}
 
 大王！這裡，比丘捨斷殺生後，他是離殺生者， {.chi}
 
-大王！於此有比丘，捨殺生，離殺生， {.chi}
+一位比丘捨棄殺生，遠離殺生； {.chi}
 
 ---
 
@@ -2855,7 +2858,7 @@ He dwells with his rod laid down, his knife laid down, scrupulous, merciful, com
 
 他住於已捨離棍棒、已捨離刀劍、有羞恥的、同情的、對一切活的生物憐愍的， {.chi}
 
-不用刃、杖，有羞恥之念，充足慈悲心，憐愍利益一切生物、友善而住。 {.chi}
+放下木棒，放下武器；對所有生命都有悲憫心。 {.chi}
 
 ---
 
@@ -2865,7 +2868,7 @@ This is part of his virtue. {.eng}
 
 這是關於戒。 {.chi}
 
-此為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -2875,7 +2878,7 @@ Adinnādānaṃ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭ
 
 捨斷未給予而取後，他是離未給予而取者、給予而取者、只期待給予物者，以不盜取而自我住於清淨，這也是關於戒。 {.chi}
 
-捨不與取，離不與取，取所與物，期望所與，無何等之盜心，自清淨而住。此為比丘戒之一份。 {.chi}
+「捨棄偷盜，遠離偷盜；別人不給的東西便不取，別人不給的東西便不要；有一個不偷盜的清淨心。這是他的戒行。 {.chi}
 
 ---
 
@@ -2885,7 +2888,7 @@ Abrahmacariyaṃ pahāya brahmacārī hoti ārācārī virato methunā gāmadham
 
 捨斷非梵行後，他是梵行者，遠離俗法而住，已離婬欲， {.chi}
 
-捨非梵行而修梵行，離染污濁，離淫欲法。 {.chi}
+「捨棄非梵行；他是一個梵行者，遠離低俗的性行為。 {.chi}
 
 ---
 
@@ -2895,7 +2898,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -2907,7 +2910,7 @@ Musāvādaṃ pahāya musāvādā paṭivirato hoti saccavādī saccasandho thet
 
 捨斷妄語後，他是離妄語者、真實語者、緊隨真實者、能信賴者、應該信賴者、對世間無詐欺者， {.chi}
 
-捨妄語、離妄語，語真實、不外真實，誠實可信賴，不欺世間， {.chi}
+「他捨棄妄語，遠離妄語；他說真話，只說真話，誠實，可信賴，說話沒有前後不一。 {.chi}
 
 ---
 
@@ -2917,7 +2920,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -2927,7 +2930,7 @@ Pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato hoti; {.pali}
 
 捨斷離間語後，他是離離間語者： {.chi}
 
-捨兩舌，離兩舌， {.chi}
+「他捨棄兩舌，遠離兩舌； {.chi}
 
 ---
 
@@ -2937,7 +2940,7 @@ What he has heard here he does not tell there to break those people apart from t
 
 他從這裡聽到後，不為了對這些人離間而在那裡說， {.chi}
 
-不此處聞往彼處告以離間此等諸人， {.chi}
+不會說離間別人的說話； {.chi}
 
 ---
 
@@ -2947,7 +2950,7 @@ What he has heard there he does not tell here to break these people apart from t
 
 或者，他從那裡聽到後，不為了對那些人離間而在這裡說， {.chi}
 
-亦不彼處聞來此處告以離間此等之諸人。 {.chi}
+⋯⋯ {.chi}
 
 ---
 
@@ -2957,7 +2960,7 @@ Thus reconciling those who have broken apart or cementing those who are united, 
 
 像這樣，他是分裂的調解者、和諧的散播者、樂於和合者、愛好和合者、喜歡和合者、作和合之言說者， {.chi}
 
-如是和合離間者，親密者更令親密，愛和合、好和合、喜和合、持和合。 {.chi}
+他幫助分裂的得到復合，喜歡和合，景仰和合，欣樂和合，說使人和合的說話。 {.chi}
 
 ---
 
@@ -2967,7 +2970,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -2977,7 +2980,7 @@ Pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti; {.pali}
 
 捨斷粗惡語後，他是離粗惡語者， {.chi}
 
-捨惡口，離惡口， {.chi}
+「他捨棄惡口，遠離惡口； {.chi}
 
 ---
 
@@ -2987,7 +2990,7 @@ He speaks words that are soothing to the ear, that are affectionate, that go to 
 
 他以柔和的言語：悅耳的、可愛的、動心的、優雅的、眾人所愛的、眾人可意的，像那樣的言語與人說話， {.chi}
 
-凡語無過失、樂耳、悅意、感銘、眾人所愛。 {.chi}
+無論他說什麼，都柔和、悅耳、和藹、親切、有禮、令人歡喜、令人心悅。 {.chi}
 
 ---
 
@@ -2997,7 +3000,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3007,7 +3010,7 @@ Samphappalāpaṃ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtav�
 
 捨斷雜穢語後，他是離雜穢語者：他是適當時機之說者、事實之說者、有益處之說者，如法之說者、如律之說者； {.chi}
 
-捨綺語，離綺語，語適時，語真實，語法，語義，語律儀， {.chi}
+「他捨棄綺語，遠離綺語；他說適時的話、真實的話、有意義的話、和法有關的話、和律有關的話、 {.chi}
 
 ---
 
@@ -3017,7 +3020,7 @@ He speaks words worth treasuring, seasonable, reasonable, circumscribed, connect
 
 他以適當時機說有價值、有理由、有節制、具有利益的話， {.chi}
 
-語應明確、有段落、適義、可銘記於心。 {.chi}
+有價值的話；他在適當的時候說話，說話有道理，適可而止，對人有益。 {.chi}
 
 ---
 
@@ -3027,7 +3030,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3039,7 +3042,7 @@ Bījagāmabhūtagāmasamārambhā paṭivirato hoti … pe … {.pali}
 
 他是離破壞種子類、草木類者， {.chi}
 
-離採伐諸種之植物， {.chi}
+「他遠離損害種子和植物的行為； {.chi}
 
 ---
 
@@ -3049,7 +3052,7 @@ ekabhattiko hoti rattūparato virato vikālabhojanā. {.pali}
 
 是晚上停止、戒絕非時食的一日一食者， {.chi}
 
-〔日中〕一食，夜不食，離非時食； {.chi}
+一天只吃一餐，過了中午不吃東西，遠離非時食； {.chi}
 
 ---
 
@@ -3059,7 +3062,7 @@ Naccagītavāditavisūkadassanā paṭivirato hoti. {.pali}
 
 是離跳舞、歌曲、音樂、看戲者， {.chi}
 
-遠離觀劇、歌謠、舞、樂之娛樂； {.chi}
+遠離觀看跳舞、唱歌、奏樂、表演； {.chi}
 
 ---
 
@@ -3069,7 +3072,7 @@ Mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭivirato hot
 
 是離花環之配戴、芳香之莊嚴、塗抹物之打扮狀態者， {.chi}
 
-離持華鬘、香料、塗香之化裝； {.chi}
+遠離花環、香水、膏油、飾物； {.chi}
 
 ---
 
@@ -3079,7 +3082,7 @@ Uccāsayanamahāsayanā paṭivirato hoti. {.pali}
 
 是離高床、大床者， {.chi}
 
-離使用高牀、大牀； {.chi}
+遠離豪華的大床； {.chi}
 
 ---
 
@@ -3089,7 +3092,7 @@ Jātarūparajatapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 是離領受金銀者， {.chi}
 
-遠離受蓄金銀； {.chi}
+遠離接受金銀錢財； {.chi}
 
 ---
 
@@ -3099,7 +3102,7 @@ Jātarūparajatapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 是離領受生穀者， {.chi}
 
-遠離受生穀物； {.chi}
+遠離接受穀物； {.chi}
 
 ---
 
@@ -3109,7 +3112,7 @@ Jātarūparajatapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 是離領受生肉者， {.chi}
 
-遠離受生肉； {.chi}
+遠離接受生肉； {.chi}
 
 ---
 
@@ -3119,7 +3122,7 @@ Itthikumārikapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 是離領受女子、少女者， {.chi}
 
-遠離受婦人、少女； {.chi}
+遠離接受婦女； {.chi}
 
 ---
 
@@ -3129,7 +3132,7 @@ Dāsidāsapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 是離領受男奴僕、女奴僕者， {.chi}
 
-遠離受男、女之奴僕； {.chi}
+遠離接受僕人； {.chi}
 
 ---
 
@@ -3139,7 +3142,7 @@ Ajeḷakapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 是離領受山羊與羊者， {.chi}
 
-遠離受牝牡之山羊； {.chi}
+遠離接受禽畜； {.chi}
 
 ---
 
@@ -3149,7 +3152,7 @@ Kukkuṭasūkarapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 是離領受雞與豬者， {.chi}
 
-遠離受雞、豬； {.chi}
+⋯⋯ {.chi}
 
 ---
 
@@ -3159,7 +3162,7 @@ Hatthigavassavaḷavapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 是離領受象、牛、馬、騾馬者， {.chi}
 
-遠離受象、牛牝牡之馬； {.chi}
+⋯⋯ {.chi}
 
 ---
 
@@ -3169,7 +3172,7 @@ Khettavatthupaṭiggahaṇā paṭivirato hoti. {.pali}
 
 是離領受田與地者， {.chi}
 
-遠離受耕田荒地； {.chi}
+遠離接受農田； {.chi}
 
 ---
 
@@ -3179,7 +3182,7 @@ Dūteyyapahiṇagamanānuyogā paṭivirato hoti. {.pali}
 
 是離從事差使、遣使者， {.chi}
 
-遠離差使、仲介所為之事； {.chi}
+遠離替人做信使； {.chi}
 
 ---
 
@@ -3189,7 +3192,7 @@ Kayavikkayā paṭivirato hoti. {.pali}
 
 是離買賣者， {.chi}
 
-遠離買賣； {.chi}
+遠離做買賣； {.chi}
 
 ---
 
@@ -3199,7 +3202,7 @@ Tulākūṭakaṃsakūṭamānakūṭā paṭivirato hoti. {.pali}
 
 是離在秤重上欺瞞、偽造貨幣、度量欺詐者， {.chi}
 
-遠離欺瞞秤、升、尺〔之計量；〕 {.chi}
+遠離欺騙的量秤； {.chi}
 
 ---
 
@@ -3209,7 +3212,7 @@ Ukkoṭanavañcananikatisāciyogā paṭivirato hoti. {.pali}
 
 是離賄賂、欺瞞、詐欺、不實者， {.chi}
 
-遠離賄賂、詐欺、虛偽之邪行； {.chi}
+遠離賄賂、欺騙、詐騙； {.chi}
 
 ---
 
@@ -3219,7 +3222,7 @@ Chedanavadhabandhanaviparāmosaālopasahasākārā paṭivirato hoti. {.pali}
 
 是離割截、殺害、捕縛、搶奪、掠奪、暴力者， {.chi}
 
-遠離傷害、殺戮、捕縛、劫奪、竊盜，強盜。 {.chi}
+遠離傷害、殺害、綑綁、攔劫、搶掠。 {.chi}
 
 ---
 
@@ -3229,7 +3232,7 @@ Idampissa hoti sīlasmiṃ. {.pali}
 
 這也是關於戒。 {.chi}
 
-此為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3241,7 +3244,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事破壞種子類、草木類， {.chi}
 
-有某沙門、婆羅門，受食信施而生活。專心住於採伐諸種植、樹木， {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻常損害種子和植物， {.chi}
 
 ---
 
@@ -3251,7 +3254,7 @@ plants propagated from roots, stems, joints, buddings, and seeds — he abstains
 
 即：根種子、莖種子、節種子、自落種子、種子種子[為]第五，這樣，他是離破壞種子類、草木類者， {.chi}
 
-例如從根生、從幹生、從節生、從芽生、第五為從種子生者。遠離如是諸種植、樹木之採伐。 {.chi}
+如損害樹根、樹幹、枝、節、種子等。但是，這位比丘遠離損害種子和植物。 {.chi}
 
 ---
 
@@ -3261,7 +3264,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3273,7 +3276,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事受用物的貯藏， {.chi}
 
-有某沙門、婆羅門，受食信施而生活。專心住於享樂積蓄物， {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻常受用儲存的東西， {.chi}
 
 ---
 
@@ -3283,7 +3286,7 @@ such as these — stored-up food, stored-up drinks, stored-up clothing, stored-u
 
 即：食物的貯藏、飲料的貯藏、衣物的貯藏、交通工具的貯藏、臥床的貯藏、香料的貯藏、肉的貯藏，這樣，他是離這樣或那樣受用物的貯藏者， {.chi}
 
-例如食物之積蓄、飲物之積蓄、乘具之積蓄、衣服之積蓄、臥具之積蓄、香類之積蓄、財物之積蓄等。遠離如是享樂積蓄物。 {.chi}
+如受用儲存的食物、儲存的飲品、儲存的衣服、儲存的車輛、儲存的床鋪、儲存的香水、儲存的肉類等。但是，這位比丘遠離受用儲存的東西。 {.chi}
 
 ---
 
@@ -3293,7 +3296,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此為比丘戒之一分。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3305,7 +3308,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事看表演， {.chi}
 
-有某沙門、婆羅門，受食信施而生活。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻常觀看表演， {.chi}
 
 ---
 
@@ -3315,7 +3318,7 @@ such as these — dancing, singing, instrumental music, plays, ballad recitation
 
 即：舞蹈、歌唱、音樂、戲劇、講古、掌聲、鐃鈸、大鼓、魔術、鐵球戲、竹棒戲、特技、 {.chi}
 
-專心住於觀〔聽〕娛樂。例如觀劇、歌謠、舞樂、表演、古譚、手鈴、鳴鉢、銅鑼、摩術奇境、賤人之竹棒戲、 {.chi}
+如觀看跳舞、唱歌、奏樂、話劇、講故事、擊掌、金屬敲擊樂、陶瓷敲擊樂、歌劇、滾球遊戲、攀竹遊戲、人偶遊戲、 {.chi}
 
 ---
 
@@ -3325,7 +3328,7 @@ elephant fights, horse fights, buffalo fights, bull fights, goat fights, ram fig
 
 象打鬥、馬打鬥、水牛打鬥、公牛打鬥、山羊打鬥、公羊打鬥、公雞打鬥、鵪鶉打鬥、棒杖打鬥、拳頭打鬥、 {.chi}
 
-象、馬、水牛、牡牛、山牛、山羊、牡羊、雞鶉之鬥技、 {.chi}
+鬥象、鬥馬、鬥水牛、鬥公牛、鬥山羊、鬥公羊、鬥雞、鬥鵪鶉、比棒、比拳、 {.chi}
 
 ---
 
@@ -3335,7 +3338,7 @@ fighting with staves, boxing, wrestling, war-games, roll calls, battle arrays, a
 
 摔角、演習、兵列、軍陣、閱兵，這樣，他是離看這樣或那樣表演者， {.chi}
 
-棒擊、拳鬥、角力、模擬戰、列兵、配兵、閱兵等之娛樂。遠離如是等巡迴演藝之娛樂物。 {.chi}
+摔跤、士兵操練、士兵演習、士兵布陣、閱兵等。但是，這位比丘遠離觀看表演。 {.chi}
 
 ---
 
@@ -3345,7 +3348,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3357,7 +3360,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事賭博放逸處， {.chi}
 
-有某沙門、婆羅門，受食信施而生活。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻常玩放逸的勝負遊戲， {.chi}
 
 ---
 
@@ -3367,7 +3370,7 @@ such as these — eight-row chess, ten-row chess, chess in the air, hopscotch, s
 
 即：八目棋、十目棋、空中棋、跳房子遊戲、石積遊戲、骰子板、打木棒遊戲、手型遊戲、骰子、吹葉笛、玩具鋤遊戲、翻筋斗遊戲、 {.chi}
 
-專心耽住於賭博之放逸處。例如八目碁、十目碁、無盤碁、踢石、擲骰、棒打、占手痕、拋球、葉笛、鋤戲、倒立、 {.chi}
+如玩八格棋盤棋、十格棋盤棋、不用棋盤棋、跳步遊戲、取層疊木塊、骰子、擊木塊、手畫、球戲、吹葉管、犂地戲、翻筋斗、 {.chi}
 
 ---
 
@@ -3377,7 +3380,7 @@ playing with toy windmills, toy measures, toy chariots, toy bows, guessing lette
 
 玩具風車遊戲、玩具量器遊戲、車遊戲遊戲、玩具弓箭遊戲、猜字遊戲、猜想法遊戲、模仿瑕疵遊戲，這樣，他是離這樣或那樣賭博放逸處者， {.chi}
 
-風車戲、升戲、車戲、弓戲、字戲、測意戲、模擬殘傷戲等。遠離如是等之賭博放逸處。 {.chi}
+風車轉、量戲、車戲、弓戲、猜字、猜意念、模仿殘障等。但是，這位比丘遠離玩放逸的勝負遊戲。 {.chi}
 
 ---
 
@@ -3387,7 +3390,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3399,7 +3402,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後， {.chi}
 
-有某沙門、婆羅門，受食信施而生活。專心住於享用高牀大牀等。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻常受用豪華的大床， {.chi}
 
 ---
 
@@ -3407,9 +3410,9 @@ Seyyathidaṃ—āsandiṃ pallaṅkaṃ gonakaṃ cittakaṃ paṭikaṃ paṭa
 
 such as these — over-sized couches, couches adorned with carved animals, long-haired coverlets, multi-colored patchwork coverlets, white woolen coverlets, woolen coverlets embroidered with flowers or animal figures, {.eng}
 
-這樣，他們住於從事高床、大床，即：高椅、長椅、長羊毛覆蓋物、彩色覆蓋物、長羊毛覆蓋物、白羊毛覆蓋物、 {.chi}
+這樣，他們住於從事高床、大床，即：高椅、長椅、長羊毛覆蓋物、彩色覆蓋物、長羊毛覆蓋物、白羊毛覆蓋物、厚布墊、毛織墊、 {.chi}
 
-例如過大之牀座、獸形之脚臺、覆以長羊毛之織物、有文彩之白氈、繡花圖繪之牀墊、 {.chi}
+如受用附有床几的床、床腳有雕刻的床、設有頂篷的床、兩頭各有丹枕的床、長毛被褥、色彩鮮艷的被褥、白羊毛被褥、毛織的被褥、羊毛被褥、有動物圖案的羊毛被褥、 {.chi}
 
 ---
 
@@ -3417,9 +3420,9 @@ tūlikaṃ vikatikaṃ uddalomiṃ ekantalomiṃ kaṭṭissaṃ koseyyaṃ {.pa
 
 stuffed quilts, coverlets with fringe, silk coverlets embroidered with gems;  {.eng}
 
-厚布墊、毛織墊、邊緣有毛繸的墊子、一邊緣有毛繸的墊子、珠寶刺繡的絹織覆蓋物、絹布、 {.chi}
+邊緣有毛繸的墊子、一邊緣有毛繸的墊子、珠寶刺繡的絹織覆蓋物、絹布、 {.chi}
 
-於兩邊有垂緣、單側有垂緣、鏤綴寶石、絹布之被蓋、 {.chi}
+兩邊有繐的被褥、一邊有繐的被褥、金絲被褥、白毫被褥、 {.chi}
 
 ---
 
@@ -3427,9 +3430,9 @@ kuttakaṃ hatthattharaṃ assattharaṃ rathattharaṃ ajinappaveṇiṃ kadali
 
 large woolen carpets; elephant, horse, and chariot rugs, antelope-hide rugs, deer-hide rugs; couches with awnings, couches with red cushions for the head and feet — he abstains from using high and luxurious furnishings such as these. {.eng}
 
-毛織覆蓋物、象背氈墊、馬背氈墊、車上氈墊、羊皮的編織物、頂級羚鹿皮覆蓋物、有頂篷的、兩端有紅色枕墊 ，這樣，他是離這樣或那樣高床、大床者， {.chi}
+毛織覆蓋物、象背氈墊、馬背氈墊、車上氈墊、羊皮的編織物、頂級羚鹿皮覆蓋物、有頂篷的、兩端有紅色枕墊，這樣，他是離這樣或那樣高床、大床者， {.chi}
 
-大毛氈、象覆、馬褂、車衣、羚羊皮、迦達利鹿皮之殊勝敷物、寶蓋、上下之紅枕等。遠離享用如是等之高牀大牀。 {.chi}
+大被褥、繡上象的被褥、繡上馬的被褥、繡上車的被褥、羚羊皮被褥、鹿皮被褥等。但是，這位比丘遠離受用豪華的大床。 {.chi}
 
 ---
 
@@ -3439,7 +3442,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3451,7 +3454,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事塗抹物之打扮狀態， {.chi}
 
-有某沙門、婆羅門，受食信施而生活，專心住於裝飾之放逸處。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻常妝扮身體， {.chi}
 
 ---
 
@@ -3461,7 +3464,7 @@ such as these — rubbing powders into the body, massaging with oils, bathing in
 
 即：[芳香]塗身、按摩、[芳香]沐浴、揉擦[四肢]、[使用]鏡子、眼膏、花環、香料、塗油、塗臉粉、塗臉油、 {.chi}
 
-例如塗身、按摩、沐浴、鏡、眼塗〔色〕料、華蔓、塗香、臉粉、面油、 {.chi}
+如塗香膏、塗香油、香水浴、按摩、照鏡、髹眼影、戴花環、塗香水、施臉粉、塗唇膏、 {.chi}
 
 ---
 
@@ -3471,7 +3474,7 @@ bracelets, head-bands, decorated walking sticks, ornamented water-bottles, sword
 
 手環、髮飾、[裝飾用]手杖、[裝飾用]水瓶、劍、[裝飾用]傘、彩繪鞋、頭巾、寶石、拂塵、白色衣服、長繸 ， {.chi}
 
-手環、髮飾、手杖、藥袋、刀劍、蓋傘、彩履、頭巾、寶珠、拂塵、白衣、長袖等。 {.chi}
+戴手鐲、紮髻、持杖、持瓶、持劍、持傘、穿有花飾的鞋、戴冠、戴珠寶、用塵拂、穿有長繐的白衣等。 {.chi}
 
 ---
 
@@ -3481,7 +3484,7 @@ he abstains from using scents, cosmetics, and means of beautification such as th
 
 這樣，他是離這樣或那樣塗抹物之打扮狀態者， {.chi}
 
-遠離如是等任何裝飾之放逸處。 {.chi}
+但是，這位比丘遠離妝扮身體。 {.chi}
 
 ---
 
@@ -3491,7 +3494,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3503,7 +3506,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事畜生論， {.chi}
 
-有某沙門、婆羅門、受食信施而生活。專心住於無益徒勞之論。 {.chi}
+一些沙門婆羅門吃了信眾所布施的食物，但卻常說俗世間的說話， {.chi}
 
 ---
 
@@ -3513,7 +3516,7 @@ such as these — talking about kings, robbers, ministers of state; armies, alar
 
 即：國王論、盜賊論、大臣論、軍隊論、怖畏論、戰爭論、食物論、飲料論、衣服論、臥具論、花環論、氣味論、親里論、車乘論、村落論、城鎮論、城市論、國土論、 {.chi}
 
-例如王論、盜賊論、大臣論、軍兵論、恐怖論、戰爭論、食物論、飲料論、衣服論、臥具論、華鬘論、香料論、親族論、乘具論、村里論、鄉鎮論、都市論、國土論、 {.chi}
+「如說有關國王、盜賊、大臣、軍隊、恐懼、戰爭、食物、飲品、衣服、床具、花環、香水、親屬、車乘、鄉村、市鎮、都城、國家、 {.chi}
 
 ---
 
@@ -3523,7 +3526,7 @@ women and heroes; the gossip of the street and the well; tales of the dead; tale
 
 女人論、英雄論、街道論、水井論、祖靈論、種種論、世界起源論、海洋起源論、如是有無論 ，這樣，他是離這樣或那樣畜生論者， {.chi}
 
-婦女論、英雄論、路邊論、井邊風傳論、祖先論、種性論，世界起源論、海洋起源論、如是有無之論等。遠離如是等無益徒勞之論。 {.chi}
+女士、英雄、街上流言、井邊流言、亡靈、雜事、世間、大海、是非對錯等說話。但是，這位比丘遠離俗世間的說話。 {.chi}
 
 ---
 
@@ -3533,7 +3536,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3545,7 +3548,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事諍論， {.chi}
 
-又有某沙門、婆羅門，受食信施而生活。專心住於諍論。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻常和人辯論── {.chi}
 
 ---
 
@@ -3555,7 +3558,7 @@ Seyyathidaṃ—na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhamm
 
 即：『你不了知這法、律，我了知這法、律；你了知這法、律什麼！你是邪行者，我是正行者；我的是一致的，你的是不一致的： {.chi}
 
-例如『汝不知此法、律、我知此法、律，汝如何知此法、律耶？』『汝是邪行者，我是正行者。』『我言〔前後〕相應，汝言不相應。』 {.chi}
+『你不明白這些法和律，我才明白這些法和律；你能夠明白這些法和律嗎？』『你說錯了，我才說得對！』『我前後一致，你前後矛盾！』 {.chi}
 
 ---
 
@@ -3565,7 +3568,7 @@ What should be said first you said last. What should be said last you said first
 
 應該先說的而後說，應該後說的而先說；一直以來你所熟練的是顛倒的；你的理論已被論破，去救[你的]理論；你已被折伏，請你拆解，如果你能。』 這樣，他是離這樣或那樣諍論者， {.chi}
 
-『汝應言於前者而言於後，應言於後者而言於前。』『汝無細慮而〔自〕言返復。』『汝之立論，墮於負處。』『為解汝負說而尋思，若能者即自解！』遠離如是等任何諍論。 {.chi}
+『你之前說了應該後說的說話，但之後才說應該在先前說的說話！』『我改變了你的想法！』『你提出的論據已被駁倒，你敗了！』『繼續試，看看能否脫困吧！』 ──但是，這位比丘遠離和人辯論。 {.chi}
 
 ---
 
@@ -3575,7 +3578,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3587,7 +3590,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事當信差來往， {.chi}
 
-有某沙門、婆羅門，受食信施而生活。專心住於差使者、傳信之行作。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻常替人做信使， {.chi}
 
 ---
 
@@ -3597,7 +3600,7 @@ such as these — kings, ministers of state, noble warriors, brahmans, household
 
 即：屬於國王、國王的大臣、剎帝利、婆羅門、屋主、青年的[，他們說]：『你去這裡，你去那裡；取這個[去]，在那裡，拿這個來。』 {.chi}
 
-例如國王、大臣、剎帝利、婆羅門、居士、童子〔令〕：『汝來此處、往彼處，汝來持此、持此往彼。』 {.chi}
+如替國王、大臣、剎帝利、婆羅門、居士、兒童等做信使──被呼喚：『來這裏。』『去那裏。』『帶東西來這裏。』『帶東西去那裏。』── {.chi}
 
 ---
 
@@ -3607,7 +3610,7 @@ he abstains from running messages and errands for people such as these. {.eng}
 
 這樣，他是離這樣或那樣當信差來往者， {.chi}
 
-遠離如是任何使者、傳信之行為。 {.chi}
+但是，這位比丘遠離替人做信使。這是他的戒行。 {.chi}
 
 ---
 
@@ -3629,7 +3632,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們是設計、攀談、暗示、譏諷、以利養換取其他利養者， {.chi}
 
-又有某沙門、婆羅門，受食信施而生活。而於欺瞞、饒諛騙詐。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻常為了取得更多供養而虛偽、不誠實、欺騙、詐騙。 {.chi}
 
 ---
 
@@ -3639,7 +3642,7 @@ he abstains from forms of scheming and persuading [improper ways of trying to ga
 
 這樣，他是離詭詐說話者， {.chi}
 
-遠離如是饒諛騙詐。 {.chi}
+但是，這位比丘遠離虛偽和不誠實。 {.chi}
 
 ---
 
@@ -3649,7 +3652,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3661,7 +3664,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
-又有某沙門、婆羅門，受食信施而生活。彼等依無益徒勞之橫明（畜生）而過邪命生活。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻從事俗世間的知識學問，以不正確的方式來活命， {.chi}
 
 ---
 
@@ -3671,7 +3674,7 @@ by such “animal” arts as: reading marks on the limbs [e.g., palmistry]; read
 
 即：肢體相、天變地異的占相、夢的占相、男女相的占相、被老鼠咬破的占相、火的獻供(護摩)、杓子的獻供、稻殼的獻供、米糠的獻供、米粒的獻供、熟酥的獻供、油的獻供、口的獻供、血的獻供、 {.chi}
 
-例如占卜手足之相、占前兆〔吉凶〕、占夢、占體〔全身〕相、占鼠所咬、火護摩、杓子護摩、穀皮護摩、糠護摩、米護摩、熟酥護摩、油護摩、口護摩、血護摩、 {.chi}
+如從事看掌、星相、解夢、鼠嚙相、火供、杓供、穀供、飯供、米供、熟酥供、麻油供、口供、血供、 {.chi}
 
 ---
 
@@ -3681,7 +3684,7 @@ making predictions based on the fingertips; geomancy; making predictions for sta
 
 手足明、宅地明、政治明、福咒明、鬼神明、土地明、蛇明、毒藥明、蠍子明、老鼠明、鳥明、烏鴉明、算命、箭除之法、獸的領域， 這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
-肢節明、宅地明、剎帝利明、濕婆明、鬼神明、地明、蛇明、毒藥明、蝎明、鼠明、鳥明、鴉明、命數豫言、防箭咒、解獸聲法等。遠離如是等任何無益徒勞之橫明。 {.chi}
+掌相、土地風水、農田風水、符咒、驅魔、尋寶、治蛇咬、治毒、治蠍螫、治鼠咬、解鳥聲、解烏鴉聲、預測壽命、防箭傷害、解走獸聲等知識學問。但是，這位比丘遠離俗世間的知識學問。 {.chi}
 
 ---
 
@@ -3691,7 +3694,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3703,7 +3706,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
-又有某沙門、婆羅門，受食信施而生活。〔彼等依無益徒勞之橫明而過邪命生活。〕 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻從事俗世間的知識學問，以不正確的方式來活命， {.chi}
 
 ---
 
@@ -3713,7 +3716,7 @@ determining lucky and unlucky gems, staffs, garments, swords, arrows, bows, and 
 
 即：寶石占相、衣服占相、棒杖占相、刀占相、劍占相、箭占相、弓占相、武器占相、女子占相、男子占相、童男占相、童女占相、奴僕占相、 {.chi}
 
-例如占珠相、杖相、衣服相、劍相、矢相、弓相、武器相、婦人相、丈夫相、童子相、童女相、 {.chi}
+如從事以珠寶相、杖相、衣相、劍相、箭相、弓相、武器相、男相、女相、男童相、女童相、男僕相、女僕相、 {.chi}
 
 ---
 
@@ -3723,7 +3726,7 @@ elephants, horses, buffaloes, bulls, cows, goats, rams, fowl, quails, lizards, r
 
 象占相、馬占相、水牛占相、公牛占相、牛占相、山羊占相、公羊占相、雞占相、鵪鶉占相、蜥蜴占相、耳環占相、龜占相、鹿占相，  {.chi}
 
-象相、馬相、水牛相、牡牛相、山羊相、羊相、雞相、鶉相、蜥蜴相、耳環相、龜甲相、獸相等。 {.chi}
+象相、馬相、水牛相、公牛相、母牛相、山羊相、公羊相、公雞相、鵪鶉相、蜥蜴相、耳環相、烏龜相、走獸相等預測吉凶的知識學問。 {.chi}
 
 ---
 
@@ -3733,7 +3736,7 @@ he abstains from wrong livelihood, from “animal” arts such as these. {.eng}
 
 這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
-遠離如是無益徒勞之橫明。 {.chi}
+但是，這位比丘遠離俗世間的知識學問。 {.chi}
 
 ---
 
@@ -3743,7 +3746,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3755,7 +3758,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
-又有某沙門、婆羅門，受食信施而生活。彼等以占無益徒勞之橫明以過邪命生活。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻從事俗世間的知識學問，以不正確的方式來活命， {.chi}
 
 ---
 
@@ -3765,7 +3768,7 @@ the rulers will march forth; the rulers will not march forth; our rulers will at
 
 即：諸王將出發；諸王將不出發、內部諸王將到來；外部諸王將退卻、外部諸王將到來； {.chi}
 
-例如占『王應進軍、王不應進軍。』『內部諸王當迫進、外部諸王當退卻。』『外部諸王當迫進、內部諸王將退卻。』 {.chi}
+如從事預測：『國王將會出征，國王將會收兵。』『我們的國王將會推進，對方的國王將會撤退。』『對方的國王將會推進，我們的國王將會撤退。』 {.chi}
 
 ---
 
@@ -3775,7 +3778,7 @@ there will be triumph for our rulers and defeat for their rulers; there will be 
 
 內部諸王將退卻、內部諸王將勝利；外部諸王將敗北、外部諸王將勝利；內部諸王將敗北， {.chi}
 
-『內部諸王當勝利、外部諸王將敗退。』『外部諸王當勝利、內部諸王將敗退。』 {.chi}
+『我們的國王將會戰勝，對方的國王將會戰敗。』『對方的國王將會戰勝，我們的國王將會戰敗。』 {.chi}
 
 ---
 
@@ -3785,7 +3788,7 @@ thus there will be triumph this one, defeat for that one — he abstains from wr
 
 這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
-『此人當勝利、此人將敗退。』遠離如是等無益徒勞之橫明。 {.chi}
+『這人將會勝利。』『這人將會失敗。』等知識學問。但是，這位比丘遠離俗世間的知識學問。 {.chi}
 
 ---
 
@@ -3795,7 +3798,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3807,7 +3810,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
-又有某沙門、婆羅門，受食信施而生活。彼等以占無益徒勞之橫明過邪命生活。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻從事俗世間的知識學問，以不正確的方式來活命， {.chi}
 
 ---
 
@@ -3817,7 +3820,7 @@ there will be a lunar eclipse; there will be a solar eclipse; there will be an o
 
 即：將有月蝕、將有日蝕、將有星蝕、將有日月的[正常]軌道、將有日月的偏離軌道、將有星辰的[正常]軌道、將有星辰的偏離軌道、 {.chi}
 
-例如占：『應有月蝕、應有日蝕、應有星蝕、日月應行正道、 {.chi}
+如從事預測：『將會日蝕。』『將會月蝕。』『將會星蝕。』『日月將會循著軌跡運行。』『日月將會不循軌跡運行。』 {.chi}
 
 ---
 
@@ -3827,7 +3830,7 @@ the asterisms will be favorable; the asterisms will be unfavorable; there will b
 
 將有流星的隕落、將有天火、將有地震、將有天鼓、將有日月星辰的上升下沉遮蔽明淨、 {.chi}
 
-諸星宿應行正道、諸星宿應行非道，流星應隕落、應有天火、應有地震、天鼓將鳴、應有日月星宿之昇沈明暗。 {.chi}
+『星將會循著軌跡運行。』『星將會不循軌跡運行。』『將會有流星。』『天空將會有黃道光。』『將會地震。』『將會打雷。』『日月星辰將會何時上昇、何時落下、何時明亮、何時暗淡。』 {.chi}
 
 ---
 
@@ -3837,7 +3840,7 @@ such will be the result of the lunar eclipse ... {.eng}
 
 月蝕將有這樣的果報、日蝕將有這樣的果報、星蝕將有這樣的果報、日月[正常]軌道將有這樣的果報、日月偏離軌道將有這樣的果報、 {.chi}
 
-如是之果報，應有月蝕…… {.chi}
+『日蝕將會帶來什麼吉凶。』『月蝕將會帶來什麼吉凶。』『星蝕將會帶來什麼吉凶。』『日月循著軌跡運行將會帶來什麼吉凶。』『日月不循軌跡運行將會帶來什麼吉凶。』 {.chi}
 
 ---
 
@@ -3847,7 +3850,7 @@ evaṃvipākaṃ nakkhattānaṃ pathagamanaṃ bhavissati, evaṃvipākaṃ nak
 
 星辰[正常]軌道將有這樣的果報、星辰偏離軌道將有這樣的果報、流星隕落將有這樣的果報、天火將有這樣的果報、地震將有這樣的果報、天鼓將有這樣的果報、 {.chi}
 
-…… {.chi}
+『星循著軌跡運行將會帶來什麼吉凶。』『星不循軌跡運行將會帶來什麼吉凶。』『流星將會帶來什麼吉凶。』『黃道光將會帶來什麼吉凶。』『地震將會帶來什麼吉凶。』『打雷將會帶來什麼吉凶。』 {.chi}
 
 ---
 
@@ -3857,7 +3860,7 @@ the rising, setting, darkening, brightening of the sun, moon, and asterisms — 
 
 日月星辰的上升下沉遮蔽明淨將有這樣的果報，這樣，他是離這樣或那樣以畜生明邪命謀生者，這也是關於戒。 {.chi}
 
-……〔乃至〕……如是之果報，應有日月星宿之昇沈明暗。』遠離如是無益徒勞之橫明。此亦為比丘戒之一份。 {.chi}
+『日月星辰上昇、落下、明亮、暗淡將會帶來什麼吉凶。』 等知識學問。但是，這位比丘遠離俗世間的知識學問。這是他的戒行。 {.chi}
 
 ---
 
@@ -3867,27 +3870,27 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
-又有某沙門、婆羅門，受食信施而生活。彼等以占無益徒勞之橫明過邪命生活。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻從事俗世間的知識學問，以不正確的方式來活命， {.chi}
 
 ---
 
 Seyyathidaṃ— suvuṭṭhikā bhavissati, dubbuṭṭhikā bhavissati, subhikkhaṃ bhavissati, dubbhikkhaṃ bhavissati, khemaṃ bhavissati, bhayaṃ bhavissati, rogo bhavissati, ārogyaṃ bhavissati, {.pali}
 
-there will be abundant rain; there will be a drought; there will be plenty; there will be famine; there will be rest and security; there will be danger; {.eng}
+there will be abundant rain; there will be a drought; there will be plenty; there will be famine; there will be rest and security; there will be danger; there will be disease; there will be freedom from disease; {.eng}
 
 即：將多雨、將難有雨、將豊收、將飢饉、將安穩、將有恐怖、將有疾病、將無病、 {.chi}
 
-例如占：『應有多雨、應無雨、應有豐收、應無收穫、應來太平、應無恐怖、應有疫病、應有健康。』〔並占〕記號、計算吉凶數、作詩、順世論等。 {.chi}
+如從事預測：『將會有雨水。』『將會乾旱。』『將會豐收。』『將會失收。』『將會平安。』『將會不安。』『將會有病。』『將會健康。』 等知識學問。 {.chi}
 
 ---
 
 muddā, gaṇanā, saṅkhānaṃ, kāveyyaṃ, lokāyataṃ iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. {.pali}
 
-there will be disease; there will be freedom from disease; or they earn their living by accounting, counting, calculation, composing poetry, or teaching hedonistic arts and doctrines [lokāyata] — he abstains from wrong livelihood, from “animal” arts such as these. {.pali} {.eng}
+or they earn their living by accounting, counting, calculation, composing poetry, or teaching hedonistic arts and doctrines [lokāyata] — he abstains from wrong livelihood, from “animal” arts such as these. {.pali} {.eng}
 
 查驗、會計、計算、詩作、世間論，這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
-遠離如是任何無益徒勞之橫明。 {.chi}
+還有從事手語、計算、數學、詩詞、俗世哲學等知識學問。但是，這位比丘遠離俗世間的知識學問。 {.chi}
 
 ---
 
@@ -3897,7 +3900,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3909,7 +3912,9 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
-又有某沙門、婆羅門，受食信施而生活。彼等以占無益徒勞之橫明過邪命生活。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻從事俗世間的知識學問，以不正確
+
+的方式來活命， {.chi}
 
 ---
 
@@ -3919,7 +3924,7 @@ calculating auspicious dates for marriages — both those in which the bride is 
 
 即：嫁娶[時間]、結婚、離婚、揭幕、討債、貸出、開運、作惡運、墮胎、 {.chi}
 
-例如占：娶、嫁、和睦分裂、貸入、貸出、〔以咒術令〕開運、遇禍、墮胎、 {.chi}
+如從事嫁娶、撮合姻緣咒術、拆散姻緣咒術、付款擇日、取款擇日、撮合友情咒術、拆散友情咒術、墮胎咒術、 {.chi}
 
 ---
 
@@ -3929,7 +3934,7 @@ reciting spells to bind a man‘s tongue, to paralyze his jaws, to make him lose
 
 綁舌[咒術]、使顎被結縛[咒術]、[他人]手控制咒術、顎咒術、耳聾咒術、詢問鏡子[而得答案]、詢問女孩[靈媒]、詢問天、 {.chi}
 
-啞口、不能言、〔舉手〕不下、耳聾、問鏡、問童女、問天神、 {.chi}
+使人不能說話咒術、使人不能開口咒術、使人雙手扭絞咒術、使人耳聾咒術、向鏡問卜、向童女問卜、向天神問卜、 {.chi}
 
 ---
 
@@ -3939,7 +3944,7 @@ worshipping the sun, worshipping the Great Brahmā, bringing forth flames from t
 
 太陽崇拜、大[梵天]崇拜、口吐出火、招請幸運女神，這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
-拜太陽、奉祭大〔梵天〕、口吐火、奉請吉祥天等。遠離如是任何無益徒勞之橫明。 {.chi}
+以口噴火來施咒術、召喚財神等知識學問。但是，這位比丘遠離俗世間的知識學問。 {.chi}
 
 ---
 
@@ -3949,7 +3954,7 @@ This, too, is part of his virtue. {.eng}
 
 這也是關於戒。 {.chi}
 
-此亦為比丘戒之一份。 {.chi}
+這是他的戒行。 {.chi}
 
 ---
 
@@ -3961,7 +3966,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
-又有某沙門、婆羅門，受食信施而生活。彼等以無益徒勞之橫明過邪命生活。 {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻從事俗世間的知識學問，以不正確的方式來活命， {.chi}
 
 ---
 
@@ -3971,7 +3976,7 @@ promising gifts to deities in return for favors; fulfilling such promises; demon
 
 即：透過神而使變得寂靜的儀式、誓願儀式、鬼神儀式、居地儀式、 {.chi}
 
-例如許願、還願、對地基作咒、 {.chi}
+如從事祈福法事、還願法事、施咒術法事、 {.chi}
 
 ---
 
@@ -3981,7 +3986,7 @@ inducing virility and impotence; preparing sites for construction; consecrating 
 
 [使]元氣旺盛儀式、[使]性無能儀式、房地儀式、房地準備儀式、洗淨、[芳香]沐浴、獻供、 {.chi}
 
-得精力〔有子〕、失精力〔無子〕、相宅地、對宅地撒〔祭物〕；漱口、沐浴、供犧牲、 {.chi}
+祈生殖力法事、祈沒有生殖力法事、動土法事、封聖地法事、淨口法事、沐浴法事、火祭法事等知識學問。 {.chi}
 
 ---
 
@@ -3991,7 +3996,7 @@ administering emetics, purges, purges from above, purges from below, head-purges
 
 催吐劑、瀉藥、向上瀉藥、向下瀉藥、頭的瀉藥、耳油藥、眼藥水、灌鼻、藥膏、塗油、 {.chi}
 
-吐藥、下劑、上吐、下瀉、頭痛藥、點耳、洗眼、灌鼻、眼藥、藥油； {.chi}
+還有從事嘔出嘔吐物、洗腸、除痰、排便、洗頭、滴耳、洗眼、滴鼻、塗油、塗藥、 {.chi}
 
 ---
 
@@ -4001,7 +4006,7 @@ practicing eye-surgery [or: extractive surgery], general surgery, pediatrics; ad
 
 眼科、外科、兒科、根藥、無生(藥的解藥)、藥草、瀉劑， {.chi}
 
-眼科醫、外科醫、小兒科醫、與根本藥、草藥、瀉藥等。 {.chi}
+針灸、做手術、治小兒疾病、治一般疾病、開藥、敷藥等知識學問。 {.chi}
 
 ---
 
@@ -4011,7 +4016,7 @@ he abstains from wrong livelihood, from “animal” arts such as these. {.eng}
 
 這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
-遠離如是任何無益徒勞之橫明。 {.chi}
+但是，這位比丘遠離俗世間的知識學問。這是他的戒行。 {.chi}
 
 ---
 
@@ -4033,7 +4038,7 @@ Sa kho so, mahārāja, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ samanupas
 
 大王！那位這樣戒具足的比丘在任何地方都不看見戒自制的恐怖， {.chi}
 
-大王！此比丘如是戒具足者，無論於何處，由戒之護持故，皆不見怖畏。 {.chi}
+「大王，一位具有戒行的比丘，去到任何地方都不會因戒律而心生恐懼。 {.chi}
 
 ---
 
@@ -4043,7 +4048,7 @@ Just as a head-anointed noble warrior king who has defeated his enemies sees no 
 
 大王！猶如敵人已被殺害的剎帝利灌頂王，在任何地方都不看見敵人的恐怖， {.chi}
 
-大王！恰如一灌頂之剎帝利制伏怨敵，無論於何處，皆不見怖畏。 {.chi}
+大王，就正如一位清除了敵人的灌頂剎帝利，去到任何地方都不會因敵人而心生恐懼那樣； {.chi}
 
 ---
 
@@ -4053,7 +4058,7 @@ in the same way the monk thus consummate in virtue sees no danger anywhere from 
 
 同樣的，大王！那位這樣戒具足的比丘在任何地方都不看見戒自制的恐怖。 {.chi}
 
-比丘而戒具足者，由戒之護持故，無論於何處，皆不見怖畏。 {.chi}
+同樣地，一位具有戒行的比丘，去到任何地方都不會因戒律而心生恐懼。 {.chi}
 
 ---
 
@@ -4063,7 +4068,7 @@ Endowed with this noble aggregate of virtue, he is inwardly sensitive to the ple
 
 已具備這聖戒蘊，他自身內感受無過失的安樂， {.chi}
 
-具足此聖戒蘊，彼之內心，感受無垢純淨安樂。 {.chi}
+他具有聖者之戒蘊，親身體驗沒有過失之樂。 {.chi}
 
 ---
 
@@ -4073,7 +4078,7 @@ This is how a monk is consummate in virtue. {.eng}
 
 大王！這樣，比丘是戒具足者。 {.chi}
 
-大王！如是比丘乃戒具足。 {.chi}
+大王，這就是比丘具有戒行了。 {.chi}
 
 ---
 
@@ -4085,7 +4090,7 @@ Kathañca, mahārāja, bhikkhu indriyesu guttadvāro hoti? {.pali}
 
 大王！比丘如何是守護根門者呢？ {.chi}
 
-大王！又比丘如何防護諸根門耶？ {.chi}
+「大王，什麼是比丘守護根門呢？ {.chi}
 
 ---
 
@@ -4095,7 +4100,7 @@ On seeing a form with the eye, he does not grasp at any theme or details by whic
 
 大王！這裡，比丘以眼見色後，不成為相的執取者、細相的執取者， {.chi}
 
-大王！茲有比丘以眼見色時，不執取〔總〕相，不執取別相。 {.chi}
+一位比丘在眼看到色之後，不執取形，不執取相。 {.chi}
 
 ---
 
@@ -4105,7 +4110,7 @@ if he were to dwell without restraint over the faculty of the eye — evil, unsk
 
 因為當住於眼根的不防護時，貪憂、惡不善法會流入，他依其自制而行動，保護眼根，在眼根上達到自制； {.chi}
 
-彼若放逸不防護，而隨著貪愛、憂悲、過惡、不淨法，即攝御眼根，防護眼根，令達眼根之防護。 {.chi}
+他知道如果不約束眼根的話，貪著、苦惱這些惡不善法便會漏入內心，因此他約束眼根，守護眼根，修習眼根律儀。 {.chi}
 
 ---
 
@@ -4115,7 +4120,7 @@ On hearing a sound with the ear... On smelling an odor with the nose... On tasti
 
 以耳聽聲音後，……以鼻聞氣味後，……以舌嚐味道後，……以身觸所觸後，……以意識知法後，不成為相的執取者、細相的執取者， {.chi}
 
-以耳聞聲時……乃至……以鼻嗅香……乃至……以舌味味……乃至……以身觸觸……乃至……以意知法時，不執取總相，不執取別相。 {.chi}
+「他在耳聽到聲⋯⋯「他在鼻嗅到香⋯⋯「他在舌嚐到味⋯⋯「他在身感到觸⋯⋯ {.chi}
 
 ---
 
@@ -4125,7 +4130,7 @@ if he were to dwell without restraint over the faculty of the intellect — evil
 
 因為當住於意根的不防護時，貪憂、惡不善法會流入， {.chi}
 
-彼若放逸不防護，而隨著貪愛、憂悲、過惡、不淨法，即攝御意根，以防護意根，令達意根之防護。 {.chi}
+「他在意想到法之後，不執取形，不執取相。他知道如果不約束意根的話，貪著、苦惱這些惡不善法便會漏入內心，因此他約束意根，守護意根，修習意根律儀。 {.chi}
 
 ---
 
@@ -4135,7 +4140,7 @@ Endowed with this noble restraint over the sense faculties, he is inwardly sensi
 
 他依其自制而行動，保護意根，在意根上達到自制，已具備這聖根自制，他自身內感受不受害的安樂， {.chi}
 
-彼依此聖具足諸根之攝御，感受內心無垢純淨之安樂。 {.chi}
+他具有聖者之根律儀，親身體驗無染之樂。 {.chi}
 
 ---
 
@@ -4145,7 +4150,7 @@ This is how a monk guards the doors of his senses. {.eng}
 
 大王！這樣，比丘是守護根門者。 {.chi}
 
-大王！比丘如是攝護諸根門。 {.chi}
+大王，這就是比丘守護根門了。 {.chi}
 
 ---
 
@@ -4157,7 +4162,7 @@ Kathañca, mahārāja, bhikkhu satisampajaññena samannāgato hoti? {.pali}
 
 大王！比丘如何具備正念與正知呢？ {.chi}
 
-大王！又如何比丘具足正念、正智耶？ {.chi}
+「大王，什麼是比丘具有念和覺知呢？ {.chi}
 
 ---
 
@@ -4167,7 +4172,7 @@ When going forward and returning, he acts with alertness. When looking toward an
 
 比丘在前進、後退時是正知於行為者；在前視、後視時是正知於行為者；在[肢體]曲伸時是正知於行為者； {.chi}
 
-大王！茲有比丘於進、於退以具正智，於瞻前、於顧後亦具正智。又屈伸手足時、 {.chi}
+一位比丘在往還的時候，對往還有覺知；在向前觀望、向周圍觀望的時候，對向前觀望、向周圍觀望有覺知；在屈伸身體的時候，對屈伸身體有覺知； {.chi}
 
 ---
 
@@ -4177,7 +4182,7 @@ when carrying his outer cloak, his upper robe, and his bowl... when eating, drin
 
 在[穿]衣、持鉢與大衣時是正知於行為者；在飲、食、嚼、嚐時是正知於行為者； {.chi}
 
-持下衣、上衣及鉢時，飲食嘗味時， {.chi}
+在穿衣持缽的時候，對穿衣持缽有覺知；在飲食、咀嚼、感受味覺的時候，對飲食、咀嚼、感受味覺有覺知； {.chi}
 
 ---
 
@@ -4187,7 +4192,7 @@ when urinating and defecating... when walking, standing, sitting, falling asleep
 
 在大小便動作時是正知於行為者；在行、住、坐、臥、清醒、語、默時是正知於行為者， {.chi}
 
-大小便時，行住坐臥時，覺醒時，語時，默時，皆具正智。 {.chi}
+在大便、小便的時候，對大便、小便有覺知；在行走、站立、坐下、睡覺、睡醒、說話、靜默的時候，對行走、站立、坐下、睡覺、睡醒、說話、靜默有覺知。 {.chi}
 
 ---
 
@@ -4197,7 +4202,7 @@ This is how a monk is possessed of mindfulness and alertness. {.eng}
 
 大王！這樣，比丘具備正念與正知。 {.chi}
 
-大王！比丘如是具足正念、正智。 {.chi}
+大王，這就是比丘具有念和覺知了。 {.chi}
 
 ---
 
@@ -4219,7 +4224,7 @@ Idha, mahārāja, bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena, kucch
 
 大王！比丘是已知足者：以衣服保護身體、以施食保護肚子， {.chi}
 
-大王！茲有比丘，滿足其護身之衣及其養體之施食， {.chi}
+「大王，什麼是比丘知足呢？一位比丘對能蔽體的衣服知足，對能果腹的食物知足。 {.chi}
 
 ---
 
@@ -4229,7 +4234,7 @@ So yena yeneva pakkamati, samādāyeva pakkamati. {.pali}
 
 不論出發到何處，他只拿[這些]出發， {.chi}
 
-〔彼〕往何處，唯持此等（衣、鉢）而往。 {.chi}
+無論他去哪裏，都只是和衣缽隨行。 {.chi}
 
 ---
 
@@ -4239,7 +4244,7 @@ Just as a bird, wherever it goes, flies with its wings as its only burden; {.eng
 
 猶如鳥不論以翼飛到何處，只有翼的負荷而飛。 {.chi}
 
-大王！猶如有翼之鳥，飛往何處，亦只持其翼而飛。 {.chi}
+就正如雀鳥和牠的羽翼，無論雀鳥飛去哪裏，都只是和雙翼隨行。 {.chi}
 
 ---
 
@@ -4249,7 +4254,7 @@ so too is he content with a set of robes to provide for his body and almsfood to
 
 同樣的，大王！比丘以衣服保護身體、以施食保護肚子為知足， {.chi}
 
-大王！比丘如是滿足其護身之衣及養體之施食， {.chi}
+同樣地，一位比丘對能蔽體的衣服知足，對能果腹的食物知足。 {.chi}
 
 ---
 
@@ -4259,7 +4264,7 @@ Wherever he goes, he takes only his barest necessities along. {.eng}
 
 不論出發到何處，他只拿[這些]出發， {.chi}
 
-往何處，唯持此等而往。 {.chi}
+無論他去哪裏，都只是和衣缽隨行。 {.chi}
 
 ---
 
@@ -4269,7 +4274,7 @@ This is how a monk is content. {.eng}
 
 大王！這樣，比丘是已知足者。 {.chi}
 
-大王！比丘如是滿足。 {.chi}
+大王，這就是比丘知足了。 {.chi}
 
 ---
 
@@ -4281,7 +4286,7 @@ So iminā ca ariyena sīlakkhandhena samannāgato, iminā ca ariyena indriyasa�
 
 已具備這聖戒蘊，已具備這聖根自制，已具備這聖正念與正知，已具備這聖知足， {.chi}
 
-具足此聖戒蘊、聖諸根之防護、聖正念正智、聖之滿足， {.chi}
+「他具有聖者之戒蘊、聖者之根律儀、聖者之念和覺知、聖者之知足， {.chi}
 
 ---
 
@@ -4291,7 +4296,7 @@ he seeks out a secluded dwelling: a forest, the shade of a tree, a mountain, a g
 
 他親近獨居的住處：林野、樹下、山岳、洞窟、山洞、墓地、森林、露地、稻草堆。 {.chi}
 
-選〔住〕空閑處、樹下、山岳、峽谷、巖窟、藪林、露地、塚間、藁堆。 {.chi}
+居住在叢林、樹下、深山、山谷、岩洞、墓地、森林、曠野、草堆等遠離的住處之中。 {.chi}
 
 ---
 
@@ -4301,7 +4306,7 @@ After his meal, returning from his alms round, he sits down, crosses his legs, h
 
 他食畢，從施食處返回，坐下，盤腿後，挺直身體，建立起面前的正念後， {.chi}
 
-彼乞食而歸，食已而結跏趺坐、端身安住，現起深正念。 {.chi}
+他在化食完畢，吃過食物後返回，然後盤腿坐下來，豎直腰身，把念保持安放在要繫念的地方。 {.chi}
 
 ---
 
@@ -4313,7 +4318,7 @@ So abhijjhaṃ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya citta
 
 他捨斷對世間的貪婪，以離貪婪心而住，使心從貪婪中清淨。 {.chi}
 
-彼對世間，捨棄貪欲、無貪欲心而住，由〔離〕貪欲令心淨化。 {.chi}
+「他捨棄世上的貪欲，超越貪欲；內心清除了貪欲。 {.chi}
 
 ---
 
@@ -4323,7 +4328,7 @@ Abandoning ill will and anger, he dwells with an awareness devoid of ill will, s
 
 捨斷惡意與瞋怒後，住於無瞋害心、對一切活的生物憐愍，使心從惡意與瞋怒中清淨。 {.chi}
 
-捨棄害心及瞋恚，不害心而住，利益慈愍一切生物有類，由〔離〕害心及瞋恚令心淨化。 {.chi}
+「他捨棄瞋恚，心中沒有瞋恚，只有利益和悲憫所有眾生；內心清除了瞋恚。 {.chi}
 
 ---
 
@@ -4333,7 +4338,7 @@ Abandoning sloth and drowsiness, he dwells with an awareness devoid of sloth and
 
 捨斷惛沈睡眠後，住於離惛沈睡眠、有光明想、正念、正知，使心從惛沈睡眠中清淨。 {.chi}
 
-捨棄惛沈及睡眠，脫離惛沈、睡眠而住，光明想而正念正智，由〔離〕惛沈、睡眠令心淨化。 {.chi}
+「他捨棄昏睡，超越昏睡，有光明想，有念和覺知；內心清除了昏睡。 {.chi}
 
 ---
 
@@ -4343,7 +4348,7 @@ Abandoning restlessness and anxiety, he dwells undisturbed, his mind inwardly st
 
 捨斷掉舉後悔後，住於不掉舉、自身內心寂靜，使心從掉舉後悔中清淨。 {.chi}
 
-捨棄掉舉及惡作，心輕而住，內心寂靜，由〔離〕掉舉、惡作令心淨化。 {.chi}
+「他捨棄掉悔，沒有激盪，有一個內裏平靜的心；內心清除了掉悔。 {.chi}
 
 ---
 
@@ -4353,7 +4358,7 @@ Abandoning uncertainty, he dwells having crossed over uncertainty, with no perpl
 
 捨斷疑惑後，住於脫離疑惑、在善法上無疑，使心從疑惑中清淨。 {.chi}
 
-捨棄疑，脫離疑而住，於淨法無有疑，由〔離〕疑令心淨化。 {.chi}
+「他捨棄疑惑，超越疑惑，沒有疑惑；內心清除了對善法的疑惑。 {.chi}
 
 ---
 
@@ -4365,7 +4370,7 @@ Seyyathāpi, mahārāja, puriso iṇaṃ ādāya kammante payojeyya. {.pali}
 
 大王！猶如男子如果拿了借款後從事事業， {.chi}
 
-大王！猶如有人，以負債而營事業， {.chi}
+「大王，就正如一個貸款營商⋯⋯ {.chi}
 
 ---
 
@@ -4375,7 +4380,7 @@ His business affairs succeed. He repays his old debts and there is extra left ov
 
 如果他的那些事業成功，他會終結那舊的借款本金，會有超出的餘額扶養妻子， {.chi}
 
-其事業繁榮，得還清負債之本金，尚有剩餘，得以養妻。 {.chi}
+⋯⋯而得到成功的人，清還所有債款後還有餘錢來養家。 {.chi}
 
 ---
 
@@ -4385,7 +4390,7 @@ The thought would occur to him, ‘Before, taking a loan, I invested it in my bu
 
 他這麼想：『我以前拿了借款後會從事事業， {.chi}
 
-其時，彼思惟：『我曾負債以營事業， {.chi}
+當他想起這件事情時， {.chi}
 
 ---
 
@@ -4395,7 +4400,7 @@ Now my business affairs have succeeded. I have repaid my old debts and there is 
 
 我的那些事業成功，我終結了那舊的借款本金，有超出的餘額扶養我的妻子。』 {.chi}
 
-事業繁榮，得還清負債之本金，尚有剩餘，得以養妻。』 {.chi}
+⋯⋯ {.chi}
 
 ---
 
@@ -4405,7 +4410,7 @@ Because of that he would experience joy and happiness. {.eng}
 
 他從此因緣而會得到欣悅，會到達喜悅。 {.chi}
 
-而彼其喜亦悅樂。 {.chi}
+內心便會得到歡悅、得到快樂。 {.chi}
 
 ---
 
@@ -4417,7 +4422,7 @@ Seyyathāpi, mahārāja, puriso ābādhiko assa dukkhito bāḷhagilāno; {.pali
 
 大王！猶如男子如果生病、痛苦、重病， {.chi}
 
-大王！猶如有人，為重病所惱， {.chi}
+「大王，又正如一個有病的人，身體有病痛， {.chi}
 
 ---
 
@@ -4427,7 +4432,7 @@ He does not enjoy his meals, and there is no strength in his body. As time passe
 
 他會不喜歡食物，身體會沒力氣，過些時候，如果他從那個病脫離，他會喜歡食物，他的身體會有力氣， {.chi}
 
-不喜食物，而消失體力。然，其後，彼脫離其疾病，喜得食物，以恢復體力。 {.chi}
+沒有胃口，沒有體力，過了一些時候他康復了，有胃口，有體力。 {.chi}
 
 ---
 
@@ -4437,7 +4442,7 @@ The thought would occur to him, ‘Before, I was sick... {.eng}
 
 他這麼想：『我以前生病、痛苦、重病，我不喜歡食物，我的身體沒力氣， {.chi}
 
-其時，彼思惟：『我曾為重病所惱，不喜食物，而消失體力。 {.chi}
+當他想起這件事情時， {.chi}
 
 ---
 
@@ -4447,7 +4452,7 @@ Now I am recovered from that sickness. I enjoy my meals and there is strength in
 
 現在，我從那個病脫離，我喜歡食物，我的身體會有力氣。』 {.chi}
 
-然今，我脫離疾病，喜得食物，恢復體力。』 {.chi}
+⋯⋯ {.chi}
 
 ---
 
@@ -4457,7 +4462,7 @@ Because of that he would experience joy and happiness. {.eng}
 
 他從此因緣而會得到欣悅，會到達喜悅。 {.chi}
 
-而彼其喜亦悅樂。 {.chi}
+內心便會得到歡悅、得到快樂。 {.chi}
 
 ---
 
@@ -4469,7 +4474,7 @@ Seyyathāpi, mahārāja, puriso bandhanāgāre baddho assa. {.pali}
 
 大王！猶如男子如果被關在監獄裡， {.chi}
 
-大王！猶如有人，繫禁於牢獄， {.chi}
+「大王，又正如一個被囚禁在牢房的人， {.chi}
 
 ---
 
@@ -4479,7 +4484,7 @@ As time passes, he eventually is released from that bondage, safe and sound, wit
 
 過些時候，如果他從那個監獄被平安地、無恐怖地釋放，沒有任何財物損失， {.chi}
 
-彼其後健全安樂，又不減損彼之財物，得解放此牢獄。 {.chi}
+過了一些時候他獲釋了，得到安樂，沒有困苦，財物沒有損失。 {.chi}
 
 ---
 
@@ -4489,7 +4494,7 @@ The thought would occur to him, ‘Before, I was bound in prison. Now I am relea
 
 他這麼想：『以前，我被關在監獄裡，現在，我從那個監獄被平安地、無恐怖地釋放，沒有任何財物損失。』 {.chi}
 
-其時彼思惟：『我雖嘗繫禁於牢獄，但今健全安穩，又不減損我之財物，得解放此牢獄。』 {.chi}
+當他想起這件事情時， {.chi}
 
 ---
 
@@ -4499,7 +4504,7 @@ Because of that he would experience joy and happiness. {.eng}
 
 他從此因緣而會得到欣悅，會到達喜悅。 {.chi}
 
-而彼喜其所悅樂。 {.chi}
+內心便會得到歡悅、得到快樂。 {.chi}
 
 ---
 
@@ -4511,7 +4516,7 @@ Seyyathāpi, mahārāja, puriso dāso assa anattādhīno parādhīno na yenakām
 
 大王！猶如男子如果是奴隸、非依靠自己者、依靠他人者，不能去想去的地方，過些時候，如果他從那奴隸被釋放，是依靠自己者、不依靠他人者、自由者，能去想去的地方，他這麼想：『以前，我是奴隸、非依靠自己者、依靠他人者，不能去想去的地方，現在，我從那奴隸被釋放，是依靠自己者、不依靠他人者、自由者，能去想去的地方。』他從此因緣而會得到欣悅，會到達喜悅。 {.chi}
 
-復次，大王！猶如有人為奴隸，不隸屬自己而隸屬他人，不得如自己所欲而往；然後彼得解放奴隸之境遇，隸屬自己，不隸屬他人，獨立自由，任自己所欲而往。其時，彼思惟：『我曾為奴隸，不隸屬自己而隸屬他人，不得如自己所欲而往；今我得解放奴隸之境遇，隸屬自己，不隸屬他人，獨立自由，得任自己所欲而往。』而彼其喜亦悅樂。 {.chi}
+「大王，又正如一個奴僕，沒有自由，受人支配，不能隨心所欲到處走，過了一些時候他恢復自由身，重獲自由，不受人支配，可以隨心所欲到處走。當他想起這件事情時，內心便會得到歡悅、得到快樂。 {.chi}
 
 ---
 
@@ -4523,7 +4528,7 @@ Seyyathāpi, mahārāja, puriso sadhano sabhogo kantāraddhānamaggaṃ paṭipa
 
 大王！猶如有財富、有財物的男子如果走上曠野道路，飢饉的、有怖畏的，過些時候，如果他從那個曠野平安地度脫，到達村落邊界，安穩的、無怖畏的，他這麼想：『以前，有財富、有財物的我走上曠野道路，飢饉的、有怖畏的，現在，我從那個曠野平安地度脫，到達村落邊界，安穩的、無怖畏的。』他從此因緣而會得到欣悅，會到達喜悅。 {.chi}
 
-復次，大王！猶如有人，財豐富裕，不能踏行曠野之道以求食，於危險〔怖畏戰慄〕。然後，彼出此曠野，安穩無難，而安達無怖畏之村落。某時，彼思惟：『我為財豐富裕，不能踏行曠野之道以求食，於危險（怖畏戰慄），然今，我出此曠野，安穩無難，安達無怖畏之村落。』而彼其喜亦悅樂。 {.chi}
+「大王，又正如一個帶著財物的人，要穿過一個遼闊、沒有食物、危險、令人恐懼的荒野，過了一些時候他穿過了那個荒野，平安地抵達一條安穩、太平的村落。當他想起這件事情時，內心便會得到歡悅、得到快樂。 {.chi}
 
 ---
 
@@ -4535,7 +4540,7 @@ Evameva kho, mahārāja, bhikkhu yathā iṇaṃ yathā rogaṃ yathā bandhanā
 
 同樣的，大王！比丘看這些自己未捨斷的五蓋如借款、如疾病、如監獄、如奴隸、如曠野道路； {.chi}
 
-大王！比丘不捨離此等之五蓋，以觀自己猶如負債者、如疾病者、如囚獄者、如遇奴隸之境、曠野之路者。 {.chi}
+「大王，同樣地，一位比丘如果不捨棄五蓋的話，他就被視為欠債、患病、囚犯、奴僕、穿越荒野那樣。 {.chi}
 
 ---
 
@@ -4545,7 +4550,7 @@ But when these five hindrances are abandoned in himself, he regards it as uninde
 
 同樣的，大王！比丘看這些自己已捨斷的五蓋如無借款、如無疾病、如從監獄被釋放、如脫離奴隸者、如安穩的終極之地。 {.chi}
 
-大王！然，比丘捨離此等之五蓋，以觀察（自己），猶如無負債、無疾病、出獄、自由、安穩者。 {.chi}
+一位比丘如果捨棄五蓋的話，他就被視為沒有債項、健康、出獄、得自由身、抵達安穩之地那樣。 {.chi}
 
 ---
 
@@ -4557,7 +4562,7 @@ Seeing that they have been abandoned within him, he becomes glad. Glad, he becom
 
 當他看見自己五蓋已被捨斷時，欣悅被生起；當歡悅時，則喜被生；當意喜時，則身寧靜；身已寧靜者，則感受樂；心樂者，則入定。 {.chi}
 
-觀察自己，捨離彼五蓋者，而生歡喜，生歡喜者而身輕安；身輕安者而覺樂，覺樂者而心得三昧。 {.chi}
+「當他觀察自己捨棄了五蓋時，歡悅便會生起；當有歡悅時，喜便會生起；當內心有喜時，身體便會猗息；當身體猗息時便會體驗樂；有樂的人，內心便會定下來。 {.chi}
 
 ---
 
@@ -4567,7 +4572,7 @@ So vivicceva kāmehi, vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivek
 
 他從離欲、離不善法後，進入後住於有尋、有伺，離而生喜、樂的初禪，他以離而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離而生喜、樂遍滿。 {.chi}
 
-彼離諸欲、離不善法；有尋有伺、由離生喜樂，達初禪而住。彼由離生喜樂，以流潤充滿盈溢周徧其身；以由離生喜、樂，無不普洽其全身。 {.chi}
+「他內心離開了五欲、離開了不善法，有覺、有觀，有由離開五欲和不善法所生起的喜和樂；他進入了初禪。他的身體注滿、充滿了由離開五欲和不善法所生起的喜和樂，全身沒有任何一處地方不被喜和樂所充遍。 {.chi}
 
 ---
 
@@ -4579,7 +4584,7 @@ Just as if a skilled bathman or bathman‘s apprentice would pour bath powder in
 
 大王！猶如熟練的澡堂師傅或澡堂師傅的徒弟在銅皿中撒佈沐浴粉後，與水充分攪拌，沐浴粉團隨之濕潤、來到濕潤、內外被滲透濕潤而無遺漏。 {.chi}
 
-大王！猶如浴室之熟練助浴者，或其弟子，撒洗粉於銅盆，注入水滴而混合，洗粉潤濕，由潤濕而溶化，其內外具潤濕而周徧不遺漏。 {.chi}
+「大王，就正如一位熟練的浴師或他的徒弟，把皂粉倒進鐵桶，再倒進水來把它搓成皂球，這時整團皂球內內外外都充遍水份，水份不會滲漏出來。 {.chi}
 
 ---
 
@@ -4589,7 +4594,7 @@ even so, the monk permeates... this very body with the rapture and pleasure born
 
 同樣的，大王！比丘以離而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離而生喜、樂遍滿， {.chi}
 
-大王！比丘如是由離生喜樂，流潤充滿盈溢周徧其身；以由離生喜樂，無不普洽其全身。 {.chi}
+同樣地，這位比丘的身體注滿、充滿了由離開五欲和不善法所生起的喜和樂，全身沒有任何一處地方不被喜和樂所充遍。 {.chi}
 
 ---
 
@@ -4599,7 +4604,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
-大王！此亦沙門〔修行〕現世之果報，比前者更為殊勝微妙。 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。 {.chi}
 
 ---
 
@@ -4611,7 +4616,7 @@ Puna caparaṃ, mahārāja, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ 
 
 再者，大王！比丘以尋與伺的平息，自信，一心，進入後住於無尋、無伺，定而生喜、樂的第二禪，他以定而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被定而生喜、樂遍滿。 {.chi}
 
-大王！更有比丘，以滅尋伺，內心安靜、心為專一，無尋無伺，由定生喜樂，達第二禪而住。彼以由定生喜樂，流潤充滿盈溢周徧其身；以由定生喜樂，無不普洽其全身。 {.chi}
+「大王，再者，一位比丘平息了覺和觀，內裏平伏、內心安住一境，沒有覺、沒有觀，有由定所生起的喜和樂；他進入了二禪。他的身體注滿、充滿了由定所生起的喜和樂，全身沒有任何一處地方不被喜和樂所充遍。 {.chi}
 
 ---
 
@@ -4623,7 +4628,7 @@ Just like a lake with spring-water welling up from within, having no inflow from
 
 大王！猶如有湧泉的深水池，其在東方無進水口，在南方無進水口，在北方無進水口，在西方無進水口，天又不能經常給予正確的水流，而那水池的冷水保持湧出後，那水池會被冷水潤澤、遍流、充滿、遍滿，全水池沒有任何地方不會被冷水遍滿。同樣的，大王！比丘以定而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被定而生喜、樂遍滿， {.chi}
 
-大王！猶如有深池湧出水，於此〔水池〕，無東方之流入〔口〕，無西方之流入〔口〕，無北方之流入〔口〕，無南方之流入〔口〕，而天神時時與驟雨，而且，由此深池湧流泠水，以泠水充滿盈溢、周徧流潤此深池；無不以泠水普洽此深池。大王！比丘如是以由定生喜樂，充滿盈溢、周徧流潤其身；以由定生喜樂，無不普洽其全身。 {.chi}
+「大王，就正如一個泉水池，清涼的泉水從泉眼不斷湧出，泉水注滿、充滿了整個水池；外面的水不論從東面、南面、西面、北面都不能注入這個水池，即使下雨，雨水也不能注入這個水池；整個水池沒有任何一處地方不被清涼的泉水所充遍。同樣地，這位比丘的身體注滿、充滿了由定所生起的喜和樂，全身沒有任何一處地方不被喜和樂所充遍。 {.chi}
 
 ---
 
@@ -4633,7 +4638,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
-大王！此亦沙門〔修行〕現世之果報，比前者更殊勝微妙。 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。 {.chi}
 
 ---
 
@@ -4645,7 +4650,7 @@ Puna caparaṃ, mahārāja, bhikkhu pītiyā ca virāgā upekkhako ca viharati s
 
 再者，大王！比丘以喜的褪去與住於平靜，正念、正知，以身體感受樂，進入後住於這聖弟子宣說：『他是平靜、專注、住於樂者』的第三禪，他以離喜之樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離喜之樂遍滿。 {.chi}
 
-大王！更有比丘，離喜而住捨，正念正智，以身感受樂。諸聖者言：『以捨而正念樂住』達第三禪而住。彼無喜樂，充滿盈溢、周徧流潤其身；無喜樂，無不普洽其全身。 {.chi}
+「大王，再者，一位比丘保持捨心，對喜沒有貪著，有念和覺知，通過身體來體會樂──聖者說：『這人有捨，有念，安住在樂之中。』 ──他進入了三禪。他的身體注滿、充滿了離喜的樂，全身沒有任何一處地方不被離喜的樂所充遍。 {.chi}
 
 ---
 
@@ -4657,7 +4662,7 @@ Just as in a lotus pond, some of the lotuses, born and growing in the water, sta
 
 大王！猶如在青蓮池、紅蓮池、白蓮池中，一些青蓮、紅蓮、白蓮生在水中，長在水中，依止於水面下，沈在水下生長，從其頂點到根被冷水潤澤、遍流、充滿、遍滿，全青蓮、紅蓮、白蓮沒有任何地方不會被冷水遍滿。同樣的，大王！比丘以離喜之樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離喜之樂遍滿， {.chi}
 
-大王！猶如於青蓮池、紅蓮池、白蓮池中，有青蓮、紅蓮、白蓮生於水中、長於水中、浸於水中，吸引水底之營養，由頂上至根，受冷水所充滿、盈溢、周徧之流潤，冷水無不普洽青蓮、紅蓮、白蓮。大王！比丘如是以喜樂，充滿盈溢、周徧流潤其身；以喜樂無不普洽其全身。 {.chi}
+「大王，就正如蓮池裏的青蓮花、紅蓮花、白蓮花，它們在水中生長，依賴水份，在水中得到滋養，一些還沒長出水面的蓮花，它們由頂部至根部都注滿、充滿了清涼的池水，沒有任何一處不被池水所充遍。同樣地，這位比丘的身體注滿、充滿了離喜的樂，全身沒有任何一處地方不被離喜的樂所充遍。 {.chi}
 
 ---
 
@@ -4667,7 +4672,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
-大王！此亦沙門〔修行〕現世之果報，比前者更殊勝微妙。 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。 {.chi}
 
 ---
 
@@ -4679,7 +4684,7 @@ Puna caparaṃ, mahārāja, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, 
 
 再者，大王！比丘以樂的捨斷與苦的捨斷，及以之前喜悅與憂的滅沒，進入後住於不苦不樂，由平靜而正念遍淨的第四禪，他以遍淨、皎潔之心遍滿此身後而坐，全身沒有任何地方不被遍淨、皎潔之心遍滿。 {.chi}
 
-大王！更有比丘！捨樂離苦，前所感受之悅、憂具滅，不苦不樂，成為捨念清淨，達第四禪而住。彼以純淨心，徧滿其身而坐，其純淨之心，無不普洽其全身。 {.chi}
+「大王，再者，一位比丘捨棄苦和樂，喜和惱在之前已經消失，沒有苦、沒有樂，有捨、念、清淨；他進入了四禪。他的身體注滿、充滿了清淨、明晰的心地坐著，全身沒有任何一處地方不被清淨、明晰的心所充遍。 {.chi}
 
 ---
 
@@ -4691,7 +4696,7 @@ Just as if a man were sitting covered from head to foot with a white cloth so th
 
 大王！猶如男子會以白衣包含頭裹上後而坐，全身沒有任何地方不會被白衣遍滿。同樣的，大王！比丘以遍淨、皎潔之心遍滿此身後而坐，全身沒有任何地方不被遍淨、皎潔之心遍滿， {.chi}
 
-大王！猶如有人，從頭至足，被覆白淨之衣而坐，其白淨衣，無不普洽其全身。大王！比丘以如是純淨之心，徧滿其身而坐；以純淨之心，無不普洽其全身。 {.chi}
+「大王，就正如一個坐著的人，他穿了白色的衣服，連頭也蓋著，他的身體沒有任何一處地方不蓋上白色的衣服。同樣地，這位比丘的身體注滿、充滿了清淨、明晰的心地坐著，全身沒有任何一處地方不被清淨、明晰的心所充遍。 {.chi}
 
 ---
 
@@ -4701,7 +4706,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
-大王！此亦沙門〔修行〕現世果報，比前者更為殊勝微妙。 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。 {.chi}
 
 ---
 
@@ -4713,7 +4718,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向智與見，他這麼了知：『我的這身體是色與四大之物、父母所生、米粥所積聚、無常所削減、磨滅、破壞、分散之法，又，我的這個識在這裡依存，在這裡被結縛。』 {.chi}
 
-如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且在安住不動之狀態時，比丘之心，傾注於智見。彼如次知：『我此身是由色所成、四大種所成、父母之所生，飯粥所長養者，是無常、破壞、粉碎、斷絕、壞滅之法。我之識與此相關連、依此而存在者。』 {.chi}
+「當他的內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於知見，導向知見，他知道：『這是我的身體，它是物質性、四大組成、父母所生、依賴米飯、需要塗油、需要按摩、無常、是破壞法、是散滅法的；那是我的心識，它受制於身體，受身體所束縛。』 {.chi}
 
 ---
 
@@ -4725,7 +4730,7 @@ Just as if there were a beautiful beryl gem of the purest water — eight facete
 
 大王！猶如美麗的、出色的、八個切割面的、作工細緻的、放光的、明淨的、不濁的琉璃寶珠全部行相具足，在那裡，被藍或黃或紅或白或淡黃線綁住，有眼男子拿它在手掌上後能觀察：『這美麗的、出色的、八個切割面的、作工細緻的、放光的、明淨的、不濁的琉璃寶珠具備全部行相，在那裡，被藍或黃或紅或白或淡黃線綁住。』  {.chi}
 
-大王！猶如琉璃寶珠，美麗而玉質優異，為八面之〔結合〕體，善磨精製而光耀，清澄無濁，具足一切美相，濃青色、或濃黃色、或赤色、或純白色、或淡黃色，以通此等之〔質色〕，具眼者以此置於手中而善觀察：知『此琉璃寶珠，美麗而玉質優異，為八面之〔結合〕體，善磨精製而光耀、清澄無濁、具足一切美相，濃青色、或濃黃色、或赤色、或純白色、或淡黃色，以通此等〔之質色〕。』 {.chi}
+「大王，就正如一顆美麗、優質、有八個切面、精工雕琢、晶瑩、剔透、完美的琉璃珠，它穿在藍色、黃色、紅色、白色或淡色的線上。一個有眼睛的人放在手上觀看，他知道：『這是一顆美麗、優質、有八個切面、精工雕琢、晶瑩、剔透、完美的琉璃珠，那是一條顏色線。』  {.chi}
 
 ---
 
@@ -4735,7 +4740,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向於智與見，他這麼了知：『我的這身體是色與四大之物、父母所生、米粥所積聚、無常所削減、磨滅、破壞、分散之法，又，我的這個識在這裡依存，在這裡被結縛。』 {.chi}
 
-大王！如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且在安住不動之狀態時，比丘之心傾注於智見。而彼如次知：『我此身是由色所成、四大所成、父母所生、飯粥所長養者，是無常、破壞、粉碎、斷絕、壞滅之法。又我之識與此相關連、依此而存在。』 {.chi}
+同樣地，這位比丘內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於知見，導向知見，他知道：『這是我物質性、四大組成、父母所生、依賴米飯、需要塗油、需要按摩、無常、是破壞法、是散滅法的身體；那是我的心識，它受制於身體，受身體所束縛。』 {.chi}
 
 ---
 
@@ -4745,7 +4750,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
-大王！此亦沙門〔修行〕現世之果報，比前者更為殊勝微妙。 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。 {.chi}
 
 ---
 
@@ -4757,7 +4762,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向創造意生身：他從這個身體創造另一個有色、意做的、有所有肢體與小肢，不缺諸根之身體， {.chi}
 
-如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心，傾注於化作意所成身。而且彼由其色身，化作意所成，而有一切〔大〕肢小肢及不異其自己之身。 {.chi}
+「當他的內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於化出一個意生身，導向化出一個意生身。從這個身體化出另一個身體，這個由意所生的色身具有身體各個部分，六根無缺。 {.chi}
 
 ---
 
@@ -4769,7 +4774,7 @@ Just as if a manwere to draw a reed from its sheath. The thought would occur to 
 
 大王！猶如男子如果從蘆葦拉出鞘，他這麼想：『這是蘆葦，這是鞘；蘆葦是一，鞘是另一個，鞘被從蘆葦拉出。』  {.chi}
 
-大王！猶如有人，由文奢草，取拔其莖，彼思惟：『此是文奢草，此是莖。文奢草與莖是相異。但由文奢草取拔草莖。』 {.chi}
+「大王，就正如一個人從蘆葦草拔出蘆葦鞘，他心想：『這是蘆葦草，那是蘆葦鞘；一條是草，一條是鞘；從蘆葦草拔出蘆葦鞘。』 {.chi}
 
 ---
 
@@ -4779,7 +4784,7 @@ Or as if a man were to draw a sword from its scabbard. The thought would occur t
 
 或者，大王！猶如男子如果從劍鞘拉出劍，他這麼想：『這是劍，這是劍鞘；劍是一，劍鞘是另一個，劍被從劍鞘拉出。』 {.chi}
 
-大王！猶如有人，由鞘拔取刀，彼思惟：『此是刀，此是鞘。刀與鞘是相異。但刀由鞘拔取也。』 {.chi}
+又正如一個人從劍鞘拔出劍，他心想：『這是劍，那是劍鞘；一把是劍，一個是劍鞘；從劍鞘拔出劍。』 {.chi}
 
 ---
 
@@ -4789,7 +4794,7 @@ Or as if a manwere to pull a snake out from its slough. The thought would occur 
 
 或者，大王！猶如男子如果從蛇蛻拉起蛇，他這麼想：『這是蛇，這是蛇蛻；蛇是一，蛇蛻是另一個，蛇被從蛇蛻拉起。』 {.chi}
 
-大王！猶如有人，蛇由蛇皮蛻出，彼思惟：『此是蛇、此是蛇皮也。蛇與蛇皮是相異。但蛇由蛇皮薄出也。』 {.chi}
+又正如一個人從蛇蛻抽起一條蛇，他心想：『這是蛇，那是蛇蛻；一條是蛇，一條是蛇蛻；從蛇蛻抽起一條蛇。』 {.chi}
 
 ---
 
@@ -4799,7 +4804,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向於創造意生身：他從這個身體創造另一個有色、意做的、有所有肢體與小肢，不缺諸根之身體， {.chi}
 
-大王！如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心，傾注於化作意所成身。而且彼由其色身，化作意所成，而有一切（大）肢小肢及不異其自己之身。 {.chi}
+同樣地，這位比丘內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於化出一個意生身，導向化出一個意生身。從這個身體化出另一個身體，這個由意所生的色身具有身體各個部分，六根無缺。 {.chi}
 
 ---
 
@@ -4809,7 +4814,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
-大王！此亦沙門〔修行〕現世之果報，比前者更殊勝微妙。 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。 {.chi}
 
 ---
 
@@ -4821,7 +4826,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向各種神通： {.chi}
 
-如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心，傾注於種種神通，而彼證得種種神通。 {.chi}
+「當他的內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於神通，導向神通。 {.chi}
 
 ---
 
@@ -4831,7 +4836,7 @@ He wields manifold supranormal powers. Having been one he becomes many; having b
 
 他經驗各種神通：有了一個後變成多個，有了多個後變成一個；現身、隱身；無阻礙地穿牆、穿壘、穿山而行猶如在虛空中；在地中作浮出與潛入猶如在水中；在水上行走不沉沒猶如在地上；以盤腿而坐在空中前進猶如有翅膀的鳥；以手碰觸、撫摸日月這樣大神力、大威力；以身體自在行進直到梵天世界， {.chi}
 
-一身而〔化為〕多身，多身而〔合為〕一身，或現身、或隱身；通過壁、透過墻，穿過山無有障礙，猶如於空中；出沒於大地，猶如於水；行於水上不沈，猶如於地上；趺坐、經行於空中，猶如有翼之鳥；有如是大威德，能以手捫摸日月，以身到達梵天界。 {.chi}
+他具有各種神通：能由一人化身多人，由多人回復一人；能隨意顯現，隨意隱沒；能穿越圍欄、牆壁、大山有如穿越空間那樣沒有阻礙；能從大地進出有如在水中進出那樣；能在水上行走有如走在地上那樣不會沉沒；能盤腿而坐，有如鳥兒那樣飛上天空；能以手掌觸摸宏偉的日月；能親身前往梵世間。 {.chi}
 
 ---
 
@@ -4843,7 +4848,7 @@ Just as a skilled potter or his assistant could craft from well-prepared clay wh
 
 大王！猶如熟練的陶匠或陶匠的徒弟能從作工細緻粘土製作並完成任何他希望的容器製品， {.chi}
 
-大王！猶如熟練之陶師或其弟子，能整泥土，任其所欲，完成製作種種容器。 {.chi}
+「大王，就正如一位熟練的陶師或他的徒弟，能隨心所欲用黏土造出各種器皿。 {.chi}
 
 ---
 
@@ -4853,7 +4858,7 @@ or as a skilled ivory-carver or his assistant could craft from well-prepared ivo
 
 或者，大王！猶如熟練的象牙匠或象牙匠的徒弟能在作工細緻象牙上製作並完成任何他希望的象牙製品， {.chi}
 
-大王！猶如熟練之象牙師或其弟子，能整刻象牙，任其所欲，完成製作種種象牙之〔彫刻〕物。 {.chi}
+又正如一位熟練的象牙雕刻師或他的徒弟，能隨心所欲用象牙雕出各種象牙飾物。 {.chi}
 
 ---
 
@@ -4863,7 +4868,7 @@ or as a skilled goldsmith or his assistant could craft from well-prepared gold a
 
 或者，大王！猶如熟練的金匠或金匠的徒弟能在作工細緻黃金上製作並完成任何他希望的黃金製品。 {.chi}
 
-大王！猶如熟練之彫金匠或其弟子，能整彫黃金，任其所欲，完成製作種種容具。 {.chi}
+又正如一位熟練的金匠或他的徒弟，能隨心所欲用黃金造出各種金飾。 {.chi}
 
 ---
 
@@ -4873,7 +4878,7 @@ in the same way — with his mind thus concentrated, purified, and bright, unble
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向各種的神通： {.chi}
 
-大王！如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心，傾注於種種之神通，而彼證得種種之神通。 {.chi}
+同樣地，這位比丘內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於神通，導向神通。 {.chi}
 
 ---
 
@@ -4883,7 +4888,7 @@ So anekavihitaṃ iddhividhaṃ paccanubhoti—ekopi hutvā bahudhā hoti, bahud
 
 他經驗各種神通：有了一個後變成多個，有了多個後變成一個；現身、隱身；無阻礙地穿牆、穿壘、穿山而行猶如在虛空中；在地中作浮出與潛入猶如在水中；在水上行走不沉沒猶如在地上；以盤腿而坐在空中前進猶如有翅膀的鳥；以手碰觸、撫摸日月這樣大神力、大威力；以身體自在行進直到梵天世界， {.chi}
 
-一身而〔化為〕多身，多身而〔合為〕一身，或現身、或隱身；通過壁、透過墻、穿過山無有障礙，猶如於空中；出沒大地，猶如於水；行於水上不沈，猶如於地上；趺坐、經行於空中，猶如有翼之鳥；有如是神力、大威力，以手能捫摸日月，以身到達梵天界。 {.chi}
+他具有各種神通：能由一人化身多人，由多人回復一人；能隨意顯現，隨意隱沒；能穿越圍欄、牆壁、大山有如穿越空間那樣沒有阻礙；能從大地進出有如在水中進出那樣；能在水上行走有如走在地上那樣不會沉沒；能盤腿而坐，有如鳥兒那樣飛上天空；能以手掌觸摸宏偉的日月；能親身前往梵世間。 {.chi}
 
 ---
 
@@ -4893,7 +4898,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
-大王！此亦沙門〔修行〕現世之果報，比前者更殊勝微妙。 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。 {.chi}
 
 ---
 
@@ -4905,7 +4910,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向天耳： {.chi}
 
-如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心傾注於天耳界。而彼清淨超越人間〔耳界〕，以天耳界，聞人天兩界遠近雙方之音聲。 {.chi}
+「當他的內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於天耳界，導向天耳界。他清淨及超於常人的天耳，能聽到天和人兩種聲音，能聽到遠處和近處的聲音。 {.chi}
 
 ---
 
@@ -4917,7 +4922,7 @@ Just as if a man traveling along a highway were to hear the sounds of kettledrum
 
 他以清淨、超越人的天耳界聽見天與人二者不論是遠、是近的聲音，大王！猶如男子是旅途中的行者，他能聽到大鼓聲、小鼓聲、螺、小腰鼓、鑵鼓聲，他這麼想：『這是大鼓聲。』『這是小鼓聲。』『這是螺、小腰鼓、鑵鼓聲。』 {.chi}
 
-大王！猶如有人行於道路，彼得聽大鼓聲、小鼓聲、螺貝、腰鼓、銅鑼之聲，而思惟：『彼是大鼓聲、小鼓聲，彼是螺貝、腰鼓、銅鑼之聲！』 {.chi}
+「大王，就正如一個人在漫長的路途上行走時，聽到大鼓聲、小鼓聲、響螺聲、鈸聲、腰鼓聲。他心想：『這是大鼓聲來的。』『這是小鼓聲來的。』『這是響螺聲、鈸聲、腰鼓聲來的。』 {.chi}
 
 ---
 
@@ -4927,7 +4932,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向天耳：他以清淨、超越人的天耳界聽見天與人二者不論是遠、是近的聲音， {.chi}
 
-大王！如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動狀態時，比丘之心，傾注於天耳界。而以清淨超越人間〔耳界〕，以天耳界，聽聞人天兩界及雙方遠近之聲。 {.chi}
+同樣地，這位比丘內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於天耳界，導向天耳界。他清淨及超於常人的天耳，能聽到天和人兩種聲音，能聽到遠處和近處的聲音。 {.chi}
 
 ---
 
@@ -4937,7 +4942,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
-大王！此亦沙門〔修行〕現世之果報，比前者更殊勝微妙。 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。 {.chi}
 
 ---
 
@@ -4949,7 +4954,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向他心智：他以心熟知心後，能了知其他眾生、其他個人： {.chi}
 
-如是心寂靜、純淨，無煩惱，遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心，傾注於〔他〕心智。而以自己之心，徹〔見〕其他眾生及他人之心。如次證知之： {.chi}
+「當他的內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於他心智，導向他心智。他能清楚知道其他人、其他眾生的心： {.chi}
 
 ---
 
@@ -4959,7 +4964,7 @@ He discerns a mind with passion as a mind with passion, and a mind without passi
 
 有貪的心了知為『有貪的心』，離貪的心了知為『離貪的心』； {.chi}
 
-證知有貪欲心，為有貪欲心。證知離貪欲心，為離貪欲心。 {.chi}
+有貪欲的心知道是有貪欲的心，沒有貪欲的心知道是沒有貪欲的心； {.chi}
 
 ---
 
@@ -4969,7 +4974,7 @@ He discerns a mind with aversion as a mind with aversion, and a mind without ave
 
 有瞋的心了知為『有瞋的心』，離瞋的心了知為『離瞋的心』； {.chi}
 
-證知有瞋恚心，為有瞋恚心。證知離瞋恚心，為離瞋恚心。 {.chi}
+有瞋恚的心知道是有瞋恚的心，沒有瞋恚的心知道是沒有瞋恚的心； {.chi}
 
 ---
 
@@ -4979,7 +4984,7 @@ He discerns a mind with delusion as a mind with delusion, and a mind without del
 
 有癡的心了知為『有癡的心』，離癡的心了知為『離癡的心』； {.chi}
 
-證知有愚癡心，為有愚癡心。證知離愚癡心，為離愚癡心。 {.chi}
+有愚癡的心知道是有愚癡的心，沒有愚癡的心知道是沒有愚癡的心； {.chi}
 
 ---
 
@@ -4989,7 +4994,7 @@ He discerns a restricted mind as a restricted mind, and a scattered mind as a sc
 
 收斂的心了知為『收斂的心』，散亂的心了知為『散亂的心』； {.chi}
 
-證知是統一心，為是統一心。證知是散亂心，為是散亂心。 {.chi}
+集中的心知道是集中的心，不集中的心知道是不集中的心； {.chi}
 
 ---
 
@@ -4999,7 +5004,7 @@ He discerns an enlarged mind as an enlarged mind, and an unenlarged mind as an u
 
 廣大的心了知為『廣大的心』，未廣大的心了知為『未廣大的心』； {.chi}
 
-證知是廣大心，為是廣大心。證知非廣大心，為非廣大心。 {.chi}
+廣大的心知道是廣大的心，不廣大的心知道是不廣大的心； {.chi}
 
 ---
 
@@ -5009,7 +5014,7 @@ He discerns an excelled mind [one that is not at the most excellent level] as an
 
 更上的心了知為『更上的心』，無更上的心了知為『無更上的心』； {.chi}
 
-證知是有上心，為是有上心。證知是無上心，為是無上心。 {.chi}
+高尚的心知道是高尚的心，不高尚的心知道是不高尚的心； {.chi}
 
 ---
 
@@ -5019,7 +5024,7 @@ He discerns a concentrated mind as a concentrated mind, and an unconcentrated mi
 
 得定的心了知為『得定的心』，未得定的心了知為『未得定的心』； {.chi}
 
-證知是有定心，為是有定心。證知是無定心，為是無定心。 {.chi}
+有定的心知道是有定的心，沒有定的心知道是沒有定的心； {.chi}
 
 ---
 
@@ -5029,7 +5034,7 @@ He discerns a released mind as a released mind, and an unreleased mind as an unr
 
 已解脫的心了知為『已解脫的心』，未解脫的心了知為『未解脫的心』， {.chi}
 
-證知是解脫心，為是解脫心。證知非解脫心，為非解脫心。 {.chi}
+解脫的心知道是解脫的心，不解脫的心知道是不解脫的心。 {.chi}
 
 ---
 
@@ -5041,7 +5046,7 @@ Just as if a young woman — or man — fond of ornaments, examining the reflect
 
 大王！猶如年輕、年少、喜好裝飾的女子或男子，當在鏡中，或在遍淨、潔淨、清澈的水鉢中觀察自己的面貌時，有黑痣能知道：『有黑痣。』無黑痣能知道：『無黑痣。』同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向他心智：他以心熟知心後，能了知其他眾生、其他個人： {.chi}
 
-大王！猶如好裝飾之男女，或家有青年男女，於潔白清澄之鏡或水鉢，細觀自己所反映之顏貌。若掛耳環時，知掛耳環，不掛耳環時，知不掛耳環。大王！確實如是，心寂靜、清淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動狀態時，比丘之心，傾注於他心智。而以自己之心，徹〔見〕其他眾生及他人之心。如次證知之： {.chi}
+「大王，就正如愛妝扮的男女老少，在一面清淨、明晰、沒有污垢的鏡子或一盆清淨、明晰、沒有污垢的水之中觀看自己的面容：有斑點時知道有斑點，沒有斑點時知道沒有斑點。同樣地，這位比丘內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於他心智，導向他心智。他能清楚知道其他人、其他眾生的心： {.chi}
 
 ---
 
@@ -5051,7 +5056,7 @@ He knows the awareness of other beings, other individuals, having encompassed it
 
 有貪的心了知為『有貪的心』，離貪的心了知為『離貪的心』；有瞋的心了知為『有瞋的心』，離瞋的心了知為『離瞋的心』；有癡的心了知為『有癡的心』，離癡的心了知為『離癡的心』；收斂的心了知為『收斂的心』，散亂的心了知為『散亂的心』；廣大的心了知為『廣大的心』，未廣大的心了知為『未廣大的心』；更上的心了知為『更上的心』，無更上的心了知為『無更上的心』；得定的心了知為『得定的心』，未得定的心了知為『未得定的心』；已解脫的心了知為『已解脫的心』，未解脫的心了知為『未解脫的心』  {.chi}
 
-證知有貪欲心，為有貪欲心。證知離貪欲心，為離貪欲心。......證知是解脫心，為是解脫心。證知非解脫心，為非解脫心。 {.chi}
+有貪欲的心知道是有貪欲的心，沒有貪欲的心知道是沒有貪欲的心；有瞋恚的心知道是有瞋恚的心，沒有瞋恚的心知道是沒有瞋恚的心；有愚癡的心知道是有愚癡的心，沒有愚癡的心知道是沒有愚癡的心；集中的心知道是集中的心，不集中的心知道是不集中的心；廣大的心知道是廣大的心，不廣大的心知道是不廣大的心；高尚的心知道是高尚的心，不高尚的心知道是不高尚的心；有定的心知道是有定的心，沒有定的心知道是沒有定的心；解脫的心知道是解脫的心，不解脫的心知道是不解脫的心。 {.chi}
 
 ---
 
@@ -5061,7 +5066,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
-大王！此亦沙門〔修行〕現世之果報，比前者更殊勝微妙。 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。 {.chi}
 
 ---
 
@@ -5073,7 +5078,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向許多前世住處回憶之智。 {.chi}
 
-如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心，傾注於宿住隨念智， {.chi}
+「當他的內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於宿命智，導向宿命智。 {.chi}
 
 ---
 
@@ -5083,7 +5088,7 @@ He recollects his manifold past lives, i.e., one birth, two births, three births
 
 他回憶起許多前世住處，即：一生、二生、三生、四生、五生、十生、二十生、三十生、四十生、五十生、百生、千生、十萬生、許多壞劫、許多成劫、許多壞成劫：『在那裡是這樣的名、這樣的姓氏、這樣的容貌、[吃]這樣的食物、這樣的苦樂感受、這樣的壽長，從那裡死後生於那裡，而在那裡又是這樣的名、這樣的姓氏、這樣的容貌、[吃]這樣的食物、這樣的苦樂感受、這樣的壽長，從那裡死後生於這裡。』像這樣，他回憶起許多前世住處有這樣的行相與境遇， {.chi}
 
-而隨念彼於宿世之種種住處，猶如一生、二生、三生、四生、五生、十生、二十生、三十生、四十生、五十生、百生、千生、十萬生、幾壞劫、幾成劫、幾成壞劫：『於彼處，我有如是名、生於如是種族、如是階級、取如是食、享受如是苦樂、有如是壽量。我由其處死而生於他處，於此我有如是名、生如是種族、如是之階級、取如是食、享受如是苦樂、有如是壽量。而我由彼處歿，生來此處。』具如是形相、境遇，隨念種種宿世之住處。 {.chi}
+他能憶起過去無數生的事情：不論一生、兩生、三生、百生、千生、百千生，不論無數的成劫、無數的壞劫、無數的成壞劫──在那一生之中是什麼姓名，什麼種族，什麼種姓，吃什麼食物，體會什麼苦與樂，壽命有多長，死後又投生到另一生；而在另一生之中又是什麼姓名，什麼種族，什麼種姓，吃什麼食物，體會什麼苦與樂，壽命有多長，死後又再投生到另一生。他能憶起過去無數生的生活方式和生活細節。 {.chi}
 
 ---
 
@@ -5095,7 +5100,7 @@ Just as if a man were to go from his home village to another village, and then f
 
 大王！猶如男子如果從自己的村落走到其它村落，再從那個村落走到其它村落，再從那個村落走回自己的村落，他這麼想：『我從自己的村落走到那個村落，在那裡，我這麼站，這麼坐，這麼說話，這麼沈默，再從那個村落走到那個村落，在那裡，我這麼站，這麼坐，這麼說話，這麼沈默，我再從那個村落走回自己的村落。』 {.chi}
 
-大王！猶如有人，從己之村落到其他之村落，又從其村落往其他之村落，又由此村落，回來自己之村落，其時，彼自隨念：『我由此村落到某村落，於彼如是住、如是坐、如是語、默。我由此村落，往其他之村落，於彼如是住、如是坐、如是語、默。而我由其村落，回來自己之村落。』 {.chi}
+「大王，就正如一個人從自己的村落走去第二個村落，又從第二個村落走去第三個村落，又再從第三個村落返回自己的村落。他心想：『我從自己的村落走去第二個村落，在那裏我曾那樣站立、那樣坐下、那樣說話、那樣靜默。又從第二個村落走去第三個村落，在那裏我曾那樣站立、那樣坐下、那樣說話、那樣靜默。又再從第三個村落返回自己的村落。』 {.chi}
 
 ---
 
@@ -5105,7 +5110,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向許多前世住處回憶之智。 {.chi}
 
-大王！實如是心寂靜、純淨，無煩惱，遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心，傾注於宿住隨念智。 {.chi}
+同樣地，這位比丘內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於宿命智，導向宿命智。 {.chi}
 
 ---
 
@@ -5115,7 +5120,7 @@ He recollects his manifold past lives... in their modes and details. {.eng}
 
 他回憶起許多前世住處，即：一生、二生、三生、四生、五生、十生、二十生、三十生、四十生、五十生、百生、千生、十萬生、許多壞劫、許多成劫、許多壞成劫：『在那裡是這樣的名、這樣的姓氏、這樣的容貌、[吃]這樣的食物、這樣的苦樂感受、這樣的壽長，從那裡死後生於那裡，而在那裡又是這樣的名、這樣的姓氏、這樣的容貌、[吃]這樣的食物、這樣的苦樂感受、這樣的壽長，從那裡死後生於這裡。』像這樣，他回憶起許多前世住處有這樣的行相與境遇，  {.chi}
 
-而彼隨念於宿世種種住處......具如是形相、境遇，隨念種種宿世之住處。 {.chi}
+他能憶起過去無數生的事情：不論一生、兩生、三生、百生、千生、百千生，不論無數的成劫、無數的壞劫、無數的成壞劫──在那一生之中是什麼姓名，什麼種族，什麼種姓，吃什麼食物，體會什麼苦與樂，壽命有多長，死後又投生到另一生；而在另一生之中又是什麼姓名，什麼種族，什麼種姓，吃什麼食物，體會什麼苦與樂，壽命有多長，死後又再投生到另一生。他能憶起過去無數生的生活方式和生活細節。 {.chi}
 
 ---
 
@@ -5125,7 +5130,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
-大王！此亦沙門〔修行〕現世之果報，比前者更殊勝微妙。 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。 {.chi}
 
 ---
 
@@ -5137,7 +5142,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的之時，他抽出心使轉向眾生死亡與往生之智，他以清淨、超越人的天眼，看見當眾生死時、往生時，在下劣、勝妙，美、醜，幸、不幸中，了知眾生依業流轉： {.chi}
 
-如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心，傾注於生死智。而彼以超越人界之天眼，觀察眾生，見眾生之死而又生；證知眾生應其所為之業，〔而有〕貴賤、美醜、幸福、不幸福。即： {.chi}
+「當他的內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於眾生生死智，導向眾生生死智。他以清淨及超於常人的天眼，看見眾生怎樣死後再次投生；知道不同的業使眾生在上等或下等、高種姓或低種姓、善趣或惡趣的地方投生── {.chi}
 
 ---
 
@@ -5147,7 +5152,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 『這些眾生諸君，具備身惡行、語惡行、意惡行，斥責聖者，邪見與持邪見之業行， {.chi}
 
-『諸賢！此等眾生具身、語、意之惡業，誹謗聖者，以懷邪見，得邪見業； {.chi}
+這些眾生由於具有身不善行、口不善行、意不善行，責難聖者，懷有邪見，做出由邪見所驅動的業， {.chi}
 
 ---
 
@@ -5157,7 +5162,7 @@ with the break-up of the body, after death, have re-appeared in the plane of dep
 
 他們以身體的崩解，死後已往生到苦界、惡趣、下界、地獄， {.chi}
 
-彼等於身壞死後，生於惡生、惡趣、地獄。 {.chi}
+因此在身壞命終之後投生在惡趣、地獄之中； {.chi}
 
 ---
 
@@ -5167,7 +5172,7 @@ But these beings — who were endowed with good conduct of body, speech, and min
 
 或者這些眾生諸君，具備身善行、語善行、意善行，不斥責聖者，正見與持正見之業行，他們以身體的崩解，死後已往生到善趣、天界。』 {.chi}
 
-諸賢！此等眾生具身、語、意之善業，不誹謗聖者，以懷正見，得正見業；彼等身壞死後，生於善趣、天界。』 {.chi}
+那些眾生由於具有身善行、口善行、意善行，稱讚聖者，懷有正見，做出由正見所驅動的業，因此在身壞命終之後投生在善趣、天界之中。 {.chi}
 
 ---
 
@@ -5177,7 +5182,7 @@ Thus — by means of the divine eye, purified and surpassing the human — he se
 
 這樣，他以清淨、超越人的天眼，看見當眾生死時、往生時，在下劣、勝妙，美、醜，幸、不幸中，了知眾生依業流轉， {.chi}
 
-如是，彼以清淨超越人界之天眼，觀察眾生，見眾生死而又生；證知眾生應其所為之業，〔而有〕貴賤、美醜、幸福、不幸福。 {.chi}
+⋯⋯ {.chi}
 
 ---
 
@@ -5189,7 +5194,7 @@ Just as if there were a tall building in the central square [of a town], and a m
 
 大王！猶如在十字路中央的宮殿，有眼的男子們站在那裡能看見進出家、在車道與街道來回走動、在十字路中央坐著的人們，他這麼想：『這些人進入家；這些出去；這些在車道與街道來回走動；這些坐在十字路中央。』 {.chi}
 
-大王！猶如有眼者，立於四衢街道中之高樓，見諸眾人出入其家，又往來於車道、人道，或坐於四衢街道之中。彼思念：『此等諸眾人出入其家，往來於車道、人道，或坐於四衢街道之中。』 {.chi}
+「大王，就正如一個有眼睛的人，站在廣場中的大樓上面，能看見一些人走進房子，一些人從房子走出來，一些人在道路上行走，一些人坐在廣場中。他心想：『一些人走進房子，一些人從房子走出來，一些人在道路上行走，一些人坐在廣場中。』 {.chi}
 
 ---
 
@@ -5199,7 +5204,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的之時，他抽出心使轉向眾生死亡與往生之智，他以清淨、超越人的天眼，看見當眾生死時、往生時，在下劣、勝妙，美、醜，幸、不幸中，了知眾生依業流轉： {.chi}
 
-大王！如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心，傾注於生死智。而彼以清淨超越人界之天眼，觀察眾生，見眾生死而又生；證知眾生應其所為之業，〔而有〕貴賤、美醜、幸福、不幸福。 {.chi}
+同樣地，這位比丘內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於眾生生死智，導向眾生生死智。他以清淨及超於常人的天眼，看見眾生怎樣死後再次投生；知道不同的業使眾生在上等或下等、高種姓或低種姓、善趣或惡趣的地方投生── {.chi}
 
 ---
 
@@ -5209,7 +5214,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 『這些眾生諸君，具備身惡行、語惡行、意惡行，斥責聖者，邪見與持邪見之業行，他們以身體的崩解，死後已往生到苦界、惡趣、下界、地獄， {.chi}
 
-... {.chi}
+這些眾生由於具有身不善行、口不善行、意不善行，責難聖者，懷有邪見，做出由邪見所驅動的業，因此在身壞命終之後投生在惡趣、地獄之中； {.chi}
 
 ---
 
@@ -5219,7 +5224,7 @@ Ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samann�
 
 或者這些眾生諸君，具備身善行、語善行、意善行，不斥責聖者，正見與持正見之業行， {.chi}
 
-... {.chi}
+那些眾生由於具有身善行、口善行、意善行，稱讚聖者，懷有正見，做出由正見所驅動的業， {.chi}
 
 ---
 
@@ -5229,7 +5234,7 @@ Te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā’ti. 
 
 他們以身體的崩解，死後已往生到善趣、天界。』這樣，他以清淨、超越人的天眼，看見當眾生死時、往生時，在下劣、勝妙，美、醜，幸、不幸中，了知眾生依業流轉， {.chi}
 
-... {.chi}
+因此在身壞命終之後投生在善趣、天界之中。 {.chi}
 
 ---
 
@@ -5239,7 +5244,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
-大王！此亦沙門〔修行〕現世之果報，比前者更殊勝微妙。 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。 {.chi}
 
 ---
 
@@ -5251,7 +5256,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的之時，他抽出心使轉向煩惱之滅盡智。 {.chi}
 
-如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心，傾注於漏盡智。 {.chi}
+「當他的內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於漏盡智，導向漏盡智。 {.chi}
 
 ---
 
@@ -5261,7 +5266,7 @@ He discerns, as it has come to be, that ‘This is stress... This is the origina
 
 他如實了知：『這是苦。』如實了知：『這是苦集。』如實了知：『這是苦滅。』如實了知：『這是導向苦滅道跡。』如實了知：『這些是煩惱。』如實了知：『這是煩惱集。』如實了知：『這是煩惱滅。』如實了知：『這是導向煩惱滅道跡。』 {.chi}
 
-而彼如實證知：『此是苦』，如實證知：『此是苦之集』，如實證知：『此是苦之滅』，如實證知：『此是到達苦滅之道』。如實證知：『此是漏之滅』，如實證知：『此是到達漏滅之道』。 {.chi}
+他如實知道什麼是苦，如實知道什麼是苦集，如實知道什麼是苦滅，如實知道什麼是苦滅之道；如實知道什麼是漏，如實知道什麼是漏集，如實知道什麼是漏滅，如實知道什麼是漏滅之道。 {.chi}
 
 ---
 
@@ -5271,7 +5276,7 @@ His heart, thus knowing, thus seeing, is released from the fermentation of sensu
 
 當他這麼知、這麼見時，心從欲的煩惱解脫，心從有的煩惱解脫，心從無明的煩惱解脫。當解脫時，有『[這是]解脫』之智，他了知：『出生已盡，梵行已完成，應該作的已作，不再有這樣[輪迴]的狀態了。』 {.chi}
 
-如是知、如是見故，其心解脫欲漏、解脫有漏、解脫無明漏，而『於解脫，解脫』之智慧生，證知：『生已盡、梵行已修、應作已作、更不再生。』 {.chi}
+當他有以上的知見時，心便從欲漏、有漏、無明漏之中解脫出來。他在得到解脫時會帶來一種解脫智，知道：生已經盡除，梵行已經達成，應要做的已經做完，沒有下一生。 {.chi}
 
 ---
 
@@ -5283,7 +5288,7 @@ Just as if there were a pool of water in a mountain glen — clear, limpid, and 
 
 大王！猶如峽谷中的水池清澈、清淨、不濁，在那裡，有眼的男子站在岸邊能看見牡蠣、貝類、砂礫、小石、魚群悠游與停止，他這麼想：『這水池清澈、清淨、不濁，在那裡，有這些牡蠣、貝類、砂礫、小石、魚群悠游與停止。』 {.chi}
 
-大王！猶如有峽谷，無染污而澄明、淨潔之水池，有眼者立其岸，見牡蠣之殼、砂石、礫、及群魚之或動、或止，彼思念：『此水池，實是澄明，清淨而無染污；於此，有牡蠣之殼、砂石、礫、及群魚之或動、或止。』 {.chi}
+「大王，就正如一個有眼睛的人，站在位於高山上的湖邊，湖水清晰、清澄、清澈，能看見湖裏的螺貝、沙石、游動的魚群。他心想：『這些湖水清晰、清澄、清澈，水裏有螺貝、沙石、游動的魚群。』 {.chi}
 
 ---
 
@@ -5293,7 +5298,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向煩惱之滅盡智。 {.chi}
 
-大王！如是心寂靜、純淨，無煩惱、遠離隨煩惱，柔軟、恒常活動，而且安住在不動之狀態時，比丘之心，傾注於漏盡智， {.chi}
+同樣地，這位比丘內心有定、清淨、明晰、沒有斑點、沒有污染、柔軟、受駕馭、安住、不動搖時，把心致力於漏盡智，導向漏盡智。 {.chi}
 
 ---
 
@@ -5303,7 +5308,7 @@ He discerns, as it has come to be, that ‘This is stress... This is the origina
 
 他如實了知：『這是苦。』如實了知：『這是苦集。』如實了知：『這是苦滅。』如實了知：『這是導向苦滅道跡。』如實了知：『這些是煩惱。』如實了知：『這是煩惱集。』如實了知：『這是煩惱滅。』如實了知：『這是導向煩惱滅道跡。』 {.chi}
 
-而彼如實證知：『此是苦』，如實證知：『此是苦之集』，如實證知：『此是苦之滅』，如實證知：『此是到達苦滅之道』。如實證知：『此是漏』，如實證知：『此是漏之集』，如實證知：『此是漏之滅』，如實證知：『此是到達漏滅之道』。 {.chi}
+他如實知道什麼是苦，如實知道什麼是苦集，如實知道什麼是苦滅，如實知道什麼是苦滅之道；如實知道什麼是漏，如實知道什麼是漏集，如實知道什麼是漏滅，如實知道什麼是漏滅之道。 {.chi}
 
 ---
 
@@ -5313,7 +5318,7 @@ His heart, thus knowing, thus seeing, is released from the fermentation of sensu
 
 當他這麼知、這麼見時，心從欲的煩惱解脫，心從有的煩惱解脫，心從無明的煩惱解脫。當解脫時，有『[這是]解脫』之智，他了知：『出生已盡，梵行已完成，應該作的已作，不再有這樣[輪迴]的狀態了。』 {.chi}
 
-如是知，如是見故，其心解脫欲漏、解脫有漏、解脫無明漏，而『於解脫，解脫』之智慧生，證知：『生已盡、梵行已修、應作已作、更不再生。』 {.chi}
+當他有以上的知見時，心便從欲漏、有漏、無明漏之中解脫出來。他在得到解脫時會帶來一種解脫智，知道：生已經盡除，梵行已經達成，應要做的已經做完，沒有下一生。 {.chi}
 
 ---
 
@@ -5323,7 +5328,7 @@ Idaṃ kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。而，大王！這是直接可見的沙門果，沒有其他更優勝或更勝妙直接可見的沙門果了。」 {.chi}
 
-大王！此實沙門〔修行〕現世之果報，比前者更殊勝微妙。大王！此沙門〔修行〕現世之果報，其他絕無有比此更殊勝之沙門〔修行〕現世之果報。」 {.chi}
+「大王，這就是沙門現生的成果，比之前的成果更美妙、更優勝。大王，沒有其他沙門成果比這更美妙、比這更優勝的了。」 {.chi}
 
 ---
 
@@ -5345,7 +5350,7 @@ When this was said, King Ajatasattu said to the Blessed One: {.eng}
 
 「太偉大了，大德！太偉大了，大德！大德！猶如能扶正顛倒的，能顯現被隱藏的，能告知迷途者的路，能在黑暗中持燈火：『有眼者看得見諸色』。同樣的，大德！法被世尊以種種法門說明，我歸依世尊、法、比丘僧團，請世尊記得我為優婆塞，從今天起終生歸依。 {.chi}
 
-「殊勝哉！大德！殊勝哉！大德！猶如使倒者起、覆者顯現、示迷者以道、於黑暗中揭油燈、使有眼者見〔諸〕物，如是，世尊以種種方便說示法。大德！予今自歸依世尊，歸依法，歸依比丘僧。願世尊攝受予，自今以後，以至命終，歸依〔三寶〕為優婆塞。 {.chi}
+世尊說了這番話後，阿闍世王對他說：「大德，妙極了！大德，妙極了！世尊能以各種不同的方式來演說法義，就像把倒轉了的東西反正過來；像為受覆蓋的東西揭開遮掩；像為迷路者指示正道；像在黑暗中拿著油燈的人，使其他有眼睛的人可以看見東西。大德，我皈依世尊、皈依法、皈依比丘僧。願世尊接受我為優婆塞，從現在起，直至命終，終生皈依！ {.chi}
 
 ---
 
@@ -5355,7 +5360,7 @@ Upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gataṃ
 
 大德！我犯了過錯，如愚、如癡、如不善：我因統治權而奪取如法的如法國王之父親的生命，大德！為了未來的自制，請世尊原諒我那樣的罪過為罪過。」 {.chi}
 
-予如狂愚、如癡暗、如不善、受罪過所制伏，為獲得王位，予正弒殺父王。大德！請世尊受納，予確認罪過為罪過，於將來必自調御。」 {.chi}
+「大德，我犯了錯！我這麼糊塗、這麼愚癡、這麼不善，我的父王是一位公正的國王，但是我為了王位，竟然取去他的性命！大德，願世尊接納我的悔過，好讓我將來約束自己。」 {.chi}
 
 ---
 
@@ -5367,7 +5372,7 @@ Upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gataṃ
 
 「大王！你確實犯了過錯，如愚、如癡、如不善：你因統治權而奪取如法的如法國王之父親的生命。但，大王！由於你對罪過見到是罪過後如法懺悔，我們原諒你。大王！凡對罪過見到是罪過後如法懺悔者，未來做到自制，在聖者之律中，這是增長。」 {.chi}
 
-〔世尊曰：〕「大王！實是狂愚、癡暗、不善、罪惡制伏卿，正弒殺卿之父王。然，大王！卿認罪過為罪過，依法懺悔故，對此，我當納受卿之懺悔。然，大王！若人認罪過為罪過，其如法懺悔者，以將來自調御，此乃聖者之律，繁盛之所以也。」 {.chi}
+「大王，你確實是犯了錯。你確實是這麼糊塗、這麼愚癡、這麼不善，你的父王是一位公正的國王，但你竟然取去他的性命。大王，我接納你的悔過，你明白這是過錯之後便會依法改善。大王，一個明白什麼是過錯的人便會依法改善，會在將來約束自己，能在聖者之律之中進步。」 {.chi}
 
 ---
 
@@ -5379,7 +5384,7 @@ When this was said, King Ajatasattu said to the Blessed One: {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子對世尊這麼說： {.chi}
 
-世尊如是說時，阿闍世王白世尊曰： {.chi}
+世尊說了這番話後，阿闍世王對他說： {.chi}
 
 ---
 
@@ -5389,7 +5394,7 @@ When this was said, King Ajatasattu said to the Blessed One: {.eng}
 
 「好了，大德！現在我們要走了，我們很忙，有很多該做的事。」 {.chi}
 
-「然，世尊！予今歸〔去〕。予有多忙、多作。」 {.chi}
+「大德，我還有很多事情要做，我要告辭了。」 {.chi}
 
 ---
 
@@ -5399,7 +5404,7 @@ When this was said, King Ajatasattu said to the Blessed One: {.eng}
 
 「大王！現在，你考量適當的時間吧。」 {.chi}
 
-〔世尊曰：〕「然者，大王！當隨意。」 {.chi}
+「大王，如果你認為是時候的話，請便。」 {.chi}
 
 ---
 
@@ -5409,7 +5414,7 @@ So King Ajatasattu, delighting and rejoicing in the Blessed One‘s words, rose 
 
 那時，摩揭陀國阿闍世王韋提希子歡喜、隨喜世尊所說後，起座向世尊問訊，然後作右繞，接著離開。 {.chi}
 
-摩揭陀國王韋提希子阿闍世，隨喜、歡喜世尊之所教，從座立起，敬禮、右繞世尊而離去。 {.chi}
+阿闍世王聽了世尊的說話後感到歡喜，感到愉快，他起座，向世尊作禮，右繞世尊，然後離去。 {.chi}
 
 ---
 
@@ -5431,7 +5436,7 @@ Not long after King Ajatasattu had left, the Blessed One addressed the monks: {.
 
 「比丘們！國王被傷害了，比丘們！國王被損害了，比丘們！如果國王沒奪取如法的如法國王之父親的生命，就在這座位上，他將生起遠塵、離垢之法眼。」 {.chi}
 
-「諸比丘！彼王衷心感激而悔過。諸比丘！彼王若不弒殺父王者，今，王於此座，應離塵垢，以生法眼。」 {.chi}
+阿闍世王離去不久，世尊對比丘說：「比丘們，這是阿闍世王的傷害！這是阿闍世王的毀滅！如果他不是取去父王的性命，他會在剛才一席話之中遠塵、離垢，得到法眼。」 {.chi}
 
 ---
 
@@ -5441,6 +5446,6 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 這就是世尊所說，那些悅意的比丘歡喜世尊所說。 {.chi}
 
-世尊如是說已，諸比丘隨喜、歡喜世尊之說法。 {.chi}
+世尊說了以上的話後，比丘對世尊的說話心感高興，滿懷歡喜。 {.chi}
 
 ---
