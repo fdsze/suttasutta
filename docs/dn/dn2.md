@@ -19,8 +19,8 @@ English – 英文
 [莊春江 譯](http://agama.buddhason.org/DN/DN02.htm) {.chi}
 
 中文  
-[蕭式球 譯](https://drive.google.com/file/d/1If0Mj5PeZOzsvbwkLV-TqfXSwSKDs6g1/view?usp=sharing) {.chi}
-(2022-11-04)
+[蕭式球 譯](https://drive.google.com/file/d/1If0Mj5PeZOzsvbwkLV-TqfXSwSKDs6g1/view?usp=sharing)
+(2022-11-04) {.chi}
 
 ---
 
