@@ -1,5 +1,5 @@
 ---
-title: DN2 – Samaññaphala Sutta – The Fruits of Recluseship – 長部二 沙門果經
+title: DN2 – Samaññaphala Sutta – The Fruits of the Ascetic Life – 長部二 沙門果經
 shortTitle: DN2 – 長部二
 permalink: '/dn2'
 containerClass: sutta
@@ -12,8 +12,8 @@ Pāli  – 巴利文
 [Source – 原文](https://suttacentral.net/pi/dn2) {.pali}
 
 English – 英文  
-[Thanissaro Bhikkhu translation –  
-坦尼沙羅尊者 譯](http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html) {.eng}
+[Bhikkhu Sujato translation –  
+蘇加多比丘 譯](https://suttacentral.net/dn2/en/sujato) {.eng}
 
 中文  
 [莊春江 譯](http://agama.buddhason.org/DN/DN02.htm) {.chi}
@@ -28,7 +28,8 @@ English – 英文
 
 Evaṃ me sutaṃ. Ekaṃ samayaṃ bhagavā rājagahe viharati jīvakassa komāra bhaccassa ambavane mahatā  bhik khu saṅ ghena saddhiṃ aḍḍhateḷasehi bhikkhusatehi. {.pali}
 
-I have heard that on one occasion the Blessed One was staying at Rajagaha, in Jivaka Komarabhacca‘s mango grove, with a large community of monks — 1,250 monks in all. {.eng}
+So I have heard. This sutta with its commentary was translated by Bhikkhu Bodhi in his The Fruits of Recluseship.At one time the Buddha was staying near Rājagaha in the Mango Grove of Jīvaka Komārabhacca, together with a large Saṅgha of 1,250 mendicants.
+ {.eng}
 
 我聽到這樣：有一次，世尊與一千二百五十位比丘的大比丘僧團一起住在王舍城養子耆婆的芒果園中。 {.chi}
 
@@ -38,7 +39,7 @@ I have heard that on one occasion the Blessed One was staying at Rajagaha, in Ji
 
 Tena kho pana samayena rājā māgadho ajātasattu vedehiputto tadahuposathe pannarase komudiyā cātumāsiniyā puṇṇāya puṇṇamāya rattiyā rājā macca pari vuto upari pāsāda va ragato nisinno hoti. {.pali}
 
-Now at that time — it being the observance day, the full-moon night of the water-lily season, the fourth month of the rains — King Ajatasattu of Magadha, the son of Queen Videha, was sitting on the roof terrace of his palace surrounded by his ministers. {.eng}
+Now, at that time it was the sabbath—the Komudī full moon on the fifteenth day of the fourth month—and King Ajātasattu of Magadha, son of the princess of Videha, was sitting upstairs in the royal longhouse surrounded by his ministers. {.eng}
 
 當時，在那第四個月的迦刺底迦月滿月日，十五布薩日的滿月夜晚，摩揭陀國阿闍世王韋提希子被大臣們圍繞著，到最高樓上坐下。 {.chi}
 
@@ -48,7 +49,7 @@ Now at that time — it being the observance day, the full-moon night of the wat
 
 Atha kho rājā māgadho ajātasattu vedehiputto tadahuposathe udānaṃ udānesi: {.pali}
 
-Then he felt inspired to exclaim: {.eng}
+Then Ajātasattu of Magadha, son of the princess of Videha, expressed this heartfelt sentiment, {.eng}
 
 那時，摩揭陀國阿闍世王韋提希子在布薩日自說優陀那： {.chi}
 
@@ -58,7 +59,7 @@ Then he felt inspired to exclaim: {.eng}
 
 “ramaṇīyā vata bho dosinā ratti, abhirūpā vata bho dosinā ratti, dassanīyā vata bho dosinā ratti, pāsādikā vata bho dosinā ratti, lakkhaññā vata bho dosinā ratti. {.pali}
 
-“How wonderful is this moonlit night! How beautiful... How lovely... How inspiring... How auspicious is this moonlit night! {.eng}
+“Oh, sirs, this moonlit night is so very delightful, so beautiful, so glorious, so lovely, so striking. {.eng}
 
 「先生！明月的夜晚確實是愉快的，先生！明月的夜晚確實是殊妙的，先生！明月的夜晚確實是好看的，先生！明月的夜晚確實是清淨的，先生！明月的夜晚確實是祥瑞的， {.chi}
 
@@ -68,7 +69,7 @@ Then he felt inspired to exclaim: {.eng}
 
 Kaṃ nu khvajja samaṇaṃ vā brāhmaṇaṃ vā payirupāseyyāma, yaṃ no payirupāsato cittaṃ pasīdeyyā”ti? {.pali}
 
-What brahman or contemplative should we visit tonight who might enlighten and bring peace to our mind?” {.eng}
+Now, what ascetic or brahmin might I pay homage to today, paying homage to whom my mind might find peace?” {.eng}
 
 現在，我們應該訪問哪位沙門、婆羅門，當親近他們時，我們的心能被淨化呢？」 {.chi}
 
@@ -80,7 +81,7 @@ What brahman or contemplative should we visit tonight who might enlighten and br
 
 Evaṃ vutte, aññataro rājāmacco rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca: {.pali}
 
-When this was said, one of the ministers said to the king: {.eng}
+When he had spoken, one of the king’s ministers said to him, {.eng}
 
 當這麼說時，某位大臣對摩揭陀國阿闍世王韋提希子這麼說： {.chi}
 
@@ -90,7 +91,7 @@ When this was said, one of the ministers said to the king: {.eng}
 
 “ayaṃ, deva, pūraṇo kassapo saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. {.pali}
 
-“Your majesty, there is Purana Kassapa, the leader of a community, the leader of a group, the teacher of a group, honored and famous, esteemed as holy by the mass of people. He is aged, long gone forth, advanced in years, in the last phase of life. {.eng}
+“Sire, Pūraṇa Kassapa leads an order and a community, and teaches a community. He’s a well-known and famous religious founder, deemed holy by many people. He is of long standing, long gone forth; he is advanced in years and has reached the final stage of life. {.eng}
 
 「陛下！這位富蘭那迦葉有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
@@ -100,7 +101,7 @@ When this was said, one of the ministers said to the king: {.eng}
 
 Taṃ devo pūraṇaṃ kassapaṃ payirupāsatu. Appeva nāma devassa pūraṇaṃ kassapaṃ payirupāsato cittaṃ pasīdeyyā”ti. {.pali}
 
-Your majesty should visit him. Perhaps, if you visited him, he would enlighten and bring peace to your mind.” {.eng}
+Let Your Majesty pay homage to him. Hopefully in so doing your mind will find peace.” {.eng}
 
 陛下！請親近那位富蘭那迦葉，或許當親近富蘭那迦葉時，陛下的心能被淨化。」 {.chi}
 
@@ -110,7 +111,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 Evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. {.pali}
 
-When this was said, the king remained silent. {.eng}
+But when he had spoken, the king kept silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
@@ -132,7 +133,7 @@ Then another minister said to the king: {.eng}
 
 “ayaṃ, deva, makkhali gosālo saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. {.pali}
 
-“Your majesty, there is Makkhali Gosala, the leader of a community, the leader of a group, the teacher of a group, honored and famous, esteemed as holy by the mass of people. He is aged, long gone forth, advanced in years, in the last phase of life. {.eng}
+Another of the king’s ministers said to him, “Sire, the bamboo-staffed ascetic Gosāla leads an order and a community, and teaches a community. He’s a well-known and famous religious founder, deemed holy by many people. He is of long standing, long gone forth; he is advanced in years and has reached the final stage of life. {.eng}
 
 「陛下！這位末迦利瞿舍羅有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
@@ -142,7 +143,7 @@ Then another minister said to the king: {.eng}
 
 Taṃ devo makkhaliṃ gosālaṃ payirupāsatu. Appeva nāma devassa makkhaliṃ gosālaṃ payirupāsato cittaṃ pasīdeyyā”ti. {.pali}
 
-Your majesty should visit him. Perhaps, if you visited him, he would enlighten and bring peace to your mind.” {.eng}
+Let Your Majesty pay homage to him. Hopefully in so doing your mind will find peace.” {.eng}
 
 陛下！請親近那位末迦利瞿舍羅，或許當親近末迦利瞿舍羅時，陛下的心能被淨化。」 {.chi}
 
@@ -152,7 +153,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 Evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. {.pali}
 
-When this was said, the king remained silent. {.eng}
+But when he had spoken, the king kept silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
@@ -164,7 +165,7 @@ When this was said, the king remained silent. {.eng}
 
 Aññataropi kho rājāmacco rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca: {.pali}
 
-Then another minister said to the king: {.eng}
+Another of the king’s ministers said to him, {.eng}
 
 另一位大臣也對摩揭陀國阿闍世王韋提希子這麼說： {.chi}
 
@@ -174,7 +175,7 @@ Then another minister said to the king: {.eng}
 
 “ayaṃ, deva, ajito kesakambalo saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. {.pali}
 
-“Your majesty, there is Ajita Kesakambalin, the leader of a community, the leader of a group, the teacher of a group, honored and famous, esteemed as holy by the mass of people. He is aged, long gone forth, advanced in years, in the last phase of life. {.eng}
+“Sire, Ajita of the hair blanket leads an order and a community, and teaches a community. He’s a well-known and famous religious founder, deemed holy by many people. He is of long standing, long gone forth; he is advanced in years and has reached the final stage of life. {.eng}
 
 「陛下！這位阿夷多翅舍欽婆羅有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
@@ -184,7 +185,7 @@ Then another minister said to the king: {.eng}
 
 Taṃ devo ajitaṃ kesakambalaṃ payirupāsatu. Appeva nāma devassa ajitaṃ kesakambalaṃ payirupāsato cittaṃ pasīdeyyā”ti. {.pali}
 
-Your majesty should visit him. Perhaps, if you visited him, he would enlighten and bring peace to your mind.” {.eng}
+Let Your Majesty pay homage to him. Hopefully in so doing your mind will find peace.” {.eng}
 
 陛下！請親近那位阿夷多翅舍欽婆羅，或許當親近阿夷多翅舍欽婆羅時，陛下的心能被淨化。」 {.chi}
 
@@ -194,7 +195,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 Evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. {.pali}
 
-When this was said, the king remained silent. {.eng}
+But when he had spoken, the king kept silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
@@ -206,7 +207,7 @@ When this was said, the king remained silent. {.eng}
 
 Aññataropi kho rājāmacco rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca: {.pali}
 
-Then another minister said to the king: {.eng}
+Another of the king’s ministers said to him, {.eng}
 
 另一位大臣也對摩揭陀國阿闍世王韋提希子這麼說： {.chi}
 
@@ -216,7 +217,7 @@ Then another minister said to the king: {.eng}
 
 “ayaṃ, deva, pakudho kaccāyano saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. {.pali}
 
-“Your majesty, there is Pakudha Kaccayana, the leader of a community, the leader of a group, the teacher of a group, honored and famous, esteemed as holy by the mass of people. He is aged, long gone forth, advanced in years, in the last phase of life. {.eng}
+“Sire, Pakudha Kaccāyana leads an order and a community, and teaches a community. He’s a well-known and famous religious founder, deemed holy by many people. He is of long standing, long gone forth; he is advanced in years and has reached the final stage of life. {.eng}
 
 「陛下！這位浮陀迦旃延有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
@@ -226,7 +227,7 @@ Then another minister said to the king: {.eng}
 
 Taṃ devo pakudhaṃ kaccāyanaṃ payirupāsatu. Appeva nāma devassa pakudhaṃ kaccāyanaṃ payirupāsato cittaṃ pasīdeyyā”ti. {.pali}
 
-Your majesty should visit him. Perhaps, if you visited him, he would enlighten and bring peace to your mind.” {.eng}
+Let Your Majesty pay homage to him. Hopefully in so doing your mind will find peace.” {.eng}
 
 陛下！請親近那位浮陀迦旃延，或許當親近浮陀迦旃延時，陛下的心能被淨化。」 {.chi}
 
@@ -236,7 +237,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 Evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. {.pali}
 
-When this was said, the king remained silent. {.eng}
+But when he had spoken, the king kept silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
@@ -248,7 +249,7 @@ When this was said, the king remained silent. {.eng}
 
 Aññataropi kho rājāmacco rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca: {.pali}
 
-Then another minister said to the king: {.eng}
+Another of the king’s ministers said to him, {.eng}
 
 另一位大臣也對摩揭陀國阿闍世王韋提希子這麼說： {.chi}
 
@@ -258,7 +259,7 @@ Then another minister said to the king: {.eng}
 
 “ayaṃ, deva, sañcayo belaṭṭhaputto saṃghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. {.pali}
 
-Your majesty, there is Sañjaya Belatthaputta, the leader of a community, the leader of a group, the teacher of a group, honored and famous, esteemed as holy by the mass of people. He is aged, long gone forth, advanced in years, in the last phase of life. {.eng}
+“Sire, Sañjaya Belaṭṭhiputta leads an order and a community, and teaches a community. He’s a well-known and famous religious founder, deemed holy by many people. He is of long standing, long gone forth; he is advanced in years and has reached the final stage of life. {.eng}
 
 「陛下！這位散惹耶毘羅梨子有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
@@ -268,7 +269,7 @@ Your majesty, there is Sañjaya Belatthaputta, the leader of a community, the le
 
 Taṃ devo sañcayaṃ belaṭṭhaputtaṃ payirupāsatu. Appeva nāma devassa sañcayaṃ belaṭṭhaputtaṃ payirupāsato cittaṃ pasīdeyyā”ti. {.pali}
 
-Your majesty should visit him. Perhaps, if you visited him, he would enlighten and bring peace to your mind.” {.eng}
+Let Your Majesty pay homage to him. Hopefully in so doing your mind will find peace.” {.eng}
 
 陛下！請親近那位散惹耶毘羅梨子，或許當親近散惹耶毘羅梨子時，陛下的心能被淨化。」 {.chi}
 
@@ -278,7 +279,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 Evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. {.pali}
 
-When this was said, the king remained silent. {.eng}
+But when he had spoken, the king kept silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
@@ -290,7 +291,7 @@ When this was said, the king remained silent. {.eng}
 
 Aññataropi kho rājāmacco rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca: {.pali}
 
-Then another minister said to the king: {.eng}
+Another of the king’s ministers said to him, {.eng}
 
 另一位大臣也對摩揭陀國阿闍世王韋提希子這麼說： {.chi}
 
@@ -300,7 +301,7 @@ Then another minister said to the king: {.eng}
 
 “ayaṃ, deva, nigaṇṭho nāṭaputto saṃghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. {.pali}
 
-Your majesty, there is Nigantha Nataputta, the leader of a community, the leader of a group, the teacher of a group, honored and famous, esteemed as holy by the mass of people. He is aged, long gone forth, advanced in years, in the last phase of life. {.eng}
+“Sire, the Jain ascetic of the Ñātika clan leads an order and a community, and teaches a community. He’s a well-known and famous religious founder, deemed holy by many people. He is of long standing, long gone forth; he is advanced in years and has reached the final stage of life. {.eng}
 
 「陛下！這位尼乾陀若提子有眾多追隨者，一群人之首，一群人的老師，有名聲的知名開宗祖師，眾人公認的有德行者、有經驗者、長久出家者，年邁，已到了老人期， {.chi}
 
@@ -310,7 +311,7 @@ Your majesty, there is Nigantha Nataputta, the leader of a community, the leader
 
 Taṃ devo nigaṇṭhaṃ nāṭaputtaṃ payirupāsatu. Appeva nāma devassa nigaṇṭhaṃ nāṭaputtaṃ payirupāsato cittaṃ pasīdeyyā”ti. {.pali}
 
-Your majesty should visit him. Perhaps, if you visited him, he would enlighten and bring peace to your mind.” {.eng}
+Let Your Majesty pay homage to him. Hopefully in so doing your mind will find peace.” {.eng}
 
 陛下！請親近那位尼乾陀若提子，或許當親近尼乾陀若提子時，陛下的心能被淨化。」 {.chi}
 
@@ -320,7 +321,7 @@ Your majesty should visit him. Perhaps, if you visited him, he would enlighten a
 
 Evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. {.pali}
 
-When this was said, the king remained silent. {.eng}
+But when he had spoken, the king kept silent. {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子變得沉默。 {.chi}
 
@@ -332,7 +333,7 @@ When this was said, the king remained silent. {.eng}
 
 Tena kho pana samayena jīvako komārabhacco rañño māgadhassa ajātasattussa vedehiputtassa avidūre tuṇhībhūto nisinno hoti. {.pali}
 
-All this time Jivaka Komarabhacca was sitting silently not far from the king. {.eng}
+Now at that time Jīvaka Komārabhacca was sitting silently not far from the king. {.eng}
 
 當時，養子耆婆在摩揭陀國阿闍世王韋提希子不遠處沉默地坐著。 {.chi}
 
@@ -342,7 +343,7 @@ All this time Jivaka Komarabhacca was sitting silently not far from the king. {.
 
 Atha kho rājā māgadho ajātasattu vedehiputto jīvakaṃ komārabhaccaṃ etadavoca: {.pali}
 
-So the king said to him, {.eng}
+Then the king said to him, {.eng}
 
 那時，摩揭陀國阿闍世王韋提希子對養子耆婆這麼說： {.chi}
 
@@ -352,7 +353,7 @@ So the king said to him, {.eng}
 
 “tvaṃ pana, samma jīvaka, kiṃ tuṇhī”ti? {.pali}
 
-“Friend Jivaka, why are you silent?” {.eng}
+“But my dear Jīvaka, why are you silent?” {.eng}
 
 「而，親愛的耆婆！你為何沉默？」 {.chi}
 
@@ -362,7 +363,7 @@ So the king said to him, {.eng}
 
 “Ayaṃ, deva, bhagavā arahaṃ sammāsambuddho amhākaṃ ambavane viharati mahatā bhikkhusaṃghena saddhiṃ aḍḍhateḷasehi bhikkhusatehi. {.pali}
 
-“Your majesty, there is the Blessed One, worthy and rightly self-awakened, staying in my mango grove with a large community of monks — 1,250 monks in all. {.eng}
+“Sire, the Blessed One, the perfected one, the fully awakened Buddha is staying in my mango grove together with a large Saṅgha of 1,250 mendicants. {.eng}
 
 「陛下！這位世尊、阿羅漢、遍正覺者與一千二百五十位比丘的大比丘僧團一起住在我們的芒果園中。 {.chi}
 
@@ -372,7 +373,7 @@ So the king said to him, {.eng}
 
 Taṃ kho pana bhagavantaṃ evaṃ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti. {.pali}
 
-Concerning this Blessed One, this admirable report has been spread: ‘Surely, the Blessed One is worthy and rightly self-awakened, consummate in clear knowing and conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of tamable people, teacher of beings human and divine, awakened, blessed.’ {.eng}
+He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ {.eng}
 
 又，世尊有這樣的好名聲被傳播著：『像這樣，那位世尊是阿羅漢、遍正覺者、明與行具足者、善逝、世間知者、應該被調御人的無上調御者、人天之師、佛陀、世尊。』 {.chi}
 
@@ -382,7 +383,7 @@ Concerning this Blessed One, this admirable report has been spread: ‘Surely, t
 
 Taṃ devo bhagavantaṃ payirupāsatu. {.pali}
 
-Your majesty should visit him. {.eng}
+Let Your Majesty pay homage to him. {.eng}
 
 陛下！請親近那位世尊， {.chi}
 
@@ -392,7 +393,7 @@ Your majesty should visit him. {.eng}
 
 Appeva nāma devassa bhagavantaṃ payirupāsato cittaṃ pasīdeyyā”ti. {.pali}
 
-Perhaps, if you visited him, he would enlighten and bring peace to your mind.” {.eng}
+Hopefully in so doing your mind will find peace.” {.eng}
 
 或許當親近世尊時，陛下的心能被淨化。」 {.chi}
 
@@ -402,7 +403,7 @@ Perhaps, if you visited him, he would enlighten and bring peace to your mind.”
 
 “Tena hi, samma jīvaka, hatthiyānāni kappāpehī”ti. {.pali}
 
-“Then in that case, friend Jivaka, have the riding elephants prepared.” {.eng}
+“Well then, my dear Jīvaka, have the elephants readied.” {.eng}
 
 「那樣的話，親愛的耆婆！請你準備象乘。」 {.chi}
 
@@ -414,7 +415,7 @@ Perhaps, if you visited him, he would enlighten and bring peace to your mind.”
 
 “Evaṃ, devā”ti kho jīvako komārabhacco rañño māgadhassa ajātasattussa vedehiputtassa paṭissuṇitvā pañcamattāni hatthinikāsatāni kappāpetvā rañño ca ārohaṇīyaṃ nāgaṃ, rañño māgadhassa ajātasattussa vedehiputtassa paṭivedesi: {.pali}
 
-Having replied, “As you say, your majesty,” having had five hundred female elephants prepared as well as the king‘s personal tusker, Jivaka announced to the king: {.eng}
+“Yes, Your Majesty,” replied Jīvaka. He had around five hundred female elephants readied, in addition to the king’s bull elephant for riding. Then he informed the king, {.eng}
 
 「是的，陛下！」養子耆婆回答摩揭陀國阿闍世王韋提希子後，準備五百頭母象與國王的坐騎龍象，然後告知摩揭陀國阿闍世王韋提希子： {.chi}
 
@@ -424,7 +425,7 @@ Having replied, “As you say, your majesty,” having had five hundred female e
 
 “kappitāni kho te, deva, hatthiyānāni, yassadāni kālaṃ maññasī”ti. {.pali}
 
-“Your majesty, your riding elephants are prepared. Do what you think it is now time to do.” {.eng}
+“The elephants are ready, sire. Please go at your convenience.” {.eng}
 
 「陛下！那些是已準備好的象，現在，你考量適當的時間吧。」 {.chi}
 
@@ -434,7 +435,7 @@ Having replied, “As you say, your majesty,” having had five hundred female e
 
 Atha kho rājā māgadho ajātasattu vedehiputto pañcasu hatthinikāsatesu paccekā itthiyo āropetvā ārohaṇīyaṃ nāgaṃ abhiruhitvā ukkāsu dhāriyamānāsu rājagahamhā niyyāsi mahaccarājānubhāvena, yena jīvakassa komārabhaccassa ambavanaṃ tena pāyāsi. {.pali}
 
-Then the king, having had five hundred of his women mounted on the five hundred female elephants — one on each — and having mounted his own personal tusker, set out from the capital in full royal state, with attendants carrying torches, headed for Jivaka Komarabhacca‘s mango grove. {.eng}
+Then King Ajātasattu had women mounted on each of the five hundred female elephants, while he mounted his bull elephant. With attendants carrying torches, he set out in full royal pomp from Rājagaha to Jīvaka’s mango grove. {.eng}
 
 那時，摩揭陀國阿闍世王韋提希子在五百頭母象上令每一頭一位女子登上後，[自己]登上龍象坐騎，然後令持著火炬，以國王的威勢盛況從王舍城出發，前往養子耆婆的芒果園 {.chi}
 
@@ -446,7 +447,7 @@ Then the king, having had five hundred of his women mounted on the five hundred 
 
 Atha kho rañño māgadhassa ajātasattussa vedehiputtassa avidūre ambavanassa ahudeva bhayaṃ, ahu chambhitattaṃ, ahu lomahaṃso. {.pali}
 
-But when the king was not far from the mango grove, he was gripped with fear, trepidation, his hair standing on end. {.eng}
+But as he drew near the mango grove, the king became frightened, scared, his hair standing on end. {.eng}
 
 那時，摩揭陀國阿闍世王韋提希子在芒果園不遠處變得害怕、僵硬、身毛豎立。 {.chi}
 
@@ -456,7 +457,7 @@ But when the king was not far from the mango grove, he was gripped with fear, tr
 
 Atha kho rājā māgadho ajātasattu vedehiputto bhīto saṃviggo lomahaṭṭhajāto jīvakaṃ komārabhaccaṃ etadavoca: {.pali}
 
-Fearful, agitated, his hair standing on end, he said to Jivaka Komarabhacca: {.eng}
+He said to Jīvaka, {.eng}
 
 那時，害怕、驚慌、身毛豎立的摩揭陀國阿闍世王韋提希子對養子耆婆這麼說： {.chi}
 
@@ -466,7 +467,7 @@ Fearful, agitated, his hair standing on end, he said to Jivaka Komarabhacca: {.e
 
 “kacci maṃ, samma jīvaka, na vañcesi? {.pali}
 
-“Friend Jivaka, you aren‘t deceiving me, are you? {.eng}
+“My dear Jīvaka, I hope you’re not deceiving me! {.eng}
 
 「親愛的耆婆！你該沒欺騙我吧？ {.chi}
 
@@ -476,7 +477,7 @@ Fearful, agitated, his hair standing on end, he said to Jivaka Komarabhacca: {.e
 
 Kacci maṃ, samma jīvaka, na palambhesi? {.pali}
 
-You aren‘t betraying me, are you? {.eng}
+I hope you’re not betraying me! {.eng}
 
 親愛的耆婆！你該沒欺瞞我吧？ {.chi}
 
@@ -486,7 +487,7 @@ You aren‘t betraying me, are you? {.eng}
 
 Kacci maṃ, samma jīvaka, na paccatthikānaṃ desi? {.pali}
 
-You aren‘t turning me over to my enemies, are you? {.eng}
+I hope you’re not turning me over to my enemies! {.eng}
 
 親愛的耆婆！你該沒把我[出賣]給敵人吧？ {.chi}
 
@@ -496,7 +497,7 @@ You aren‘t turning me over to my enemies, are you? {.eng}
 
 Kathañhi nāma tāva mahato bhikkhusaṅghassa aḍḍhateḷasānaṃ bhikkhusatānaṃ neva khipitasaddo bhavissati, na ukkāsitasaddo na nigghoso”ti. {.pali}
 
-How can there be such a large community of monks — 1,250 in all — with no sound of sneezing, no sound of coughing, no voices at all?” {.eng}
+For how on earth can there be no sound of coughing or clearing throats or any noise in such a large Saṅgha of 1,250 mendicants?”  {.eng}
 
 為什麼一千二百五十位比丘的大比丘僧團既沒有咳嗽聲，也沒清喉嚨聲，也沒喊叫？」 {.chi}
 
@@ -506,7 +507,7 @@ How can there be such a large community of monks — 1,250 in all — with no so
 
 “Mā bhāyi, mahārāja, mā bhāyi, mahārāja. {.pali}
 
-“Don‘t be afraid, great king. Don‘t be afraid. {.eng}
+“Do not fear, great king, do not fear! {.eng}
 
 「大王！不要害怕！大王！不要害怕！ {.chi}
 
@@ -516,7 +517,7 @@ How can there be such a large community of monks — 1,250 in all — with no so
 
 Na taṃ, deva, vañcemi; {.pali}
 
-I‘m not deceiving you {.eng}
+I am not deceiving you, {.eng}
 
 陛下！我沒欺騙你， {.chi}
 
@@ -526,7 +527,7 @@ I‘m not deceiving you {.eng}
 
 na taṃ, deva, palambhāmi; {.pali}
 
-or betraying you {.eng}
+or betraying you, {.eng}
 
 陛下！我沒欺瞞你， {.chi}
 
@@ -546,7 +547,7 @@ or turning you over to your enemies. {.eng}
 
 Abhikkama, mahārāja, abhikkama, mahārāja, ete maṇḍalamāḷe dīpā jhāyantī”ti. {.pali}
 
-Go forward, great king, go forward! Those are lamps burning in the pavilion hall.” {.eng}
+Go forward, great king, go forward! Those are lamps shining in the pavilion.” {.eng}
 
 大王！請你前進，大王！請你前進，在圓形帳蓬處這些燈火燃燒[著]。」 {.chi}
 
@@ -558,7 +559,7 @@ Go forward, great king, go forward! Those are lamps burning in the pavilion hall
 
 Atha kho rājā māgadho ajātasattu vedehiputto yāvatikā nāgassa bhūmi nāgena gantvā, nāgā paccorohitvā, pattikova yena maṇḍalamāḷassa dvāraṃ tenupasaṅkami; {.pali}
 
-Then the king, going as far on his tusker as the ground would permit, dismounted and approached the door of the pavilion on foot. {.eng}
+Then King Ajātasattu rode on the elephant as far as the terrain allowed, then descended and approached the pavilion door on foot, {.eng}
 
 那時，摩揭陀國阿闍世王韋提希子以龍象一直到龍象能通行之處，然後下龍象步行，去圓形帳蓬的入口。 {.chi}
 
@@ -568,7 +569,7 @@ Then the king, going as far on his tusker as the ground would permit, dismounted
 
 upasaṅkamitvā jīvakaṃ komārabhaccaṃ etadavoca: {.pali}
 
-On arrival, he asked Jivaka: {.eng}
+where he asked Jīvaka, {.eng}
 
 抵達後，對養子耆婆這麼說： {.chi}
 
@@ -578,7 +579,7 @@ On arrival, he asked Jivaka: {.eng}
 
 “kahaṃ pana, samma jīvaka, bhagavā”ti? {.pali}
 
-“Where, friend Jivaka, is the Blessed One?” {.eng}
+“But my dear Jīvaka, where is the Buddha?” {.eng}
 
 「親愛的耆婆！然而，世尊在哪裡？」 {.chi}
 
@@ -588,7 +589,7 @@ On arrival, he asked Jivaka: {.eng}
 
 “Eso, mahārāja, bhagavā; eso, mahārāja, bhagavā majjhimaṃ thambhaṃ nissāya puratthābhimukho nisinno purakkhato bhikkhusaṃghassā”ti. {.pali}
 
-“That is the Blessed One, great king, sitting against the middle pillar, facing east, surrounded by the community of monks.” {.eng}
+“That is the Buddha, great king, that is the Buddha! He’s sitting against the central column facing east, in front of the Saṅgha of mendicants.” {.eng}
 
 「大王！這是世尊，大王！靠著中央柱子面向東而坐，在比丘僧團前面的，這是世尊。」 {.chi}
 
@@ -600,7 +601,7 @@ On arrival, he asked Jivaka: {.eng}
 
 Atha kho rājā māgadho ajātasattu vedehiputto yena bhagavā tenupasaṅkami; {.pali}
 
-Then the king approached the Blessed One and, {.eng}
+Then the king went up to the Buddha {.eng}
 
 那時，摩揭陀國阿闍世王韋提希子去見世尊。 {.chi}
 
@@ -610,7 +611,7 @@ Then the king approached the Blessed One and, {.eng}
 
 upasaṅkamitvā ekamantaṃ aṭṭhāsi. {.pali}
 
-on reaching him, stood to one side. {.eng}
+and stood to one side. {.eng}
 
 抵達後，在一旁站立。 {.chi}
 
@@ -620,7 +621,7 @@ on reaching him, stood to one side. {.eng}
 
 Ekamantaṃ ṭhito kho rājā māgadho ajātasattu vedehiputto tuṇhībhūtaṃ tuṇhībhūtaṃ bhikkhusaṃghaṃ anuviloketvā rahadamiva vippasannaṃ udānaṃ udānesi: {.pali}
 
-As he was standing there — surveying the community of monks sitting in absolute silence, as calm as a lake — he felt inspired to exclaim: {.eng}
+He looked around the Saṅgha of mendicants, who were so very silent, like a still, clear lake, and expressed this heartfelt sentiment, {.eng}
 
 在一旁站好後，觀察變得沈默、像清澈湖水的比丘僧團，然後自說優陀那： {.chi}
 
@@ -630,7 +631,7 @@ As he was standing there — surveying the community of monks sitting in absolut
 
 “iminā me upasamena udayabhaddo kumāro samannāgato hotu, yenetarahi upasamena bhikkhusaṃgho samannāgato”ti. {.pali}
 
-“May my son, Prince Udayibhadda, enjoy the same peace that this community of monks now enjoys!” {.eng}
+“May my son, Prince Udāyibhadda, be blessed with such peace as the Saṅgha of mendicants now enjoys!” {.eng}
 
 「願我的男孩生賢具備現在這比丘僧團具備的寂靜。」 {.chi}
 
@@ -640,7 +641,7 @@ As he was standing there — surveying the community of monks sitting in absolut
 
 “Agamā kho tvaṃ, mahārāja, yathāpeman”ti. {.pali}
 
-[The Blessed One said:] “Have you come, great king, together with your affections?” {.eng}
+“Has your mind gone to one you love, great king?” {.eng}
 
 「大王！你想到親情了。」 {.chi}
 
@@ -660,7 +661,7 @@ As he was standing there — surveying the community of monks sitting in absolut
 
 Iminā me, bhante, upasamena udayabhaddo kumāro samannāgato hotu yenetarahi upasamena bhikkhusaṃgho samannāgato”ti. {.pali}
 
-May he enjoy the same peace that this community of monks now enjoys!” {.eng}
+“I love my son, sir, Prince Udāyibhadda. May he be blessed with such peace as the Saṅgha of mendicants now enjoys!” {.eng}
 
 大德！願我的男孩生賢具備現在這比丘僧團具備的寂靜。」 {.chi}
 
@@ -672,7 +673,7 @@ May he enjoy the same peace that this community of monks now enjoys!” {.eng}
 
 Atha kho rājā māgadho ajātasattu vedehiputto bhagavantaṃ abhivādetvā, bhikkhusaṃghassa añjaliṃ paṇāmetvā, ekamantaṃ nisīdi. {.pali}
 
-Then, bowing down to the Blessed One, and saluting the community of monks with his hands palm-to-palm over his heart, he sat to one side. {.eng}
+Then the king bowed to the Buddha, raised his joined palms toward the Saṅgha, and sat down to one side. {.eng}
 
 那時，摩揭陀國阿闍世王韋提希子向世尊問訊，接著向比丘僧團合掌，然後在一旁坐下。 {.chi}
 
@@ -682,7 +683,7 @@ Then, bowing down to the Blessed One, and saluting the community of monks with h
 
 Ekamantaṃ nisinno kho rājā māgadho ajātasattu vedehiputto bhagavantaṃ etadavoca: {.pali}
 
-As he was sitting there, he said to the Blessed One: {.eng}
+He said to the Buddha, {.eng}
 
 在一旁坐好後，摩揭陀國阿闍世王韋提希子對世尊這麼說： {.chi}
 
@@ -692,7 +693,7 @@ As he was sitting there, he said to the Blessed One: {.eng}
 
 “puccheyyāmahaṃ, bhante, bhagavantaṃ kañcideva desaṃ; sace me bhagavā okāsaṃ karoti pañhassa veyyākaraṇāyā”ti. {.pali}
 
-“I would like to ask the Blessed One about a certain issue, if he would give me the opportunity to explain my question.” {.eng}
+“Sir, I’d like to ask you about a certain point, if you’d take the time to answer.” {.eng}
 
 「大德！我想問世尊一點[問題]，如果世尊允許為我的問題作解答的話。」 {.chi}
 
@@ -702,7 +703,7 @@ As he was sitting there, he said to the Blessed One: {.eng}
 
 “Puccha, mahārāja, yadākaṅkhasī”ti. {.pali}
 
-“Ask, great king, whatever you like.” {.eng}
+“Ask what you wish, great king.” {.eng}
 
 「大王！問你想問的問題。」 {.chi}
 
@@ -714,7 +715,7 @@ As he was sitting there, he said to the Blessed One: {.eng}
 
 “Yathā nu kho imāni, bhante, puthusippāyatanāni, seyyathidaṃ—hatthārohā assārohā rathikā dhanuggahā celakā calakā piṇḍadāyakā uggā rājaputtā pakkhandino mahānāgā sūrā cammayodhino dāsikaputtā {.pali}
 
-“Lord, there are these common craftsmen: elephant-trainers, horse-trainers, charioteers, archers, standard bearers, camp marshals, supply corps officers, high royal officers, commandos, military heroes, armor-clad warriors, leather-clad warriors, domestic slaves, {.eng}
+“Sir, there are many different professional fields. These include elephant riders, cavalry, charioteers, archers, bannermen, adjutants, food servers, warrior-chiefs, princes, chargers, great warriors, heroes, leather-clad soldiers, and sons of bondservants. {.eng}
 
 「大德！如這些種種技能之處，即：騎象兵、騎馬兵、戰車兵、弓箭兵、軍旗兵、參謀、伙食兵、尊貴王族戰士、突擊兵、大龍戰士、勇士、穿皮革的戰士、死忠奴隸兵、 {.chi}
 
@@ -724,7 +725,7 @@ As he was sitting there, he said to the Blessed One: {.eng}
 
 āḷārikā kappakā nhāpakā sūdā mālakārā rajakā pesakārā naḷakārā kumbhakārā gaṇakā muddikā, yāni vā panaññānipi evaṃgatāni puthusippāyatanāni, {.pali}
 
-confectioners, barbers, bath attendants, cooks, garland-makers, laundrymen, weavers, basket-makers, potters, calculators, accountants, and any other common craftsmen of a similar sort. {.eng}
+They also include bakers, barbers, bathroom attendants, cooks, garland-makers, dyers, weavers, basket-makers, potters, accountants, finger-talliers, or those following any similar professions. {.eng}
 
 廚師、理髮師、澡堂師傅、作甜食者、作花環者、洗染匠、編織匠、蘆葦匠、製陶器者、會計師、查驗員，或凡其它像這樣有關種種技能之處， {.chi}
 
@@ -734,7 +735,7 @@ confectioners, barbers, bath attendants, cooks, garland-makers, laundrymen, weav
 
 te diṭṭheva dhamme sandiṭṭhikaṃ sippaphalaṃ upajīvanti; {.pali}
 
-They live off the fruits of their crafts, visible in the here and now. {.eng}
+All these live off the fruits of their profession which are apparent in the present life. With that they make themselves happy and pleased. {.eng}
 
 他們在當生中依技能果生活，他們依此使自己快樂、滿足； {.chi}
 
@@ -744,7 +745,7 @@ They live off the fruits of their crafts, visible in the here and now. {.eng}
 
 te tena attānaṃ sukhenti pīṇenti, mātāpitaro sukhenti pīṇenti, puttadāraṃ sukhenti pīṇenti, mittāmacce sukhenti pīṇenti, {.pali}
 
-They give pleasure and refreshment to themselves, to their parents, wives, and children, to their friends and colleagues. {.eng}
+They make their parents, their children and partners, and their friends and colleagues happy and pleased. {.eng}
 
 使父母快樂、滿足；使妻兒快樂、滿足；使朋友與同僚快樂、滿足， {.chi}
 
@@ -754,7 +755,7 @@ They give pleasure and refreshment to themselves, to their parents, wives, and c
 
 samaṇabrāhmaṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhapenti sovaggikaṃ sukhavipākaṃ saggasaṃvattanikaṃ. {.pali}
 
-They put in place an excellent presentation of offerings to brahmans and contemplatives, leading to heaven, resulting in happiness, conducive to a heavenly rebirth. {.eng}
+And they establish an uplifting religious donation for ascetics and brahmins that’s conducive to heaven, ripens in happiness, and leads to heaven. {.eng}
 
 對沙門、婆羅門建立目標崇高的、天的、安樂果報的、導向天界的供養， {.chi}
 
@@ -764,7 +765,7 @@ They put in place an excellent presentation of offerings to brahmans and contemp
 
 Sakkā nu kho, bhante, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun”ti? {.pali}
 
-Is it possible, lord, to point out a similar fruit of the contemplative life, visible in the here and now?” {.eng}
+Sir, can you point out a fruit of the ascetic life that’s likewise apparent in the present life?” {.eng}
 
 同樣的，大德！你能告知當生直接可見的沙門果嗎？」 {.chi}
 
@@ -776,7 +777,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 “Abhijānāsi no tvaṃ, mahārāja, imaṃ pañhaṃ aññe samaṇabrāhmaṇe pucchitā”ti? {.pali}
 
-“Do you remember, great king, ever having asked this question of other brahmans and contemplatives?” {.eng}
+“Great king, do you recall having asked this question of other ascetics and brahmins?” {.eng}
 
 「大王！你自證在其他沙門、婆羅門處問過這些問題嗎？」 {.chi}
 
@@ -786,7 +787,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 “Abhijānāmahaṃ, bhante, imaṃ pañhaṃ aññe samaṇabrāhmaṇe pucchitā”ti. {.pali}
 
-“Yes, I do.” {.eng}
+“I do, sir.” {.eng}
 
 「大德！我自證在其他沙門、婆羅門處問過這些問題。」 {.chi}
 
@@ -796,7 +797,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 “Yathā kathaṃ pana te, mahārāja, byākariṃsu, sace te agaru bhāsassū”ti. {.pali}
 
-“If it isn‘t troublesome for you, how did they answer?” {.eng}
+“If you wouldn’t mind, great king, tell me how they answered.” {.eng}
 
 「大王！但，他們怎麼解答呢？如果對你不麻煩的話，請說。」 {.chi}
 
@@ -806,7 +807,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 “Na kho me, bhante, garu, yatthassa bhagavā nisinno, bhagavantarūpo vā”ti. {.pali}
 
-“No, it‘s not troublesome for me wherever the Blessed One — or someone like the Blessed One — is sitting.” {.eng}
+“It’s no trouble when someone such as the Blessed One is sitting here.” {.eng}
 
 「大德！對我不麻煩，當與世尊或像世尊這樣的人同坐時。」 {.chi}
 
@@ -816,7 +817,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 “Tena hi, mahārāja, bhāsassū”ti. {.pali}
 
-“Then speak, great king.” {.eng}
+“Well, speak then, great king.” {.eng}
 
 「那樣的話，大王！請說。」 {.chi}
 
@@ -828,7 +829,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 “Ekamidāhaṃ, bhante, samayaṃ yena pūraṇo kassapo tenupasaṅkamiṃ; upasaṅkamitvā pūraṇena kassapena saddhiṃ sammodiṃ. {.pali}
 
-“Once, lord, I approached Purana Kassapa and, on arrival, exchanged courteous greetings with him. {.eng}
+“One time, sir, I approached Pūraṇa Kassapa...  {.eng}
 
 「大德！這裡，有一次，我去見富蘭那迦葉。 {.chi}
 
@@ -838,7 +839,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃ. {.pali}
 
-After an exchange of friendly greetings and courtesies, I sat to one side. {.eng}
+...and exchanged greetings with him. When the greetings and polite conversation were over, I sat down to one side, {.eng}
 
 抵達後與富蘭那迦葉互相歡迎，歡迎與寒暄後，在一旁坐下。 {.chi}
 
@@ -848,7 +849,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 Ekamantaṃ nisinno kho ahaṃ, bhante, pūraṇaṃ kassapaṃ etadavocaṃ: {.pali}
 
-As I was sitting there I asked him: {.eng}
+and asked him the same question. {.eng}
 
 在一旁坐好後，我對富蘭那迦葉這麼說： {.chi}
 
@@ -858,7 +859,7 @@ As I was sitting there I asked him: {.eng}
 
 ‘yathā nu kho imāni, bho kassapa, puthusippāyatanāni, seyyathidaṃ— hatthārohā assārohā rathikā dhanuggahā celakā calakā piṇḍadāyakā uggā rājaputtā pakkhandino mahānāgā sūrā cammayodhino dāsikaputtā {.pali}
 
-‘Venerable Kassapa, there are these common craftsmen... {.eng}
+... {.eng}
 
 『迦葉先生！如這些種種技能之處，即：騎象兵、騎馬兵、戰車兵、弓箭兵、軍旗兵、參謀、伙食兵、尊貴王族戰士、突擊兵、大龍戰士、勇士、穿皮革的戰士、死忠奴隸兵、 {.chi}
 
@@ -878,7 +879,7 @@ As I was sitting there I asked him: {.eng}
 
 te diṭṭheva dhamme sandiṭṭhikaṃ sippaphalaṃ upajīvanti; {.pali}
 
-They live off the fruits of their crafts, visible in the here and now... {.eng}
+... {.eng}
 
 他們在當生中依技能果生活， {.chi}
 
@@ -898,7 +899,7 @@ te tena attānaṃ sukhenti pīṇenti, mātāpitaro sukhenti pīṇenti, puttad
 
 Sakkā nu kho, bho kassapa, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti? {.pali}
 
-Is it possible, venerable sir, to point out a similar fruit of the contemplative life, visible in the here and now?’ {.eng}
+... {.eng}
 
 同樣地，迦葉先生！你能告知當生直接可見的沙門果嗎？』 {.chi}
 
@@ -910,7 +911,7 @@ Is it possible, venerable sir, to point out a similar fruit of the contemplative
 
 Evaṃ vutte, bhante, pūraṇo kassapo maṃ etadavoca: {.pali}
 
-“When this was said, Purana Kassapa said to me, {.eng}
+He said to me: {.eng}
 
 大德！當這麼說時，富蘭那迦葉對我這麼說： {.chi}
 
@@ -920,7 +921,7 @@ Evaṃ vutte, bhante, pūraṇo kassapo maṃ etadavoca: {.pali}
 
 ‘karoto kho, mahārāja, kārayato, chindato chedāpayato, pacato pācāpayato socayato, socāpayato, kilamato kilamāpayato, phandato phandāpayato, {.pali}
 
-‘Great king, in acting or getting others to act, in mutilating or getting others to mutilate, in torturing or getting others to torture, in inflicting sorrow or in getting others to inflict sorrow, in tormenting or getting others to torment, in intimidating or getting others to intimidate, {.eng}
+‘Great king, the one who acts does nothing wrong when they punish, mutilate, torture, aggrieve, oppress, intimidate, or when they encourage others to do the same. {.eng}
 
 『大王！作、使他作，切斷、使他切斷，折磨拷打、使他折磨拷打，悲傷、使他悲傷，疲累、使他疲累，悸動、使他悸動， {.chi}
 
@@ -930,7 +931,7 @@ Evaṃ vutte, bhante, pūraṇo kassapo maṃ etadavoca: {.pali}
 
 pāṇamatipātāpayato, adinnaṃ ādiyato, sandhiṃ chindato, nillopaṃ harato, ekāgārikaṃ karoto, paripanthe tiṭṭhato, paradāraṃ gacchato, musā bhaṇato, karoto na karīyati pāpaṃ. {.pali}
 
-in taking life, taking what is not given, breaking into houses, plundering wealth, committing burglary, ambushing highways, committing adultery, speaking falsehood — one does no evil. {.eng}
+They do nothing wrong when they kill, steal, break into houses, plunder wealth, steal from isolated buildings, commit highway robbery, commit adultery, and lie. {.eng}
 
 殺生，未給予而取、入侵人家、奪走掠奪物、攔路搶劫，誘拐人妻，說虛妄：無惡被作， {.chi}
 
@@ -940,7 +941,7 @@ in taking life, taking what is not given, breaking into houses, plundering wealt
 
 Khurapariyantena cepi cakkena yo imissā pathaviyā pāṇe ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ kareyya, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. {.pali}
 
-If with a razor-edged disk one were to turn all the living beings on this earth to a single heap of flesh, a single pile of flesh, there would be no evil from that cause, no coming of evil. {.eng}
+If you were to reduce all the living creatures of this earth to one heap and mass of flesh with a razor-edged chakram, no evil comes of that, and no outcome of evil. {.eng}
 
 如果以剃刀輪周邊使在這大地上的生類成為一肉聚、一肉堆，從此因緣而無惡，無惡的[後果]傳來；  {.chi}
 
@@ -950,7 +951,7 @@ If with a razor-edged disk one were to turn all the living beings on this earth 
 
 Dakkhiṇañcepi gaṅgāya tīraṃ gaccheyya hananto ghātento chindanto chedāpento pacanto pācāpento, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. {.pali}
 
-Even if one were to go along the right bank of the Ganges, killing and getting others to kill, mutilating and getting others to mutilate, torturing and getting others to torture, there would be no evil from that cause, no coming of evil. {.eng}
+If you were to go along the south bank of the Ganges killing, mutilating, and torturing, and encouraging others to do the same, no evil comes of that, and no outcome of evil. {.eng}
 
 如果走恒河的南岸，殺、屠殺，切斷、使他切斷，折磨拷打、使他折磨拷打，從此因緣而無惡，無惡的[後果]傳來； {.chi}
 
@@ -960,7 +961,7 @@ Even if one were to go along the right bank of the Ganges, killing and getting o
 
 Uttarañcepi gaṅgāya tīraṃ gaccheyya dadanto dāpento yajanto yajāpento, natthi tatonidānaṃ puññaṃ, natthi puññassa āgamo. {.pali}
 
-Even if one were to go along the left bank of the Ganges, giving and getting others to give, making sacrifices and getting others to make sacrifices, there would be no merit from that cause, no coming of merit. {.eng}
+If you were to go along the north bank of the Ganges giving and sacrificing and encouraging others to do the same, no merit comes of that, and no outcome of merit. {.eng}
 
 如果走恒河的北岸，布施、使他布施，供養、使他供養，從此因緣而無福德，無福德的[後果]傳來；  {.chi}
 
@@ -970,7 +971,7 @@ Even if one were to go along the left bank of the Ganges, giving and getting oth
 
 Dānena damena saṃyamena saccavajjena natthi puññaṃ, natthi puññassa āgamo’ti. {.pali}
 
-Through generosity, self-control, restraint, and truthful speech there is no merit from that cause, no coming of merit.’ {.eng}
+In giving, self-control, restraint, and truthfulness there is no merit or outcome of merit.’ {.eng}
 
 依布施，依調御，依抑制，依說真實，從此因緣而無福德，無福德的[後果]傳來。』 {.chi}
 
@@ -982,7 +983,7 @@ Through generosity, self-control, restraint, and truthful speech there is no mer
 
 Itthaṃ kho me, bhante, pūraṇo kassapo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno akiriyaṃ byākāsi. {.pali}
 
-“Thus, when asked about a fruit of the contemplative life, visible here and now, Purana Kassapa answered with non-action. {.eng}
+And so, when I asked Pūraṇa Kassapa about the fruits of the ascetic life apparent in the present life, he answered with the doctrine of inaction. {.eng}
 
 大德！像這樣，當富蘭那迦葉被詢問直接可見的沙門果時，他回答我不作業。 {.chi}
 
@@ -992,7 +993,7 @@ Itthaṃ kho me, bhante, pūraṇo kassapo sandiṭṭhikaṃ sāmaññaphalaṃ
 
 Seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; {.pali}
 
-Just as if a person, when asked about a mango, were to answer with a breadfruit; or, when asked about a breadfruit, were to answer with a mango: {.eng}
+It was like someone who, when asked about a mango, answered with a breadfruit, or when asked about a breadfruit, answered with a mango. {.eng}
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
@@ -1002,7 +1003,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 evameva kho me, bhante, pūraṇo kassapo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno akiriyaṃ byākāsi. {.pali}
 
-In the same way, when asked about a fruit of the contemplative life, visible here and now, Purana Kassapa answered with non-action. {.eng}
+... {.eng}
 
 同樣的，大德！當富蘭那迦葉被詢問直接可見的沙門果時，他回答我不作業。 {.chi}
 
@@ -1012,7 +1013,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 Tassa mayhaṃ, bhante, etadahosi: ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. {.pali}
 
-The thought occurred to me: ‘How can anyone like me think of disparaging a brahman or contemplative living in his realm?’ {.eng}
+I thought: ‘How could one such as I presume to rebuke an ascetic or brahmin living in my realm?’ {.eng}
 
 大德！我這麼想：『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』 {.chi}
 
@@ -1022,7 +1023,7 @@ The thought occurred to me: ‘How can anyone like me think of disparaging a bra
 
 So kho ahaṃ, bhante, pūraṇassa kassapassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. {.pali}
 
-Yet I neither delighted in Purana Kassapa‘s words nor did I protest against them. {.eng}
+So I neither approved nor dismissed that statement of Pūraṇa Kassapa. {.eng}
 
 大德！我對那富蘭那迦葉所說既不歡喜，也沒苛責。 {.chi}
 
@@ -1032,7 +1033,7 @@ Yet I neither delighted in Purana Kassapa‘s words nor did I protest against th
 
 Anabhinanditvā appaṭikkositvā anattamano, anattamanavācaṃ anicchāretvā, tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ. {.pali}
 
-Neither delighting nor protesting, I was dissatisfied. Without expressing dissatisfaction, without accepting his teaching, without adopting it, I got up from my seat and left. {.eng}
+I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. {.eng}
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
@@ -1044,19 +1045,17 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 Ekamidāhaṃ, bhante, samayaṃ yena makkhali gosālo tenupasaṅkamiṃ; upasaṅkamitvā makkhalinā gosālena saddhiṃ sammodiṃ. {.pali}
 
-“Another time I approached Makkhali Gosala and, on arrival, exchanged courteous greetings with him. {.eng}
+One time, sir, I approached the bamboo-staffed ascetic Gosāla and exchanged greetings with him. {.eng}
 
 「大德！這裡，有一次，我去見末迦利瞿舍羅。抵達後與末迦利瞿舍羅互相歡迎， {.chi}
 
-「大德，有一次，我前往末伽梨。拘舍梨那裏，和末伽梨。拘舍梨互相問候，作了
-
-一番悅意的交談， {.chi}
+「大德，有一次，我前往末伽梨。拘舍梨那裏，和末伽梨。拘舍梨互相問候，作了一番悅意的交談， {.chi}
 
 ---
 
 Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃ. {.pali}
 
-After an exchange of friendly greetings and courtesies, I sat to one side. {.eng}
+When the greetings and polite conversation were over, I sat down to one side, {.eng}
 
 歡迎與寒暄後，在一旁坐下。 {.chi}
 
@@ -1066,7 +1065,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 Ekamantaṃ nisinno kho ahaṃ, bhante, makkhaliṃ gosālaṃ etadavocaṃ: {.pali}
 
-As I was sitting there I asked him: {.eng}
+and asked him the same question. {.eng}
 
 在一旁坐好後，我對末迦利瞿舍羅這麼說： {.chi}
 
@@ -1076,7 +1075,7 @@ As I was sitting there I asked him: {.eng}
 
 ‘yathā nu kho imāni, bho gosāla, puthusippāyatanāni … pe … sakkā nu kho, bho gosāla, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti? {.pali}
 
-‘Venerable Gosala, there are these common craftsmen... They live off the fruits of their crafts, visible in the here and now... Is it possible, venerable sir, to point out a similar fruit of the contemplative life, visible in the here and now?’ {.eng}
+... {.eng}
 
 『瞿舍羅先生！如這些種種技能之處，……（中略）瞿舍羅先生！你能告知當生直接可見的沙門果嗎？』 {.chi}
 
@@ -1088,7 +1087,7 @@ As I was sitting there I asked him: {.eng}
 
 Evaṃ vutte, bhante, makkhali gosālo maṃ etadavoca: {.pali}
 
-“When this was said, Makkhali Gosala said to me, {.eng}
+He said: {.eng}
 
 大德！當這麼說時，末迦利瞿舍羅對我這麼說： {.chi}
 
@@ -1098,7 +1097,7 @@ Evaṃ vutte, bhante, makkhali gosālo maṃ etadavoca: {.pali}
 
 ‘natthi, mahārāja, hetu natthi paccayo sattānaṃ saṃkilesāya, ahetū apaccayā sattā saṅkilissanti. {.pali}
 
-‘Great king, there is no cause, no requisite condition, for the defilement of beings. Beings are defiled without cause, without requisite condition. {.eng}
+‘Great king, there is no cause or reason for the corruption of sentient beings. Sentient beings are corrupted without cause or reason. {.eng}
 
 『大王！對眾生的雜染來說，沒有因沒有緣，無因無緣眾生被污染； {.chi}
 
@@ -1108,7 +1107,7 @@ Evaṃ vutte, bhante, makkhali gosālo maṃ etadavoca: {.pali}
 
 Natthi hetu, natthi paccayo sattānaṃ visuddhiyā, ahetū apaccayā sattā visujjhanti. {.pali}
 
-There is no cause, no requisite condition, for the purification of beings. Beings are purified without cause, without requisite condition. {.eng}
+There’s no cause or reason for the purification of sentient beings. Sentient beings are purified without cause or reason. {.eng}
 
 對眾生的清淨來說，沒有因沒有緣，無因無緣眾生被淨化， {.chi}
 
@@ -1118,7 +1117,7 @@ There is no cause, no requisite condition, for the purification of beings. Being
 
 Natthi attakāre, natthi parakāre, natthi purisakāre, natthi balaṃ, natthi vīriyaṃ, natthi purisathāmo, natthi purisaparakkamo. {.pali}
 
-There is nothing self-caused, nothing other-caused, nothing human-caused. There is no strength, no effort, no human energy, no human endeavor. {.eng}
+One does not act of one’s own volition, one does not act of another’s volition, one does not act from a person’s volition. {.eng}
 
 沒有自作者，沒有他作者，沒有力，沒有活力，沒有人的力量，沒有人的努力； {.chi}
 
@@ -1128,7 +1127,7 @@ There is nothing self-caused, nothing other-caused, nothing human-caused. There 
 
 Sabbe sattā sabbe pāṇā sabbe bhūtā sabbe jīvā avasā abalā avīriyā niyatisaṅgatibhāvapariṇatā chasvevābhijātīsu sukhadukkhaṃ paṭisaṃvedenti. {.pali}
 
-All living beings, all life, all beings, all souls are powerless, devoid of strength, devoid of effort. Subject to the changes of fate, serendipity, and nature, they are sensitive to pleasure and pain in the six great classes of birth. {.eng}
+There is no power, no energy, no human strength or vigor. All sentient beings, all living creatures, all beings, all souls lack control, power, and energy. Molded by destiny, circumstance, and nature, they experience pleasure and pain in the six classes of rebirth. {.eng}
 
 一切眾生、一切生物類、一切生存類、一切生命無自在力，無力，無活力變化命運、本性的結合而在六等級中感受苦樂。 {.chi}
 
@@ -1138,7 +1137,7 @@ All living beings, all life, all beings, all souls are powerless, devoid of stre
 
 Cuddasa kho panimāni yonipamukhasatasahassāni saṭṭhi ca satāni cha ca satāni pañca ca kammuno satāni pañca ca kammāni tīṇi ca kammāni kamme ca aḍḍhakamme ca {.pali}
 
-“‘There are 1,406,600 principle modes of origin. There are 500 kinds of kamma, five kinds, and three kinds; full kamma and half kamma. {.eng}
+There are 1.4 million main wombs, and 6,000, and 600. There are 500 deeds, and five, and three. There are deeds and half-deeds. {.eng}
 
 而有這一百四十萬最上首之胎，以及六千與六百，有五百種業、五種業、三種業、業、半業， {.chi}
 
@@ -1148,7 +1147,7 @@ Cuddasa kho panimāni yonipamukhasatasahassāni saṭṭhi ca satāni cha ca sat
 
 dvaṭṭhipaṭipadā dvaṭṭhantarakappā chaḷābhijātiyo aṭṭha purisabhūmiyo ekūnapaññāsa ājīvakasate ekūnapaññāsa paribbājakasate ekūnapaññāsa nāgāvāsasate vīse indriyasate tiṃse nirayasate chattiṃsa rajodhātuyo {.pali}
 
-There are 62 pathways, 62 sub-eons, six great classes of birth, eight classes of men, 4,900 modes of livelihood, 4,900 kinds of wanderers, 4,900 Naga-abodes, 2,000 faculties, 3,000 hells, 36 dust-realms, {.eng}
+There are 62 paths, 62 sub-eons, six classes of rebirth, and eight stages in a person’s life. There are 4,900 Ājīvaka ascetics, 4,900 wanderers, and 4,900 naked ascetics. There are 2,000 faculties, 3,000 hells, and 36 realms of dust. {.eng}
 
 有六十二種之道跡，六十二種之中劫，六種之階級，八種之人地。四千九百種生業、四千九百遊行者、四千九百龍住處，二千根、三千地獄、三十六塵界、 {.chi}
 
@@ -1158,7 +1157,7 @@ There are 62 pathways, 62 sub-eons, six great classes of birth, eight classes of
 
 satta saññīgabbhā satta asaññīgabbhā satta nigaṇṭhigabbhā satta devā satta mānusā satta pisācā satta sarā satta pavuṭā satta pavuṭasatāni satta papātā satta papātasatāni satta supinā satta supinasatāni cullāsīti mahākappino satasahassāni, {.pali}
 
-seven spheres of percipient beings, seven spheres of non-percipient beings, seven kinds of jointed plants, seven kinds of devas, seven kinds of human beings, seven kinds of demons, seven great lakes, seven major knots, seven minor knots, 700 major precipices, 700 minor precipices, 700 major dreams, 700 minor dreams, 84,000 great aeons. {.eng}
+There are seven percipient embryos, seven non-percipient embryos, and seven knotless embryos. There are seven gods, seven humans, and seven goblins. There are seven lakes, seven rivers, 700 rivers, seven cliffs, and 700 cliffs. There are seven dreams and 700 dreams. There are 8.4 million great eons... {.eng}
 
 七有想胎、七無想胎、七無結胎、七種天、七種人、七種惡鬼、七座湖、七種結節、七百種結節、七座斷崖又七百座斷崖、七種夢、七百種夢、八百四十萬大劫， {.chi}
 
@@ -1168,7 +1167,7 @@ seven spheres of percipient beings, seven spheres of non-percipient beings, seve
 
 yāni bāle ca paṇḍite ca sandhāvitvā saṃsaritvā dukkhassantaṃ karissanti. {.pali}
 
-Having transmigrated and wandered on through these, the wise and the foolish alike will put an end to pain. {.eng}
+through which the foolish and the astute transmigrate before making an end of suffering. {.eng}
 
 不論愚者或賢智者，流轉輪迴後，將得到苦的結束， {.chi}
 
@@ -1178,7 +1177,7 @@ Having transmigrated and wandered on through these, the wise and the foolish ali
 
 Tattha natthi “imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena vā aparipakkaṃ vā kammaṃ paripācessāmi, paripakkaṃ vā kammaṃ phussa phussa byantiṃ karissāmī”ti hevaṃ natthi. {.pali}
 
-“‘Though one might think, “Through this morality, this practice, this austerity, or this holy life I will ripen unripened kamma and eliminate ripened kamma whenever touched by it” — that is impossible. {.eng}
+And here there is no such thing as this: “By this precept or observance or fervent austerity or spiritual life I shall force unripened deeds to bear their fruit, or eliminate old deeds by experiencing their results little by little,” for that cannot be.  {.eng}
 
 在那裡，「我將不以這戒德、禁戒、苦行、梵行使未熟之業成熟，或者以體驗再體驗除去成熟之業。」 {.chi}
 
@@ -1188,7 +1187,7 @@ Tattha natthi “imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena v�
 
 Doṇamite sukhadukkhe pariyantakate saṃsāre, natthi hāyanavaḍḍhane, natthi ukkaṃsāvakaṃse. {.pali}
 
-Pleasure and pain are measured out, the wandering-on is fixed in its limits. There is no shortening or lengthening, no accelerating or decelerating. {.eng}
+Pleasure and pain are allotted. Transmigration lasts only for a limited period, so there’s no increase or decrease, no getting better or worse. {.eng}
 
 樂與苦已分配，輪迴的界限已定，不減少或增加，不超前或落後， {.chi}
 
@@ -1198,7 +1197,7 @@ Pleasure and pain are measured out, the wandering-on is fixed in its limits. The
 
 Seyyathāpi nāma suttaguḷe khitte nibbeṭhiyamānameva paleti; evameva bāle ca paṇḍite ca sandhāvitvā saṃsaritvā dukkhassantaṃ karissantī’ti. {.pali}
 
-Just as a ball of string, when thrown, comes to its end simply by unwinding, in the same way, having transmigrated and wandered on, the wise and the foolish alike will put an end to pain.’ {.eng}
+It’s like how, when you toss a ball of string, it rolls away unraveling. In the same way, after transmigrating the foolish and the astute will make an end of suffering.’{.eng}
 
 猶如當線球投出，它逃離就被解開。同樣的，愚者或賢智者流轉輪迴後，將得到苦的結束。』  {.chi}
 
@@ -1208,7 +1207,7 @@ Just as a ball of string, when thrown, comes to its end simply by unwinding, in 
 
 Itthaṃ kho me, bhante, makkhali gosālo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno saṃsārasuddhiṃ byākāsi. {.pali}
 
-“Thus, when asked about a fruit of the contemplative life, visible here and now, Makkhali Gosala answered with purification through wandering-on. {.eng}
+And so, when I asked the bamboo-staffed ascetic Gosāla about the fruits of the ascetic life apparent in the present life, he answered with the doctrine of purification through transmigration. {.eng}
 
 大德！像這樣，當末迦利瞿舍羅被詢問直接可見的沙門果時，他回答我輪迴淨化。 {.chi}
 
@@ -1218,7 +1217,7 @@ Itthaṃ kho me, bhante, makkhali gosālo sandiṭṭhikaṃ sāmaññaphalaṃ 
 
 Seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; {.pali}
 
-Just as if a person, when asked about a mango, were to answer with a breadfruit; or, when asked about a breadfruit, were to answer with a mango. {.eng}
+It was like someone who, when asked about a mango, answered with a breadfruit, or when asked about a breadfruit, answered with a mango. {.eng}
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
@@ -1228,7 +1227,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 evameva kho me, bhante, makkhali gosālo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno saṃsārasuddhiṃ byākāsi. {.pali}
 
-In the same way, when asked about a fruit of the contemplative life, visible here and now, Makkhali Gosala answered with purification through wandering-on. {.eng}
+... {.eng}
 
 同樣的，大德！當末迦利瞿舍羅被詢問直接可見的沙門果時，他回答我輪迴淨化。 {.chi}
 
@@ -1240,7 +1239,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 Tassa mayhaṃ, bhante, etadahosi: ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. {.pali}
 
-The thought occurred to me: ‘How can anyone like me think of disparaging a brahman or contemplative living in his realm?’ {.eng}
+I thought: ‘How could one such as I presume to rebuke an ascetic or brahmin living in my realm?’ {.eng}
 
 大德！我這麼想：『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』 {.chi}
 
@@ -1250,7 +1249,7 @@ The thought occurred to me: ‘How can anyone like me think of disparaging a bra
 
 So kho ahaṃ, bhante, makkhalissa gosālassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. {.pali}
 
-Yet I neither delighted in Makkhali Gosala‘s words nor did I protest against them. {.eng}
+So I neither approved nor dismissed that statement of the bamboo-staffed ascetic Gosāla. {.eng}
 
 大德！我對那末迦利瞿舍羅所說既不歡喜，也沒苛責。 {.chi}
 
@@ -1260,7 +1259,7 @@ Yet I neither delighted in Makkhali Gosala‘s words nor did I protest against t
 
 Anabhinanditvā appaṭikkositvā anattamano, anattamanavācaṃ anicchāretvā, tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ. {.pali}
 
-Neither delighting nor protesting, I was dissatisfied. Without expressing dissatisfaction, without accepting his teaching, without adopting it, I got up from my seat and left. {.eng}
+I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. {.eng}
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
@@ -1272,7 +1271,7 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 Ekamidāhaṃ, bhante, samayaṃ yena ajito kesakambalo tenupasaṅkamiṃ; {.pali}
 
-“Another time I approached Ajita Kesakambalin and, {.eng}
+One time, sir, I approached Ajita of the hair blanket and ...  {.eng}
 
 「大德！這裡，有一次，我去見阿夷多翅舍欽婆羅。 {.chi}
 
@@ -1282,7 +1281,7 @@ Ekamidāhaṃ, bhante, samayaṃ yena ajito kesakambalo tenupasaṅkamiṃ; {.pa
 
 upasaṅkamitvā ajitena kesakambalena saddhiṃ sammodiṃ. {.pali}
 
-on arrival, exchanged courteous greetings with him. {.eng}
+...exchanged greetings with him. {.eng}
 
 抵達後與阿夷多翅舍欽婆羅互相歡迎， {.chi}
 
@@ -1292,7 +1291,7 @@ on arrival, exchanged courteous greetings with him. {.eng}
 
 Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃ. {.pali}
 
-After an exchange of friendly greetings and courtesies, I sat to one side. {.eng}
+When the greetings and polite conversation were over, I sat down to one side, {.eng}
 
 歡迎與寒暄後，在一旁坐下。 {.chi}
 
@@ -1302,7 +1301,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 Ekamantaṃ nisinno kho ahaṃ, bhante, ajitaṃ kesakambalaṃ etadavocaṃ: {.pali}
 
-As I was sitting there I asked him: {.eng}
+and asked him the same question. {.eng}
 
 在一旁坐好後，我對阿夷多翅舍欽婆羅這麼說： {.chi}
 
@@ -1312,7 +1311,7 @@ As I was sitting there I asked him: {.eng}
 
 ‘yathā nu kho imāni, bho ajita, puthusippāyatanāni … pe … sakkā nu kho, bho ajita, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti? {.pali}
 
-‘Venerable Ajita, there are these common craftsmen... They live off the fruits of their crafts, visible in the here and now... Is it possible, venerable sir, to point out a similar fruit of the contemplative life, visible in the here and now?’ {.eng}
+... {.eng}
 
 『阿夷多先生！如這些種種技能之處，……（中略）阿夷多先生！你能告知當生直接可見的沙門果嗎？』 {.chi}
 
@@ -1324,7 +1323,7 @@ As I was sitting there I asked him: {.eng}
 
 Evaṃ vutte, bhante, ajito kesakambalo maṃ etadavoca: {.pali}
 
-“When this was said, Ajita Kesakambalin said to me, {.eng}
+He said: {.eng}
 
 大德！當這麼說時，阿夷多翅舍欽婆羅對我這麼說： {.chi}
 
@@ -1334,7 +1333,7 @@ Evaṃ vutte, bhante, ajito kesakambalo maṃ etadavoca: {.pali}
 
 ‘natthi, mahārāja, dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, natthi ayaṃ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, {.pali}
 
-‘Great king, there is nothing given, nothing offered, nothing sacrificed. There is no fruit or result of good or bad actions. There is no this world, no next world, no mother, no father, no spontaneously reborn beings; {.eng}
+‘Great king, there is no meaning in giving, sacrifice, or offerings. There’s no fruit or result of good and bad deeds. There’s no afterlife. There’s no such thing as mother and father, or beings that are reborn spontaneously. {.eng}
 
 『大王！無布施，無供養，無供物，無善作的、惡作的業之果與報，無此世，無他世，無母，無父，無化生眾生， {.chi}
 
@@ -1344,7 +1343,7 @@ Evaṃ vutte, bhante, ajito kesakambalo maṃ etadavoca: {.pali}
 
 natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā, ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedenti. {.pali}
 
-no brahmans or contemplatives who, faring rightly and practicing rightly, proclaim this world and the next after having directly known and realized it for themselves. {.eng}
+And there’s no ascetic or brahmin who is rightly comported and rightly practiced, and who describes the afterlife after realizing it with their own insight. {.eng}
 
 在世間中無正行的、正行道的沙門、婆羅門以證智自作證後而宣說此世、他世； {.chi}
 
@@ -1354,7 +1353,7 @@ no brahmans or contemplatives who, faring rightly and practicing rightly, procla
 
 Cātumahābhūtiko ayaṃ puriso, yadā kālaṃ karoti, pathavī pathavikāyaṃ anupeti anupagacchati, {.pali}
 
-A person is a composite of four primary elements. At death, the earth (in the body) returns to and merges with the (external) earth-substance. {.eng}
+This person is made up of the four primary elements. When they die, the earth in their body merges and coalesces with the substance of earth. {.eng}
 
 當四大所成的人死時，地歸於並沒入地身， {.chi}
 
@@ -1364,7 +1363,7 @@ A person is a composite of four primary elements. At death, the earth (in the bo
 
 āpo āpokāyaṃ anupeti anupagacchati, {.pali}
 
-"The liquid returns to and merges with the external liquid-substance. {.eng}
+The water in their body merges and coalesces with the substance of water. {.eng}
 
 水歸於並沒入水身， {.chi}
 
@@ -1374,7 +1373,7 @@ A person is a composite of four primary elements. At death, the earth (in the bo
 
 tejo tejokāyaṃ anupeti anupagacchati, {.pali}
 
-The fire returns to and merges with the external fire-substance. {.eng}
+The fire in their body merges and coalesces with the substance of fire. {.eng}
 
 火歸於並沒入火身， {.chi}
 
@@ -1384,7 +1383,7 @@ The fire returns to and merges with the external fire-substance. {.eng}
 
 vāyo vāyokāyaṃ anupeti anupagacchati, {.pali}
 
-The wind returns to and merges with the external wind-substance. {.eng}
+The air in their body merges and coalesces with the substance of air. {.eng}
 
 風歸於並沒入風身， {.chi}
 
@@ -1394,7 +1393,7 @@ The wind returns to and merges with the external wind-substance. {.eng}
 
 ākāsaṃ indriyāni saṅkamanti. {.pali}
 
-The sense-faculties scatter into space. " {.eng}
+The faculties are transferred to space. {.eng}
 
 諸根轉入虛空， {.chi}
 
@@ -1404,7 +1403,7 @@ The sense-faculties scatter into space. " {.eng}
 
 Āsandipañcamā purisā mataṃ ādāya gacchanti. {.pali}
 
-Four men, with the bier as the fifth, carry the corpse. {.eng}
+Four men with a bier carry away the corpse. {.eng}
 
 [四]人與長椅為第五抬走死者， {.chi}
 
@@ -1414,7 +1413,7 @@ Four men, with the bier as the fifth, carry the corpse. {.eng}
 
 Yāvāḷāhanā padāni paññāyanti. {.pali}
 
-Its eulogies are sounded only as far as the charnel ground. {.eng}
+Their footprints show the way to the cemetery. {.eng}
 
 念詞一直伴隨到火葬場， {.chi}
 
@@ -1424,7 +1423,7 @@ Its eulogies are sounded only as far as the charnel ground. {.eng}
 
 Kāpotakāni aṭṭhīni bhavanti, bhassantā āhutiyo. {.pali}
 
-The bones turn pigeon-colored. The offerings end in ashes. {.eng}
+The bones become bleached. Offerings dedicated to the gods end in ashes. {.eng}
 
 骨頭成為灰白色，祭品落下， {.chi}
 
@@ -1434,7 +1433,7 @@ The bones turn pigeon-colored. The offerings end in ashes. {.eng}
 
 Dattupaññattaṃ yadidaṃ dānaṃ. {.pali}
 
-Generosity is taught by idiots. {.eng}
+Giving is a doctrine of morons. {.eng}
 
 布施即是愚者的教說， {.chi}
 
@@ -1444,7 +1443,7 @@ Generosity is taught by idiots. {.eng}
 
 Tesaṃ tucchaṃ musā vilāpo ye keci atthikavādaṃ vadanti. {.pali}
 
-The words of those who speak of existence after death are false, empty chatter. {.eng}
+When anyone affirms a positive teaching it’s just hollow, false nonsense. {.eng}
 
 凡任何說[布施之類]虛無論者，全是虛偽的、虛妄戲論， {.chi}
 
@@ -1454,7 +1453,7 @@ The words of those who speak of existence after death are false, empty chatter. 
 
 Bāle ca paṇḍite ca kāyassa bhedā ucchijjanti vinassanti, na honti paraṃ maraṇā’ti. {.pali}
 
-With the break-up of the body, the wise and the foolish alike are annihilated, destroyed. They do not exist after death.’ {.eng}
+Both the foolish and the astute are annihilated and destroyed when their body breaks up, and don’t exist after death.’ {.eng}
 
 愚者與賢智者以身體的崩解而被斷滅、消失；死後就不存在了。』  {.chi}
 
@@ -1466,7 +1465,7 @@ With the break-up of the body, the wise and the foolish alike are annihilated, d
 
 Itthaṃ kho me, bhante, ajito kesakambalo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno ucchedaṃ byākāsi. {.pali}
 
-“Thus, when asked about a fruit of the contemplative life, visible here and now, Ajita Kesakambalin answered with annihilation. {.eng}
+And so, when I asked Ajita of the hair blanket about the fruits of the ascetic life apparent in the present life, he answered with the doctrine of annihilationism. {.eng}
 
 大德！像這樣，當阿夷多翅舍欽婆羅被詢問直接可見的沙門果時，他回答我斷滅。 {.chi}
 
@@ -1476,7 +1475,7 @@ Itthaṃ kho me, bhante, ajito kesakambalo sandiṭṭhikaṃ sāmaññaphalaṃ
 
 Seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; {.pali}
 
-Just as if a person, when asked about a mango, were to answer with a breadfruit; or, when asked about a breadfruit, were to answer with a mango. {.eng}
+It was like someone who, when asked about a mango, answered with a breadfruit, or when asked about a breadfruit, answered with a mango. {.eng}
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
@@ -1486,7 +1485,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 evameva kho me, bhante, ajito kesakambalo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno ucchedaṃ byākāsi. {.pali}
 
-In the same way, when asked about a fruit of the contemplative life, visible here and now, Ajita Kesakambalin answered with annihilation. {.eng}
+... {.eng}
 
 同樣的，大德！當阿夷多翅舍欽婆羅被詢問直接可見的沙門果時，他回答我斷滅。 {.chi}
 
@@ -1496,7 +1495,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 Tassa mayhaṃ, bhante, etadahosi: ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. {.pali}
 
-The thought occurred to me: ‘How can anyone like me think of disparaging a brahman or contemplative living in his realm?’ {.eng}
+I thought: ‘How could one such as I presume to rebuke an ascetic or brahmin living in my realm?’ {.eng}
 
 大德！我這麼想：『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』  {.chi}
 
@@ -1506,7 +1505,7 @@ The thought occurred to me: ‘How can anyone like me think of disparaging a bra
 
 So kho ahaṃ, bhante, ajitassa kesakambalassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. {.pali}
 
-Yet I neither delighted in Ajita Kesakambalin‘s words nor did I protest against them. {.eng}
+So I neither approved nor dismissed that statement of Ajita of the hair blanket. {.eng}
 
 大德！我對那阿夷多翅舍欽婆羅所說既不歡喜，也沒苛責。 {.chi}
 
@@ -1516,7 +1515,7 @@ Yet I neither delighted in Ajita Kesakambalin‘s words nor did I protest agains
 
 Anabhinanditvā appaṭikkositvā anattamano anattamanavācaṃ anicchāretvā tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ. {.pali}
 
-Neither delighting nor protesting, I was dissatisfied. Without expressing dissatisfaction, without accepting his teaching, without adopting it, I got up from my seat and left. {.eng}
+I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. {.eng}
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
@@ -1528,7 +1527,7 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 Ekamidāhaṃ, bhante, samayaṃ yena pakudho kaccāyano tenupasaṅkamiṃ; {.pali}
 
-“Another time I approached Pakudha Kaccayana and, {.eng}
+One time, sir, I approached Pakudha Kaccāyana and ... {.eng}
 
 「大德！這裡，有一次，我去見浮陀迦旃延。 {.chi}
 
@@ -1538,7 +1537,7 @@ Ekamidāhaṃ, bhante, samayaṃ yena pakudho kaccāyano tenupasaṅkamiṃ; {.p
 
 upasaṅkamitvā pakudhena kaccāyanena saddhiṃ sammodiṃ. {.pali}
 
-on arrival, exchanged courteous greetings with him. {.eng}
+... exchanged greetings with him. {.eng}
 
 抵達後與浮陀迦旃延互相歡迎， {.chi}
 
@@ -1548,7 +1547,7 @@ on arrival, exchanged courteous greetings with him. {.eng}
 
 Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃ. {.pali}
 
-After an exchange of friendly greetings and courtesies, I sat to one side. {.eng}
+When the greetings and polite conversation were over, I sat down to one side, {.eng}
 
 歡迎與寒暄後，在一旁坐下。 {.chi}
 
@@ -1558,7 +1557,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 Ekamantaṃ nisinno kho ahaṃ, bhante, pakudhaṃ kaccāyanaṃ etadavocaṃ: {.pali}
 
-As I was sitting there I asked him: {.eng}
+and asked him the same question. {.eng}
 
 在一旁坐好後，我對浮陀迦旃延這麼說： {.chi}
 
@@ -1568,7 +1567,7 @@ As I was sitting there I asked him: {.eng}
 
 ‘yathā nu kho imāni, bho kaccāyana, puthusippāyatanāni … pe … sakkā nu kho, bho kaccāyana, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti? {.pali}
 
-‘Venerable Kaccayana, there are these common craftsmen... They live off the fruits of their crafts, visible in the here and now... Is it possible, venerable sir, to point out a similar fruit of the contemplative life, visible in the here and now?’ {.eng}
+... {.eng}
 
 『迦旃延先生！如這些種種技能之處，……（中略）迦旃延先生！你能告知當生直接可見的沙門果嗎？』 {.chi}
 
@@ -1580,7 +1579,7 @@ As I was sitting there I asked him: {.eng}
 
 Evaṃ vutte, bhante, pakudho kaccāyano maṃ etadavoca: {.pali}
 
-“When this was said, Pakudha Kaccayana said to me, {.eng}
+He said: {.eng}
 
 大德！當這麼說時，浮陀迦旃延對我這麼說： {.chi}
 
@@ -1590,7 +1589,7 @@ Evaṃ vutte, bhante, pakudho kaccāyano maṃ etadavoca: {.pali}
 
 ‘sattime, mahārāja, kāyā akaṭā akaṭavidhā animmitā animmātā vañjhā kūṭaṭṭhā esikaṭṭhāyiṭṭhitā. {.pali}
 
-‘Great king, there are these seven substances — unmade, irreducible, uncreated, without a creator, barren, stable as a mountain-peak, standing firm like a pillar — {.eng}
+‘Great king, these seven substances are not made, not derived, not created, without a creator, barren, steady as a mountain peak, standing firm like a pillar. {.eng}
 
 『大王！有這七身，是非被作的、非被作種類的、非被創造的、無創造者的、不孕的、如直立的山頂、如直立不動的石柱， {.chi}
 
@@ -1600,7 +1599,7 @@ Evaṃ vutte, bhante, pakudho kaccāyano maṃ etadavoca: {.pali}
 
 Te na iñjanti, na vipariṇamanti, na aññamaññaṃ byābādhenti, nālaṃ aññamaññassa sukhāya vā dukkhāya vā sukhadukkhāya vā. {.pali}
 
-that do not alter, do not change, do not interfere with one another, are incapable of causing one another pleasure, pain, or both pleasure and pain. {.eng}
+They don’t move or deteriorate or obstruct each other. They’re unable to cause pleasure, pain, or both pleasure and pain to each other. {.eng}
 
 它們不動、不變易、不互相加害、不能夠互相[起]或樂或苦或樂與苦， {.chi}
 
@@ -1610,7 +1609,7 @@ that do not alter, do not change, do not interfere with one another, are incapab
 
 Katame satta? Pathavikāyo, āpokāyo, tejokāyo, vāyokāyo, sukhe, dukkhe, jīve sattame— {.pali}
 
-Which seven? The earth-substance, the liquid-substance, the fire-substance, the wind-substance, pleasure, pain, and the soul as the seventh. {.eng}
+What seven? The substances of earth, water, fire, air; pleasure, pain, and the soul is the seventh. {.eng}
 
 哪七個呢？地身、水身、火身、風身、樂、苦，命為第七， {.chi}
 
@@ -1620,7 +1619,7 @@ Which seven? The earth-substance, the liquid-substance, the fire-substance, the 
 
 ime satta kāyā akaṭā akaṭavidhā animmitā animmātā vañjhā kūṭaṭṭhā esikaṭṭhāyiṭṭhitā. {.pali}
 
-These are the seven substances — unmade, irreducible, uncreated, without a creator, barren, stable as a mountain-peak, standing firm like a pillar — {.eng}
+These seven substances are not made, not derived, not created, without a creator, barren, steady as a mountain peak, standing firm like a pillar. {.eng}
 
 這七身是非被作的、非被作種類的、非被創造的、無創造者的、不孕的、如直立的山頂、如直立不動的石柱， {.chi}
 
@@ -1630,7 +1629,7 @@ These are the seven substances — unmade, irreducible, uncreated, without a cre
 
 Te na iñjanti, na vipariṇamanti, na aññamaññaṃ byābādhenti, nālaṃ aññamaññassa sukhāya vā dukkhāya vā sukhadukkhāya vā. {.pali}
 
-that do not alter, do not change, do not interfere with one another, and are incapable of causing one another pleasure, pain, or both pleasure and pain. {.eng}
+They don’t move or deteriorate or obstruct each other. They’re unable to cause pleasure, pain, or both pleasure and pain to each other. {.eng}
 
 它們不動、不變易、不互相加害、不能夠互相[起]或樂或苦或樂與苦， {.chi}
 
@@ -1640,7 +1639,7 @@ that do not alter, do not change, do not interfere with one another, and are inc
 
 Tattha natthi hantā vā ghātetā vā, sotā vā sāvetā vā, viññātā vā viññāpetā vā. {.pali}
 
-“‘And among them there is no killer nor one who causes killing, no hearer nor one who causes hearing, no cognizer nor one who causes cognition. {.eng}
+And here there is no-one who kills or who makes others kill; no-one who learns or who educates others; no-one who understands or who helps others understand. {.eng}
 
 在那裡，無殺人者、屠殺者、聽者、使之聽者、所識者、使之識者， {.chi}
 
@@ -1650,7 +1649,7 @@ Tattha natthi hantā vā ghātetā vā, sotā vā sāvetā vā, viññātā vā 
 
 Yopi tiṇhena satthena sīsaṃ chindati, na koci kiñci jīvitā voropeti; {.pali}
 
-When one cuts off [another person‘s] head, there is no one taking anyone‘s life. {.eng}
+If you chop off someone’s head with a sharp sword, you don’t take anyone’s life. {.eng}
 
 即使以銳利的刀切斷頭，也沒有奪任何生命， {.chi}
 
@@ -1660,7 +1659,7 @@ When one cuts off [another person‘s] head, there is no one taking anyone‘s l
 
 sattannaṃ tveva kāyānamantarena satthaṃ vivaramanupatatī’ti. {.pali}
 
-It is simply between the seven substances that the sword passes.’ {.eng}
+The sword simply passes through the gap between the seven substances.’ {.eng}
 
 刀只這樣經七身旁邊的空隙進去。』 {.chi}
 
@@ -1672,7 +1671,7 @@ It is simply between the seven substances that the sword passes.’ {.eng}
 
 Itthaṃ kho me, bhante, pakudho kaccāyano sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno aññena aññaṃ byākāsi. {.pali}
 
-“Thus, when asked about a fruit of the contemplative life, visible here and now, Pakudha Kaccayana answered with non-relatedness. {.eng}
+And so, when I asked Pakudha Kaccāyana about the fruits of the ascetic life apparent in the present life, he answered with something else entirely. {.eng}
 
 大德！像這樣，當浮陀迦旃延被詢問直接可見的沙門果時，他回答我無關的。 {.chi}
 
@@ -1682,7 +1681,7 @@ Itthaṃ kho me, bhante, pakudho kaccāyano sandiṭṭhikaṃ sāmaññaphala�
 
 Seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; {.pali}
 
-Just as if a person, when asked about a mango, were to answer with a breadfruit; or, when asked about a breadfruit, were to answer with a mango. {.eng}
+It was like someone who, when asked about a mango, answered with a breadfruit, or when asked about a breadfruit, answered with a mango. {.eng}
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
@@ -1692,7 +1691,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 evameva kho me, bhante, pakudho kaccāyano sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno aññena aññaṃ byākāsi. {.pali}
 
-In the same way, when asked about a fruit of the contemplative life, visible here and now, Pakudha Kaccayana answered with non-relatedness. {.eng}
+... {.eng}
 
 同樣的，大德！當浮陀迦旃延被詢問直接可見的沙門果時，他回答我無關的。 {.chi}
 
@@ -1702,7 +1701,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 Tassa mayhaṃ, bhante, etadahosi: {.pali}
 
-The thought occurred to me: {.eng}
+I thought: {.eng}
 
 大德！我這麼想： {.chi}
 
@@ -1712,7 +1711,7 @@ The thought occurred to me: {.eng}
 
 ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. {.pali}
 
-‘How can anyone like me think of disparaging a brahman or contemplative living in his realm?’ {.eng}
+‘How could one such as I presume to rebuke an ascetic or brahmin living in my realm?’ {.eng}
 
 『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』 {.chi}
 
@@ -1722,7 +1721,7 @@ The thought occurred to me: {.eng}
 
 So kho ahaṃ, bhante, pakudhassa kaccāyanassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ, {.pali}
 
-Yet I neither delighted in Pakudha Kaccayana‘s words nor did I protest against them. {.eng}
+So I neither approved nor dismissed that statement of Pakudha Kaccāyana. {.eng}
 
 大德！我對那浮陀迦旃延所說既不歡喜，也沒苛責。 {.chi}
 
@@ -1732,7 +1731,7 @@ Yet I neither delighted in Pakudha Kaccayana‘s words nor did I protest against
 
 anabhinanditvā appaṭikkositvā anattamano, anattamanavācaṃ anicchāretvā tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ. {.pali}
 
-Neither delighting nor protesting, I was dissatisfied. Without expressing dissatisfaction, without accepting his teaching, without adopting it, I got up from my seat and left. {.eng}
+I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. {.eng}
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
@@ -1744,7 +1743,7 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 Ekamidāhaṃ, bhante, samayaṃ yena nigaṇṭho nāṭaputto tenupasaṅkamiṃ; {.pali}
 
-“Another time I approached Nigantha Nataputta and, {.eng}
+One time, sir, I approached the Jain Ñātika and ... {.eng}
 
 「大德！這裡，有一次，我去見尼乾陀若提子。 {.chi}
 
@@ -1754,7 +1753,7 @@ Ekamidāhaṃ, bhante, samayaṃ yena nigaṇṭho nāṭaputto tenupasaṅkami�
 
 upasaṅkamitvā nigaṇṭhena nāṭaputtena saddhiṃ sammodiṃ. {.pali}
 
-on arrival, exchanged courteous greetings with him. {.eng}
+... exchanged greetings with him. {.eng}
 
 抵達後與尼乾陀若提子互相歡迎， {.chi}
 
@@ -1764,7 +1763,7 @@ on arrival, exchanged courteous greetings with him. {.eng}
 
 Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃ. {.pali}
 
-After an exchange of friendly greetings and courtesies, I sat to one side. {.eng}
+When the greetings and polite conversation were over, I sat down to one side, {.eng}
 
 歡迎與寒暄後，在一旁坐下。 {.chi}
 
@@ -1774,7 +1773,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 Ekamantaṃ nisinno kho ahaṃ, bhante, nigaṇṭhaṃ nāṭaputtaṃ etadavocaṃ: {.pali}
 
-As I was sitting there I asked him: {.eng}
+and asked him the same question. {.eng}
 
 在一旁坐好後，我對尼乾陀若提子這麼說： {.chi}
 
@@ -1784,7 +1783,7 @@ As I was sitting there I asked him: {.eng}
 
 ‘yathā nu kho imāni, bho aggivessana, puthusippāyatanāni … pe … sakkā nu kho, bho aggivessana, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti? {.pali}
 
-‘Venerable Aggivessana, there are these common craftsmen... They live off the fruits of their crafts, visible in the here and now... Is it possible, venerable sir, to point out a similar fruit of the contemplative life, visible in the here and now?’ {.eng}
+... {.eng}
 
 『阿基毘舍那先生！如這些種種技能之處，……（中略）阿基毘舍那先生！你能告知當生直接可見的沙門果嗎？』 {.chi}
 
@@ -1798,7 +1797,7 @@ Evaṃ vutte, bhante, nigaṇṭho nāṭaputto maṃ etadavoca: {.pali}
 
 “When this was said, Nigantha Nataputta said to me, {.eng}
 
-大德！當這麼說時，尼乾陀若提子對我這麼說： {.chi}
+He said: {.chi}
 
 「大德，當我說了這番話後，尼乾陀。若提子對我說： {.chi}
 
@@ -1806,7 +1805,7 @@ Evaṃ vutte, bhante, nigaṇṭho nāṭaputto maṃ etadavoca: {.pali}
 
 ‘idha, mahārāja, nigaṇṭho cātuyāmasaṃvarasaṃvuto hoti. {.pali}
 
-‘Great king, there is the case where the Nigantha — the knotless one — is restrained with the fourfold restraint. {.eng}
+‘Great king, consider a Jain ascetic who is restrained in the fourfold constraint. {.eng}
 
 『大王！這裡，尼乾陀有四種禁戒自制防護， {.chi}
 
@@ -1816,7 +1815,7 @@ Evaṃ vutte, bhante, nigaṇṭho nāṭaputto maṃ etadavoca: {.pali}
 
 Kathañca, mahārāja, nigaṇṭho cātuyāmasaṃvarasaṃvuto hoti? {.pali}
 
-And how is the Nigantha restrained with the fourfold restraint? {.eng}
+And how is a Jain ascetic restrained in the fourfold constraint? {.eng}
 
 大王！尼乾陀如何有四種禁戒自制防護呢？ {.chi}
 
@@ -1826,7 +1825,7 @@ And how is the Nigantha restrained with the fourfold restraint? {.eng}
 
 Idha, mahārāja, nigaṇṭho sabbavārivārito ca hoti, sabbavāriyutto ca, sabbavāridhuto ca, sabbavāriphuṭo ca. {.pali}
 
-There is the case where the Nigantha is obstructed by all waters, conjoined with all waters, cleansed with all waters, suffused with all waters. {.eng}
+It’s when a Jain ascetic is restrained in all that is to be restrained, is bridled in all that is to be restrained, has shaken off evil in all that is to be restrained, and is curbed in all that is to be restrained. {.eng}
 
 大王！這裡，尼乾陀有以所有的防止防止，以所有的防止軛制，以所有的防止除去，以所有的防止遍滿， {.chi}
 
@@ -1836,7 +1835,7 @@ There is the case where the Nigantha is obstructed by all waters, conjoined with
 
 Evaṃ kho, mahārāja, nigaṇṭho cātuyāmasaṃvarasaṃvuto hoti. {.pali}
 
-This is how the Nigantha is restrained with the fourfold restraint. {.eng}
+That’s how a Jain ascetic is restrained in the fourfold constraint. {.eng}
 
 大王！尼乾陀有這麼四種禁戒自制防護。 {.chi}
 
@@ -1846,7 +1845,7 @@ This is how the Nigantha is restrained with the fourfold restraint. {.eng}
 
 Yato kho, mahārāja, nigaṇṭho evaṃ cātuyāmasaṃvarasaṃvuto hoti; ayaṃ vuccati, mahārāja, nigaṇṭho gatatto ca yatatto ca ṭhitatto cā’ti. {.pali}
 
-When the Nigantha — a knotless one — is restrained with such a fourfold restraint, he is said to be a Knotless One (Nigantha), a son of Nata (Nataputta), with his self perfected, his self controlled, his self established.’ {.eng}
+When a Jain ascetic is restrained in the fourfold constraint, they’re called a knotless one who is self-realized, self-controlled, and steadfast.’ {.eng}
 
 大王！當尼乾陀有這麼四種禁戒自制防護時，大王！這被稱為已自我達成、已自我禁戒、已自我住立的尼乾陀。』 {.chi}
 
@@ -1858,7 +1857,7 @@ When the Nigantha — a knotless one — is restrained with such a fourfold rest
 
 Itthaṃ kho me, bhante, nigaṇṭho nāṭaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno cātuyāmasaṃvaraṃ byākāsi. {.pali}
 
-“Thus, when asked about a fruit of the contemplative life, visible here and now, Nigantha Nataputta answered with fourfold restraint. {.eng}
+And so, when I asked the Jain Ñātika about the fruits of the ascetic life apparent in the present life, he answered with the fourfold constraint. {.eng}
 
 大德！像這樣，當尼乾陀若提子被詢問直接可見的沙門果時，他回答我四種禁戒自制防護。 {.chi}
 
@@ -1868,7 +1867,7 @@ Itthaṃ kho me, bhante, nigaṇṭho nāṭaputto sandiṭṭhikaṃ sāmañña
 
 Seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; {.pali}
 
-Just as if a person, when asked about a mango, were to answer with a breadfruit; or, when asked about a breadfruit, were to answer with a mango: {.eng}
+It was like someone who, when asked about a mango, answered with a breadfruit, or when asked about a breadfruit, answered with a mango. {.eng}
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
@@ -1878,7 +1877,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 evameva kho me, bhante, nigaṇṭho nāṭaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno cātuyāmasaṃvaraṃ byākāsi. {.pali}
 
-In the same way, when asked about a fruit of the contemplative life, visible here and now, Nigantha Nataputta answered with fourfold restraint. {.eng}
+... {.eng}
 
 同樣的，大德！當尼乾陀若提子被詢問直接可見的沙門果時，他回答我四種禁戒自制防護。 {.chi}
 
@@ -1888,7 +1887,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 Tassa mayhaṃ, bhante, etadahosi: {.pali}
 
-The thought occurred to me: {.eng}
+I thought: {.eng}
 
 大德！我這麼想： {.chi}
 
@@ -1898,7 +1897,7 @@ The thought occurred to me: {.eng}
 
 ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. {.pali}
 
-‘How can anyone like me think of disparaging a brahman or contemplative living in his realm?’ {.eng}
+‘How could one such as I presume to rebuke an ascetic or brahmin living in my realm?’ {.eng}
 
 『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』 {.chi}
 
@@ -1908,7 +1907,7 @@ The thought occurred to me: {.eng}
 
 So kho ahaṃ, bhante, nigaṇṭhassa nāṭaputtassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. {.pali}
 
-Yet I neither delighted in Nigantha Nataputta‘s words nor did I protest against them. {.eng}
+So I neither approved nor dismissed that statement of the Jain Ñātika. {.eng}
 
 大德！我對那尼乾陀若提子所說既不歡喜，也沒苛責。 {.chi}
 
@@ -1918,7 +1917,7 @@ Yet I neither delighted in Nigantha Nataputta‘s words nor did I protest agains
 
 Anabhinanditvā appaṭikkositvā anattamano anattamanavācaṃ anicchāretvā tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ. {.pali}
 
-Neither delighting nor protesting, I was dissatisfied. Without expressing dissatisfaction, without accepting his teaching, without adopting it, I got up from my seat and left. {.eng}
+I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. {.eng}
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
@@ -1930,7 +1929,7 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 Ekamidāhaṃ, bhante, samayaṃ yena sañcayo belaṭṭhaputto tenupasaṅkamiṃ; {.pali}
 
-“Another time I approached Sañjaya Belatthaputta and, {.eng}
+One time, sir, I approached Sañjaya Belaṭṭhiputta and ... {.eng}
 
 「大德！這裡，有一次，我去見散惹耶毘羅梨子。 {.chi}
 
@@ -1940,7 +1939,7 @@ Ekamidāhaṃ, bhante, samayaṃ yena sañcayo belaṭṭhaputto tenupasaṅkami
 
 upasaṅkamitvā sañcayena belaṭṭhaputtena saddhiṃ sammodiṃ. {.pali}
 
-on arrival, exchanged courteous greetings with him. {.eng}
+exchanged greetings with him. {.eng}
 
 抵達後與散惹耶毘羅梨子互相歡迎， {.chi}
 
@@ -1950,7 +1949,7 @@ on arrival, exchanged courteous greetings with him. {.eng}
 
 Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃ. {.pali}
 
-After an exchange of friendly greetings and courtesies, I sat to one side. {.eng}
+When the greetings and polite conversation were over, I sat down to one side, {.eng}
 
 歡迎與寒暄後，在一旁坐下。 {.chi}
 
@@ -1960,7 +1959,7 @@ After an exchange of friendly greetings and courtesies, I sat to one side. {.eng
 
 Ekamantaṃ nisinno kho ahaṃ, bhante, sañcayaṃ belaṭṭhaputtaṃ etadavocaṃ: {.pali}
 
-As I was sitting there I asked him: {.eng}
+and asked him the same question. {.eng}
 
 在一旁坐好後，我對散惹耶毘羅梨子這麼說： {.chi}
 
@@ -1970,7 +1969,7 @@ As I was sitting there I asked him: {.eng}
 
 ‘yathā nu kho imāni, bho sañcaya, puthusippāyatanāni … pe … sakkā nu kho, bho sañcaya, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti? {.pali}
 
-‘Venerable Sañjaya, there are these common craftsmen... They live off the fruits of their crafts, visible in the here and now... Is it possible, venerable sir, to point out a similar fruit of the contemplative life, visible in the here and now?’ {.eng}
+... {.eng}
 
 『散惹耶毘羅梨子先生！如這些種種技能之處，……（中略）迦旃延先生！你能告知當生直接可見的沙門果嗎？』 {.chi}
 
@@ -1982,7 +1981,7 @@ As I was sitting there I asked him: {.eng}
 
 Evaṃ vutte, bhante, sañcayo belaṭṭhaputto maṃ etadavoca: {.pali}
 
-“When this was said, Sañjaya Belatthaputta said to me, {.eng}
+He said: {.eng}
 
 大德！當這麼說時，散惹耶毘羅梨子對我這麼說： {.chi}
 
@@ -1992,7 +1991,7 @@ Evaṃ vutte, bhante, sañcayo belaṭṭhaputto maṃ etadavoca: {.pali}
 
 ‘atthi paro lokoti iti ce maṃ pucchasi, atthi paro lokoti iti ce me assa, atthi paro lokoti iti te naṃ byākareyyaṃ. {.pali}
 
-‘If you ask me if there exists another world [after death], if I thought that there exists another world, would I declare that to you? {.eng}
+‘Suppose you were to ask me whether there is another world. If I believed there was, I would say so. {.eng}
 
 『如果像這樣問我：「有他世嗎？」如果我像這樣想：「有他世。」我應該像這樣回答你：「有他世。」 {.chi}
 
@@ -2002,7 +2001,7 @@ Evaṃ vutte, bhante, sañcayo belaṭṭhaputto maṃ etadavoca: {.pali}
 
 Evantipi me no, tathātipi me no, aññathātipi me no, notipi me no, no notipi me no. {.pali}
 
-I don‘t think so. I don‘t think in that way. I don‘t think otherwise. I don‘t think not. I don‘t think not not. {.eng}
+But I don’t say it’s like this. I don’t say it’s like that. I don’t say it’s otherwise. I don’t say it’s not so. And I don’t deny it’s not so. {.eng}
 
 但我不說：「是這樣。」我也不說：「是那樣。」我也不說：「是其他的。」我也不說：「不是。」我也不說：「非不是。」 {.chi}
 
@@ -2012,7 +2011,7 @@ I don‘t think so. I don‘t think in that way. I don‘t think otherwise. I do
 
 Natthi paro loko … pe … atthi ca natthi ca paro loko … pe … nevatthi na natthi paro loko … pe …  {.pali}
 
-If you asked me if there isn‘t another world... both is and isn‘t... neither is nor isn‘t...  {.eng}
+Suppose you were to ask me whether there is no other world ... whether there both is and is not another world ... whether there neither is nor is not another world ... {.eng}
 
 沒有他世……（中略）有且沒有他世……（中略）既非有也非沒有他世……（中略） {.chi}
 
@@ -2022,7 +2021,7 @@ If you asked me if there isn‘t another world... both is and isn‘t... neither
 
 atthi sattā opapātikā … pe … natthi sattā opapātikā … pe … atthi ca natthi ca sattā opapātikā … pe … nevatthi na natthi sattā opapātikā … pe … {.pali}
 
-if there are beings who transmigrate... if there aren‘t... both are and aren‘t... neither are nor aren‘t... {.eng}
+whether there are beings who are reborn spontaneously ... whether there are no beings who are reborn spontaneously ... whether there both are and are not beings who are reborn spontaneously ... whether there neither are nor are not beings who are reborn spontaneously ... {.eng}
 
 有化生眾生……（中略）沒有化生眾生……（中略）有且沒有化生眾生……（中略）既非有也非沒有化生眾生……（中略） {.chi}
 
@@ -2032,7 +2031,7 @@ if there are beings who transmigrate... if there aren‘t... both are and aren�
 
 atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko … pe … natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko … pe … atthi ca natthi ca sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko … pe … nevatthi na natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko … pe … {.pali}
 
-... {.eng}
+whether there is fruit and result of good and bad deeds ... whether there is no fruit and result of good and bad deeds ... whether there both is and is not fruit and result of good and bad deeds ... whether there neither is nor is not fruit and result of good and bad deeds ... {.eng}
 
 有善作的、惡作的業之果與報……（中略）沒有善作的、惡作的業之果與報……（中略）有且沒有善作的、惡作的業之果與報……（中略）既非有也非沒有善作的、惡作的業之果與報……（中略） {.chi}
 
@@ -2042,7 +2041,7 @@ atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko … pe … natthi sukat
 
 hoti tathāgato paraṃ maraṇā … pe … na hoti tathāgato paraṃ maraṇā … pe … hoti ca na ca hoti tathāgato paraṃ maraṇā … pe … neva hoti na na hoti tathāgato paraṃ maraṇāti iti ce maṃ pucchasi, neva hoti na na hoti tathāgato paraṃ maraṇāti iti ce me assa, neva hoti na na hoti tathāgato paraṃ maraṇāti iti te naṃ byākareyyaṃ. {.pali}
 
-if the Tathagata exists after death... doesn‘t... both... neither exists nor doesn‘t exist after death, would I declare that to you? {.eng}
+whether a realized one still exists after death ... whether A realized one no longer exists after death ... whether a realized one both still exists and no longer exists after death ... whether a realized one neither still exists nor no longer exists after death. {.eng}
 
 死後如來存在……（中略）死後如來不存在……（中略）死後如來存在且不存在……（中略）如果像這樣問我：「死後如來既非存在也非不存在嗎？」如果我像這樣想：「死後如來既非存在也非不存在。」我應該像這樣回答你：「死後如來既非存在也非不存在。」 {.chi}
 
@@ -2052,7 +2051,7 @@ if the Tathagata exists after death... doesn‘t... both... neither exists nor d
 
 Evantipi me no, tathātipi me no, aññathātipi me no, notipi me no, no notipi me no’ti. {.pali}
 
-I don‘t think so. I don‘t think in that way. I don‘t think otherwise. I don‘t think not. I don‘t think not not.’ {.eng}
+If I believed there was, I would say so. But I don’t say it’s like this. I don’t say it’s like that. I don’t say it’s otherwise. I don’t say it’s not so. And I don’t deny it’s not so.’ {.eng}
 
 但我不說：「是這樣。」我也不說：「是那樣。」我也不說：「是其他的。」我也不說：「不是。」我也不說：「非不是。」』 {.chi}
 
@@ -2064,7 +2063,7 @@ I don‘t think so. I don‘t think in that way. I don‘t think otherwise. I do
 
 Itthaṃ kho me, bhante, sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākāsi. {.pali}
 
-“Thus, when asked about a fruit of the contemplative life, visible here and now, Sañjaya Belatthaputta answered with evasion. {.eng}
+And so, when I asked Sañjaya Belaṭṭhiputta about the fruits of the ascetic life apparent in the present life, he answered with flip-flopping. {.eng}
 
 大德！像這樣，當散惹耶毘羅梨子被詢問直接可見的沙門果時，他回答我混亂。 {.chi}
 
@@ -2074,7 +2073,7 @@ Itthaṃ kho me, bhante, sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññ
 
 Seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; {.pali}
 
-Just as if a person, when asked about a mango, were to answer with a breadfruit; or, when asked about a breadfruit, were to answer with a mango: {.eng}
+It was like someone who, when asked about a mango, answered with a breadfruit, or when asked about a breadfruit, answered with a mango. {.eng}
 
 大德！猶如被問到芒果，卻解答波羅蜜果，或者，被問到波羅蜜果，卻解答芒果， {.chi}
 
@@ -2084,7 +2083,7 @@ Just as if a person, when asked about a mango, were to answer with a breadfruit;
 
 evameva kho me, bhante, sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākāsi. {.pali}
 
-In the same way, when asked about a fruit of the contemplative life, visible here and now, Sañjaya Belatthaputta answered with evasion. {.eng}
+... {.eng}
 
 同樣的，大德！當散惹耶毘羅梨子被詢問直接可見的沙門果時，他回答我混亂。 {.chi}
 
@@ -2094,7 +2093,7 @@ In the same way, when asked about a fruit of the contemplative life, visible her
 
 Tassa mayhaṃ, bhante, etadahosi: {.pali}
 
-The thought occurred to me: {.eng}
+I thought: {.eng}
 
 大德！我這麼想： {.chi}
 
@@ -2104,7 +2103,7 @@ The thought occurred to me: {.eng}
 
 ‘ayañca imesaṃ samaṇabrāhmaṇānaṃ sabbabālo sabbamūḷho. {.pali}
 
-‘This — among these brahmans and contemplatives — is the most foolish and confused of all. {.eng}
+‘This is the most foolish and stupid of all these ascetics and brahmins! {.eng}
 
 『這位是屬於這些沙門、婆羅門[中]最愚癡、最愚昧的， {.chi}
 
@@ -2114,7 +2113,7 @@ The thought occurred to me: {.eng}
 
 Kathañhi nāma sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākarissatī’ti. {.pali}
 
-How can he, when asked about a fruit of the contemplative life, visible here and now, answer with evasion?’ {.eng}
+How on earth can he answer with flip-flopping when asked about the fruits of the ascetic life apparent in the present life?’ {.eng}
 
 當他被詢問直接可見的沙門果時，怎麼會回答我混亂呢？』 {.chi}
 
@@ -2124,7 +2123,7 @@ How can he, when asked about a fruit of the contemplative life, visible here and
 
 Tassa mayhaṃ, bhante, etadahosi: {.pali}
 
-Still the thought occurred to me: {.eng}
+I thought: {.eng}
 
 大德！我這麼想： {.chi}
 
@@ -2134,7 +2133,7 @@ Still the thought occurred to me: {.eng}
 
 ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. {.pali}
 
-‘How can anyone like me think of disparaging a brahman or contemplative living in his realm?’ {.eng}
+‘How could one such as I presume to rebuke an ascetic or brahmin living in my realm?’ {.eng}
 
 『像我這樣[身分]的人，怎麼能想貶低住在[自己]征服地的沙門、婆羅門呢？』 {.chi}
 
@@ -2144,7 +2143,7 @@ Still the thought occurred to me: {.eng}
 
 So kho ahaṃ, bhante, sañcayassa belaṭṭhaputtassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. {.pali}
 
-Yet I neither delighted in Sañjaya Belatthaputta‘s words nor did I protest against them. {.eng}
+So I neither approved nor dismissed that statement of Sañjaya Belaṭṭhiputta. {.eng}
 
 大德！我對那散惹耶毘羅梨子所說既不歡喜，也沒苛責。 {.chi}
 
@@ -2154,7 +2153,7 @@ Yet I neither delighted in Sañjaya Belatthaputta‘s words nor did I protest ag
 
 Anabhinanditvā appaṭikkositvā anattamano anattamanavācaṃ anicchāretvā tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ. {.pali}
 
-Neither delighting nor protesting, I was dissatisfied. Without expressing dissatisfaction, without accepting his teaching, without adopting it, I got up from my seat and left. {.eng}
+I was displeased, but did not express my displeasure. Neither accepting what he said nor contradicting it, I got up from my seat and left. {.eng}
 
 不歡喜，沒苛責後，不悅意、不發不悅意之語，對他的話不採取、不傾覆，起座離開。 {.chi}
 
@@ -2166,7 +2165,7 @@ Neither delighting nor protesting, I was dissatisfied. Without expressing dissat
 
 Sohaṃ, bhante, bhagavantampi pucchāmi: {.pali}
 
-“So, lord, I ask the Blessed One as well: {.eng}
+And so I ask the Buddha: {.eng}
 
 大德！我問世尊： {.chi}
 
@@ -2176,7 +2175,7 @@ Sohaṃ, bhante, bhagavantampi pucchāmi: {.pali}
 
 ‘yathā nu kho imāni, bhante, puthusippāyatanāni seyyathidaṃ—hatthārohā assārohā rathikā dhanuggahā celakā calakā piṇḍadāyakā uggā rājaputtā pakkhandino mahānāgā sūrā cammayodhino dāsikaputtā {.pali}
 
-There are these common craftsmen: elephant-trainers, horse-trainers, charioteers, archers, standard bearers, camp marshals, supply corps officers, high royal officers, commandos, military heroes, armor-clad warriors, leather-clad warriors, domestic slaves, {.eng}
+Sir, there are many different professional fields. These include elephant riders, cavalry, charioteers, archers, bannermen, adjutants, food servers, warrior-chiefs, princes, chargers, great warriors, heroes, leather-clad soldiers, and sons of bondservants. {.eng}
 
 『大德！如這些種種技能之處，即：騎象兵、騎馬兵、戰車兵、弓箭兵、軍旗兵、參謀、伙食兵、尊貴王族戰士、突擊兵、大龍戰士、勇士、穿皮革的戰士、死忠奴隸兵、 {.chi}
 
@@ -2186,7 +2185,7 @@ There are these common craftsmen: elephant-trainers, horse-trainers, charioteers
 
 āḷārikā kappakā nhāpakā sūdā mālakārā rajakā pesakārā naḷakārā kumbhakārā gaṇakā muddikā, yāni vā panaññānipi evaṅgatāni puthusippāyatanāni, {.pali}
 
-confectioners, barbers, bath attendants, cooks, garland-makers, laundrymen, weavers, basket-makers, potters, calculators, accountants, and any other common craftsmen of a similar sort. {.eng}
+They also include bakers, barbers, bathroom attendants, cooks, garland-makers, dyers, weavers, basket-makers, potters, accountants, finger-talliers, or those following any similar professions. {.eng}
 
 廚師、理髮師、澡堂師傅、作甜食者、作花環者、洗染匠、編織匠、蘆葦匠、製陶器者、會計師、查驗員，或凡其它像這樣有關種種技能之處， {.chi}
 
@@ -2196,7 +2195,7 @@ confectioners, barbers, bath attendants, cooks, garland-makers, laundrymen, weav
 
 te diṭṭheva dhamme sandiṭṭhikaṃ sippaphalaṃ upajīvanti, {.pali}
 
-They live off the fruits of their crafts, visible in the here and now. {.eng}
+All these live off the fruits of their profession which are apparent in the present life. With that they make themselves happy and pleased. {.eng}
 
 他們在當生中依技能果生活，他們依此使自己快樂、滿足； {.chi}
 
@@ -2206,7 +2205,7 @@ They live off the fruits of their crafts, visible in the here and now. {.eng}
 
 te tena attānaṃ sukhenti pīṇenti, mātāpitaro sukhenti pīṇenti, puttadāraṃ sukhenti pīṇenti, mittāmacce sukhenti pīṇenti, {.pali}
 
-They give pleasure and refreshment to themselves, to their parents, wives, and children, to their friends and colleagues. {.eng}
+They make their parents, their children and partners, and their friends and colleagues happy and pleased. {.eng}
 
 使父母快樂、滿足；使妻兒快樂、滿足；使朋友與同僚快樂、滿足， {.chi}
 
@@ -2216,7 +2215,7 @@ They give pleasure and refreshment to themselves, to their parents, wives, and c
 
 samaṇabrāhmaṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhapenti sovaggikaṃ sukhavipākaṃ saggasaṃvattanikaṃ. {.pali}
 
-They put in place an excellent presentation of offerings to brahmans and contemplatives, leading to heaven, resulting in happiness, conducive to a heavenly rebirth. {.eng}
+And they establish an uplifting religious donation for ascetics and brahmins that’s conducive to heaven, ripens in happiness, and leads to heaven. {.eng}
 
 對沙門、婆羅門建立目標崇高的、天的、安樂果報的、導向天界的供養， {.chi}
 
@@ -2226,7 +2225,7 @@ They put in place an excellent presentation of offerings to brahmans and contemp
 
 Sakkā nu kho, bhante, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’”ti? {.pali}
 
-Is it possible, lord, to point out a similar fruit of the contemplative life, visible in the here and now?” {.eng}
+Sir, can you point out a fruit of the ascetic life that’s likewise apparent in the present life?” {.eng}
 
 同樣的，大德！你能告知當生直接可見的沙門果嗎？』」 {.chi}
 
@@ -2236,7 +2235,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 “Sakkā, mahārāja. Tena hi, mahārāja, taññevettha paṭipucchissāmi. Yathā te khameyya, tathā naṃ byākareyyāsi. {.pali}
 
-“Yes, it is, great king. But first, with regard to that, I will ask you a counter-question. Answer however you please. {.eng}
+“I can, great king. Well then, I’ll ask you about this in return, and you can answer as you like. {.eng}
 
 「能，大王！那樣的話，大王！就這情況我要反問你，就依你認為妥當的來回答。 {.chi}
 
@@ -2248,7 +2247,7 @@ Is it possible, lord, to point out a similar fruit of the contemplative life, vi
 
 Taṃ kiṃ maññasi, mahārāja, idha te assa puriso dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṃkārapaṭissāvī manāpacārī piyavādī mukhullokako. {.pali}
 
-Suppose there were a man of yours: your slave, your workman, rising in the morning before you, going to bed in the evening only after you, doing whatever you order, always acting to please you, speaking politely to you, always watching for the look on your face. {.eng}
+What do you think, great king? Suppose you had a person who was a bondservant, a worker. They get up before you and go to bed after you, and are obliging, behaving nicely and speaking politely, and gazing up at your face. {.eng}
 
 大王！你怎麼想：這裡，如果男子是你的奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者， {.chi}
 
@@ -2258,7 +2257,7 @@ Suppose there were a man of yours: your slave, your workman, rising in the morni
 
 Tassa evamassa: ‘acchariyaṃ, vata bho, abbhutaṃ, vata bho, puññānaṃ gati, puññānaṃ vipāko. {.pali}
 
-The thought would occur to him: ‘Isn‘t it amazing? Isn‘t it astounding? — the destination, the results, of meritorious deeds. {.eng}
+They’d think: ‘The outcome and result of good deeds is just so incredible, so amazing! {.eng}
 
 他這麼想：『實在不可思議啊，先生！實在未曾有啊，先生！[真是]福德命、福德果報， {.chi}
 
@@ -2268,7 +2267,7 @@ The thought would occur to him: ‘Isn‘t it amazing? Isn‘t it astounding? �
 
 Ayañhi rājā māgadho ajātasattu vedehiputto manusso; ahampi manusso. {.pali}
 
-For this King Ajatasattu is a human being, and I, too, am a human being, {.eng}
+For this King Ajātasattu is a human being, and so am I.  {.eng}
 
 這位摩揭陀國阿闍世王韋提希子是人，我也是人， {.chi}
 
@@ -2278,7 +2277,7 @@ For this King Ajatasattu is a human being, and I, too, am a human being, {.eng}
 
 Ayañhi rājā māgadho ajātasattu vedehiputto pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti, devo maññe. {.pali}
 
-yet King Ajatasattu enjoys himself supplied and replete with the five strings of sensuality — like a deva, as it were — {.eng}
+Yet he amuses himself, supplied and provided with the five kinds of sensual stimulation as if he were a god. {.eng}
 
 這位摩揭陀國阿闍世王韋提希子具備、具有五種欲自娛，我想就像天神一樣， {.chi}
 
@@ -2288,7 +2287,7 @@ yet King Ajatasattu enjoys himself supplied and replete with the five strings of
 
 Ahaṃ panamhissa dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṃkārapaṭissāvī manāpacārī piyavādī mukhullokako. {.pali}
 
-while I am his slave, his workman... always watching for the look on his face. {.eng}
+Whereas I’m his bondservant, his worker. I get up before him and go to bed after him, and am obliging, behaving nicely and speaking politely, and gazing up at his face. {.eng}
 
 而我是奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者， {.chi}
 
@@ -2298,7 +2297,7 @@ while I am his slave, his workman... always watching for the look on his face. {
 
 So vatassāhaṃ puññāni kareyyaṃ. {.pali}
 
-I, too, should do meritorious deeds. {.eng}
+I really should do good deeds. {.eng}
 
 我確實應該做那福德， {.chi}
 
@@ -2308,7 +2307,7 @@ I, too, should do meritorious deeds. {.eng}
 
 Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti. {.pali}
 
-What if I were to shave off my hair and beard, put on the ochre robes, and go forth from the household life into homelessness?’ {.eng}
+Why don’t I shave off my hair and beard, dress in ocher robes, and go forth from the lay life to homelessness?’ {.eng}
 
 讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』 {.chi}
 
@@ -2318,7 +2317,7 @@ What if I were to shave off my hair and beard, put on the ochre robes, and go fo
 
 So aparena samayena kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyya. {.pali}
 
-“So after some time he shaves off his hair and beard, puts on the ochre robes, and goes forth from the household life into homelessness. {.eng}
+After some time, that is what they do. {.eng}
 
 過些時候，他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。 {.chi}
 
@@ -2328,7 +2327,7 @@ So aparena samayena kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā a
 
 So evaṃ pabbajito samāno kāyena saṃvuto vihareyya, vācāya saṃvuto vihareyya, manasā saṃvuto vihareyya, ghāsacchādanaparamatāya santuṭṭho, abhirato paviveke. {.pali}
 
-Having thus gone forth he lives restrained in body, speech, and mind, content with the simplest food and shelter, delighting in solitude. {.eng}
+Having gone forth they’d live restrained in body, speech, and mind, living content with nothing more than food and clothes, delighting in seclusion. {.eng}
 
 當這樣出家時，他能住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜， {.chi}
 
@@ -2338,7 +2337,7 @@ Having thus gone forth he lives restrained in body, speech, and mind, content wi
 
 Tañce te purisā evamāroceyyuṃ: {.pali}
 
-Then suppose one of your men were to inform you: {.eng}
+And suppose your men were to report all this to you. {.eng}
 
 如果他們這麼告知你那位男子： {.chi}
 
@@ -2348,7 +2347,7 @@ Then suppose one of your men were to inform you: {.eng}
 
 ‘yagghe, deva, jāneyyāsi, yo te so puriso dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṃkārapaṭissāvī manāpacārī piyavādī mukhullokako; {.pali}
 
-‘You should know, your majesty, that that man of yours — your slave, your workman... always watching for the look on your face... {.eng}
+... {.eng}
 
 『真的，陛下！你應該知道，那位男子是你的奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者， {.chi}
 
@@ -2358,7 +2357,7 @@ Then suppose one of your men were to inform you: {.eng}
 
 so, deva, kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajito. {.pali}
 
-...has gone forth from the household life into homelessness... {.eng}
+... {.eng}
 
 陛下！他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。 {.chi}
 
@@ -2368,7 +2367,7 @@ so, deva, kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā 
 
 So evaṃ pabbajito samāno kāyena saṃvuto viharati, vācāya saṃvuto viharati, manasā saṃvuto viharati, ghāsacchādanaparamatāya santuṭṭho, abhirato paviveke’ti. {.pali}
 
-... content with the simplest food and shelter, delighting in solitude.’ {.eng}
+... {.eng}
 
 當這樣出家時，他住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜。』 {.chi}
 
@@ -2378,7 +2377,7 @@ So evaṃ pabbajito samāno kāyena saṃvuto viharati, vācāya saṃvuto vihar
 
 Api nu tvaṃ evaṃ vadeyyāsi: ‘etu me, bho, so puriso, punadeva hotu dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṃkārapaṭissāvī manāpacārī piyavādī mukhullokako’”ti? {.pali}
 
-Would you, thus informed, say, ‘Bring that man back to me. Make him again be my slave, my workman... always watching for the look on my face!’?” {.eng}
+Would you say to them: ‘Bring that person to me! Let them once more be my bondservant, my worker’?” {.eng}
 
 你是否會這麼說：『令那位男子再回來成為我的奴僕、受雇者、早起者、晚睡者、順從者、行合意者、說喜歡聽的話者、看人臉色者。』嗎？」 {.chi}
 
@@ -2390,7 +2389,7 @@ Would you, thus informed, say, ‘Bring that man back to me. Make him again be m
 
 “No hetaṃ, bhante. {.pali}
 
-“Not at all, lord. {.eng}
+“No, sir. {.eng}
 
 「不，大德！ {.chi}
 
@@ -2400,7 +2399,7 @@ Would you, thus informed, say, ‘Bring that man back to me. Make him again be m
 
 Atha kho naṃ mayameva abhivādeyyāmapi, paccuṭṭheyyāmapi, āsanenapi nimanteyyāma, {.pali}
 
-Rather, I am the one who should bow down to him, rise up out of respect for him, invite him to a seat, {.eng}
+Rather, I would bow to them, rise in their presence, and offer them a seat. {.eng}
 
 那時，我們只會問訊，或會起立以座位迎接， {.chi}
 
@@ -2410,7 +2409,7 @@ Rather, I am the one who should bow down to him, rise up out of respect for him,
 
 abhinimanteyyāmapi naṃ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi, dhammikampissa rakkhāvaraṇaguttiṃ saṃvidaheyyāmā”ti. {.pali}
 
-invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisites for the sick. And I would provide him with righteous safety, defense, and protection.” {.eng}
+I’d invite them to accept robes, almsfood, lodgings, and medicines and supplies for the sick. And I’d organize their lawful guarding and protection.” {.eng}
 
 或會邀請，或會招待他衣服、施食、住處、病人的需要物、醫藥必需品，或會如法地安排守護、防護、保護。」 {.chi}
 
@@ -2420,7 +2419,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 “Taṃ kiṃ maññasi, mahārāja, yadi evaṃ sante hoti vā sandiṭṭhikaṃ sāmaññaphalaṃ no vā”ti? {.pali}
 
-“So what do you think, great king. With that being the case, is there a visible fruit of the contemplative life, or is there not?” {.eng}
+“What do you think, great king? If this is so, is there a fruit of the ascetic life apparent in the present life or not?” {.eng}
 
 「大王！你怎麼想：當存在這樣時，是直接可見的沙門果嗎？」 {.chi}
 
@@ -2430,7 +2429,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 “Addhā kho, bhante, evaṃ sante hoti sandiṭṭhikaṃ sāmaññaphalan”ti. {.pali}
 
-“Yes, lord. With that being the case, there certainly is a visible fruit of the contemplative life.” {.eng}
+“Clearly, sir, there is.” {.eng}
 
 「大德！當存在這樣時，確實是直接可見的沙門果。」 {.chi}
 
@@ -2440,7 +2439,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 “Idaṃ kho te, mahārāja, mayā paṭhamaṃ diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññattan”ti. {.pali}
 
-“This, great king, is the first fruit of the contemplative life, visible in the here and now, that I point out to you.” {.eng}
+“This is the first fruit of the ascetic life that’s apparent in the present life, which I point out to you.” {.eng}
 
 「大王！這是被我告知的第一個當生直接可見的沙門果。」 {.chi}
 
@@ -2452,7 +2451,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 “Sakkā pana, bhante, aññampi evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun”ti? {.pali}
 
-“But is it possible, lord, to point out yet another fruit of the contemplative life, visible in the here and now?” {.eng}
+“But sir, can you point out another fruit of the ascetic life that’s likewise apparent in the present life?” {.eng}
 
 「同樣的，大德！但，你能告知其它當生直接可見的沙門果嗎？」 {.chi}
 
@@ -2462,7 +2461,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 “Sakkā, mahārāja. Tena hi, mahārāja, taññevettha paṭipucchissāmi. Yathā te khameyya, tathā naṃ byākareyyāsi. {.pali}
 
-“Yes, it is, great king. But first, with regard to that, I will ask you a counter-question. Answer however you please. {.eng}
+“I can, great king. Well then, I’ll ask you about this in return, and you can answer as you like. {.eng}
 
 「能，大王！那樣的話，大王！就這情況我要反問你，就依你認為妥當的來回答。 {.chi}
 
@@ -2472,7 +2471,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 Taṃ kiṃ maññasi, mahārāja, idha te assa puriso kassako gahapatiko karakārako rāsivaḍḍhako. {.pali}
 
-Suppose there were a man of yours: a farmer, a householder, a taxpayer swelling the royal treasury. {.eng}
+What do you think, great king? Suppose you had a person who was a farmer, a householder, a hard worker, someone who builds up their capital. {.eng}
 
 大王！你怎麼想：這裡，如果男子是你的農夫、屋主、工作者、司財者， {.chi}
 
@@ -2482,7 +2481,7 @@ Suppose there were a man of yours: a farmer, a householder, a taxpayer swelling 
 
 Tassa evamassa: ‘acchariyaṃ vata bho, abbhutaṃ vata bho, puññānaṃ gati, puññānaṃ vipāko. {.pali}
 
-The thought would occur to him: ‘Isn‘t it amazing? Isn‘t it astounding? — the destination, the results, of meritorious deeds! {.eng}
+They’d think: ‘The outcome and result of good deeds is just so incredible, so amazing! {.eng}
 
 他這麼想：『實在不可思議啊，先生！實在未曾有啊，先生！[真是]福德命、福德果報， {.chi}
 
@@ -2492,7 +2491,7 @@ The thought would occur to him: ‘Isn‘t it amazing? Isn‘t it astounding? �
 
 Ayañhi rājā māgadho ajātasattu vedehiputto manusso, ahampi manusso. {.pali}
 
-For this King Ajatasattu is a human being, and I, too, am a human being, {.eng}
+For this King Ajātasattu is a human being, and so am I. {.eng}
 
 這位摩揭陀國阿闍世王韋提希子是人，我也是人， {.chi}
 
@@ -2502,7 +2501,7 @@ For this King Ajatasattu is a human being, and I, too, am a human being, {.eng}
 
 Ayañhi rājā māgadho ajātasattu vedehiputto pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti, devo maññe. {.pali}
 
-yet King Ajatasattu enjoys himself supplied and replete with the five strings of sensuality — like a deva, as it were — {.eng}
+Yet he amuses himself, supplied and provided with the five kinds of sensual stimulation as if he were a god. {.eng}
 
 這位摩揭陀國阿闍世王韋提希子具備、具有五種欲自娛，我想就像天神一樣， {.chi}
 
@@ -2512,7 +2511,7 @@ yet King Ajatasattu enjoys himself supplied and replete with the five strings of
 
 Ahaṃ panamhissa kassako gahapatiko karakārako rāsivaḍḍhako. {.pali}
 
-while I am a farmer, a householder, a taxpayer swelling the royal treasury. {.eng}
+Whereas I’m a farmer, a householder, a hard worker, someone who builds up their capital. {.eng}
 
 而我是農夫、屋主、工作者、司財者， {.chi}
 
@@ -2522,7 +2521,7 @@ while I am a farmer, a householder, a taxpayer swelling the royal treasury. {.en
 
 So vatassāhaṃ puññāni kareyyaṃ. {.pali}
 
-I, too, should do meritorious deeds. {.eng}
+I really should do good deeds. {.eng}
 
 我確實應該做那福德， {.chi}
 
@@ -2532,7 +2531,7 @@ I, too, should do meritorious deeds. {.eng}
 
 Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti. {.pali}
 
-What if I were to shave off my hair and beard, put on the ochre robes, and go forth from the household life into homelessness?’ {.eng}
+Why don’t I shave off my hair and beard, dress in ocher robes, and go forth from the lay life to homelessness?’ {.eng}
 
 讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』  {.chi}
 
@@ -2542,7 +2541,7 @@ What if I were to shave off my hair and beard, put on the ochre robes, and go fo
 
 So aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkhandhaṃ pahāya, appaṃ vā ñātiparivaṭṭaṃ pahāya mahantaṃ vā ñātiparivaṭṭaṃ pahāya kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyya. {.pali}
 
-“So after some time he abandons his mass of wealth, large or small; leaves his circle of relatives, large or small; shaves off his hair and beard, puts on the ochre robes, and goes forth from the household life into homelessness. {.eng}
+After some time they give up a large or small fortune, and a large or small family circle. They’d shave off hair and beard, dress in ocher robes, and go forth from the lay life to homelessness. {.eng}
 
 過些時候，他捨斷少量的財富聚集或捨斷大量的財富聚集後；捨斷少量的親屬圈或捨斷大量的親屬圈後，剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。 {.chi}
 
@@ -2552,7 +2551,7 @@ So aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkh
 
 So evaṃ pabbajito samāno kāyena saṃvuto vihareyya, vācāya saṃvuto vihareyya, manasā saṃvuto vihareyya, ghāsacchādanaparamatāya santuṭṭho, abhirato paviveke. {.pali}
 
-Having thus gone forth he lives restrained in body, speech, and mind, content with the simplest food and shelter, delighting in solitude. {.eng}
+Having gone forth they’d live restrained in body, speech, and mind, living content with nothing more than food and clothes, delighting in seclusion. {.eng}
 
 當這樣出家時，他能住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜， {.chi}
 
@@ -2562,7 +2561,7 @@ Having thus gone forth he lives restrained in body, speech, and mind, content wi
 
 Tañce te purisā evamāroceyyuṃ: ‘yagghe, deva, jāneyyāsi, yo te so puriso kassako gahapatiko karakārako rāsivaḍḍhako; {.pali}
 
-Then suppose one of your men were to inform you: ‘You should know, your majesty, that that man of yours — the farmer, the householder, the taxpayer swelling the royal treasury... {.eng}
+And suppose your men were to report all this to you. {.eng}
 
 如果他們這麼告知你那位男子：『真的，陛下！你應該知道，那位男子是你的農夫、屋主、工作者、司財者， {.chi}
 
@@ -2572,7 +2571,7 @@ Then suppose one of your men were to inform you: ‘You should know, your majest
 
 so deva kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajito. {.pali}
 
-...has gone forth from the household life into homelessness... {.eng}
+... {.eng}
 
 陛下！他剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。 {.chi}
 
@@ -2582,7 +2581,7 @@ so deva kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā an
 
 So evaṃ pabbajito samāno kāyena saṃvuto viharati, vācāya saṃvuto viharati, manasā saṃvuto viharati, ghāsacchādanaparamatāya santuṭṭho, abhirato paviveke’ti. {.pali}
 
-content with the simplest food and shelter, delighting in solitude.’ {.eng}
+... {.eng}
 
 當這樣出家時，他住於身、語、意已防護，以少量的衣食為知足、在獨居處歡喜。』 {.chi}
 
@@ -2592,7 +2591,7 @@ content with the simplest food and shelter, delighting in solitude.’ {.eng}
 
 Api nu tvaṃ evaṃ vadeyyāsi: ‘etu me, bho, so puriso, punadeva hotu kassako gahapatiko karakārako rāsivaḍḍhako’”ti? {.pali}
 
-Would you, thus informed, say, ‘Bring that man back to me. Make him again be a farmer, a householder, a taxpayer swelling the royal treasury!’?” {.eng}
+Would you say to them: ‘Bring that person to me! Let them once more be a farmer, a householder, a hard worker, someone who builds up their capital’?” {.eng}
 
 你是否會這麼說：『令那位男子再回來成為我的農夫、屋主、工作者、司財者。』嗎？」 {.chi}
 
@@ -2604,7 +2603,7 @@ Would you, thus informed, say, ‘Bring that man back to me. Make him again be a
 
 “No hetaṃ, bhante. Atha kho naṃ mayameva abhivādeyyāmapi, paccuṭṭheyyāmapi, āsanenapi nimanteyyāma, {.pali}
 
-“Not at all, lord. Rather, I am the one who should bow down to him, rise up out of respect for him, invite him to a seat, {.eng}
+“No, sir. Rather, I would bow to them, rise in their presence, and offer them a seat. {.eng}
 
 「不，大德！那時，我們只會問訊，或會起立以座位迎接， {.chi}
 
@@ -2614,7 +2613,7 @@ Would you, thus informed, say, ‘Bring that man back to me. Make him again be a
 
 abhinimanteyyāmapi naṃ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi, dhammikampissa rakkhāvaraṇaguttiṃ saṃvidaheyyāmā”ti. {.pali}
 
-invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisites for the sick. And I would provide him with righteous safety, defense, and protection.” {.eng}
+I’d invite them to accept robes, almsfood, lodgings, and medicines and supplies for the sick. And I’d organize their lawful guarding and protection.” {.eng}
 
 或會邀請，或會招待他衣服、施食、住處、病人的需要物、醫藥必需品，或會如法地安排守護、防護、保護。」 {.chi}
 
@@ -2624,7 +2623,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 “Taṃ kiṃ maññasi, mahārāja? Yadi evaṃ sante hoti vā sandiṭṭhikaṃ sāmaññaphalaṃ no vā”ti? {.pali}
 
-“So what do you think, great king. With that being the case, is there a visible fruit of the contemplative life, or is there not?” {.eng}
+“What do you think, great king? If this is so, is there a fruit of the ascetic life apparent in the present life or not?” {.eng}
 
 「大王！你怎麼想：當存在這樣時，是直接可見的沙門果嗎？」 {.chi}
 
@@ -2634,7 +2633,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 “Addhā kho, bhante, evaṃ sante hoti sandiṭṭhikaṃ sāmaññaphalan”ti. {.pali}
 
-“Yes, lord. With that being the case, there certainly is a visible fruit of the contemplative life.” {.eng}
+“Clearly, sir, there is.” {.eng}
 
 「大德！當存在這樣時，確實是直接可見的沙門果。」 {.chi}
 
@@ -2644,7 +2643,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 “Idaṃ kho te, mahārāja, mayā dutiyaṃ diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññattan”ti. {.pali}
 
-“This, great king, is the second fruit of the contemplative life, visible in the here and now, that I point out to you.” {.eng}
+“This is the second fruit of the ascetic life that’s apparent in the present life, which I point out to you.” {.eng}
 
 「大王！這是被我告知的第二個當生直接可見的沙門果。」 {.chi}
 
@@ -2656,7 +2655,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 “Sakkā pana, bhante, aññampi diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetuṃ imehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañcā”ti? {.pali}
 
-“But is it possible, lord, to point out yet another fruit of the contemplative life, visible in the here and now?” {.eng}
+“But sir, can you point out a fruit of the ascetic life that’s apparent in the present life which is better and finer than these?” {.eng}
 
 「大德！但，你能告知比這些直接可見的沙門果更卓越、更勝妙，其它當生直接可見的沙門果嗎？」 {.chi}
 
@@ -2666,7 +2665,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 “Sakkā, mahārāja. Tena hi, mahārāja, suṇohi, sādhukaṃ manasi karohi, bhāsissāmī”ti. {.pali}
 
-“Yes, it is, great king. Listen and pay close attention. I will speak. {.eng}
+“I can, great king. Well then, listen and apply your mind well, I will speak.” {.eng}
 
 「能，大王！那樣的話，大王！你要聽！你要好好作意！我要說了。」 {.chi}
 
@@ -2676,7 +2675,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 “Evaṃ, bhante”ti kho rājā māgadho ajātasattu vedehiputto bhagavato paccassosi. {.pali}
 
-/ {.eng}
+“Yes, sir,” replied the king. {.eng}
 
 「是的，大德！」摩揭陀國阿闍世王韋提希子回答世尊。 {.chi}
 
@@ -2688,7 +2687,7 @@ invite him to accept gifts of robes, almsfood, lodgings, and medicinal requisite
 
 Bhagavā etadavoca: “idha, mahārāja, tathāgato loke uppajjati arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā. {.pali}
 
-“There is the case, great king, where a Tathagata appears in the world, worthy and rightly self-awakened. {.eng}
+The Buddha said this: “Consider when a Realized One arises in the world, perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed. {.eng}
 
 世尊這麼說：「大王！這裡，如來、阿羅漢、遍正覺者、明與行具足者、善逝、世間知者、應該被調御人的無上調御者、人天之師、佛陀、世尊出現於世間， {.chi}
 
@@ -2698,7 +2697,7 @@ Bhagavā etadavoca: “idha, mahārāja, tathāgato loke uppajjati arahaṃ samm
 
 So imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. {.pali}
 
-He teaches the Dhamma admirable in its beginning, admirable in its middle, admirable in its end. {.eng}
+He has realized with his own insight this world—with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans—and he makes it known to others. {.eng}
 
 他以證智自作證後，為這包括天、魔、梵的世界；包括沙門、婆羅門的世代；包括諸天、人宣說， {.chi}
 
@@ -2708,7 +2707,7 @@ He teaches the Dhamma admirable in its beginning, admirable in its middle, admir
 
 So dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti. {.pali}
 
-He proclaims the holy life both in its particulars and in its essence, entirely perfect, surpassingly pure. {.eng}
+He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. {.eng}
 
 他教導開頭是善、中間是善、終結是善；意義正確、辭句正確的法，他說明唯獨圓滿、遍清淨的梵行。 {.chi}
 
@@ -2720,7 +2719,7 @@ He proclaims the holy life both in its particulars and in its essence, entirely 
 
 Taṃ dhammaṃ suṇāti gahapati vā gahapatiputto vā aññatarasmiṃ vā kule paccājāto. {.pali}
 
-“A householder or householder‘s son, {.eng}
+A householder hears that teaching, or a householder’s child, or someone reborn in a good family. {.eng}
 
 屋主、屋主之子或在其它族姓中出生者聽聞那個法； {.chi}
 
@@ -2730,7 +2729,7 @@ Taṃ dhammaṃ suṇāti gahapati vā gahapatiputto vā aññatarasmiṃ vā ku
 
 So taṃ dhammaṃ sutvā tathāgate saddhaṃ paṭilabhati. {.pali}
 
-hearing the Dhamma, gains conviction in the Tathagata {.eng}
+They gain faith in the Realized One... {.eng}
 
 聽聞那個法後，於如來處獲得信； {.chi}
 
@@ -2740,7 +2739,7 @@ hearing the Dhamma, gains conviction in the Tathagata {.eng}
 
 So tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: {.pali}
 
-and reflects: {.eng}
+...and reflect: {.eng}
 
 由於具備那獲得的信，他像這樣深慮： {.chi}
 
@@ -2750,7 +2749,7 @@ and reflects: {.eng}
 
 ‘sambādho gharāvāso rajopatho, abbhokāso pabbajjā. {.pali}
 
-‘Household life is confining, a dusty path. The life gone forth is like the open air. {.eng}
+‘Living in a house is cramped and dirty, but the life of one gone forth is wide open. {.eng}
 
 『居家生活是障礙，是塵垢之路；出家是露地。 {.chi}
 
@@ -2760,7 +2759,7 @@ and reflects: {.eng}
 
 Nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekantaparipuṇṇaṃ ekantaparisuddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ. {.pali}
 
-It is not easy living at home to practice the holy life totally perfect, totally pure, like a polished shell. {.eng}
+It’s not easy for someone living at home to lead the spiritual life utterly full and pure, like a polished shell. {.eng}
 
 住在家中，這是不容易行一向圓滿、一向清淨的磨亮海螺之梵行， {.chi}
 
@@ -2770,7 +2769,7 @@ It is not easy living at home to practice the holy life totally perfect, totally
 
 Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti. {.pali}
 
-What if I were to shave off my hair and beard, put on the ochre robes, and go forth from the household life into homelessness?’ {.eng}
+Why don’t I shave off my hair and beard, dress in ocher robes, and go forth from the lay life to homelessness?’ {.eng}
 
 讓我剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。』 {.chi}
 
@@ -2780,7 +2779,7 @@ What if I were to shave off my hair and beard, put on the ochre robes, and go fo
 
 So aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkhandhaṃ pahāya appaṃ vā {.pali}
 
-“So after some time he abandons his mass of wealth, large or small; leaves his circle of relatives, large or small; {.eng}
+After some time they give up a large or small fortune, and a large or small family circle. {.eng}
 
 過些時候，他捨斷少量的財富聚集或捨斷大量的財富聚集後；捨斷少量的親屬圈或捨斷大量的親屬圈後， {.chi}
 
@@ -2790,7 +2789,7 @@ So aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkh
 
 ñātiparivaṭṭaṃ pahāya mahantaṃ vā ñātiparivaṭṭaṃ pahāya kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajati. {.pali}
 
-shaves off his hair and beard, puts on the ochre robes, and goes forth from the household life into homelessness. {.eng}
+They shave off hair and beard, dress in ocher robes, and go forth from the lay life to homelessness. {.eng}
 
 剃除髮鬚、裹上袈裟衣後，從在家出家，成為非家生活。 {.chi}
 
@@ -2802,7 +2801,7 @@ shaves off his hair and beard, puts on the ochre robes, and goes forth from the 
 
 So evaṃ pabbajito samāno pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno, {.pali}
 
-“When he has thus gone forth, he lives restrained by the rules of the monastic code, {.eng}
+Once they’ve gone forth, they live restrained in the monastic code, conducting themselves well and seeking alms in suitable places. {.eng}
 
 當這樣出家時，他住於被波羅提木叉的自制所防護，具足正行和行境， {.chi}
 
@@ -2812,7 +2811,7 @@ So evaṃ pabbajito samāno pātimokkhasaṃvarasaṃvuto viharati ācāragocara
 
 aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena, parisuddhājīvo sīlasampanno, {.pali}
 
-seeing danger in the slightest faults. Consummate in his virtue, {.eng}
+Seeing danger in the slightest fault, they keep the rules they’ve undertaken. They act skillfully by body and speech. They’re purified in livelihood and accomplished in ethical conduct. {.eng}
 
 在微罪中看見可怕，在學處上受持後學習，他具備善的身業、語業，清淨的生活維持，戒具足， {.chi}
 
@@ -2822,7 +2821,7 @@ seeing danger in the slightest faults. Consummate in his virtue, {.eng}
 
 indriyesu guttadvāro, satisampajaññena samannāgato, santuṭṭho. {.pali}
 
-he guards the doors of his senses, is possessed of mindfulness and alertness, and is content. {.eng}
+They guard the sense doors, have mindfulness and situational awareness, and are content. {.eng}
 
 守護根門，具備正念與正知，已知足。 {.chi}
 
@@ -2834,7 +2833,7 @@ he guards the doors of his senses, is possessed of mindfulness and alertness, an
 
 Kathañca, mahārāja, bhikkhu sīlasampanno hoti? {.pali}
 
-“And how is a monk consummate in virtue? {.eng}
+And how, great king, is a mendicant accomplished in ethics? {.eng}
 
 大王！比丘如何是戒具足者呢？ {.chi}
 
@@ -2844,7 +2843,7 @@ Kathañca, mahārāja, bhikkhu sīlasampanno hoti? {.pali}
 
 Idha, mahārāja, bhikkhu pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti. {.pali}
 
-Abandoning the taking of life, he abstains from the taking of life. {.eng}
+It’s when a mendicant gives up killing living creatures, renouncing the rod and the sword. {.eng}
 
 大王！這裡，比丘捨斷殺生後，他是離殺生者， {.chi}
 
@@ -2854,7 +2853,7 @@ Abandoning the taking of life, he abstains from the taking of life. {.eng}
 
 Nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. {.pali}
 
-He dwells with his rod laid down, his knife laid down, scrupulous, merciful, compassionate for the welfare of all living beings. {.eng}
+They’re scrupulous and kind, living full of compassion for all living beings. {.eng}
 
 他住於已捨離棍棒、已捨離刀劍、有羞恥的、同情的、對一切活的生物憐愍的， {.chi}
 
@@ -2864,7 +2863,7 @@ He dwells with his rod laid down, his knife laid down, scrupulous, merciful, com
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這是關於戒。 {.chi}
 
@@ -2874,7 +2873,7 @@ This is part of his virtue. {.eng}
 
 Adinnādānaṃ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. Idampissa hoti sīlasmiṃ. {.pali}
 
-“Abandoning the taking of what is not given, he abstains from taking what is not given. He takes only what is given, accepts only what is given, lives not by stealth but by means of a self that has become pure. This, too, is part of his virtue. {.eng}
+They give up stealing. They take only what’s given, and expect only what’s given. They keep themselves clean by not thieving. This pertains to their ethics. {.eng}
 
 捨斷未給予而取後，他是離未給予而取者、給予而取者、只期待給予物者，以不盜取而自我住於清淨，這也是關於戒。 {.chi}
 
@@ -2884,7 +2883,7 @@ Adinnādānaṃ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭ
 
 Abrahmacariyaṃ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā. {.pali}
 
-“Abandoning uncelibacy, he lives a celibate life, aloof, refraining from the sexual act that is the villager‘s way. {.eng}
+They give up unchastity. They are celibate, set apart, avoiding the vulgar act of sex. {.eng}
 
 捨斷非梵行後，他是梵行者，遠離俗法而住，已離婬欲， {.chi}
 
@@ -2894,7 +2893,7 @@ Abrahmacariyaṃ pahāya brahmacārī hoti ārācārī virato methunā gāmadham
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -2906,7 +2905,7 @@ This, too, is part of his virtue. {.eng}
 
 Musāvādaṃ pahāya musāvādā paṭivirato hoti saccavādī saccasandho theto paccayiko avisaṃvādako lokassa. {.pali}
 
-“Abandoning false speech, he abstains from false speech. He speaks the truth, holds to the truth, is firm, reliable, no deceiver of the world. {.eng}
+They give up lying. They speak the truth and stick to the truth. They’re honest and trustworthy, and don’t trick the world with their words. {.eng}
 
 捨斷妄語後，他是離妄語者、真實語者、緊隨真實者、能信賴者、應該信賴者、對世間無詐欺者， {.chi}
 
@@ -2916,7 +2915,7 @@ Musāvādaṃ pahāya musāvādā paṭivirato hoti saccavādī saccasandho thet
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -2926,7 +2925,7 @@ This, too, is part of his virtue. {.eng}
 
 Pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato hoti; {.pali}
 
-“Abandoning divisive speech he abstains from divisive speech. {.eng}
+They give up divisive speech. {.eng}
 
 捨斷離間語後，他是離離間語者： {.chi}
 
@@ -2936,7 +2935,7 @@ Pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato hoti; {.pali}
 
 ito sutvā na amutra akkhātā imesaṃ bhedāya; {.pali}
 
-What he has heard here he does not tell there to break those people apart from these people here. {.eng}
+They don’t repeat in one place what they heard in another... {.eng}
 
 他從這裡聽到後，不為了對這些人離間而在那裡說， {.chi}
 
@@ -2946,7 +2945,7 @@ What he has heard here he does not tell there to break those people apart from t
 
 amutra vā sutvā na imesaṃ akkhātā, amūsaṃ bhedāya. {.pali}
 
-What he has heard there he does not tell here to break these people apart from those people there. {.eng}
+so as to divide people against each other. {.eng}
 
 或者，他從那裡聽到後，不為了對那些人離間而在這裡說， {.chi}
 
@@ -2956,7 +2955,7 @@ What he has heard there he does not tell here to break these people apart from t
 
 Iti bhinnānaṃ vā sandhātā, sahitānaṃ vā anuppadātā, samaggārāmo samaggarato samagganandī samaggakaraṇiṃ vācaṃ bhāsitā hoti. {.pali}
 
-Thus reconciling those who have broken apart or cementing those who are united, he loves concord, delights in concord, enjoys concord, speaks things that create concord. {.eng}
+Instead, they reconcile those who are divided, supporting unity, delighting in harmony, loving harmony, speaking words that promote harmony. {.eng}
 
 像這樣，他是分裂的調解者、和諧的散播者、樂於和合者、愛好和合者、喜歡和合者、作和合之言說者， {.chi}
 
@@ -2966,7 +2965,7 @@ Thus reconciling those who have broken apart or cementing those who are united, 
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -2976,7 +2975,7 @@ This, too, is part of his virtue. {.eng}
 
 Pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti; {.pali}
 
-“Abandoning abusive speech, he abstains from abusive speech. {.eng}
+They give up harsh speech. {.eng}
 
 捨斷粗惡語後，他是離粗惡語者， {.chi}
 
@@ -2986,7 +2985,7 @@ Pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti; {.pali}
 
 yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti. {.pali}
 
-He speaks words that are soothing to the ear, that are affectionate, that go to the heart, that are polite, appealing and pleasing to people at large. {.eng}
+They speak in a way that’s mellow, pleasing to the ear, lovely, going to the heart, polite, likable and agreeable to the people. {.eng}
 
 他以柔和的言語：悅耳的、可愛的、動心的、優雅的、眾人所愛的、眾人可意的，像那樣的言語與人說話， {.chi}
 
@@ -2996,7 +2995,7 @@ He speaks words that are soothing to the ear, that are affectionate, that go to 
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3006,7 +3005,7 @@ This, too, is part of his virtue. {.eng}
 
 Samphappalāpaṃ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, {.pali}
 
-“Abandoning idle chatter, he abstains from idle chatter. He speaks in season, speaks what is factual, what is in accordance with the goal, the Dhamma, and the Vinaya. {.eng}
+They give up talking nonsense. Their words are timely, true, and meaningful, in line with the teaching and training. {.eng}
 
 捨斷雜穢語後，他是離雜穢語者：他是適當時機之說者、事實之說者、有益處之說者，如法之說者、如律之說者； {.chi}
 
@@ -3016,7 +3015,7 @@ Samphappalāpaṃ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtav�
 
 nidhānavatiṃ vācaṃ bhāsitā hoti kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ. {.pali}
 
-He speaks words worth treasuring, seasonable, reasonable, circumscribed, connected with the goal. {.eng}
+They say things at the right time which are valuable, reasonable, succinct, and beneficial. {.eng}
 
 他以適當時機說有價值、有理由、有節制、具有利益的話， {.chi}
 
@@ -3026,7 +3025,7 @@ He speaks words worth treasuring, seasonable, reasonable, circumscribed, connect
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3038,7 +3037,7 @@ This, too, is part of his virtue. {.eng}
 
 Bījagāmabhūtagāmasamārambhā paṭivirato hoti … pe … {.pali}
 
-“He abstains from damaging seed and plant life. {.eng}
+They refrain from injuring plants and seeds. {.eng}
 
 他是離破壞種子類、草木類者， {.chi}
 
@@ -3048,7 +3047,7 @@ Bījagāmabhūtagāmasamārambhā paṭivirato hoti … pe … {.pali}
 
 ekabhattiko hoti rattūparato virato vikālabhojanā. {.pali}
 
-“He eats only once a day, refraining from the evening meal and from food at the wrong time of day. {.eng}
+They eat in one part of the day, abstaining from eating at night and food at the wrong time. {.eng}
 
 是晚上停止、戒絕非時食的一日一食者， {.chi}
 
@@ -3058,7 +3057,7 @@ ekabhattiko hoti rattūparato virato vikālabhojanā. {.pali}
 
 Naccagītavāditavisūkadassanā paṭivirato hoti. {.pali}
 
-“He abstains from dancing, singing, instrumental music, and from watching shows. {.eng}
+They avoid seeing shows of dancing, singing, and music. {.eng}
 
 是離跳舞、歌曲、音樂、看戲者， {.chi}
 
@@ -3068,7 +3067,7 @@ Naccagītavāditavisūkadassanā paṭivirato hoti. {.pali}
 
 Mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭivirato hoti. {.pali}
 
-“He abstains from wearing garlands and from beautifying himself with scents and cosmetics. {.eng}
+They refrain from beautifying and adorning themselves with garlands, fragrance, and makeup. {.eng}
 
 是離花環之配戴、芳香之莊嚴、塗抹物之打扮狀態者， {.chi}
 
@@ -3078,7 +3077,7 @@ Mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭivirato hot
 
 Uccāsayanamahāsayanā paṭivirato hoti. {.pali}
 
-“He abstains from high and luxurious beds and seats. {.eng}
+They avoid high and luxurious beds. {.eng}
 
 是離高床、大床者， {.chi}
 
@@ -3088,7 +3087,7 @@ Uccāsayanamahāsayanā paṭivirato hoti. {.pali}
 
 Jātarūparajatapaṭiggahaṇā paṭivirato hoti. {.pali}
 
-“He abstains from accepting gold and money. {.eng}
+They avoid receiving gold and money, {.eng}
 
 是離領受金銀者， {.chi}
 
@@ -3098,7 +3097,7 @@ Jātarūparajatapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 Āmakadhaññapaṭiggahaṇā paṭivirato hoti. {.pali}
 
-“He abstains from accepting uncooked grain... {.eng}
+raw grains, {.eng}
 
 是離領受生穀者， {.chi}
 
@@ -3108,7 +3107,7 @@ Jātarūparajatapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 Āmakamaṃsapaṭiggahaṇā paṭivirato hoti. {.pali}
 
-...raw meat... {.eng}
+raw meat, {.eng}
 
 是離領受生肉者， {.chi}
 
@@ -3118,7 +3117,7 @@ Jātarūparajatapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 Itthikumārikapaṭiggahaṇā paṭivirato hoti. {.pali}
 
-...women and girls... {.eng}
+women and girls, {.eng}
 
 是離領受女子、少女者， {.chi}
 
@@ -3128,7 +3127,7 @@ Itthikumārikapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 Dāsidāsapaṭiggahaṇā paṭivirato hoti. {.pali}
 
-...male and female slaves... {.eng}
+male and female bondservants, {.eng}
 
 是離領受男奴僕、女奴僕者， {.chi}
 
@@ -3138,7 +3137,7 @@ Dāsidāsapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 Ajeḷakapaṭiggahaṇā paṭivirato hoti. {.pali}
 
-...goats and sheep... {.eng}
+goats and sheep, {.eng}
 
 是離領受山羊與羊者， {.chi}
 
@@ -3148,7 +3147,7 @@ Ajeḷakapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 Kukkuṭasūkarapaṭiggahaṇā paṭivirato hoti. {.pali}
 
-...fowl and pigs... {.eng}
+chickens and pigs, {.eng}
 
 是離領受雞與豬者， {.chi}
 
@@ -3158,7 +3157,7 @@ Kukkuṭasūkarapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 Hatthigavassavaḷavapaṭiggahaṇā paṭivirato hoti. {.pali}
 
-...elephants, cattle, steeds, and mares... {.eng}
+elephants, cows, horses, and mares, {.eng}
 
 是離領受象、牛、馬、騾馬者， {.chi}
 
@@ -3168,7 +3167,7 @@ Hatthigavassavaḷavapaṭiggahaṇā paṭivirato hoti. {.pali}
 
 Khettavatthupaṭiggahaṇā paṭivirato hoti. {.pali}
 
-...fields and property. {.eng}
+and fields and land. {.eng}
 
 是離領受田與地者， {.chi}
 
@@ -3178,7 +3177,7 @@ Khettavatthupaṭiggahaṇā paṭivirato hoti. {.pali}
 
 Dūteyyapahiṇagamanānuyogā paṭivirato hoti. {.pali}
 
-“He abstains from running messages... {.eng}
+They refrain from running errands and messages; {.eng}
 
 是離從事差使、遣使者， {.chi}
 
@@ -3188,7 +3187,7 @@ Dūteyyapahiṇagamanānuyogā paṭivirato hoti. {.pali}
 
 Kayavikkayā paṭivirato hoti. {.pali}
 
-...from buying and selling... {.eng}
+buying and selling; {.eng}
 
 是離買賣者， {.chi}
 
@@ -3198,7 +3197,7 @@ Kayavikkayā paṭivirato hoti. {.pali}
 
 Tulākūṭakaṃsakūṭamānakūṭā paṭivirato hoti. {.pali}
 
-...from dealing with false scales, false metals, and false measures... {.eng}
+falsifying weights, metals, or measures; {.eng}
 
 是離在秤重上欺瞞、偽造貨幣、度量欺詐者， {.chi}
 
@@ -3208,7 +3207,7 @@ Tulākūṭakaṃsakūṭamānakūṭā paṭivirato hoti. {.pali}
 
 Ukkoṭanavañcananikatisāciyogā paṭivirato hoti. {.pali}
 
-...from bribery, deception, and fraud. {.eng}
+bribery, fraud, cheating, and duplicity; {.eng}
 
 是離賄賂、欺瞞、詐欺、不實者， {.chi}
 
@@ -3218,7 +3217,7 @@ Ukkoṭanavañcananikatisāciyogā paṭivirato hoti. {.pali}
 
 Chedanavadhabandhanaviparāmosaālopasahasākārā paṭivirato hoti. {.pali}
 
-“He abstains from mutilating, executing, imprisoning, highway robbery, plunder, and violence. {.eng}
+mutilation, murder, abduction, banditry, plunder, and violence. {.eng}
 
 是離割截、殺害、捕縛、搶奪、掠奪、暴力者， {.chi}
 
@@ -3228,7 +3227,7 @@ Chedanavadhabandhanaviparāmosaālopasahasākārā paṭivirato hoti. {.pali}
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-“This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3240,7 +3239,7 @@ Idampissa hoti sīlasmiṃ. {.pali}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ bījagāmabhūtagāmasamārambhaṃ anuyuttā viharanti. {.pali}
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to damaging seed and plant life such as these — {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still engage in injuring plants and seeds. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事破壞種子類、草木類， {.chi}
 
@@ -3250,7 +3249,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ— mūlabījaṃ khandhabījaṃ phaḷubījaṃ aggabījaṃ bījabījameva pañcamaṃ, iti evarūpā bījagāmabhūtagāmasamārambhā paṭivirato hoti. {.pali}
 
-plants propagated from roots, stems, joints, buddings, and seeds — he abstains from damaging seed and plant life such as these. {.eng}
+These include plants propagated from roots, stems, cuttings, or joints; and those from regular seeds as the fifth. They refrain from such injury to plants and seeds. {.eng}
 
 即：根種子、莖種子、節種子、自落種子、種子種子[為]第五，這樣，他是離破壞種子類、草木類者， {.chi}
 
@@ -3260,7 +3259,7 @@ plants propagated from roots, stems, joints, buddings, and seeds — he abstains
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3272,7 +3271,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ sannidhikāraparibhogaṃ anuyuttā viharanti. {.pali}
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to consuming stored-up goods {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still engage in storing up goods for their own use. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事受用物的貯藏， {.chi}
 
@@ -3282,7 +3281,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ—annasannidhiṃ pānasannidhiṃ vatthasannidhiṃ yānasannidhiṃ sayanasannidhiṃ gandhasannidhiṃ āmisasannidhiṃ, iti vā iti evarūpā sannidhikāraparibhogā paṭivirato hoti. {.pali}
 
-such as these — stored-up food, stored-up drinks, stored-up clothing, stored-up vehicles, stored-up bedding, stored-up scents, and stored-up meat — he abstains from consuming stored-up goods such as these. {.eng}
+This includes such things as food, drink, clothes, vehicles, bedding, fragrance, and things of the flesh. They refrain from storing up such goods. {.eng}
 
 即：食物的貯藏、飲料的貯藏、衣物的貯藏、交通工具的貯藏、臥床的貯藏、香料的貯藏、肉的貯藏，這樣，他是離這樣或那樣受用物的貯藏者， {.chi}
 
@@ -3292,7 +3291,7 @@ such as these — stored-up food, stored-up drinks, stored-up clothing, stored-u
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3304,7 +3303,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ visūkadassanaṃ anuyuttā viharanti. {.pali}
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to watching shows {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still engage in seeing shows. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事看表演， {.chi}
 
@@ -3314,7 +3313,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ—naccaṃ gītaṃ vāditaṃ pekkhaṃ akkhānaṃ pāṇissaraṃ vetāḷaṃ kumbhathūṇaṃ sobhanakaṃ caṇḍālaṃ vaṃsaṃ dhovanaṃ {.pali}
 
-such as these — dancing, singing, instrumental music, plays, ballad recitations, hand-clapping, cymbals and drums, magic lantern scenes, acrobatic and conjuring tricks, {.eng}
+This includes such things as dancing, singing, music, performances, and storytelling; clapping, gongs, and kettledrums; beauty pageants; acrobatic and bone-washing displays of the corpse-workers; {.eng}
 
 即：舞蹈、歌唱、音樂、戲劇、講古、掌聲、鐃鈸、大鼓、魔術、鐵球戲、竹棒戲、特技、 {.chi}
 
@@ -3324,7 +3323,7 @@ such as these — dancing, singing, instrumental music, plays, ballad recitation
 
 hatthiyuddhaṃ assayuddhaṃ mahiṃsayuddhaṃ usabhayuddhaṃ ajayuddhaṃ meṇḍayuddhaṃ kukkuṭayuddhaṃ vaṭṭakayuddhaṃ daṇḍayuddhaṃ muṭṭhiyuddhaṃ {.pali}
 
-elephant fights, horse fights, buffalo fights, bull fights, goat fights, ram fights, cock fights, quail fights; {.eng}
+battles of elephants, horses, buffaloes, bulls, goats, rams, chickens, and quails; {.eng}
 
 象打鬥、馬打鬥、水牛打鬥、公牛打鬥、山羊打鬥、公羊打鬥、公雞打鬥、鵪鶉打鬥、棒杖打鬥、拳頭打鬥、 {.chi}
 
@@ -3334,7 +3333,7 @@ elephant fights, horse fights, buffalo fights, bull fights, goat fights, ram fig
 
 nibbuddhaṃ uyyodhikaṃ balaggaṃ senābyūhaṃ anīkadassanaṃ iti vā iti evarūpā visūkadassanā paṭivirato hoti. {.pali}
 
-fighting with staves, boxing, wrestling, war-games, roll calls, battle arrays, and regimental reviews — he abstains from watching shows such as these. {.eng}
+staff-fights, boxing, and wrestling; combat, roll calls of the armed forces, battle-formations, and regimental reviews. They refrain from such shows. {.eng}
 
 摔角、演習、兵列、軍陣、閱兵，這樣，他是離看這樣或那樣表演者， {.chi}
 
@@ -3344,7 +3343,7 @@ fighting with staves, boxing, wrestling, war-games, roll calls, battle arrays, a
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3356,7 +3355,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ jūtappamādaṭṭhānānuyogaṃ anuyuttā viharanti. {.pali}
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to heedless and idle games {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still engage in gambling that causes negligence. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事賭博放逸處， {.chi}
 
@@ -3366,7 +3365,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ—aṭṭhapadaṃ dasapadaṃ ākāsaṃ parihārapathaṃ santikaṃ khalikaṃ ghaṭikaṃ salākahatthaṃ akkhaṃ paṅgacīraṃ vaṅkakaṃ mokkhacikaṃ {.pali}
 
-such as these — eight-row chess, ten-row chess, chess in the air, hopscotch, spillikins, dice, stick games, hand-pictures, ball-games, blowing through toy pipes, playing with toy plows, turning somersaults, {.eng}
+This includes such things as checkers with eight or ten rows, checkers in the air, hopscotch, spillikins, board-games, tip-cat, drawing straws, dice, leaf-flutes, toy plows, somersaults, {.eng}
 
 即：八目棋、十目棋、空中棋、跳房子遊戲、石積遊戲、骰子板、打木棒遊戲、手型遊戲、骰子、吹葉笛、玩具鋤遊戲、翻筋斗遊戲、 {.chi}
 
@@ -3376,7 +3375,7 @@ such as these — eight-row chess, ten-row chess, chess in the air, hopscotch, s
 
 ciṅgulikaṃ pattāḷhakaṃ rathakaṃ dhanukaṃ akkharikaṃ manesikaṃ yathāvajjaṃ iti vā iti evarūpā jūtappamādaṭṭhānānuyogā paṭivirato hoti. {.pali}
 
-playing with toy windmills, toy measures, toy chariots, toy bows, guessing letters drawn in the air, guessing thoughts, mimicking deformities — he abstains from heedless and idle games such as these. {.eng}
+pinwheels, toy measures, toy carts, toy bows, guessing words from syllables, guessing another’s thoughts, and imitating musical instruments. They refrain from such gambling. {.eng}
 
 玩具風車遊戲、玩具量器遊戲、車遊戲遊戲、玩具弓箭遊戲、猜字遊戲、猜想法遊戲、模仿瑕疵遊戲，這樣，他是離這樣或那樣賭博放逸處者， {.chi}
 
@@ -3386,7 +3385,7 @@ playing with toy windmills, toy measures, toy chariots, toy bows, guessing lette
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3398,7 +3397,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ uccāsayanamahāsayanaṃ anuyuttā viharanti. {.pali}
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to high and luxurious furnishings {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still make use of high and luxurious bedding. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後， {.chi}
 
@@ -3408,7 +3407,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ—āsandiṃ pallaṅkaṃ gonakaṃ cittakaṃ paṭikaṃ paṭalikaṃ {.pali}
 
-such as these — over-sized couches, couches adorned with carved animals, long-haired coverlets, multi-colored patchwork coverlets, white woolen coverlets, woolen coverlets embroidered with flowers or animal figures, {.eng}
+This includes such things as sofas, couches, woolen covers—shag-piled, colorful, white, embroidered with flowers, quilted, embroidered with animals, {.eng}
 
 這樣，他們住於從事高床、大床，即：高椅、長椅、長羊毛覆蓋物、彩色覆蓋物、長羊毛覆蓋物、白羊毛覆蓋物、厚布墊、毛織墊、 {.chi}
 
@@ -3418,7 +3417,7 @@ such as these — over-sized couches, couches adorned with carved animals, long-
 
 tūlikaṃ vikatikaṃ uddalomiṃ ekantalomiṃ kaṭṭissaṃ koseyyaṃ {.pali}
 
-stuffed quilts, coverlets with fringe, silk coverlets embroidered with gems;  {.eng}
+double-or single-fringed—and silk covers studded with gems, as well as silken sheets, {.eng}
 
 邊緣有毛繸的墊子、一邊緣有毛繸的墊子、珠寶刺繡的絹織覆蓋物、絹布、 {.chi}
 
@@ -3428,7 +3427,7 @@ stuffed quilts, coverlets with fringe, silk coverlets embroidered with gems;  {.
 
 kuttakaṃ hatthattharaṃ assattharaṃ rathattharaṃ ajinappaveṇiṃ kadalimigapavarapaccattharaṇaṃ sauttaracchadaṃ ubhatolohitakūpadhānaṃ iti vā iti evarūpā uccāsayanamahāsayanā paṭivirato hoti. {.pali}
 
-large woolen carpets; elephant, horse, and chariot rugs, antelope-hide rugs, deer-hide rugs; couches with awnings, couches with red cushions for the head and feet — he abstains from using high and luxurious furnishings such as these. {.eng}
+woven carpets, rugs for elephants, horses, or chariots, antelope hide rugs, and spreads of fine deer hide, with a canopy above and red cushions at both ends. They refrain from such bedding. {.eng}
 
 毛織覆蓋物、象背氈墊、馬背氈墊、車上氈墊、羊皮的編織物、頂級羚鹿皮覆蓋物、有頂篷的、兩端有紅色枕墊，這樣，他是離這樣或那樣高床、大床者， {.chi}
 
@@ -3438,7 +3437,7 @@ large woolen carpets; elephant, horse, and chariot rugs, antelope-hide rugs, dee
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3450,7 +3449,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ maṇḍanavibhūsanaṭṭhānānuyogaṃ anuyuttā viharanti. {.pali}
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to scents, cosmetics, and means of beautification {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still engage in beautifying and adorning themselves with garlands, fragrance, and makeup. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事塗抹物之打扮狀態， {.chi}
 
@@ -3460,7 +3459,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ— ucchādanaṃ parimaddanaṃ nhāpanaṃ sambāhanaṃ ādāsaṃ añjanaṃ mālāgandhavilepanaṃ mukhacuṇṇaṃ mukhalepanaṃ {.pali}
 
-such as these — rubbing powders into the body, massaging with oils, bathing in perfumed water, kneading the limbs, using mirrors, ointments, garlands, scents, creams, face-powders, mascara, {.eng}
+This includes such things as applying beauty products by anointing, massaging, bathing, and rubbing; mirrors, ointments, garlands, fragrances, and makeup; face-powder, foundation, {.eng}
 
 即：[芳香]塗身、按摩、[芳香]沐浴、揉擦[四肢]、[使用]鏡子、眼膏、花環、香料、塗油、塗臉粉、塗臉油、 {.chi}
 
@@ -3470,9 +3469,9 @@ such as these — rubbing powders into the body, massaging with oils, bathing in
 
 hatthabandhaṃ sikhābandhaṃ daṇḍaṃ nāḷikaṃ asiṃ chattaṃ citrupāhanaṃ uṇhīsaṃ maṇiṃ vālabījaniṃ odātāni vatthāni dīghadasāni iti vā iti {.pali}
 
-bracelets, head-bands, decorated walking sticks, ornamented water-bottles, swords, fancy sunshades, decorated sandals, turbans, gems, yak-tail whisks, long-fringed white robes — {.eng}
+bracelets, headbands, fancy walking-sticks or containers, rapiers, parasols, fancy sandals, turbans, jewelry, chowries, and long-fringed white robes. {.eng}
 
-手環、髮飾、[裝飾用]手杖、[裝飾用]水瓶、劍、[裝飾用]傘、彩繪鞋、頭巾、寶石、拂塵、白色衣服、長繸 ， {.chi}
+手環、髮飾、[裝飾用]手杖、[裝飾用]水瓶、劍、[裝飾用]傘、彩繪鞋、頭巾、寶石、拂塵、白色衣服、長繸， {.chi}
 
 戴手鐲、紮髻、持杖、持瓶、持劍、持傘、穿有花飾的鞋、戴冠、戴珠寶、用塵拂、穿有長繐的白衣等。 {.chi}
 
@@ -3480,7 +3479,7 @@ bracelets, head-bands, decorated walking sticks, ornamented water-bottles, sword
 
 evarūpā maṇḍanavibhūsanaṭṭhānānuyogā paṭivirato hoti. {.pali}
 
-he abstains from using scents, cosmetics, and means of beautification such as these. {.eng}
+They refrain from such beautification and adornment. {.eng}
 
 這樣，他是離這樣或那樣塗抹物之打扮狀態者， {.chi}
 
@@ -3490,7 +3489,7 @@ he abstains from using scents, cosmetics, and means of beautification such as th
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3502,7 +3501,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ tiracchānakathaṃ anuyuttā viharanti. {.pali}
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to talking about lowly topics {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still engage in low talk. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事畜生論， {.chi}
 
@@ -3512,7 +3511,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ– rājakathaṃ corakathaṃ mahāmattakathaṃ senākathaṃ bhayakathaṃ yuddhakathaṃ annakathaṃ pānakathaṃ vatthakathaṃ sayanakathaṃ mālākathaṃ gandhakathaṃ ñātikathaṃ yānakathaṃ gāmakathaṃ nigamakathaṃ nagarakathaṃ janapadakathaṃ {.pali}
 
-such as these — talking about kings, robbers, ministers of state; armies, alarms, and battles; food and drink; clothing, furniture, garlands, and scents; relatives; vehicles; villages, towns, cities, the countryside; {.eng}
+This includes such topics as talk about kings, bandits, and ministers; talk about armies, threats, and wars; talk about food, drink, clothes, and beds; talk about garlands and fragrances; talk about family, vehicles, villages, towns, cities, and countries; {.eng}
 
 即：國王論、盜賊論、大臣論、軍隊論、怖畏論、戰爭論、食物論、飲料論、衣服論、臥具論、花環論、氣味論、親里論、車乘論、村落論、城鎮論、城市論、國土論、 {.chi}
 
@@ -3522,7 +3521,7 @@ such as these — talking about kings, robbers, ministers of state; armies, alar
 
 itthikathaṃ sūrakathaṃ visikhākathaṃ kumbhaṭṭhānakathaṃ pubbapetakathaṃ nānattakathaṃ lokakkhāyikaṃ samuddakkhāyikaṃ itibhavābhavakathaṃ iti vā iti evarūpāya tiracchānakathāya paṭivirato hoti. {.pali}
 
-women and heroes; the gossip of the street and the well; tales of the dead; tales of diversity [philosophical discussions of the past and future], the creation of the world and of the sea, and talk of whether things exist or not — he abstains from talking about lowly topics such as these. {.eng}
+talk about women and heroes; street talk and well talk; talk about the departed; motley talk; tales of land and sea; and talk about being reborn in this or that state of existence. They refrain from such low talk. {.eng}
 
 女人論、英雄論、街道論、水井論、祖靈論、種種論、世界起源論、海洋起源論、如是有無論 ，這樣，他是離這樣或那樣畜生論者， {.chi}
 
@@ -3532,7 +3531,7 @@ women and heroes; the gossip of the street and the well; tales of the dead; tale
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3544,7 +3543,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ viggāhikakathaṃ anuyuttā viharanti. {.pali}
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to debates such as these — {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still engage in arguments. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事諍論， {.chi}
 
@@ -3554,7 +3553,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ—na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi, kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi, micchā paṭipanno tvamasi, ahamasmi sammā paṭipanno, sahitaṃ me, asahitaṃ te, {.pali}
 
-‘You understand this doctrine and discipline? I‘m the one who understands this doctrine and discipline. How could you understand this doctrine and discipline? You‘re practicing wrongly. I‘m practicing rightly. I‘m being consistent. You‘re not. {.eng}
+They say such things as: ‘You don’t understand this teaching and training. I understand this teaching and training. What, you understand this teaching and training? You’re practicing wrong. I’m practicing right. I stay on topic, you don’t. {.eng}
 
 即：『你不了知這法、律，我了知這法、律；你了知這法、律什麼！你是邪行者，我是正行者；我的是一致的，你的是不一致的： {.chi}
 
@@ -3564,7 +3563,7 @@ Seyyathidaṃ—na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhamm
 
 pure vacanīyaṃ pacchā avaca, pacchā vacanīyaṃ pure avaca, adhiciṇṇaṃ te viparāvattaṃ, āropito te vādo, niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosīti iti vā iti evarūpāya viggāhikakathāya paṭivirato hoti. {.pali}
 
-What should be said first you said last. What should be said last you said first. What you took so long to think out has been refuted. Your doctrine has been overthrown. You‘re defeated. Go and try to salvage your doctrine; extricate yourself if you can!’ — he abstains from debates such as these. {.eng}
+You said last what you should have said first. You said first what you should have said last. What you’ve thought so much about has been disproved. Your doctrine is refuted. Go on, save your doctrine! You’re trapped; get yourself out of this—if you can!’ They refrain from such argumentative talk. {.eng}
 
 應該先說的而後說，應該後說的而先說；一直以來你所熟練的是顛倒的；你的理論已被論破，去救[你的]理論；你已被折伏，請你拆解，如果你能。』 這樣，他是離這樣或那樣諍論者， {.chi}
 
@@ -3574,7 +3573,7 @@ What should be said first you said last. What should be said last you said first
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3586,7 +3585,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ dūteyyapahiṇagamanānuyogaṃ anuyuttā viharanti. {.pali}
 
-“Whereas some brahmans and contemplatives, living off food given in faith, are addicted to running messages and errands for people {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still engage in running errands and messages. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們住於從事當信差來往， {.chi}
 
@@ -3596,7 +3595,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ— raññaṃ, rājamahāmattānaṃ, khattiyānaṃ, brāhmaṇānaṃ, gahapatikānaṃ, kumārānaṃ— idha gaccha, amutrāgaccha, idaṃ hara, amutra idaṃ āharā’ti iti vā iti {.pali}
 
-such as these — kings, ministers of state, noble warriors, brahmans, householders, or youths [who say], ‘Go here, go there, take this there, fetch that here’ — {.eng}
+This includes running errands for rulers, ministers, aristocrats, brahmins, householders, or princes who say: ‘Go here, go there. Take this, bring that from there.’ {.eng}
 
 即：屬於國王、國王的大臣、剎帝利、婆羅門、屋主、青年的[，他們說]：『你去這裡，你去那裡；取這個[去]，在那裡，拿這個來。』 {.chi}
 
@@ -3606,7 +3605,7 @@ such as these — kings, ministers of state, noble warriors, brahmans, household
 
 evarūpā dūteyyapahiṇagamanānuyogā paṭivirato hoti. {.pali}
 
-he abstains from running messages and errands for people such as these. {.eng}
+They refrain from such errands. {.eng}
 
 這樣，他是離這樣或那樣當信差來往者， {.chi}
 
@@ -3616,7 +3615,7 @@ he abstains from running messages and errands for people such as these. {.eng}
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3628,7 +3627,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te kuhakā ca honti lapakā ca nemittikā ca nippesikā ca lābhena lābhaṃ nijigīsitāro ca. {.pali}
 
-“Whereas some brahmans and contemplatives, living off food given in faith, engage in scheming, persuading, hinting, belittling, and pursuing gain with gain, {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still engage in deceit, flattery, hinting, and belittling, and using material possessions to chase after other material possessions. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們是設計、攀談、暗示、譏諷、以利養換取其他利養者， {.chi}
 
@@ -3638,7 +3637,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Iti evarūpā kuhanalapanā paṭivirato hoti. {.pali}
 
-he abstains from forms of scheming and persuading [improper ways of trying to gain material support from donors] such as these. {.eng}
+They refrain from such deceit and flattery. {.eng}
 
 這樣，他是離詭詐說話者， {.chi}
 
@@ -3648,7 +3647,7 @@ he abstains from forms of scheming and persuading [improper ways of trying to ga
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3660,7 +3659,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti. {.pali}
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still earn a living by low lore, by wrong livelihood. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
@@ -3670,7 +3669,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ—aṅgaṃ nimittaṃ uppātaṃ supinaṃ lakkhaṇaṃ mūsikacchinnaṃ aggihomaṃ dabbihomaṃ thusahomaṃ kaṇahomaṃ taṇḍulahomaṃ sappihomaṃ telahomaṃ mukhahomaṃ lohitahomaṃ {.pali}
 
-by such “animal” arts as: reading marks on the limbs [e.g., palmistry]; reading omens and signs; interpreting celestial events [falling stars, comets]; interpreting dreams; reading features of the body [e.g., phrenology]; reading marks on cloth gnawed by mice; offering fire oblations, oblations from a ladle, oblations of husks, rice powder, rice grains, ghee, and oil; offering oblations from the mouth; offering blood-sacrifices; {.eng}
+This includes such fields as limb-reading, omenology, divining celestial portents, interpreting dreams, divining bodily marks, divining holes in cloth gnawed by mice, fire offerings, ladle offerings, offerings of husks, rice powder, rice, ghee, or oil; offerings from the mouth, blood sacrifices, {.eng}
 
 即：肢體相、天變地異的占相、夢的占相、男女相的占相、被老鼠咬破的占相、火的獻供(護摩)、杓子的獻供、稻殼的獻供、米糠的獻供、米粒的獻供、熟酥的獻供、油的獻供、口的獻供、血的獻供、 {.chi}
 
@@ -3680,7 +3679,7 @@ by such “animal” arts as: reading marks on the limbs [e.g., palmistry]; read
 
 aṅgavijjā vatthuvijjā khattavijjā sivavijjā bhūtavijjā bhūrivijjā ahivijjā visavijjā vicchikavijjā mūsikavijjā sakuṇavijjā vāyasavijjā pakkajjhānaṃ saraparittāṇaṃ migacakkaṃ iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. {.pali}
 
-making predictions based on the fingertips; geomancy; making predictions for state officials; laying demons in a cemetery; placing spells on spirits; earth-skills [divining water and gems?]; snake-skills, poison-skills, scorpion-skills, rat-skills, bird-skills, crow-skills; predicting life spans; giving protective charms; casting horoscopes — he abstains from wrong livelihood, from “animal” arts such as these {.eng}
+palmistry; geomancy for building sites, fields, and cemeteries; exorcisms, earth magic, snake charming, poisons; the lore of the scorpion, the rat, the bird, and the crow; prophesying life span, chanting for protection, and divining omens from wild animals. They refrain from such low lore, such wrong livelihood. {.eng}
 
 手足明、宅地明、政治明、福咒明、鬼神明、土地明、蛇明、毒藥明、蠍子明、老鼠明、鳥明、烏鴉明、算命、箭除之法、獸的領域， 這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
@@ -3690,7 +3689,7 @@ making predictions based on the fingertips; geomancy; making predictions for sta
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3702,7 +3701,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti. {.pali}
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as: {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still earn a living by low lore, by wrong livelihood. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
@@ -3712,7 +3711,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ— maṇilakkhaṇaṃ vatthalakkhaṇaṃ daṇḍalakkhaṇaṃ satthalakkhaṇaṃ asilakkhaṇaṃ usulakkhaṇaṃ dhanulakkhaṇaṃ āvudhalakkhaṇaṃ itthilakkhaṇaṃ purisalakkhaṇaṃ kumāralakkhaṇaṃ kumārilakkhaṇaṃ dāsalakkhaṇaṃ dāsilakkhaṇaṃ {.pali}
 
-determining lucky and unlucky gems, staffs, garments, swords, arrows, bows, and other weapons; women, men, boys, girls, male slaves, female slaves; {.eng}
+This includes reading the marks of gems, cloth, clubs, swords, spears, arrows, weapons, women, men, boys, girls, male and female bondservants, {.eng}
 
 即：寶石占相、衣服占相、棒杖占相、刀占相、劍占相、箭占相、弓占相、武器占相、女子占相、男子占相、童男占相、童女占相、奴僕占相、 {.chi}
 
@@ -3722,7 +3721,7 @@ determining lucky and unlucky gems, staffs, garments, swords, arrows, bows, and 
 
 hatthilakkhaṇaṃ assalakkhaṇaṃ mahiṃsalakkhaṇaṃ usabhalakkhaṇaṃ golakkhaṇaṃ ajalakkhaṇaṃ meṇḍalakkhaṇaṃ kukkuṭalakkhaṇaṃ vaṭṭakalakkhaṇaṃ godhālakkhaṇaṃ kaṇṇikalakkhaṇaṃ kacchapalakkhaṇaṃ migalakkhaṇaṃ iti vā iti {.pali}
 
-elephants, horses, buffaloes, bulls, cows, goats, rams, fowl, quails, lizards, rabbits, tortoises, and other animals — {.eng}
+elephants, horses, buffaloes, bulls, cows, goats, rams, chickens, quails, monitor lizards, rabbits, tortoises, or deer. {.eng}
 
 象占相、馬占相、水牛占相、公牛占相、牛占相、山羊占相、公羊占相、雞占相、鵪鶉占相、蜥蜴占相、耳環占相、龜占相、鹿占相，  {.chi}
 
@@ -3732,7 +3731,7 @@ elephants, horses, buffaloes, bulls, cows, goats, rams, fowl, quails, lizards, r
 
 evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. {.pali}
 
-he abstains from wrong livelihood, from “animal” arts such as these. {.eng}
+They refrain from such low lore, such wrong livelihood. {.eng}
 
 這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
@@ -3742,7 +3741,7 @@ he abstains from wrong livelihood, from “animal” arts such as these. {.eng}
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3754,7 +3753,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti. {.pali}
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as [forecasting]: {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still earn a living by low lore, by wrong livelihood. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
@@ -3764,9 +3763,9 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ—raññaṃ niyyānaṃ bhavissati, raññaṃ aniyyānaṃ bhavissati, abbhantarānaṃ raññaṃ upayānaṃ bhavissati, bāhirānaṃ raññaṃ apayānaṃ bhavissati, bāhirānaṃ raññaṃ upayānaṃ bhavissati, abbhantarānaṃ raññaṃ apayānaṃ bhavissati, {.pali}
 
-the rulers will march forth; the rulers will not march forth; our rulers will attack, and their rulers will retreat; their rulers will attack, and our rulers will retreat; {.eng}
+This includes making predictions that the king will march forth or march back; or that our king will attack and the enemy king will retreat, or vice versa; {.eng}
 
-即：諸王將出發；諸王將不出發、內部諸王將到來；外部諸王將退卻、外部諸王將到來； {.chi}
+即：諸王將出發；諸王將不出發、內部諸王將到來；外部諸王將退卻、外部諸王將到來；內部諸王將退卻、 {.chi}
 
 如從事預測：『國王將會出征，國王將會收兵。』『我們的國王將會推進，對方的國王將會撤退。』『對方的國王將會推進，我們的國王將會撤退。』 {.chi}
 
@@ -3774,9 +3773,9 @@ the rulers will march forth; the rulers will not march forth; our rulers will at
 
 abbhantarānaṃ raññaṃ jayo bhavissati, bāhirānaṃ raññaṃ parājayo bhavissati, bāhirānaṃ raññaṃ jayo bhavissati, abbhantarānaṃ raññaṃ parājayo bhavissati, {.pali}
 
-there will be triumph for our rulers and defeat for their rulers; there will be triumph for their rulers and defeat for our rulers; {.eng}
+or that our king will triumph and the enemy king will be defeated, or vice versa; {.eng}
 
-內部諸王將退卻、內部諸王將勝利；外部諸王將敗北、外部諸王將勝利；內部諸王將敗北， {.chi}
+內部諸王將勝利；外部諸王將敗北、外部諸王將勝利；內部諸王將敗北， {.chi}
 
 『我們的國王將會戰勝，對方的國王將會戰敗。』『對方的國王將會戰勝，我們的國王將會戰敗。』 {.chi}
 
@@ -3784,7 +3783,7 @@ there will be triumph for our rulers and defeat for their rulers; there will be 
 
 iti imassa jayo bhavissati, imassa parājayo bhavissati iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. {.pali}
 
-thus there will be triumph this one, defeat for that one — he abstains from wrong livelihood, from “animal” arts such as these. {.eng}
+and so there will be victory for one and defeat for the other. They refrain from such low lore, such wrong livelihood. {.eng}
 
 這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
@@ -3794,7 +3793,7 @@ thus there will be triumph this one, defeat for that one — he abstains from wr
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3806,7 +3805,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti. {.pali}
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as [forecasting]: {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still earn a living by low lore, by wrong livelihood. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
@@ -3816,7 +3815,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ— candaggāho bhavissati, sūriyaggāho bhavissati, nakkhattaggāho bhavissati, candimasūriyānaṃ pathagamanaṃ bhavissati, candimasūriyānaṃ uppathagamanaṃ bhavissati, {.pali}
 
-there will be a lunar eclipse; there will be a solar eclipse; there will be an occultation of [a conjunction of the moon or a planet with] an asterism; the sun and moon will be favorable; the sun and moon will be unfavorable; {.eng}
+This includes making predictions that there will be an eclipse of the moon, or sun, or stars; that the sun, moon, and stars will be in conjunction or in opposition; {.eng}
 
 即：將有月蝕、將有日蝕、將有星蝕、將有日月的[正常]軌道、將有日月的偏離軌道、將有星辰的[正常]軌道、將有星辰的偏離軌道、 {.chi}
 
@@ -3826,7 +3825,7 @@ there will be a lunar eclipse; there will be a solar eclipse; there will be an o
 
 nakkhattānaṃ pathagamanaṃ bhavissati, nakkhattānaṃ uppathagamanaṃ bhavissati, ukkāpāto bhavissati, disāḍāho bhavissati, bhūmicālo bhavissati, devadudrabhi bhavissati, candimasūriyanakkhattānaṃ uggamanaṃ ogamanaṃ saṅkilesaṃ vodānaṃ bhavissati, {.pali}
 
-the asterisms will be favorable; the asterisms will be unfavorable; there will be a meteor shower; there will be a flickering light on the horizon [an aurora?]; there will be an earthquake; there will be thunder coming from dry clouds; there will be a rising, a setting, a darkening, a brightening of the sun, moon, and asterisms; {.eng}
+that there will be a meteor shower, a fiery sky, an earthquake, thunder; that there will be a rising, a setting, a darkening, a brightening of the moon, sun, and stars. {.eng}
 
 將有流星的隕落、將有天火、將有地震、將有天鼓、將有日月星辰的上升下沉遮蔽明淨、 {.chi}
 
@@ -3836,7 +3835,7 @@ the asterisms will be favorable; the asterisms will be unfavorable; there will b
 
 evaṃvipāko candaggāho bhavissati, evaṃvipāko sūriyaggāho bhavissati, evaṃvipāko nakkhattaggāho bhavissati, evaṃvipākaṃ candimasūriyānaṃ pathagamanaṃ bhavissati, evaṃvipākaṃ candimasūriyānaṃ uppathagamanaṃ bhavissati, {.pali}
 
-such will be the result of the lunar eclipse ... {.eng}
+And it also includes making predictions about the results of all such phenomena. {.eng}
 
 月蝕將有這樣的果報、日蝕將有這樣的果報、星蝕將有這樣的果報、日月[正常]軌道將有這樣的果報、日月偏離軌道將有這樣的果報、 {.chi}
 
@@ -3856,7 +3855,7 @@ evaṃvipākaṃ nakkhattānaṃ pathagamanaṃ bhavissati, evaṃvipākaṃ nak
 
 evaṃvipākaṃ candimasūriyanakkhattānaṃ uggamanaṃ ogamanaṃ saṅkilesaṃ vodānaṃ bhavissati iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. Idampissa hoti sīlasmiṃ. {.pali}
 
-the rising, setting, darkening, brightening of the sun, moon, and asterisms — he abstains from wrong livelihood, from “animal” arts such as these. {.eng}
+... They refrain from such low lore, such wrong livelihood. This pertains to their ethics. {.eng}
 
 日月星辰的上升下沉遮蔽明淨將有這樣的果報，這樣，他是離這樣或那樣以畜生明邪命謀生者，這也是關於戒。 {.chi}
 
@@ -3866,7 +3865,7 @@ the rising, setting, darkening, brightening of the sun, moon, and asterisms — 
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti. {.pali}
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as [forecasting]: {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still earn a living by low lore, by wrong livelihood. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
@@ -3876,7 +3875,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ— suvuṭṭhikā bhavissati, dubbuṭṭhikā bhavissati, subhikkhaṃ bhavissati, dubbhikkhaṃ bhavissati, khemaṃ bhavissati, bhayaṃ bhavissati, rogo bhavissati, ārogyaṃ bhavissati, {.pali}
 
-there will be abundant rain; there will be a drought; there will be plenty; there will be famine; there will be rest and security; there will be danger; there will be disease; there will be freedom from disease; {.eng}
+This includes predicting whether there will be plenty of rain or drought; plenty to eat or famine; an abundant harvest or a bad harvest; security or peril; sickness or health. {.eng}
 
 即：將多雨、將難有雨、將豊收、將飢饉、將安穩、將有恐怖、將有疾病、將無病、 {.chi}
 
@@ -3886,7 +3885,7 @@ there will be abundant rain; there will be a drought; there will be plenty; ther
 
 muddā, gaṇanā, saṅkhānaṃ, kāveyyaṃ, lokāyataṃ iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. {.pali}
 
-or they earn their living by accounting, counting, calculation, composing poetry, or teaching hedonistic arts and doctrines [lokāyata] — he abstains from wrong livelihood, from “animal” arts such as these. {.pali} {.eng}
+It also includes such occupations as arithmetic, accounting, calculating, poetry, and cosmology. They refrain from such low lore, such wrong livelihood. {.eng}
 
 查驗、會計、計算、詩作、世間論，這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
@@ -3896,7 +3895,7 @@ or they earn their living by accounting, counting, calculation, composing poetry
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3908,19 +3907,17 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti. {.pali}
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as: {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still earn a living by low lore, by wrong livelihood. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
-「一些沙門婆羅門吃了信眾所布施的食物，但卻從事俗世間的知識學問，以不正確
-
-的方式來活命， {.chi}
+「一些沙門婆羅門吃了信眾所布施的食物，但卻從事俗世間的知識學問，以不正確的方式來活命， {.chi}
 
 ---
 
 Seyyathidaṃ— āvāhanaṃ vivāhanaṃ saṃvaraṇaṃ vivaraṇaṃ saṅkiraṇaṃ vikiraṇaṃ subhagakaraṇaṃ dubbhagakaraṇaṃ viruddhagabbhakaraṇaṃ {.pali}
 
-calculating auspicious dates for marriages — both those in which the bride is brought home and those in which she is sent out; calculating auspicious dates for betrothals and divorces; for collecting debts or making investments and loans; reciting charms to make people attractive or unattractive; curing women who have undergone miscarriages or abortions; {.eng}
+This includes making arrangements for giving and taking in marriage; for engagement and divorce; and for scattering rice inwards or outwards at the wedding ceremony. It also includes casting spells for good or bad luck, treating impacted fetuses, {.eng}
 
 即：嫁娶[時間]、結婚、離婚、揭幕、討債、貸出、開運、作惡運、墮胎、 {.chi}
 
@@ -3930,7 +3927,7 @@ calculating auspicious dates for marriages — both those in which the bride is 
 
 jivhānibandhanaṃ hanusaṃhananaṃ hatthābhijappanaṃ hanujappanaṃ kaṇṇajappanaṃ ādāsapañhaṃ kumārikapañhaṃ devapañhaṃ {.pali}
 
-reciting spells to bind a man‘s tongue, to paralyze his jaws, to make him lose control over his hands, or to bring on deafness; getting oracular answers to questions addressed to a spirit in a mirror, in a young girl, or to a spirit medium; {.eng}
+binding the tongue, or locking the jaws; charms for the hands and ears; questioning a mirror, a girl, or a god as an oracle; {.eng}
 
 綁舌[咒術]、使顎被結縛[咒術]、[他人]手控制咒術、顎咒術、耳聾咒術、詢問鏡子[而得答案]、詢問女孩[靈媒]、詢問天、 {.chi}
 
@@ -3940,7 +3937,7 @@ reciting spells to bind a man‘s tongue, to paralyze his jaws, to make him lose
 
 ādiccupaṭṭhānaṃ mahatupaṭṭhānaṃ abbhujjalanaṃ sirivhāyanaṃ iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. {.pali}
 
-worshipping the sun, worshipping the Great Brahmā, bringing forth flames from the mouth, invoking the goddess of luck — he abstains from wrong livelihood, from “animal” arts such as these. {.pali} {.eng}
+worshiping the sun, worshiping the Great One, breathing fire, and invoking Siri, the goddess of luck. They refrain from such low lore, such wrong livelihood. {.pali} {.eng}
 
 太陽崇拜、大[梵天]崇拜、口吐出火、招請幸運女神，這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
@@ -3950,7 +3947,7 @@ worshipping the sun, worshipping the Great Brahmā, bringing forth flames from t
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue. {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -3962,7 +3959,7 @@ This, too, is part of his virtue. {.eng}
 
 Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti. {.pali}
 
-“Whereas some contemplatives & brahmans, living off food given in faith, maintain themselves by wrong livelihood, by such “animal” arts as: {.eng}
+There are some ascetics and brahmins who, while enjoying food given in faith, still earn a living by low lore, by wrong livelihood. {.eng}
 
 如某些沙門、婆羅門吃了以信應該施與的食物後，這樣，他們以畜生明邪命謀生， {.chi}
 
@@ -3972,7 +3969,7 @@ Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñji
 
 Seyyathidaṃ— santikammaṃ paṇidhikammaṃ bhūtakammaṃ bhūrikammaṃ {.pali}
 
-promising gifts to deities in return for favors; fulfilling such promises; demonology; reciting spells in earth houses [see earth skills, above];  {.eng}
+This includes rites for propitiation, for granting wishes, for ghosts, for the earth, {.eng}
 
 即：透過神而使變得寂靜的儀式、誓願儀式、鬼神儀式、居地儀式、 {.chi}
 
@@ -3982,7 +3979,7 @@ promising gifts to deities in return for favors; fulfilling such promises; demon
 
 vassakammaṃ vossakammaṃ vatthukammaṃ vatthuparikammaṃ ācamanaṃ nhāpanaṃ juhanaṃ {.pali}
 
-inducing virility and impotence; preparing sites for construction; consecrating sites for construction; giving ceremonial mouthwashes and ceremonial baths; offering sacrificial fires; {.eng}
+for rain, for property settlement, and for preparing and consecrating house sites, and rites involving rinsing and bathing, and oblations. {.eng}
 
 [使]元氣旺盛儀式、[使]性無能儀式、房地儀式、房地準備儀式、洗淨、[芳香]沐浴、獻供、 {.chi}
 
@@ -3992,7 +3989,7 @@ inducing virility and impotence; preparing sites for construction; consecrating 
 
 vamanaṃ virecanaṃ uddhaṃvirecanaṃ adhovirecanaṃ sīsavirecanaṃ kaṇṇatelaṃ nettatappanaṃ natthukammaṃ añjanaṃ paccañjanaṃ {.pali}
 
-administering emetics, purges, purges from above, purges from below, head-purges; ear-oil, eye-drops, treatments through the nose, ointments, and counter-ointments; {.eng}
+It also includes administering emetics, purgatives, expectorants, and phlegmagogues; administering ear-oils, eye restoratives, nasal medicine, ointments, and counter-ointments; {.eng}
 
 催吐劑、瀉藥、向上瀉藥、向下瀉藥、頭的瀉藥、耳油藥、眼藥水、灌鼻、藥膏、塗油、 {.chi}
 
@@ -4002,7 +3999,7 @@ administering emetics, purges, purges from above, purges from below, head-purges
 
 sālākiyaṃ sallakattiyaṃ dārakatikicchā, mūlabhesajjānaṃ anuppadānaṃ, osadhīnaṃ paṭimokkho iti vā iti {.pali}
 
-practicing eye-surgery [or: extractive surgery], general surgery, pediatrics; administering root-medicines and binding medicinal herbs — {.eng}
+surgery with needle and scalpel, treating children, prescribing root medicines, and binding on herbs. {.eng}
 
 眼科、外科、兒科、根藥、無生(藥的解藥)、藥草、瀉劑， {.chi}
 
@@ -4012,7 +4009,7 @@ practicing eye-surgery [or: extractive surgery], general surgery, pediatrics; ad
 
 evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. {.pali}
 
-he abstains from wrong livelihood, from “animal” arts such as these. {.eng}
+They refrain from such low lore, such wrong livelihood. {.eng}
 
 這樣，他是離這樣或那樣以畜生明邪命謀生者， {.chi}
 
@@ -4022,7 +4019,7 @@ he abstains from wrong livelihood, from “animal” arts such as these. {.eng}
 
 Idampissa hoti sīlasmiṃ. {.pali}
 
-This, too, is part of his virtue.” {.eng}
+This pertains to their ethics. {.eng}
 
 這也是關於戒。 {.chi}
 
@@ -4034,7 +4031,7 @@ This, too, is part of his virtue.” {.eng}
 
 Sa kho so, mahārāja, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ samanupassati, yadidaṃ sīlasaṃvarato. {.pali}
 
-“A monk thus consummate in virtue sees no danger anywhere from his restraint through virtue. {.eng}
+A mendicant thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. {.eng}
 
 大王！那位這樣戒具足的比丘在任何地方都不看見戒自制的恐怖， {.chi}
 
@@ -4044,7 +4041,7 @@ Sa kho so, mahārāja, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ samanupas
 
 Seyyathāpi, mahārāja, rājā khattiyo muddhābhisitto nihatapaccāmitto na kutoci bhayaṃ samanupassati, yadidaṃ paccatthikato; {.pali}
 
-Just as a head-anointed noble warrior king who has defeated his enemies sees no danger anywhere from his enemies, {.eng}
+It’s like a king who has defeated his enemies. He sees no danger from his foes in any quarter. {.eng}
 
 大王！猶如敵人已被殺害的剎帝利灌頂王，在任何地方都不看見敵人的恐怖， {.chi}
 
@@ -4054,7 +4051,7 @@ Just as a head-anointed noble warrior king who has defeated his enemies sees no 
 
 evameva kho, mahārāja, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ samanupassati, yadidaṃ sīlasaṃvarato. {.pali}
 
-in the same way the monk thus consummate in virtue sees no danger anywhere from his restraint through virtue. {.eng}
+In the same way, a mendicant thus accomplished in ethics sees no danger in any quarter in regards to their ethical restraint. {.eng}
 
 同樣的，大王！那位這樣戒具足的比丘在任何地方都不看見戒自制的恐怖。 {.chi}
 
@@ -4064,7 +4061,7 @@ in the same way the monk thus consummate in virtue sees no danger anywhere from 
 
 So iminā ariyena sīlakkhandhena samannāgato ajjhattaṃ anavajjasukhaṃ paṭisaṃvedeti. {.pali}
 
-Endowed with this noble aggregate of virtue, he is inwardly sensitive to the pleasure of being blameless. {.eng}
+When they have this entire spectrum of noble ethics, they experience a blameless happiness inside themselves. {.eng}
 
 已具備這聖戒蘊，他自身內感受無過失的安樂， {.chi}
 
@@ -4074,7 +4071,7 @@ Endowed with this noble aggregate of virtue, he is inwardly sensitive to the ple
 
 Evaṃ kho, mahārāja, bhikkhu sīlasampanno hoti. {.pali}
 
-This is how a monk is consummate in virtue. {.eng}
+That’s how a mendicant is accomplished in ethics. {.eng}
 
 大王！這樣，比丘是戒具足者。 {.chi}
 
@@ -4086,7 +4083,7 @@ This is how a monk is consummate in virtue. {.eng}
 
 Kathañca, mahārāja, bhikkhu indriyesu guttadvāro hoti? {.pali}
 
-“And how does a monk guard the doors of his senses? {.eng}
+And how does a mendicant guard the sense doors? {.eng}
 
 大王！比丘如何是守護根門者呢？ {.chi}
 
@@ -4096,7 +4093,7 @@ Kathañca, mahārāja, bhikkhu indriyesu guttadvāro hoti? {.pali}
 
 Idha, mahārāja, bhikkhu cakkhunā rūpaṃ disvā na nimittaggāhī hoti nānubyañjanaggāhī. {.pali}
 
-On seeing a form with the eye, he does not grasp at any theme or details by which — {.eng}
+When a mendicant sees a sight with their eyes, they don’t get caught up in the features and details. {.eng}
 
 大王！這裡，比丘以眼見色後，不成為相的執取者、細相的執取者， {.chi}
 
@@ -4106,7 +4103,7 @@ On seeing a form with the eye, he does not grasp at any theme or details by whic
 
 Yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhā domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati. {.pali}
 
-if he were to dwell without restraint over the faculty of the eye — evil, unskillful qualities such as greed or distress might assail him. {.eng}
+If the faculty of sight were left unrestrained, bad unskillful qualities of covetousness and displeasure would become overwhelming. For this reason, they practice restraint, protecting the faculty of sight, and achieving its restraint. {.eng}
 
 因為當住於眼根的不防護時，貪憂、惡不善法會流入，他依其自制而行動，保護眼根，在眼根上達到自制； {.chi}
 
@@ -4116,7 +4113,7 @@ if he were to dwell without restraint over the faculty of the eye — evil, unsk
 
 Sotena saddaṃ sutvā … pe … ghānena gandhaṃ ghāyitvā … pe … jivhāya rasaṃ sāyitvā … pe … kāyena phoṭṭhabbaṃ phusitvā … pe … manasā dhammaṃ viññāya na nimittaggāhī hoti nānubyañjanaggāhī. {.pali}
 
-On hearing a sound with the ear... On smelling an odor with the nose... On tasting a flavor with the tongue... On touching a tactile sensation with the body... On cognizing an idea with the intellect, he does not grasp at any theme or details by which — {.eng}
+When they hear a sound with their ears ... When they smell an odor with their nose ... When they taste a flavor with their tongue ... When they feel a touch with their body ... When they know an idea with their mind, they don’t get caught up in the features and details. {.eng}
 
 以耳聽聲音後，……以鼻聞氣味後，……以舌嚐味道後，……以身觸所觸後，……以意識知法後，不成為相的執取者、細相的執取者， {.chi}
 
@@ -4126,7 +4123,7 @@ On hearing a sound with the ear... On smelling an odor with the nose... On tasti
 
 Yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhā domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati manindriyaṃ, manindriye saṃvaraṃ āpajjati. {.pali}
 
-if he were to dwell without restraint over the faculty of the intellect — evil, unskillful qualities such as greed or distress might assail him. {.eng}
+If the faculty of mind were left unrestrained, bad unskillful qualities of covetousness and displeasure would become overwhelming. For this reason, they practice restraint, protecting the faculty of mind, and achieving its restraint. {.eng}
 
 因為當住於意根的不防護時，貪憂、惡不善法會流入， {.chi}
 
@@ -4136,7 +4133,7 @@ if he were to dwell without restraint over the faculty of the intellect — evil
 
 So iminā ariyena indriyasaṃvarena samannāgato ajjhattaṃ abyāsekasukhaṃ paṭisaṃvedeti. {.pali}
 
-Endowed with this noble restraint over the sense faculties, he is inwardly sensitive to the pleasure of being blameless. {.eng}
+When they have this noble sense restraint, they experience an unsullied bliss inside themselves. {.eng}
 
 他依其自制而行動，保護意根，在意根上達到自制，已具備這聖根自制，他自身內感受不受害的安樂， {.chi}
 
@@ -4146,7 +4143,7 @@ Endowed with this noble restraint over the sense faculties, he is inwardly sensi
 
 Evaṃ kho, mahārāja, bhikkhu indriyesu guttadvāro hoti. {.pali}
 
-This is how a monk guards the doors of his senses. {.eng}
+That’s how a mendicant guards the sense doors. {.eng}
 
 大王！這樣，比丘是守護根門者。 {.chi}
 
@@ -4158,7 +4155,7 @@ This is how a monk guards the doors of his senses. {.eng}
 
 Kathañca, mahārāja, bhikkhu satisampajaññena samannāgato hoti? {.pali}
 
-“And how is a monk possessed of mindfulness and alertness? {.eng}
+And how does a mendicant have mindfulness and situational awareness? {.eng}
 
 大王！比丘如何具備正念與正知呢？ {.chi}
 
@@ -4168,7 +4165,7 @@ Kathañca, mahārāja, bhikkhu satisampajaññena samannāgato hoti? {.pali}
 
 Idha, mahārāja, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, {.pali}
 
-When going forward and returning, he acts with alertness. When looking toward and looking away... when bending and extending his limbs... {.eng}
+It’s when a mendicant acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; {.eng}
 
 比丘在前進、後退時是正知於行為者；在前視、後視時是正知於行為者；在[肢體]曲伸時是正知於行為者； {.chi}
 
@@ -4178,7 +4175,7 @@ When going forward and returning, he acts with alertness. When looking toward an
 
 saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, {.pali}
 
-when carrying his outer cloak, his upper robe, and his bowl... when eating, drinking, chewing, and tasting... {.eng}
+when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; {.eng}
 
 在[穿]衣、持鉢與大衣時是正知於行為者；在飲、食、嚼、嚐時是正知於行為者； {.chi}
 
@@ -4188,7 +4185,7 @@ when carrying his outer cloak, his upper robe, and his bowl... when eating, drin
 
 uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti. {.pali}
 
-when urinating and defecating... when walking, standing, sitting, falling asleep, waking up, talking, and remaining silent, he acts with alertness. {.eng}
+when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent. {.eng}
 
 在大小便動作時是正知於行為者；在行、住、坐、臥、清醒、語、默時是正知於行為者， {.chi}
 
@@ -4198,7 +4195,7 @@ when urinating and defecating... when walking, standing, sitting, falling asleep
 
 Evaṃ kho, mahārāja, bhikkhu satisampajaññena samannāgato hoti. {.pali}
 
-This is how a monk is possessed of mindfulness and alertness. {.eng}
+That’s how a mendicant has mindfulness and situational awareness. {.eng}
 
 大王！這樣，比丘具備正念與正知。 {.chi}
 
@@ -4210,7 +4207,7 @@ This is how a monk is possessed of mindfulness and alertness. {.eng}
 
 Kathañca, mahārāja, bhikkhu santuṭṭho hoti? {.pali}
 
-“And how is a monk content? {.eng}
+And how is a mendicant content? {.eng}
 
 大王！比丘如何是已知足者呢？ {.chi}
 
@@ -4220,7 +4217,7 @@ Kathañca, mahārāja, bhikkhu santuṭṭho hoti? {.pali}
 
 Idha, mahārāja, bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena, kucchiparihārikena piṇḍapātena. {.pali}
 
-/ {.eng}
+It’s when a mendicant is content with robes to look after the body and almsfood to look after the belly. {.eng}
 
 大王！比丘是已知足者：以衣服保護身體、以施食保護肚子， {.chi}
 
@@ -4230,7 +4227,7 @@ Idha, mahārāja, bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena, kucch
 
 So yena yeneva pakkamati, samādāyeva pakkamati. {.pali}
 
-/ {.eng}
+Wherever they go, they set out taking only these things.  {.eng}
 
 不論出發到何處，他只拿[這些]出發， {.chi}
 
@@ -4240,7 +4237,7 @@ So yena yeneva pakkamati, samādāyeva pakkamati. {.pali}
 
 Seyyathāpi, mahārāja, pakkhī sakuṇo yena yeneva ḍeti, sapattabhārova ḍeti; {.pali}
 
-Just as a bird, wherever it goes, flies with its wings as its only burden; {.eng}
+They’re like a bird: wherever it flies, wings are its only burden. {.eng}
 
 猶如鳥不論以翼飛到何處，只有翼的負荷而飛。 {.chi}
 
@@ -4250,7 +4247,7 @@ Just as a bird, wherever it goes, flies with its wings as its only burden; {.eng
 
 evameva kho, mahārāja, bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. {.pali}
 
-so too is he content with a set of robes to provide for his body and almsfood to provide for his hunger. {.eng}
+In the same way, a mendicant is content with robes to look after the body and almsfood to look after the belly. {.eng}
 
 同樣的，大王！比丘以衣服保護身體、以施食保護肚子為知足， {.chi}
 
@@ -4260,7 +4257,7 @@ so too is he content with a set of robes to provide for his body and almsfood to
 
 So yena yeneva pakkamati, samādāyeva pakkamati. {.pali}
 
-Wherever he goes, he takes only his barest necessities along. {.eng}
+Wherever they go, they set out taking only these things. {.eng}
 
 不論出發到何處，他只拿[這些]出發， {.chi}
 
@@ -4270,7 +4267,7 @@ Wherever he goes, he takes only his barest necessities along. {.eng}
 
 Evaṃ kho, mahārāja, bhikkhu santuṭṭho hoti. {.pali}
 
-This is how a monk is content. {.eng}
+That’s how a mendicant is content. {.eng}
 
 大王！這樣，比丘是已知足者。 {.chi}
 
@@ -4282,7 +4279,7 @@ This is how a monk is content. {.eng}
 
 So iminā ca ariyena sīlakkhandhena samannāgato, iminā ca ariyena indriyasaṃvarena samannāgato, iminā ca ariyena satisampajaññena samannāgato, imāya ca ariyāya santuṭṭhiyā samannāgato, {.pali}
 
-“Endowed with this noble aggregate of virtue, this noble restraint over the sense faculties, this noble mindfulness and alertness, and this noble contentment, {.eng}
+When they have this entire spectrum of noble ethics, this noble sense restraint, this noble mindfulness and situational awareness, and this noble contentment, {.eng}
 
 已具備這聖戒蘊，已具備這聖根自制，已具備這聖正念與正知，已具備這聖知足， {.chi}
 
@@ -4292,7 +4289,7 @@ So iminā ca ariyena sīlakkhandhena samannāgato, iminā ca ariyena indriyasa�
 
 vivittaṃ senāsanaṃ bhajati araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ. {.pali}
 
-he seeks out a secluded dwelling: a forest, the shade of a tree, a mountain, a glen, a hillside cave, a charnel ground, a jungle grove, the open air, a heap of straw. {.eng}
+they frequent a secluded lodging—a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw. {.eng}
 
 他親近獨居的住處：林野、樹下、山岳、洞窟、山洞、墓地、森林、露地、稻草堆。 {.chi}
 
@@ -4302,7 +4299,7 @@ he seeks out a secluded dwelling: a forest, the shade of a tree, a mountain, a g
 
 So pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā. {.pali}
 
-After his meal, returning from his alms round, he sits down, crosses his legs, holds his body erect, and brings mindfulness to the fore. {.eng}
+After the meal, they return from almsround, sit down cross-legged, set their body straight, and establish mindfulness in front of them. {.eng}
 
 他食畢，從施食處返回，坐下，盤腿後，挺直身體，建立起面前的正念後， {.chi}
 
@@ -4314,7 +4311,7 @@ After his meal, returning from his alms round, he sits down, crosses his legs, h
 
 So abhijjhaṃ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya cittaṃ parisodheti. {.pali}
 
-“Abandoning covetousness with regard to the world, he dwells with an awareness devoid of covetousness. He cleanses his mind of covetousness. {.eng}
+Giving up covetousness for the world, they meditate with a heart rid of covetousness, cleansing the mind of covetousness. {.eng}
 
 他捨斷對世間的貪婪，以離貪婪心而住，使心從貪婪中清淨。 {.chi}
 
@@ -4324,7 +4321,7 @@ So abhijjhaṃ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya citta
 
 Byāpādapadosaṃ pahāya abyāpannacitto viharati sabbapāṇabhūtahitānukampī, byāpādapadosā cittaṃ parisodheti. {.pali}
 
-Abandoning ill will and anger, he dwells with an awareness devoid of ill will, sympathetic with the welfare of all living beings. He cleanses his mind of ill will and anger. {.eng}
+Giving up ill will and malevolence, they meditate with a mind rid of ill will, full of compassion for all living beings, cleansing the mind of ill will. {.eng}
 
 捨斷惡意與瞋怒後，住於無瞋害心、對一切活的生物憐愍，使心從惡意與瞋怒中清淨。 {.chi}
 
@@ -4334,7 +4331,7 @@ Abandoning ill will and anger, he dwells with an awareness devoid of ill will, s
 
 Thinamiddhaṃ pahāya vigatathinamiddho viharati ālokasaññī, sato sampajāno, thinamiddhā cittaṃ parisodheti. {.pali}
 
-Abandoning sloth and drowsiness, he dwells with an awareness devoid of sloth and drowsiness, mindful, alert, percipient of light. He cleanses his mind of sloth and drowsiness. {.eng}
+Giving up dullness and drowsiness, they meditate with a mind rid of dullness and drowsiness, perceiving light, mindful and aware, cleansing the mind of dullness and drowsiness. {.eng}
 
 捨斷惛沈睡眠後，住於離惛沈睡眠、有光明想、正念、正知，使心從惛沈睡眠中清淨。 {.chi}
 
@@ -4344,7 +4341,7 @@ Abandoning sloth and drowsiness, he dwells with an awareness devoid of sloth and
 
 Uddhaccakukkuccaṃ pahāya anuddhato viharati, ajjhattaṃ vūpasantacitto, uddhaccakukkuccā cittaṃ parisodheti. {.pali}
 
-Abandoning restlessness and anxiety, he dwells undisturbed, his mind inwardly stilled. He cleanses his mind of restlessness and anxiety. {.eng}
+Restlessness hankers for the future and is countered by contentment. {.eng}
 
 捨斷掉舉後悔後，住於不掉舉、自身內心寂靜，使心從掉舉後悔中清淨。 {.chi}
 
@@ -4354,7 +4351,7 @@ Abandoning restlessness and anxiety, he dwells undisturbed, his mind inwardly st
 
 Vicikicchaṃ pahāya tiṇṇavicikiccho viharati, akathaṅkathī kusalesu dhammesu, vicikicchāya cittaṃ parisodheti. {.pali}
 
-Abandoning uncertainty, he dwells having crossed over uncertainty, with no perplexity with regard to skillful mental qualities. He cleanses his mind of uncertainty. {.eng}
+Giving up doubt, they meditate having gone beyond doubt, not undecided about skillful qualities, cleansing the mind of doubt. {.eng}
 
 捨斷疑惑後，住於脫離疑惑、在善法上無疑，使心從疑惑中清淨。 {.chi}
 
@@ -4366,7 +4363,7 @@ Abandoning uncertainty, he dwells having crossed over uncertainty, with no perpl
 
 Seyyathāpi, mahārāja, puriso iṇaṃ ādāya kammante payojeyya. {.pali}
 
-“Suppose that a man, taking a loan, invests it in his business affairs. {.eng}
+Suppose a man who has gotten into debt were to apply himself to work, {.eng}
 
 大王！猶如男子如果拿了借款後從事事業， {.chi}
 
@@ -4376,7 +4373,7 @@ Seyyathāpi, mahārāja, puriso iṇaṃ ādāya kammante payojeyya. {.pali}
 
 Tassa te kammantā samijjheyyuṃ. So yāni ca porāṇāni iṇamūlāni, tāni ca byantiṃ kareyya, siyā cassa uttariṃ avasiṭṭhaṃ dārabharaṇāya. {.pali}
 
-His business affairs succeed. He repays his old debts and there is extra left over for maintaining his wife. {.eng}
+and his efforts proved successful. He would pay off the original loan and have enough left over to support his partner. {.eng}
 
 如果他的那些事業成功，他會終結那舊的借款本金，會有超出的餘額扶養妻子， {.chi}
 
@@ -4386,7 +4383,7 @@ His business affairs succeed. He repays his old debts and there is extra left ov
 
 Tassa evamassa: ‘ahaṃ kho pubbe iṇaṃ ādāya kammante payojesiṃ. {.pali}
 
-The thought would occur to him, ‘Before, taking a loan, I invested it in my business affairs. {.eng}
+Thinking about this, {.eng}
 
 他這麼想：『我以前拿了借款後會從事事業， {.chi}
 
@@ -4396,7 +4393,7 @@ The thought would occur to him, ‘Before, taking a loan, I invested it in my bu
 
 Tassa me te kammantā samijjhiṃsu. Sohaṃ yāni ca porāṇāni iṇamūlāni, tāni ca byantiṃ akāsiṃ, atthi ca me uttariṃ avasiṭṭhaṃ dārabharaṇāyā’ti. {.pali}
 
-Now my business affairs have succeeded. I have repaid my old debts and there is extra left over for maintaining my wife.’ {.eng}
+... {.eng}
 
 我的那些事業成功，我終結了那舊的借款本金，有超出的餘額扶養我的妻子。』 {.chi}
 
@@ -4406,7 +4403,7 @@ Now my business affairs have succeeded. I have repaid my old debts and there is 
 
 So tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ. {.pali}
 
-Because of that he would experience joy and happiness. {.eng}
+he’d be filled with joy and happiness. {.eng}
 
 他從此因緣而會得到欣悅，會到達喜悅。 {.chi}
 
@@ -4428,7 +4425,7 @@ Seyyathāpi, mahārāja, puriso ābādhiko assa dukkhito bāḷhagilāno; {.pali
 
 bhattañcassa nacchādeyya, na cassa kāye balamattā. So aparena samayena tamhā ābādhā mucceyya; bhattaṃ cassa chādeyya, siyā cassa kāye balamattā. {.pali}
 
-He does not enjoy his meals, and there is no strength in his body. As time passes, he eventually recovers from that sickness. He enjoys his meals and there is strength in his body. {.eng}
+Suppose there was a person who was sick, suffering, gravely ill. They’d lose their appetite and get physically weak. But after some time they’d recover from that illness, and regain their appetite and their strength. {.eng}
 
 他會不喜歡食物，身體會沒力氣，過些時候，如果他從那個病脫離，他會喜歡食物，他的身體會有力氣， {.chi}
 
@@ -4438,7 +4435,7 @@ He does not enjoy his meals, and there is no strength in his body. As time passe
 
 Tassa evamassa: ‘ahaṃ kho pubbe ābādhiko ahosiṃ dukkhito bāḷhagilāno; bhattañca me nacchādesi, na ca me āsi kāye balamattā. {.pali}
 
-The thought would occur to him, ‘Before, I was sick... {.eng}
+Thinking about this, {.eng}
 
 他這麼想：『我以前生病、痛苦、重病，我不喜歡食物，我的身體沒力氣， {.chi}
 
@@ -4448,7 +4445,7 @@ The thought would occur to him, ‘Before, I was sick... {.eng}
 
 Somhi etarahi tamhā ābādhā mutto; bhattañca me chādeti, atthi ca me kāye balamattā’ti. {.pali}
 
-Now I am recovered from that sickness. I enjoy my meals and there is strength in my body.’ {.eng}
+... {.eng}
 
 現在，我從那個病脫離，我喜歡食物，我的身體會有力氣。』 {.chi}
 
@@ -4458,7 +4455,7 @@ Now I am recovered from that sickness. I enjoy my meals and there is strength in
 
 So tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ. {.pali}
 
-Because of that he would experience joy and happiness. {.eng}
+ they’d be filled with joy and happiness. {.eng}
 
 他從此因緣而會得到欣悅，會到達喜悅。 {.chi}
 
@@ -4470,7 +4467,7 @@ Because of that he would experience joy and happiness. {.eng}
 
 Seyyathāpi, mahārāja, puriso bandhanāgāre baddho assa. {.pali}
 
-“Now suppose that a man is bound in prison. {.eng}
+Suppose a person was imprisoned in a jail. {.eng}
 
 大王！猶如男子如果被關在監獄裡， {.chi}
 
@@ -4480,7 +4477,7 @@ Seyyathāpi, mahārāja, puriso bandhanāgāre baddho assa. {.pali}
 
 So aparena samayena tamhā bandhanāgārā mucceyya sotthinā abbhayena, na cassa kiñci bhogānaṃ vayo. {.pali}
 
-As time passes, he eventually is released from that bondage, safe and sound, with no loss of property. {.eng}
+But after some time they were released from jail, safe and sound, with no loss of wealth. {.eng}
 
 過些時候，如果他從那個監獄被平安地、無恐怖地釋放，沒有任何財物損失， {.chi}
 
@@ -4490,7 +4487,7 @@ As time passes, he eventually is released from that bondage, safe and sound, wit
 
 Tassa evamassa: ‘ahaṃ kho pubbe bandhanāgāre baddho ahosiṃ, somhi etarahi tamhā bandhanāgārā mutto sotthinā abbhayena. Natthi ca me kiñci bhogānaṃ vayo’ti. {.pali}
 
-The thought would occur to him, ‘Before, I was bound in prison. Now I am released from that bondage, safe and sound, with no loss of my property.’ {.eng}
+Thinking about this, {.eng}
 
 他這麼想：『以前，我被關在監獄裡，現在，我從那個監獄被平安地、無恐怖地釋放，沒有任何財物損失。』 {.chi}
 
@@ -4500,7 +4497,7 @@ The thought would occur to him, ‘Before, I was bound in prison. Now I am relea
 
 So tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ. {.pali}
 
-Because of that he would experience joy and happiness. {.eng}
+they’d be filled with joy and happiness. {.eng}
 
 他從此因緣而會得到欣悅，會到達喜悅。 {.chi}
 
@@ -4512,7 +4509,7 @@ Because of that he would experience joy and happiness. {.eng}
 
 Seyyathāpi, mahārāja, puriso dāso assa anattādhīno parādhīno na yenakāmaṅgamo. So aparena samayena tamhā dāsabyā mucceyya attādhīno aparādhīno bhujisso yenakāmaṅgamo. Tassa evamassa: ‘ahaṃ kho pubbe dāso ahosiṃ anattādhīno parādhīno na yenakāmaṅgamo. Somhi etarahi tamhā dāsabyā mutto attādhīno aparādhīno bhujisso yenakāmaṅgamo’ti. So tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ. {.pali}
 
-“Now suppose that a man is a slave, subject to others, not subject to himself, unable to go where he likes. As time passes, he eventually is released from that slavery, subject to himself, not subject to others, freed, able to go where he likes. The thought would occur to him, ‘Before, I was a slave... Now I am released from that slavery, subject to myself, not subject to others, freed, able to go where I like.’ Because of that he would experience joy and happiness. {.eng}
+Suppose a person was a bondservant. They would not be their own master, but indentured to another, unable to go where they wish. But after some time they’d be freed from servitude. They would be their own master, not indentured to another, an emancipated individual able to go where they wish. Thinking about this, they’d be filled with joy and happiness. {.eng}
 
 大王！猶如男子如果是奴隸、非依靠自己者、依靠他人者，不能去想去的地方，過些時候，如果他從那奴隸被釋放，是依靠自己者、不依靠他人者、自由者，能去想去的地方，他這麼想：『以前，我是奴隸、非依靠自己者、依靠他人者，不能去想去的地方，現在，我從那奴隸被釋放，是依靠自己者、不依靠他人者、自由者，能去想去的地方。』他從此因緣而會得到欣悅，會到達喜悅。 {.chi}
 
@@ -4524,7 +4521,7 @@ Seyyathāpi, mahārāja, puriso dāso assa anattādhīno parādhīno na yenakām
 
 Seyyathāpi, mahārāja, puriso sadhano sabhogo kantāraddhānamaggaṃ paṭipajjeyya dubbhikkhaṃ sappaṭibhayaṃ. So aparena samayena taṃ kantāraṃ nitthareyya sotthinā, gāmantaṃ anupāpuṇeyya khemaṃ appaṭibhayaṃ. Tassa evamassa: ‘ahaṃ kho pubbe sadhano sabhogo kantāraddhānamaggaṃ paṭipajjiṃ dubbhikkhaṃ sappaṭibhayaṃ. Somhi etarahi taṃ kantāraṃ nitthiṇṇo sotthinā, gāmantaṃ anuppatto khemaṃ appaṭibhayan’ti. So tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ. {.pali}
 
-“Now suppose that a man, carrying money and goods, is traveling by a road through desolate country. As time passes, he eventually emerges from that desolate country, safe and sound, with no loss of property. The thought would occur to him, ‘Before, carrying money and goods, I was traveling by a road through desolate country. Now I have emerged from that desolate country, safe and sound, with no loss of my property.’ Because of that he would experience joy and happiness. {.eng}
+Suppose there was a person with wealth and property who was traveling along a desert road, which was perilous, with nothing to eat. But after some time they crossed over the desert safely, arriving within a village, a sanctuary free of peril. Thinking about this, they’d be filled with joy and happiness. {.eng}
 
 大王！猶如有財富、有財物的男子如果走上曠野道路，飢饉的、有怖畏的，過些時候，如果他從那個曠野平安地度脫，到達村落邊界，安穩的、無怖畏的，他這麼想：『以前，有財富、有財物的我走上曠野道路，飢饉的、有怖畏的，現在，我從那個曠野平安地度脫，到達村落邊界，安穩的、無怖畏的。』他從此因緣而會得到欣悅，會到達喜悅。 {.chi}
 
@@ -4536,7 +4533,7 @@ Seyyathāpi, mahārāja, puriso sadhano sabhogo kantāraddhānamaggaṃ paṭipa
 
 Evameva kho, mahārāja, bhikkhu yathā iṇaṃ yathā rogaṃ yathā bandhanāgāraṃ yathā dāsabyaṃ yathā kantāraddhānamaggaṃ, evaṃ ime pañca nīvaraṇe appahīne attani samanupassati. {.pali}
 
-“In the same way, when these five hindrances are not abandoned in himself, the monk regards it as a debt, a sickness, a prison, slavery, a road through desolate country. {.eng}
+In the same way, as long as these five hindrances are not given up inside themselves, a mendicant regards them thus as a debt, a disease, a prison, slavery, and a desert crossing. {.eng}
 
 同樣的，大王！比丘看這些自己未捨斷的五蓋如借款、如疾病、如監獄、如奴隸、如曠野道路； {.chi}
 
@@ -4546,7 +4543,7 @@ Evameva kho, mahārāja, bhikkhu yathā iṇaṃ yathā rogaṃ yathā bandhanā
 
 Seyyathāpi, mahārāja, yathā āṇaṇyaṃ yathā ārogyaṃ yathā bandhanāmokkhaṃ yathā bhujissaṃ yathā khemantabhūmiṃ; evameva kho, mahārāja, bhikkhu ime pañca nīvaraṇe pahīne attani samanupassati. {.pali}
 
-But when these five hindrances are abandoned in himself, he regards it as unindebtedness, good health, release from prison, freedom, a place of security. {.eng}
+But when these five hindrances are given up inside themselves, a mendicant regards this as freedom from debt, good health, release from prison, emancipation, and a place of sanctuary at last. {.eng}
 
 同樣的，大王！比丘看這些自己已捨斷的五蓋如無借款、如無疾病、如從監獄被釋放、如脫離奴隸者、如安穩的終極之地。 {.chi}
 
@@ -4558,7 +4555,7 @@ But when these five hindrances are abandoned in himself, he regards it as uninde
 
 Tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṃ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati. {.pali}
 
-Seeing that they have been abandoned within him, he becomes glad. Glad, he becomes enraptured. Enraptured, his body grows tranquil. His body tranquil, he is sensitive to pleasure. Feeling pleasure, his mind becomes concentrated. {.eng}
+Seeing that the hindrances have been given up in them, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed. {.eng}
 
 當他看見自己五蓋已被捨斷時，欣悅被生起；當歡悅時，則喜被生；當意喜時，則身寧靜；身已寧靜者，則感受樂；心樂者，則入定。 {.chi}
 
@@ -4568,7 +4565,7 @@ Seeing that they have been abandoned within him, he becomes glad. Glad, he becom
 
 So vivicceva kāmehi, vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti. {.pali}
 
-“Quite withdrawn from sensuality, withdrawn from unskillful mental qualities, he enters and remains in the first jhana: rapture and pleasure born from withdrawal, accompanied by directed thought and evaluation. He permeates and pervades, suffuses and fills this very body with the rapture and pleasure born from withdrawal. {.eng}
+Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. They drench, steep, fill, and spread their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. {.eng}
 
 他從離欲、離不善法後，進入後住於有尋、有伺，離而生喜、樂的初禪，他以離而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離而生喜、樂遍滿。 {.chi}
 
@@ -4580,7 +4577,7 @@ So vivicceva kāmehi, vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivek
 
 Seyyathāpi, mahārāja, dakkho nhāpako vā nhāpakantevāsī vā kaṃsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṃ paripphosakaṃ sanneyya, sāyaṃ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā phuṭā snehena, na ca paggharaṇī; {.pali}
 
-Just as if a skilled bathman or bathman‘s apprentice would pour bath powder into a brass basin and knead it together, sprinkling it again and again with water, so that his ball of bath powder — saturated, moisture-laden, permeated within and without — would nevertheless not drip; {.eng}
+It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out. {.eng}
 
 大王！猶如熟練的澡堂師傅或澡堂師傅的徒弟在銅皿中撒佈沐浴粉後，與水充分攪拌，沐浴粉團隨之濕潤、來到濕潤、內外被滲透濕潤而無遺漏。 {.chi}
 
@@ -4590,7 +4587,7 @@ Just as if a skilled bathman or bathman‘s apprentice would pour bath powder in
 
 evameva kho, mahārāja, bhikkhu imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti. {.pali}
 
-even so, the monk permeates... this very body with the rapture and pleasure born of withdrawal. There is nothing of his entire body unpervaded by rapture and pleasure born from withdrawal. {.eng}
+In the same way, a mendicant drenches, steeps, fills, and spreads their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. {.eng}
 
 同樣的，大王！比丘以離而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離而生喜、樂遍滿， {.chi}
 
@@ -4600,7 +4597,7 @@ even so, the monk permeates... this very body with the rapture and pleasure born
 
 Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. {.pali}
 
-“This is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime. {.eng}
+This, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. {.eng}
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
@@ -4612,7 +4609,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 Puna caparaṃ, mahārāja, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti. {.pali}
 
-“Furthermore, with the stilling of directed thoughts & evaluations, he enters and remains in the second jhana: rapture and pleasure born of composure, unification of awareness free from directed thought and evaluation — internal assurance. He permeates and pervades, suffuses and fills this very body with the rapture and pleasure born of composure. {.eng}
+Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and mind at one, without applying the mind and keeping it connected. They drench, steep, fill, and spread their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion. {.eng}
 
 再者，大王！比丘以尋與伺的平息，自信，一心，進入後住於無尋、無伺，定而生喜、樂的第二禪，他以定而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被定而生喜、樂遍滿。 {.chi}
 
@@ -4624,7 +4621,7 @@ Puna caparaṃ, mahārāja, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ 
 
 Seyyathāpi, mahārāja, udakarahado gambhīro ubbhidodako tassa nevassa puratthimāya disāya udakassa āyamukhaṃ, na dakkhiṇāya disāya udakassa āyamukhaṃ, na pacchimāya disāya udakassa āyamukhaṃ, na uttarāya disāya udakassa āyamukhaṃ, devo ca na kālena kālaṃ sammādhāraṃ anuppaveccheyya. Atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṃ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṃ assa. Evameva kho, mahārāja, bhikkhu imameva kāyaṃ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti. {.pali}
 
-Just like a lake with spring-water welling up from within, having no inflow from the east, west, north, or south, and with the skies supplying abundant showers time and again, so that the cool fount of water welling up from within the lake would permeate and pervade, suffuse and fill it with cool waters, there being no part of the lake unpervaded by the cool waters; even so, the monk permeates... this very body with the rapture and pleasure born of composure. There is nothing of his entire body unpervaded by rapture and pleasure born of composure. {.eng}
+It’s like a deep lake fed by spring water. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. But the stream of cool water welling up in the lake drenches, steeps, fills, and spreads throughout the lake. There’s no part of the lake that’s not spread through with cool water. In the same way, a mendicant drenches, steeps, fills, and spreads their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion. This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. {.eng}
 
 大王！猶如有湧泉的深水池，其在東方無進水口，在南方無進水口，在北方無進水口，在西方無進水口，天又不能經常給予正確的水流，而那水池的冷水保持湧出後，那水池會被冷水潤澤、遍流、充滿、遍滿，全水池沒有任何地方不會被冷水遍滿。同樣的，大王！比丘以定而生喜、樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被定而生喜、樂遍滿， {.chi}
 
@@ -4646,7 +4643,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 Puna caparaṃ, mahārāja, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato sampajāno, sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti, tatiyaṃ jhānaṃ upasampajja viharati. So imameva kāyaṃ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti. {.pali}
 
-“And furthermore, with the fading of rapture, he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhana, of which the Noble Ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ He permeates and pervades, suffuses and fills this very body with the pleasure divested of rapture. {.eng}
+Furthermore, with the fading away of rapture, a mendicant enters and remains in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ They drench, steep, fill, and spread their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture. {.eng}
 
 再者，大王！比丘以喜的褪去與住於平靜，正念、正知，以身體感受樂，進入後住於這聖弟子宣說：『他是平靜、專注、住於樂者』的第三禪，他以離喜之樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離喜之樂遍滿。 {.chi}
 
@@ -4658,7 +4655,7 @@ Puna caparaṃ, mahārāja, bhikkhu pītiyā ca virāgā upekkhako ca viharati s
 
 Seyyathāpi, mahārāja, uppaliniyaṃ vā paduminiyaṃ vā puṇḍarīkiniyaṃ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṃvaḍḍhāni udakānuggatāni antonimuggaposīni, tāni yāva caggā yāva ca mūlā sītena vārinā abhisannāni parisannāni paripūrāni paripphuṭāni, nāssa kiñci sabbāvataṃ uppalānaṃ vā padumānaṃ vā puṇḍarīkānaṃ vā sītena vārinā apphuṭaṃ assa; evameva kho, mahārāja, bhikkhu imameva kāyaṃ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti. {.pali}
 
-Just as in a lotus pond, some of the lotuses, born and growing in the water, stay immersed in the water and flourish without standing up out of the water, so that they are permeated and pervaded, suffused and filled with cool water from their roots to their tips, and nothing of those lotuses would be unpervaded with cool water; even so, the monk permeates... this very body with the pleasure divested of rapture. There is nothing of his entire body unpervaded with pleasure divested of rapture. {.eng}
+It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. From the tip to the root they’re drenched, steeped, filled, and soaked with cool water. There’s no part of them that’s not soaked with cool water. In the same way, a mendicant drenches, steeps, fills, and spreads their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture. {.eng}
 
 大王！猶如在青蓮池、紅蓮池、白蓮池中，一些青蓮、紅蓮、白蓮生在水中，長在水中，依止於水面下，沈在水下生長，從其頂點到根被冷水潤澤、遍流、充滿、遍滿，全青蓮、紅蓮、白蓮沒有任何地方不會被冷水遍滿。同樣的，大王！比丘以離喜之樂潤澤、遍流、充滿、遍滿此身，全身沒有任何地方不被離喜之樂遍滿， {.chi}
 
@@ -4668,7 +4665,7 @@ Just as in a lotus pond, some of the lotuses, born and growing in the water, sta
 
 Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. {.pali}
 
-“This, too, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime. {.eng}
+This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. {.eng}
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
@@ -4680,7 +4677,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 Puna caparaṃ, mahārāja, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati, so imameva kāyaṃ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti. {.pali}
 
-“And furthermore, with the abandoning of pleasure and stress — as with the earlier disappearance of elation and distress — he enters and remains in the fourth jhana: purity of equanimity and mindfulness, neither-pleasure nor stress. He sits, permeating the body with a pure, bright awareness. {.eng}
+Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. They sit spreading their body through with pure bright mind. There’s no part of the body that’s not spread with pure bright mind. {.eng}
 
 再者，大王！比丘以樂的捨斷與苦的捨斷，及以之前喜悅與憂的滅沒，進入後住於不苦不樂，由平靜而正念遍淨的第四禪，他以遍淨、皎潔之心遍滿此身後而坐，全身沒有任何地方不被遍淨、皎潔之心遍滿。 {.chi}
 
@@ -4692,7 +4689,7 @@ Puna caparaṃ, mahārāja, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, 
 
 Seyyathāpi, mahārāja, puriso odātena vatthena sasīsaṃ pārupitvā nisinno assa, nāssa kiñci sabbāvato kāyassa odātena vatthena apphuṭaṃ assa; evameva kho, mahārāja, bhikkhu imameva kāyaṃ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti. {.pali}
 
-Just as if a man were sitting covered from head to foot with a white cloth so that there would be no part of his body to which the white cloth did not extend; even so, the monk sits, permeating the body with a pure, bright awareness. There is nothing of his entire body unpervaded by pure, bright awareness. {.eng}
+It’s like someone sitting wrapped from head to foot with white cloth. There’s no part of the body that’s not spread over with white cloth. In the same way, they sit spreading their body through with pure bright mind. There’s no part of the body that’s not spread with pure bright mind. {.eng}
 
 大王！猶如男子會以白衣包含頭裹上後而坐，全身沒有任何地方不會被白衣遍滿。同樣的，大王！比丘以遍淨、皎潔之心遍滿此身後而坐，全身沒有任何地方不被遍淨、皎潔之心遍滿， {.chi}
 
@@ -4702,7 +4699,7 @@ Just as if a man were sitting covered from head to foot with a white cloth so th
 
 Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. {.pali}
 
-“This, too, great king, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime. {.eng}
+This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. {.eng}
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
@@ -4714,7 +4711,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte ñāṇadassanāya cittaṃ abhinīharati abhininnāmeti. So evaṃ pajānāti: ‘ayaṃ kho me kāyo rūpī cātumahābhūtiko mātāpettikasambhavo odanakummāsūpacayo aniccucchādanaparimaddanabhedanaviddhaṃsanadhammo; idañca pana me viññāṇaṃ ettha sitaṃ ettha paṭibaddhan’ti. {.pali}
 
-“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, he directs and inclines it to knowledge and vision. He discerns: ‘This body of mine is endowed with form, composed of the four primary elements, born from mother and father, nourished with rice and porridge, subject to inconstancy, rubbing, pressing, dissolution, and dispersion. And this consciousness of mine is supported here and bound up here.’ {.eng}
+When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward knowledge and vision. They understand: ‘This body of mine is physical. It’s made up of the four primary elements, produced by mother and father, built up from rice and porridge, liable to impermanence, to wearing away and erosion, to breaking up and destruction. And this consciousness of mine is attached to it, tied to it.’ {.eng}
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向智與見，他這麼了知：『我的這身體是色與四大之物、父母所生、米粥所積聚、無常所削減、磨滅、破壞、分散之法，又，我的這個識在這裡依存，在這裡被結縛。』 {.chi}
 
@@ -4726,7 +4723,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 Seyyathāpi, mahārāja, maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato accho vippasanno anāvilo sabbākārasampanno. Tatrāssa suttaṃ āvutaṃ nīlaṃ vā pītaṃ vā lohitaṃ vā odātaṃ vā paṇḍusuttaṃ vā. Tamenaṃ cakkhumā puriso hatthe karitvā paccavekkheyya: ‘ayaṃ kho maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato accho vippasanno anāvilo sabbākārasampanno; tatridaṃ suttaṃ āvutaṃ nīlaṃ vā pītaṃ vā lohitaṃ vā odātaṃ vā paṇḍusuttaṃ vā’ti. {.pali}
 
-Just as if there were a beautiful beryl gem of the purest water — eight faceted, well polished, clear, limpid, consummate in all its aspects, and going through the middle of it was a blue, yellow, red, white, or brown thread — and a man with good eyesight, taking it in his hand, were to reflect on it thus: ‘This is a beautiful beryl gem of the purest water, eight faceted, well polished, clear, limpid, consummate in all its aspects. And this, going through the middle of it, is a blue, yellow, red, white, or brown thread.’ {.eng}
+Suppose there was a beryl gem that was naturally beautiful, eight-faceted, well-worked, transparent, clear, and unclouded, endowed with all good qualities. And it was strung with a thread of blue, yellow, red, white, or golden brown. And someone with clear eyes were to take it in their hand and check it: ‘This beryl gem is naturally beautiful, eight-faceted, well-worked, transparent, clear, and unclouded, endowed with all good qualities. And it’s strung with a thread of blue, yellow, red, white, or golden brown.’ {.eng}
 
 大王！猶如美麗的、出色的、八個切割面的、作工細緻的、放光的、明淨的、不濁的琉璃寶珠全部行相具足，在那裡，被藍或黃或紅或白或淡黃線綁住，有眼男子拿它在手掌上後能觀察：『這美麗的、出色的、八個切割面的、作工細緻的、放光的、明淨的、不濁的琉璃寶珠具備全部行相，在那裡，被藍或黃或紅或白或淡黃線綁住。』  {.chi}
 
@@ -4736,7 +4733,7 @@ Just as if there were a beautiful beryl gem of the purest water — eight facete
 
 Evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte ñāṇadassanāya cittaṃ abhinīharati abhininnāmeti. So evaṃ pajānāti: ‘ayaṃ kho me kāyo rūpī cātumahābhūtiko mātāpettikasambhavo odanakummāsūpacayo aniccucchādanaparimaddanabhedanaviddhaṃsanadhammo; idañca pana me viññāṇaṃ ettha sitaṃ ettha paṭibaddhan’ti. {.pali}
 
-In the same way — with his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability — the monk directs and inclines it to knowledge and vision. He discerns: ‘This body of mine is endowed with form, composed of the four primary elements, born from mother and father, nourished with rice and porridge, subject to inconstancy, rubbing, pressing, dissolution, and dispersion. And this consciousness of mine is supported here and bound up here.’ {.eng}
+In the same way, when their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward knowledge and vision. {.eng}
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向於智與見，他這麼了知：『我的這身體是色與四大之物、父母所生、米粥所積聚、無常所削減、磨滅、破壞、分散之法，又，我的這個識在這裡依存，在這裡被結縛。』 {.chi}
 
@@ -4746,7 +4743,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. {.pali}
 
-“This, too, great king, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime. {.eng}
+This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. {.eng}
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
@@ -4758,7 +4755,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte manomayaṃ kāyaṃ abhinimmānāya cittaṃ abhinīharati abhininnāmeti. So imamhā kāyā aññaṃ kāyaṃ abhinimmināti rūpiṃ manomayaṃ sabbaṅgapaccaṅgiṃ ahīnindriyaṃ. {.pali}
 
-“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, he directs and inclines it to creating a mind-made body. From this body he creates another body, endowed with form, made of the mind, complete in all its parts, not inferior in its faculties. {.eng}
+When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward the creation of a mind-made body. From this body they create another body, physical, mind-made, complete in all its various parts, not deficient in any faculty. {.eng}
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向創造意生身：他從這個身體創造另一個有色、意做的、有所有肢體與小肢，不缺諸根之身體， {.chi}
 
@@ -4770,7 +4767,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 Seyyathāpi, mahārāja, puriso muñjamhā īsikaṃ pavāheyya. Tassa evamassa: ‘ayaṃ muñjo, ayaṃ īsikā, añño muñjo, aññā īsikā, muñjamhā tveva īsikā pavāḷhā’ti. {.pali}
 
-Just as if a manwere to draw a reed from its sheath. The thought would occur to him: ‘This is the sheath, this is the reed. The sheath is one thing, the reed another, but the reed has been drawn out from the sheath.’ {.eng}
+Suppose a person was to draw a reed out from its sheath. They’d think: ‘This is the reed, this is the sheath. The reed and the sheath are different things. The reed has been drawn out from the sheath.’ {.eng}
 
 大王！猶如男子如果從蘆葦拉出鞘，他這麼想：『這是蘆葦，這是鞘；蘆葦是一，鞘是另一個，鞘被從蘆葦拉出。』  {.chi}
 
@@ -4780,7 +4777,7 @@ Just as if a manwere to draw a reed from its sheath. The thought would occur to 
 
 Seyyathā vā pana, mahārāja, puriso asiṃ kosiyā pavāheyya. Tassa evamassa: ‘ayaṃ asi, ayaṃ kosi, añño asi, aññā kosi, kosiyā tveva asi pavāḷho’ti. {.pali}
 
-Or as if a man were to draw a sword from its scabbard. The thought would occur to him: ‘This is the sword, this is the scabbard. The sword is one thing, the scabbard another, but the sword has been drawn out from the scabbard.’ {.eng}
+Or suppose a person was to draw a sword out from its scabbard. They’d think: ‘This is the sword, this is the scabbard. The sword and the scabbard are different things. The sword has been drawn out from the scabbard.’ {.eng}
 
 或者，大王！猶如男子如果從劍鞘拉出劍，他這麼想：『這是劍，這是劍鞘；劍是一，劍鞘是另一個，劍被從劍鞘拉出。』 {.chi}
 
@@ -4790,7 +4787,7 @@ Or as if a man were to draw a sword from its scabbard. The thought would occur t
 
 Seyyathā vā pana, mahārāja, puriso ahiṃ karaṇḍā uddhareyya. Tassa evamassa: ‘ayaṃ ahi, ayaṃ karaṇḍo. Añño ahi, añño karaṇḍo, karaṇḍā tveva ahi ubbhato’ti. {.pali}
 
-Or as if a manwere to pull a snake out from its slough. The thought would occur to him: ‘This is the snake, this is the slough. The snake is one thing, the slough another, but the snake has been pulled out from the slough.’ {.eng}
+Or suppose a person was to draw a snake out from its slough. They’d think: ‘This is the snake, this is the slough. The snake and the slough are different things. The snake has been drawn out from the slough.’ {.eng}
 
 或者，大王！猶如男子如果從蛇蛻拉起蛇，他這麼想：『這是蛇，這是蛇蛻；蛇是一，蛇蛻是另一個，蛇被從蛇蛻拉起。』 {.chi}
 
@@ -4800,7 +4797,7 @@ Or as if a manwere to pull a snake out from its slough. The thought would occur 
 
 Evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte manomayaṃ kāyaṃ abhinimmānāya cittaṃ abhinīharati abhininnāmeti. So imamhā kāyā aññaṃ kāyaṃ abhinimmināti rūpiṃ manomayaṃ sabbaṅgapaccaṅgiṃ ahīnindriyaṃ. {.pali}
 
-In the same way — with his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, the monk directs and inclines it to creating a mind-made body. From this body he creates another body, endowed with form, made of the mind, complete in all its parts, not inferior in its faculties. {.eng}
+In the same way, when their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward the creation of a mind-made body. From this body they create another body, physical, mind-made, complete in all its various parts, not deficient in any faculty. {.eng}
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向於創造意生身：他從這個身體創造另一個有色、意做的、有所有肢體與小肢，不缺諸根之身體， {.chi}
 
@@ -4810,7 +4807,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. {.pali}
 
-“This, too, great king, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime. {.eng}
+This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. {.eng}
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
@@ -4822,7 +4819,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte iddhividhāya cittaṃ abhinīharati abhininnāmeti. {.pali}
 
-“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, he directs and inclines it to the modes of supranormal powers. {.eng}
+When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward psychic power. {.eng}
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向各種神通： {.chi}
 
@@ -4832,7 +4829,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 So anekavihitaṃ iddhividhaṃ paccanubhoti – ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti; āvibhāvaṃ tirobhāvaṃ tirokuṭṭaṃ tiropākāraṃ tiropabbataṃ asajjamāno gacchati seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṃ karoti seyyathāpi udake; udakepi abhijjamāne gacchati seyyathāpi pathaviyā; ākāsepi pallaṅkena kamati seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṃmahiddhike evaṃmahānubhāve pāṇinā parāmasati parimajjati; yāva brahmalokāpi kāyena vasaṃ vatteti. {.pali}
 
-He wields manifold supranormal powers. Having been one he becomes many; having been many he becomes one. He appears. He vanishes. He goes unimpeded through walls, ramparts, and mountains as if through space. He dives in and out of the earth as if it were water. He walks on water without sinking as if it were dry land. Sitting cross-legged he flies through the air like a winged bird. With his hand he touches and strokes even the sun and moon, so mighty and powerful. He exercises influence with his body even as far as the Brahma worlds. {.eng}
+They wield the many kinds of psychic power: multiplying themselves and becoming one again; appearing and disappearing; going unimpeded through a wall, a rampart, or a mountain as if through space; diving in and out of the earth as if it were water; walking on water as if it were earth; flying cross-legged through the sky like a bird; touching and stroking with the hand the sun and moon, so mighty and powerful; controlling the body as far as the Brahmā realm. {.eng}
 
 他經驗各種神通：有了一個後變成多個，有了多個後變成一個；現身、隱身；無阻礙地穿牆、穿壘、穿山而行猶如在虛空中；在地中作浮出與潛入猶如在水中；在水上行走不沉沒猶如在地上；以盤腿而坐在空中前進猶如有翅膀的鳥；以手碰觸、撫摸日月這樣大神力、大威力；以身體自在行進直到梵天世界， {.chi}
 
@@ -4844,7 +4841,7 @@ He wields manifold supranormal powers. Having been one he becomes many; having b
 
 Seyyathāpi, mahārāja, dakkho kumbhakāro vā kumbhakārantevāsī vā suparikammakatāya mattikāya yaṃ yadeva bhājanavikatiṃ ākaṅkheyya, taṃ tadeva kareyya abhinipphādeyya. {.pali}
 
-Just as a skilled potter or his assistant could craft from well-prepared clay whatever kind of pottery vessel he likes, {.eng}
+Suppose a deft potter or their apprentice had some well-prepared clay. They could produce any kind of pot that they like. {.eng}
 
 大王！猶如熟練的陶匠或陶匠的徒弟能從作工細緻粘土製作並完成任何他希望的容器製品， {.chi}
 
@@ -4854,7 +4851,7 @@ Just as a skilled potter or his assistant could craft from well-prepared clay wh
 
 Seyyathā vā pana, mahārāja, dakkho dantakāro vā dantakārantevāsī vā suparikammakatasmiṃ dantasmiṃ yaṃ yadeva dantavikatiṃ ākaṅkheyya, taṃ tadeva kareyya abhinipphādeyya. {.pali}
 
-or as a skilled ivory-carver or his assistant could craft from well-prepared ivory any kind of ivory-work he likes, {.eng}
+Or suppose a deft ivory-carver or their apprentice had some well-prepared ivory. They could produce any kind of ivory item that they like. {.eng}
 
 或者，大王！猶如熟練的象牙匠或象牙匠的徒弟能在作工細緻象牙上製作並完成任何他希望的象牙製品， {.chi}
 
@@ -4864,7 +4861,7 @@ or as a skilled ivory-carver or his assistant could craft from well-prepared ivo
 
 Seyyathā vā pana, mahārāja, dakkho suvaṇṇakāro vā suvaṇṇakārantevāsī vā suparikammakatasmiṃ suvaṇṇasmiṃ yaṃ yadeva suvaṇṇavikatiṃ ākaṅkheyya, taṃ tadeva kareyya abhinipphādeyya. {.pali}
 
-or as a skilled goldsmith or his assistant could craft from well-prepared gold any kind of gold article he likes; {.eng}
+Or suppose a deft goldsmith or their apprentice had some well-prepared gold. They could produce any kind of gold item that they like. {.eng}
 
 或者，大王！猶如熟練的金匠或金匠的徒弟能在作工細緻黃金上製作並完成任何他希望的黃金製品。 {.chi}
 
@@ -4874,7 +4871,7 @@ or as a skilled goldsmith or his assistant could craft from well-prepared gold a
 
 Evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte iddhividhāya cittaṃ abhinīharati abhininnāmeti. {.pali}
 
-in the same way — with his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability — the monk directs and inclines it to the modes of supranormal powers... {.eng}
+In the same way, when their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward psychic power. {.eng}
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向各種的神通： {.chi}
 
@@ -4884,7 +4881,7 @@ in the same way — with his mind thus concentrated, purified, and bright, unble
 
 So anekavihitaṃ iddhividhaṃ paccanubhoti—ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti; āvibhāvaṃ tirobhāvaṃ tirokuṭṭaṃ tiropākāraṃ tiropabbataṃ asajjamāno gacchati seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṃ karoti seyyathāpi udake; udakepi abhijjamāne gacchati seyyathāpi pathaviyā; ākāsepi pallaṅkena kamati seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṃmahiddhike evaṃmahānubhāve pāṇinā parāmasati parimajjati; yāva brahmalokāpi kāyena vasaṃ vatteti. {.pali}
 
-... He exercises influence with his body even as far as the Brahma worlds. {.eng}
+... {.eng}
 
 他經驗各種神通：有了一個後變成多個，有了多個後變成一個；現身、隱身；無阻礙地穿牆、穿壘、穿山而行猶如在虛空中；在地中作浮出與潛入猶如在水中；在水上行走不沉沒猶如在地上；以盤腿而坐在空中前進猶如有翅膀的鳥；以手碰觸、撫摸日月這樣大神力、大威力；以身體自在行進直到梵天世界， {.chi}
 
@@ -4894,7 +4891,7 @@ So anekavihitaṃ iddhividhaṃ paccanubhoti—ekopi hutvā bahudhā hoti, bahud
 
 Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. {.pali}
 
-“This, too, great king, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime. {.eng}
+This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. {.eng}
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
@@ -4906,7 +4903,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte dibbāya sotadhātuyā cittaṃ abhinīharati abhininnāmeti. So dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti dibbe ca mānuse ca ye dūre santike ca. {.pali}
 
-“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, he directs and inclines it to the divine ear-element. He hears — by means of the divine ear-element, purified and surpassing the human — both kinds of sounds: divine and human, whether near or far. {.eng}
+When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward clairaudience. With clairaudience that is purified and superhuman, they hear both kinds of sounds, human and divine, whether near or far. {.eng}
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向天耳： {.chi}
 
@@ -4918,7 +4915,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 Seyyathāpi, mahārāja, puriso addhānamaggappaṭipanno. So suṇeyya bherisaddampi mudiṅgasaddampi saṅkhapaṇavadindimasaddampi. Tassa evamassa: ‘bherisaddo’ itipi, ‘mudiṅgasaddo’ itipi, ‘saṅkhapaṇavadindimasaddo’ itipi. {.pali}
 
-Just as if a man traveling along a highway were to hear the sounds of kettledrums, small drums, conchs, cymbals, and tom-toms. He would know, ‘That is the sound of kettledrums, that is the sound of small drums, that is the sound of conchs, that is the sound of cymbals, and that is the sound of tom-toms.’ {.eng}
+Suppose there was a person traveling along the road. They’d hear the sound of drums, clay drums, horns, kettledrums, and tom-toms. They’d think: ‘That’s the sound of drums,’ and ‘that’s the sound of clay drums,’ and ‘that’s the sound of horns, kettledrums, and tom-toms.’ {.eng}
 
 他以清淨、超越人的天耳界聽見天與人二者不論是遠、是近的聲音，大王！猶如男子是旅途中的行者，他能聽到大鼓聲、小鼓聲、螺、小腰鼓、鑵鼓聲，他這麼想：『這是大鼓聲。』『這是小鼓聲。』『這是螺、小腰鼓、鑵鼓聲。』 {.chi}
 
@@ -4928,7 +4925,7 @@ Just as if a man traveling along a highway were to hear the sounds of kettledrum
 
 Evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte dibbāya sotadhātuyā cittaṃ abhinīharati abhininnāmeti. So dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti dibbe ca mānuse ca ye dūre santike ca. {.pali}
 
-In the same way — with his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability — the monk directs and inclines it to the divine ear-element. He hears — by means of the divine ear-element, purified and surpassing the human — both kinds of sounds: divine and human, whether near or far. {.eng}
+In the same way, when their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward clairaudience. With clairaudience that is purified and superhuman, they hear both kinds of sounds, human and divine, whether near or far. {.eng}
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向天耳：他以清淨、超越人的天耳界聽見天與人二者不論是遠、是近的聲音， {.chi}
 
@@ -4938,7 +4935,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. {.pali}
 
-“This, too, great king, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime. {.eng}
+This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. {.eng}
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
@@ -4950,7 +4947,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte cetopariyañāṇāya cittaṃ abhinīharati abhininnāmeti. So parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti— {.pali}
 
-“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, he directs and inclines it to knowledge of the awareness of other beings. He knows the awareness of other beings, other individuals, having encompassed it with his own awareness. {.eng}
+When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward comprehending the minds of others. They understand the minds of other beings and individuals, having comprehended them with their own mind. {.eng}
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向他心智：他以心熟知心後，能了知其他眾生、其他個人： {.chi}
 
@@ -4960,7 +4957,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 sarāgaṃ vā cittaṃ ‘sarāgaṃ cittan’ti pajānāti, vītarāgaṃ vā cittaṃ ‘vītarāgaṃ cittan’ti pajānāti, {.pali}
 
-He discerns a mind with passion as a mind with passion, and a mind without passion as a mind without passion. {.eng}
+They understand mind with greed as ‘mind with greed’, and mind without greed as ‘mind without greed’. {.eng}
 
 有貪的心了知為『有貪的心』，離貪的心了知為『離貪的心』； {.chi}
 
@@ -4970,7 +4967,7 @@ He discerns a mind with passion as a mind with passion, and a mind without passi
 
 sadosaṃ vā cittaṃ ‘sadosaṃ cittan’ti pajānāti, vītadosaṃ vā cittaṃ ‘vītadosaṃ cittan’ti pajānāti, {.pali}
 
-He discerns a mind with aversion as a mind with aversion, and a mind without aversion as a mind without aversion. {.eng}
+They understand mind with hate ... mind without hate ... {.eng}
 
 有瞋的心了知為『有瞋的心』，離瞋的心了知為『離瞋的心』； {.chi}
 
@@ -4980,7 +4977,7 @@ He discerns a mind with aversion as a mind with aversion, and a mind without ave
 
 samohaṃ vā cittaṃ ‘samohaṃ cittan’ti pajānāti, vītamohaṃ vā cittaṃ ‘vītamohaṃ cittan’ti pajānāti, {.pali}
 
-He discerns a mind with delusion as a mind with delusion, and a mind without delusion as a mind without delusion. {.eng}
+mind with delusion ... mind without delusion ... {.eng}
 
 有癡的心了知為『有癡的心』，離癡的心了知為『離癡的心』； {.chi}
 
@@ -4990,7 +4987,7 @@ He discerns a mind with delusion as a mind with delusion, and a mind without del
 
 saṅkhittaṃ vā cittaṃ ‘saṅkhittaṃ cittan’ti pajānāti, vikkhittaṃ vā cittaṃ ‘vikkhittaṃ cittan’ti pajānāti, {.pali}
 
-He discerns a restricted mind as a restricted mind, and a scattered mind as a scattered mind. {.eng}
+constricted mind ... scattered mind ... {.eng}
 
 收斂的心了知為『收斂的心』，散亂的心了知為『散亂的心』； {.chi}
 
@@ -5000,7 +4997,7 @@ He discerns a restricted mind as a restricted mind, and a scattered mind as a sc
 
 mahaggataṃ vā cittaṃ ‘mahaggataṃ cittan’ti pajānāti, amahaggataṃ vā cittaṃ ‘amahaggataṃ cittan’ti pajānāti, {.pali}
 
-He discerns an enlarged mind as an enlarged mind, and an unenlarged mind as an unenlarged mind. {.eng}
+expansive mind ... unexpansive mind ... {.eng}
 
 廣大的心了知為『廣大的心』，未廣大的心了知為『未廣大的心』； {.chi}
 
@@ -5010,7 +5007,7 @@ He discerns an enlarged mind as an enlarged mind, and an unenlarged mind as an u
 
 sauttaraṃ vā cittaṃ ‘sauttaraṃ cittan’ti pajānāti, anuttaraṃ vā cittaṃ ‘anuttaraṃ cittan’ti pajānāti, {.pali}
 
-He discerns an excelled mind [one that is not at the most excellent level] as an excelled mind, and an unexcelled mind as an unexcelled mind. {.eng}
+mind that is not supreme ... mind that is supreme ... {.eng}
 
 更上的心了知為『更上的心』，無更上的心了知為『無更上的心』； {.chi}
 
@@ -5020,7 +5017,7 @@ He discerns an excelled mind [one that is not at the most excellent level] as an
 
 samāhitaṃ vā cittaṃ ‘samāhitaṃ cittan’ti pajānāti, asamāhitaṃ vā cittaṃ ‘asamāhitaṃ cittan’ti pajānāti, {.pali}
 
-He discerns a concentrated mind as a concentrated mind, and an unconcentrated mind as an unconcentrated mind. {.eng}
+immersed mind ... unimmersed mind ... {.eng}
 
 得定的心了知為『得定的心』，未得定的心了知為『未得定的心』； {.chi}
 
@@ -5030,7 +5027,7 @@ He discerns a concentrated mind as a concentrated mind, and an unconcentrated mi
 
 vimuttaṃ vā cittaṃ ‘vimuttaṃ cittan’ti pajānāti, avimuttaṃ vā cittaṃ ‘avimuttaṃ cittan’ti pajānāti. {.pali}
 
-He discerns a released mind as a released mind, and an unreleased mind as an unreleased mind. {.eng}
+freed mind ... They understand unfreed mind as ‘unfreed mind’. {.eng}
 
 已解脫的心了知為『已解脫的心』，未解脫的心了知為『未解脫的心』， {.chi}
 
@@ -5042,7 +5039,7 @@ He discerns a released mind as a released mind, and an unreleased mind as an unr
 
 Seyyathāpi, mahārāja, itthī vā puriso vā daharo yuvā maṇḍanajātiko ādāse vā parisuddhe pariyodāte acche vā udakapatte sakaṃ mukhanimittaṃ paccavekkhamāno sakaṇikaṃ vā ‘sakaṇikan’ti jāneyya, akaṇikaṃ vā ‘akaṇikan’ti jāneyya; evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte cetopariyañāṇāya cittaṃ abhinīharati abhininnāmeti. So parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti— {.pali}
 
-Just as if a young woman — or man — fond of ornaments, examining the reflection of her own face in a bright mirror or a bowl of clear water would know ‘blemished’ if it were blemished, or ‘unblemished’ if it were not. In the same way — with his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability — the monk directs and inclines it to knowledge of the awareness of other beings. {.eng}
+Suppose there was a woman or man who was young, youthful, and fond of adornments, and they check their own reflection in a clean bright mirror or a clear bowl of water. If they had a spot they’d know ‘I have a spot,’ and if they had no spots they’d know ‘I have no spots.’ In the same way, when their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward comprehending the minds of others. They understand the minds of other beings and individuals, having comprehended them with their own mind. {.eng}
 
 大王！猶如年輕、年少、喜好裝飾的女子或男子，當在鏡中，或在遍淨、潔淨、清澈的水鉢中觀察自己的面貌時，有黑痣能知道：『有黑痣。』無黑痣能知道：『無黑痣。』同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向他心智：他以心熟知心後，能了知其他眾生、其他個人： {.chi}
 
@@ -5052,7 +5049,7 @@ Just as if a young woman — or man — fond of ornaments, examining the reflect
 
 sarāgaṃ vā cittaṃ ‘sarāgaṃ cittan’ti pajānāti, vītarāgaṃ vā cittaṃ ‘vītarāgaṃ cittan’ti pajānāti, sadosaṃ vā cittaṃ ‘sadosaṃ cittan’ti pajānāti, vītadosaṃ vā cittaṃ ‘vītadosaṃ cittan’ti pajānāti, samohaṃ vā cittaṃ ‘samohaṃ cittan’ti pajānāti, vītamohaṃ vā cittaṃ ‘vītamohaṃ cittan’ti pajānāti, saṅkhittaṃ vā cittaṃ ‘saṅkhittaṃ cittan’ti pajānāti, vikkhittaṃ vā cittaṃ ‘vikkhittaṃ cittan’ti pajānāti, mahaggataṃ vā cittaṃ ‘mahaggataṃ cittan’ti pajānāti, amahaggataṃ vā cittaṃ ‘amahaggataṃ cittan’ti pajānāti, sauttaraṃ vā cittaṃ ‘sauttaraṃ cittan’ti pajānāti, anuttaraṃ vā cittaṃ ‘anuttaraṃ cittan’ti pajānāti, samāhitaṃ vā cittaṃ ‘samāhitaṃ cittan’ti pajānāti, asamāhitaṃ vā cittaṃ ‘asamāhitaṃ cittan’ti pajānāti, vimuttaṃ vā cittaṃ ‘vimuttaṃ cittan’ti pajānāti, avimuttaṃ vā cittaṃ ‘avimuttaṃ cittan’ti pajānāti. {.pali}
 
-He knows the awareness of other beings, other individuals, having encompassed it with his own awareness. He discerns a mind with passion as a mind with passion, and a mind without passion as a mind without passion... a released mind as a released mind, and an unreleased mind as an unreleased mind. {.eng}
+... {.eng}
 
 有貪的心了知為『有貪的心』，離貪的心了知為『離貪的心』；有瞋的心了知為『有瞋的心』，離瞋的心了知為『離瞋的心』；有癡的心了知為『有癡的心』，離癡的心了知為『離癡的心』；收斂的心了知為『收斂的心』，散亂的心了知為『散亂的心』；廣大的心了知為『廣大的心』，未廣大的心了知為『未廣大的心』；更上的心了知為『更上的心』，無更上的心了知為『無更上的心』；得定的心了知為『得定的心』，未得定的心了知為『未得定的心』；已解脫的心了知為『已解脫的心』，未解脫的心了知為『未解脫的心』  {.chi}
 
@@ -5062,7 +5059,7 @@ He knows the awareness of other beings, other individuals, having encompassed it
 
 Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. {.pali}
 
-“This, too, great king, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime. {.eng}
+This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. {.eng}
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
@@ -5074,7 +5071,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ abhinīharati abhininnāmeti. {.pali}
 
-“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, he directs and inclines it to knowledge of the recollection of past lives (lit: previous homes). {.eng}
+When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward recollection of past lives. {.eng}
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向許多前世住處回憶之智。 {.chi}
 
@@ -5084,7 +5081,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe, ‘amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ; tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati. {.pali}
 
-He recollects his manifold past lives, i.e., one birth, two births, three births, four, five, ten, twenty, thirty, forty, fifty, one hundred, one thousand, one hundred thousand, many aeons of cosmic contraction, many aeons of cosmic expansion, many aeons of cosmic contraction and expansion, [recollecting], ‘There I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure and pain, such the end of my life. Passing away from that state, I re-arose there. There too I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure and pain, such the end of my life. Passing away from that state, I re-arose here.’ Thus he recollects his manifold past lives in their modes and details. {.eng}
+They recollect many kinds of past lives, that is, one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. They remember: ‘There, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn somewhere else. There, too, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn here.’ And so they recollect their many kinds of past lives, with features and details. {.eng}
 
 他回憶起許多前世住處，即：一生、二生、三生、四生、五生、十生、二十生、三十生、四十生、五十生、百生、千生、十萬生、許多壞劫、許多成劫、許多壞成劫：『在那裡是這樣的名、這樣的姓氏、這樣的容貌、[吃]這樣的食物、這樣的苦樂感受、這樣的壽長，從那裡死後生於那裡，而在那裡又是這樣的名、這樣的姓氏、這樣的容貌、[吃]這樣的食物、這樣的苦樂感受、這樣的壽長，從那裡死後生於這裡。』像這樣，他回憶起許多前世住處有這樣的行相與境遇， {.chi}
 
@@ -5096,7 +5093,7 @@ He recollects his manifold past lives, i.e., one birth, two births, three births
 
 Seyyathāpi, mahārāja, puriso sakamhā gāmā aññaṃ gāmaṃ gaccheyya, tamhāpi gāmā aññaṃ gāmaṃ gaccheyya. So tamhā gāmā sakaṃyeva gāmaṃ paccāgaccheyya. Tassa evamassa: ‘ahaṃ kho sakamhā gāmā amuṃ gāmaṃ agacchiṃ, tatra evaṃ aṭṭhāsiṃ, evaṃ nisīdiṃ, evaṃ abhāsiṃ, evaṃ tuṇhī ahosiṃ, tamhāpi gāmā amuṃ gāmaṃ agacchiṃ, tatrāpi evaṃ aṭṭhāsiṃ, evaṃ nisīdiṃ, evaṃ abhāsiṃ, evaṃ tuṇhī ahosiṃ, somhi tamhā gāmā sakaṃyeva gāmaṃ paccāgato’ti. {.pali}
 
-Just as if a man were to go from his home village to another village, and then from that village to yet another village, and then from that village back to his home village. The thought would occur to him, ‘I went from my home village to that village over there. There I stood in such a way, sat in such a way, talked in such a way, and remained silent in such a way. From that village I went to that village over there, and there I stood in such a way, sat in such a way, talked in such a way, and remained silent in such a way. From that village I came back home.’ {.eng}
+Suppose a person was to leave their home village and go to another village. From that village they’d go to yet another village. And from that village they’d return to their home village. They’d think: ‘I went from my home village to another village. There I stood like this, sat like that, spoke like this, or kept silent like that. From that village I went to yet another village. There too I stood like this, sat like that, spoke like this, or kept silent like that. And from that village I returned to my home village.’ {.eng}
 
 大王！猶如男子如果從自己的村落走到其它村落，再從那個村落走到其它村落，再從那個村落走回自己的村落，他這麼想：『我從自己的村落走到那個村落，在那裡，我這麼站，這麼坐，這麼說話，這麼沈默，再從那個村落走到那個村落，在那裡，我這麼站，這麼坐，這麼說話，這麼沈默，我再從那個村落走回自己的村落。』 {.chi}
 
@@ -5116,7 +5113,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 So anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe, ‘amutrāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ; tatrāpāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati. {.pali}
 
-He recollects his manifold past lives... in their modes and details. {.eng}
+... {.eng}
 
 他回憶起許多前世住處，即：一生、二生、三生、四生、五生、十生、二十生、三十生、四十生、五十生、百生、千生、十萬生、許多壞劫、許多成劫、許多壞成劫：『在那裡是這樣的名、這樣的姓氏、這樣的容貌、[吃]這樣的食物、這樣的苦樂感受、這樣的壽長，從那裡死後生於那裡，而在那裡又是這樣的名、這樣的姓氏、這樣的容貌、[吃]這樣的食物、這樣的苦樂感受、這樣的壽長，從那裡死後生於這裡。』像這樣，他回憶起許多前世住處有這樣的行相與境遇，  {.chi}
 
@@ -5126,7 +5123,7 @@ He recollects his manifold past lives... in their modes and details. {.eng}
 
 Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. {.pali}
 
-“This, too, great king, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime. {.eng}
+This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. {.eng}
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
@@ -5138,7 +5135,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ abhinīharati abhininnāmeti. So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti: {.pali}
 
-“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, he directs and inclines it to knowledge of the passing away and re-appearance of beings. He sees — by means of the divine eye, purified and surpassing the human — beings passing away and re-appearing, and he discerns how they are inferior and superior, beautiful and ugly, fortunate and unfortunate in accordance with their kamma: {.eng}
+When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward knowledge of the death and rebirth of sentient beings. With clairvoyance that is purified and superhuman, they see sentient beings passing away and being reborn—inferior and superior, beautiful and ugly, in a good place or a bad place. They understand how sentient beings are reborn according to their deeds: {.eng}
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的之時，他抽出心使轉向眾生死亡與往生之智，他以清淨、超越人的天眼，看見當眾生死時、往生時，在下劣、勝妙，美、醜，幸、不幸中，了知眾生依業流轉： {.chi}
 
@@ -5148,7 +5145,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 ‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṃ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā. {.pali}
 
-‘These beings — who were endowed with bad conduct of body, speech, and mind, who reviled the noble ones, held wrong views and undertook actions under the influence of wrong views — {.eng}
+‘These dear beings did bad things by way of body, speech, and mind. They spoke ill of the noble ones; they had wrong view; and they acted out of that wrong view. {.eng}
 
 『這些眾生諸君，具備身惡行、語惡行、意惡行，斥責聖者，邪見與持邪見之業行， {.chi}
 
@@ -5158,7 +5155,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 Te kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannā. {.pali}
 
-with the break-up of the body, after death, have re-appeared in the plane of deprivation, the bad destination, the lower realms, in hell. {.eng}
+When their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell. {.eng}
 
 他們以身體的崩解，死後已往生到苦界、惡趣、下界、地獄， {.chi}
 
@@ -5168,7 +5165,7 @@ with the break-up of the body, after death, have re-appeared in the plane of dep
 
 Ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā, te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā’ti. {.pali}
 
-But these beings — who were endowed with good conduct of body, speech, and mind, who did not revile the noble ones, who held right views and undertook actions under the influence of right views — with the break-up of the body, after death, have re-appeared in the good destinations, in the heavenly world.’ {.eng}
+These dear beings, however, did good things by way of body, speech, and mind. They never spoke ill of the noble ones; they had right view; and they acted out of that right view. When their body breaks up, after death, they’re reborn in a good place, a heavenly realm.’ {.eng}
 
 或者這些眾生諸君，具備身善行、語善行、意善行，不斥責聖者，正見與持正見之業行，他們以身體的崩解，死後已往生到善趣、天界。』 {.chi}
 
@@ -5178,7 +5175,7 @@ But these beings — who were endowed with good conduct of body, speech, and min
 
 Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti. {.pali}
 
-Thus — by means of the divine eye, purified and surpassing the human — he sees beings passing away and re-appearing, and he discerns how they are inferior and superior, beautiful and ugly, fortunate and unfortunate in accordance with their kamma. {.eng}
+And so, with clairvoyance that is purified and superhuman, they see sentient beings passing away and being reborn—inferior and superior, beautiful and ugly, in a good place or a bad place. They understand how sentient beings are reborn according to their deeds. {.eng}
 
 這樣，他以清淨、超越人的天眼，看見當眾生死時、往生時，在下劣、勝妙，美、醜，幸、不幸中，了知眾生依業流轉， {.chi}
 
@@ -5190,7 +5187,7 @@ Thus — by means of the divine eye, purified and surpassing the human — he se
 
 Seyyathāpi, mahārāja, majjhe siṅghāṭake pāsādo. Tattha cakkhumā puriso ṭhito passeyya manusse gehaṃ pavisantepi nikkhamantepi rathikāyapi vīthiṃ sañcarante majjhe siṅghāṭake nisinnepi. Tassa evamassa: ‘ete manussā gehaṃ pavisanti, ete nikkhamanti, ete rathikāya vīthiṃ sañcaranti, ete majjhe siṅghāṭake nisinnā’ti. {.pali}
 
-Just as if there were a tall building in the central square [of a town], and a man with good eyesight standing on top of it were to see people entering a house, leaving it, walking along the street, and sitting in the central square. The thought would occur to him, ‘These people are entering a house, leaving it, walking along the streets, and sitting in the central square.’ {.eng}
+Suppose there was a stilt longhouse at the central square. A person with clear eyes standing there might see people entering and leaving a house, walking along the streets and paths, and sitting at the central square. They’d think: ‘These are people entering and leaving a house, walking along the streets and paths, and sitting at the central square.’ {.eng}
 
 大王！猶如在十字路中央的宮殿，有眼的男子們站在那裡能看見進出家、在車道與街道來回走動、在十字路中央坐著的人們，他這麼想：『這些人進入家；這些出去；這些在車道與街道來回走動；這些坐在十字路中央。』 {.chi}
 
@@ -5200,7 +5197,7 @@ Just as if there were a tall building in the central square [of a town], and a m
 
 Evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ abhinīharati abhininnāmeti. So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti: {.pali}
 
-In the same way — with his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability — the monk directs and inclines it to knowledge of the passing away and re-appearance of beings. He sees — by means of the divine eye, purified and surpassing the human — beings passing away and re-appearing, and he discerns how they are inferior and superior, beautiful and ugly, fortunate and unfortunate in accordance with their kamma... {.eng}
+In the same way, when their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward knowledge of the death and rebirth of sentient beings. {.eng}
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的之時，他抽出心使轉向眾生死亡與往生之智，他以清淨、超越人的天眼，看見當眾生死時、往生時，在下劣、勝妙，美、醜，幸、不幸中，了知眾生依業流轉： {.chi}
 
@@ -5240,7 +5237,7 @@ Te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā’ti. 
 
 Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. {.pali}
 
-“This, too, great king, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime. {.eng}
+This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. {.eng}
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。 {.chi}
 
@@ -5252,7 +5249,7 @@ Idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhinīharati abhininnāmeti. {.pali}
 
-“With his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability, the monk directs and inclines it to the knowledge of the ending of the mental fermentations. {.eng}
+When their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward knowledge of the ending of defilements. {.eng}
 
 當那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的之時，他抽出心使轉向煩惱之滅盡智。 {.chi}
 
@@ -5262,7 +5259,7 @@ So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese m
 
 So idaṃ dukkhanti yathābhūtaṃ pajānāti, ayaṃ dukkhasamudayoti yathābhūtaṃ pajānāti, ayaṃ dukkhanirodhoti yathābhūtaṃ pajānāti, ayaṃ dukkhanirodhagāminī paṭipadāti yathābhūtaṃ pajānāti. Ime āsavāti yathābhūtaṃ pajānāti, ayaṃ āsavasamudayoti yathābhūtaṃ pajānāti, ayaṃ āsavanirodhoti yathābhūtaṃ pajānāti, ayaṃ āsavanirodhagāminī paṭipadāti yathābhūtaṃ pajānāti. {.pali}
 
-He discerns, as it has come to be, that ‘This is stress... This is the origination of stress... This is the cessation of stress... This is the way leading to the cessation of stress... These are mental fermentations... This is the origination of fermentations... This is the cessation of fermentations... This is the way leading to the cessation of fermentations.’ {.eng}
+They truly understand: ‘This is suffering’ ... ‘This is the origin of suffering’ ... ‘This is the cessation of suffering’ ... ‘This is the practice that leads to the cessation of suffering’.  They truly understand: ‘These are defilements’ ... ‘This is the origin of defilements’ ... ‘This is the cessation of defilements’ ... ‘This is the practice that leads to the cessation of defilements’. {.eng}
 
 他如實了知：『這是苦。』如實了知：『這是苦集。』如實了知：『這是苦滅。』如實了知：『這是導向苦滅道跡。』如實了知：『這些是煩惱。』如實了知：『這是煩惱集。』如實了知：『這是煩惱滅。』如實了知：『這是導向煩惱滅道跡。』 {.chi}
 
@@ -5272,7 +5269,7 @@ He discerns, as it has come to be, that ‘This is stress... This is the origina
 
 Tassa evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccati, bhavāsavāpi cittaṃ vimuccati, avijjāsavāpi cittaṃ vimuccati, vimuttasmiṃ ‘vimuttam’iti ñāṇaṃ hoti, ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti. {.pali}
 
-His heart, thus knowing, thus seeing, is released from the fermentation of sensuality, the fermentation of becoming, the fermentation of ignorance. With release, there is the knowledge, ‘Released.’ He discerns that ‘Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.’ {.eng}
+Knowing and seeing like this, their mind is freed from the defilements of sensuality, desire to be reborn, and ignorance. When they’re freed, they know they’re freed. They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is no return to any state of existence.’ {.eng}
 
 當他這麼知、這麼見時，心從欲的煩惱解脫，心從有的煩惱解脫，心從無明的煩惱解脫。當解脫時，有『[這是]解脫』之智，他了知：『出生已盡，梵行已完成，應該作的已作，不再有這樣[輪迴]的狀態了。』 {.chi}
 
@@ -5284,7 +5281,7 @@ His heart, thus knowing, thus seeing, is released from the fermentation of sensu
 
 Seyyathāpi, mahārāja, pabbatasaṅkhepe udakarahado accho vippasanno anāvilo. Tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakathalampi macchagumbampi carantampi tiṭṭhantampi. Tassa evamassa: ‘ayaṃ kho udakarahado accho vippasanno anāvilo. Tatrime sippisambukāpi sakkharakathalāpi macchagumbāpi carantipi tiṭṭhantipī’ti. {.pali}
 
-Just as if there were a pool of water in a mountain glen — clear, limpid, and unsullied — where a man with good eyesight standing on the bank could see shells, gravel, and pebbles, and also shoals of fish swimming about and resting, and it would occur to him, ‘This pool of water is clear, limpid, and unsullied. Here are these shells, gravel, and pebbles, and also these shoals of fish swimming about and resting.’ {.eng}
+Suppose that in a mountain glen there was a lake that was transparent, clear, and unclouded. A person with clear eyes standing on the bank would see the clams and mussels, and pebbles and gravel, and schools of fish swimming about or staying still. They’d think: ‘This lake is transparent, clear, and unclouded. And here are the clams and mussels, and pebbles and gravel, and schools of fish swimming about or staying still.’ {.eng}
 
 大王！猶如峽谷中的水池清澈、清淨、不濁，在那裡，有眼的男子站在岸邊能看見牡蠣、貝類、砂礫、小石、魚群悠游與停止，他這麼想：『這水池清澈、清淨、不濁，在那裡，有這些牡蠣、貝類、砂礫、小石、魚群悠游與停止。』 {.chi}
 
@@ -5294,7 +5291,7 @@ Just as if there were a pool of water in a mountain glen — clear, limpid, and 
 
 Evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhinīharati abhininnāmeti. {.pali}
 
-In the same way — with his mind thus concentrated, purified, and bright, unblemished, free from defects, pliant, malleable, steady, and attained to imperturbability — the monk directs and inclines it to the knowledge of the ending of the mental fermentations. {.eng}
+In the same way, when their mind has become immersed in samādhi like this—purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable—they project it and extend it toward knowledge of the ending of defilements. {.eng}
 
 同樣的，大王！當比丘那個心是這樣入定的、遍淨的、淨化的、無穢的、離隨雜染的、可塑的、適合作業的、住立的、到達不動的時，他抽出心使轉向煩惱之滅盡智。 {.chi}
 
@@ -5304,7 +5301,7 @@ In the same way — with his mind thus concentrated, purified, and bright, unble
 
 ‘So idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. ‘Ime āsavā’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. {.pali}
 
-He discerns, as it has come to be, that ‘This is stress... This is the origination of stress... This is the cessation of stress... This is the way leading to the cessation of stress... These are mental fermentations... This is the origination of fermentations... This is the cessation of fermentations... This is the way leading to the cessation of fermentations.’ {.eng}
+... {.eng}
 
 他如實了知：『這是苦。』如實了知：『這是苦集。』如實了知：『這是苦滅。』如實了知：『這是導向苦滅道跡。』如實了知：『這些是煩惱。』如實了知：『這是煩惱集。』如實了知：『這是煩惱滅。』如實了知：『這是導向煩惱滅道跡。』 {.chi}
 
@@ -5314,7 +5311,7 @@ He discerns, as it has come to be, that ‘This is stress... This is the origina
 
 Tassa evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccati, bhavāsavāpi cittaṃ vimuccati, avijjāsavāpi cittaṃ vimuccati, vimuttasmiṃ ‘vimuttam’iti ñāṇaṃ hoti, ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti. {.pali}
 
-His heart, thus knowing, thus seeing, is released from the fermentation of sensuality, the fermentation of becoming, the fermentation of ignorance. With release, there is the knowledge, ‘Released.’ He discerns that ‘Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.’ {.eng}
+... {.eng}
 
 當他這麼知、這麼見時，心從欲的煩惱解脫，心從有的煩惱解脫，心從無明的煩惱解脫。當解脫時，有『[這是]解脫』之智，他了知：『出生已盡，梵行已完成，應該作的已作，不再有這樣[輪迴]的狀態了。』 {.chi}
 
@@ -5324,7 +5321,7 @@ His heart, thus knowing, thus seeing, is released from the fermentation of sensu
 
 Idaṃ kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. Imasmā ca pana, mahārāja, sandiṭṭhikā sāmaññaphalā aññaṃ sandiṭṭhikaṃ sāmaññaphalaṃ uttaritaraṃ vā paṇītataraṃ vā natthī”ti. {.pali}
 
-“This, too, great king, is a fruit of the contemplative life, visible here and now, more excellent than the previous ones and more sublime. And as for another visible fruit of the contemplative life, higher and more sublime than this, there is none.” {.eng}
+This too, great king, is a fruit of the ascetic life that’s apparent in the present life which is better and finer than the former ones. And, great king, there is no other fruit of the ascetic life apparent in the present life which is better and finer than this.” {.eng}
 
 大王！這是比直接可見的沙門果更卓越、更勝妙之直接可見的沙門果。而，大王！這是直接可見的沙門果，沒有其他更優勝或更勝妙直接可見的沙門果了。」 {.chi}
 
@@ -5336,7 +5333,7 @@ Idaṃ kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭ�
 
 Evaṃ vutte, rājā māgadho ajātasattu vedehiputto bhagavantaṃ etadavoca: {.pali}
 
-When this was said, King Ajatasattu said to the Blessed One: {.eng}
+When the Buddha had spoken, King Ajātasattu said to him, {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子對世尊這麼說： {.chi}
 
@@ -5346,7 +5343,7 @@ When this was said, King Ajatasattu said to the Blessed One: {.eng}
 
 “abhikkantaṃ, bhante, abhikkantaṃ, bhante. Seyyathāpi, bhante, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ, bhante, bhagavatā anekapariyāyena dhammo pakāsito. Esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. {.pali}
 
-“Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One — through many lines of reasoning — made the Dhamma clear. I go to the Blessed One for refuge, to the Dhamma, and to the community of monks. May the Blessed One remember me as a lay follower who has gone to him for refuge, from this day forward, for life. {.eng}
+“Excellent, sir! Excellent! As if he were righting the overturned, or revealing the hidden, or pointing out the path to the lost, or lighting a lamp in the dark so people with clear eyes can see what’s there, the Buddha has made the teaching clear in many ways. I go for refuge to the Buddha, to the teaching, and to the mendicant Saṅgha. From this day forth, may the Buddha remember me as a lay follower who has gone for refuge for life. {.eng}
 
 「太偉大了，大德！太偉大了，大德！大德！猶如能扶正顛倒的，能顯現被隱藏的，能告知迷途者的路，能在黑暗中持燈火：『有眼者看得見諸色』。同樣的，大德！法被世尊以種種法門說明，我歸依世尊、法、比丘僧團，請世尊記得我為優婆塞，從今天起終生歸依。 {.chi}
 
@@ -5356,7 +5353,7 @@ When this was said, King Ajatasattu said to the Blessed One: {.eng}
 
 Upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gataṃ. Accayo maṃ, bhante, accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ, yohaṃ pitaraṃ dhammikaṃ dhammarājānaṃ issariyakāraṇā jīvitā voropesiṃ. Tassa me, bhante bhagavā, accayaṃ accayato paṭiggaṇhātu āyatiṃ saṃvarāyā”ti. {.pali}
 
-“A transgression has overcome me, lord, in that I was so foolish, so muddle-headed, and so unskilled as to kill my father — a righteous man, a righteous king — for the sake of sovereign rulership. May the Blessed One please accept this confession of my transgression as such, so that I may restrain myself in the future.” {.eng}
+I have made a mistake, sir. It was foolish, stupid, and unskillful of me to take the life of my father, a just and principled king, for the sake of authority. Please, sir, accept my mistake for what it is, so I will restrain myself in future.” {.eng}
 
 大德！我犯了過錯，如愚、如癡、如不善：我因統治權而奪取如法的如法國王之父親的生命，大德！為了未來的自制，請世尊原諒我那樣的罪過為罪過。」 {.chi}
 
@@ -5368,7 +5365,7 @@ Upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gataṃ
 
 “Taggha tvaṃ, mahārāja, accayo accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ, yaṃ tvaṃ pitaraṃ dhammikaṃ dhammarājānaṃ jīvitā voropesi. Yato ca kho tvaṃ, mahārāja, accayaṃ accayato disvā yathādhammaṃ paṭikarosi, taṃ te mayaṃ paṭiggaṇhāma. Vuddhihesā, mahārāja, ariyassa vinaye, yo accayaṃ accayato disvā yathādhammaṃ paṭikaroti, āyatiṃ saṃvaraṃ āpajjatī”ti. {.pali}
 
-“Yes, great king, a transgression overcame you in that you were so foolish, so muddle-headed, and so unskilled as to kill your father — a righteous man, a righteous king — for the sake of sovereign rulership. But because you see your transgression as such and make amends in accordance with the Dhamma, we accept your confession. For it is a cause of growth in the Dhamma & Discipline of the noble ones when, seeing a transgression as such, one makes amends in accordance with the Dhamma and exercises restraint in the future.” {.eng}
+“Indeed, great king, you made a mistake. It was foolish, stupid, and unskillful of you to take the life of your father, a just and principled king, for the sake of sovereignty. But since you have recognized your mistake for what it is, and have dealt with it properly, I accept it. For it is growth in the training of the Noble One to recognize a mistake for what it is, deal with it properly, and commit to restraint in the future.” {.eng}
 
 「大王！你確實犯了過錯，如愚、如癡、如不善：你因統治權而奪取如法的如法國王之父親的生命。但，大王！由於你對罪過見到是罪過後如法懺悔，我們原諒你。大王！凡對罪過見到是罪過後如法懺悔者，未來做到自制，在聖者之律中，這是增長。」 {.chi}
 
@@ -5380,7 +5377,7 @@ Upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gataṃ
 
 Evaṃ vutte, rājā māgadho ajātasattu vedehiputto bhagavantaṃ etadavoca: {.pali}
 
-When this was said, King Ajatasattu said to the Blessed One: {.eng}
+When the Buddha had spoken, King Ajātasattu said to him, {.eng}
 
 當這麼說時，摩揭陀國阿闍世王韋提希子對世尊這麼說： {.chi}
 
@@ -5390,7 +5387,7 @@ When this was said, King Ajatasattu said to the Blessed One: {.eng}
 
 “handa ca dāni mayaṃ, bhante, gacchāma bahukiccā mayaṃ bahukaraṇīyā”ti. {.pali}
 
-“Well, then, lord, I am now taking leave. Many are my duties, many my responsibilities.” {.eng}
+“Well, now, sir, I must go. I have many duties, and much to do.” {.eng}
 
 「好了，大德！現在我們要走了，我們很忙，有很多該做的事。」 {.chi}
 
@@ -5400,7 +5397,7 @@ When this was said, King Ajatasattu said to the Blessed One: {.eng}
 
 “Yassadāni tvaṃ, mahārāja, kālaṃ maññasī”ti. {.pali}
 
-“Then do, great king, what you think it is now time to do.” {.eng}
+“Please, great king, go at your convenience.” {.eng}
 
 「大王！現在，你考量適當的時間吧。」 {.chi}
 
@@ -5410,7 +5407,7 @@ When this was said, King Ajatasattu said to the Blessed One: {.eng}
 
 Atha kho rājā māgadho ajātasattu vedehiputto bhagavato bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi. {.pali}
 
-So King Ajatasattu, delighting and rejoicing in the Blessed One‘s words, rose from his seat, bowed down to him, and — after circumambulating him — left. {.eng}
+Then the king, having approved and agreed with what the Buddha said, got up from his seat, bowed, and respectfully circled him, keeping him on his right, before leaving. {.eng}
 
 那時，摩揭陀國阿闍世王韋提希子歡喜、隨喜世尊所說後，起座向世尊問訊，然後作右繞，接著離開。 {.chi}
 
@@ -5422,7 +5419,7 @@ So King Ajatasattu, delighting and rejoicing in the Blessed One‘s words, rose 
 
 Atha kho bhagavā acirapakkantassa rañño māgadhassa ajātasattussa vedehiputtassa bhikkhū āmantesi: {.pali}
 
-Not long after King Ajatasattu had left, the Blessed One addressed the monks: {.eng}
+Soon after the king had left, the Buddha addressed the mendicants, {.eng}
 
 那時，當摩揭陀國阿闍世王韋提希子離去不久時，世尊召喚比丘們： {.chi}
 
@@ -5432,7 +5429,7 @@ Not long after King Ajatasattu had left, the Blessed One addressed the monks: {.
 
 “khatāyaṃ, bhikkhave, rājā. Upahatāyaṃ, bhikkhave, rājā. Sacāyaṃ, bhikkhave, rājā pitaraṃ dhammikaṃ dhammarājānaṃ jīvitā na voropessatha, imasmiññeva āsane virajaṃ vītamalaṃ dhammacakkhuṃ uppajjissathā”ti. {.pali}
 
-“The king is wounded, monks. The king is incapacitated. Had he not killed his father — that righteous man, that righteous king — the dustless, stainless Dhamma eye would have arisen to him as he sat in this very seat.” {.eng}
+“The king is broken, mendicants, he is ruined. If he had not taken the life of his father, a just and principled king, the stainless, immaculate vision of the Dhamma would have arisen in him in that very seat.” {.eng}
 
 「比丘們！國王被傷害了，比丘們！國王被損害了，比丘們！如果國王沒奪取如法的如法國王之父親的生命，就在這座位上，他將生起遠塵、離垢之法眼。」 {.chi}
 
@@ -5442,7 +5439,7 @@ Not long after King Ajatasattu had left, the Blessed One addressed the monks: {.
 
 Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti. {.pali}
 
-That is what the Blessed One said. Gratified, the monks delighted in the Blessed One‘s words. {.eng}
+That is what the Buddha said. Satisfied, the mendicants approved what the Buddha said. {.eng}
 
 這就是世尊所說，那些悅意的比丘歡喜世尊所說。 {.chi}
 
