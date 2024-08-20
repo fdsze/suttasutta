@@ -90,11 +90,11 @@ The Buddha explains that the concept of a self comes from the process of percept
 
 ---
 
-### [MN20 Vitakkasaṇṭhāna-Sutta – The Removal of Distracting Thoughts – 中部二十 想念止息經](/mn20)
+### [MN20 Vitakkasaṇṭhāna-Sutta – The Removal of Distracting Thoughts – 中部二十 尋之止息經 – 覺止息經](/mn20)
 
-The Buddha describes five levels of technique to stop unwholesome thoughts.
+In a practical meditation teaching, the Buddha describes five different approaches to stopping thoughts.
 
-佛陀描述以五個層次的技巧來停止不善念。
+在一次實用教學中，佛陀描述了五個不同技巧來停止念頭。
 
 ---
 
